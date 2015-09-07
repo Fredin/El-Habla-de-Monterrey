@@ -1,0 +1,672 @@
+﻿<Trans audio_filename = “MONR_H23_HMP065.MP3” xml:lang = “español”>
+<Datos clave_texto = “MONR_H23_HMP065” tipo_texto = “entrevista_semidirigida”/>
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” pais= “México”/> 
+<Grabacion resp_grab = “Daniel Jaime Rodríguez Macías” lugar = “desconocido” duracion = “35´24´´” fecha_grab = “2007-11-13“ sistema = “MP3”/>
+<Transcripcion resp_trans = “José Josimar Pulido Hernández” fecha_trans = “2008-04-18” numero_palabras = “5549”/> 
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2008-10-09”/>
+<Revision num_rev = “2” resp_rev = “Verónica Saavedra Salas” fecha_rev = “2010-07-09”/>
+<Revision num_rev = “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-07-21”/> 
+<Revision num_rev = “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-08-02”/>
+<Revision num_rev = ”5” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-11-14/></
+ </Datos>
+
+<Hablantes>
+<Hablante id= “hab1” nombre= “Alberto Salvador Torres Ayala” codigo_hab = “I” sexo = “hombre” grupo_edad= “2” edad= “35” nivel_edu = “3” estudios= “Licenciatura en diseño gráfico y Diplomado en Foto Profesional" profesion = “empresario" origen = “Durango" papel = “informante"/>
+<Hablante id = “hab2" nombre = “Daniel Jaime Rodríguez Macías" codigo_hab = “E" sexo = “hombre" grupo_edad = “2" edad = “30" nivel_edu = “3" estudios = “Licenciatura en Letras Españolas” profesion = “Fotógrafo y Maestro de Licenciatura" origen = “Monterrey" papel = “entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos"/></Hablantes> </Trans>
+
+
+E: okay / qué bueno está saludarlo
+
+I: bien / buenos días
+
+E: eh // ¿qué / a qué te dedicas?
+
+I: e / pos dirijo un / un negocio / que / se dedica la producción gráfica y al diseño
+
+E: mjm
+
+I: este / básicamente un buró / de / servicios gráficos / o un despacho de diseños
+
+E: sí / y este y ¿cómo es un día para / para ti? / eh así / desde que empiezan o sea
+
+I: eh / bastante / ajetreadón / este / porque como no somos una agencia de publicidad propiamente sino un / un despacho de diseño / nosotros mismos tenemos que hacer muchas cosas / entonces tanto como / visitar clientes / eh / supervisar la producción de algunas cosas / o sea / hay muchas vueltas que hacer a imprentas / a / a recoger materiales / a entregar con los clientes / luego regresar / diseñar / hacer dirección de arte / o sea / sí esta medio ajetreadón
+
+E: y cómo / cómo es <vacilación/> / o sea yo no conozco nada de / de diseños cómo es / ¿qué haces para diseñar o cómo es?
+
+I: pos / el / el diseño tiene un proceso / un proceso creativo que / que empieza desde que revisas qué es lo que necesita el cliente / te da algunos tips de / de más o menos / qué gustos tiene ¿no? / o qué inclinaciones tiene en cuanto a / preferencias de color o formas / o tendencias ¿no? / pero / ya el aspecto creativo pues es / ése / sí es trabajo / propio / y tiene que ver a lo mejor con investigar un poquito / del / lo que se trata el trabajo / de lo que el cliente quiere / ver a la competencia qué es lo que está haciendo qué es lo que / ha hecho / qué es lo que no se ha hecho / para no sacar el producto muy parecido o igual / es / o que se / o que se pueda entender como / que te lo fusilaste / este / muchos de los servicios de nosotros tiene que ver con eso ¿no? con ideas 
+
+E: ¿y trabajan en equipo / o individualmente?
+
+I: <tiempo = “02:07”/> sí no no normalmente / este un proyecto lo desarrollamos entre dos o más personas / nos rebotamos las ideas para tratar de que salga lo más pulido posible ¿no? / este / generalmente una sola persona no pude encargarse de un solo proceso creativo / e / sin que / tenga que / revisarlo con otro gentes que no estén viciadas con el proyecto / que no estén / con antecedentes del mismo 
+
+E: así es / este / ¿has vivido aquí en Monterrey siempre?
+
+I: no / no / tengo / en Monterrey como / diecisiete años
+
+E: diecisiete años / este / ¿cuántos años tienes?
+
+I: treinta y cinco 
+
+E: este / ¿y antes dónde vivías?
+
+I: en Durango
+
+E: Durango / este / ¿y todavía tienes familiares allá?
+
+I: sí / sí sí sí
+
+E: ¿cómo / cómo era allá donde vivías en Durango?
+
+I: pues es / es una / es una ciudad / pequeña / es un / es un municipio fuera del área metropolitana de Durango pero tiene / este / pos una / población / no tan / no tan / grande como una ciudad / este // e / digamos que pude ser un pueblo muy grande o una ciudad muy chiquita ¿no? 
+
+E: así es
+
+I: este / y / pos la vida es muy tranquila ¿no? / generalmente cuando ya te acostumbras al / ritmo de la ciudad / y regresas de visita dices oye qué / tranquilidad <risas = “todos” /> ¿no? / pero / pero pos así se vive ¿no? afuera de / de las grandes urbes 
+E: así es / ¿y cómo / cómo era la colonia donde vivías / las casas?
+
+I: pues / generalmente / es una zona de desértica / las casas están construidas con adobe / con ladrillo / e / casi no se empleaba el block en mi época ¿no? / orita ya este / cuando yo era niño casi todas las casas eran / eran de adobe / e / muy pocas calles con pavimento / e / la mayoría / de las calles son / de terracería / este banquetas eso sí / normalmente / algunas casas / muy grandes con patios bastante grandes tenían / este animales ahí mismo / pos era / era muy común ver / a lo mejor en las mañanas que se fueran / saliera un / un perro con / con unas vacas ¿no? a / a llevárselas / este / a pastar y en la tarde regresaba / este / ésas / es muy pintoresco / el / la vida en / en los pueblos de / de fuera de la ciudad 
+
+E: ¿y aquí / en qué lugar vives?
+
+I: aquí en el centro
+
+E: en el centro
+
+I: sí / en unos departamentos
+
+E: me podías describir un poco el lugar / donde vives
+
+I: el lugar es bastante / saturado / este/ estoy en el centro por comodidad no por / no porque / me guste estar apretujado ¿no? pero la vida en los departamentos es / siempre estás oyendo al vecino / e / el ruido pos es / constante / día y noche / e / pasan coches / se oyen claxons / se oyen ambulancias / entonces / es bastante estresante la vida dentro del centro de la ciudad 
+
+E: pero es muy cómodo para desplazarse
+
+I: sí / claro / claro o sea tienes todo muy cerca / no tienes que pensarla para ir / algún lado porque / generalmente te queda / más o menos cerca todo ¿no?
+
+E: m / este / oye ¿y amigos de / de tu infancia que se han venido para acá para Monterrey / tienes / todavía la amistad / de alguien?
+
+I: m / pues / no / no aquí pero sí los frecuento con cierta regularidad / yo viajo / pos una o dos veces al año a / a / a Durango / y / los sigo viendo / pos como nos veíamos desde chavos ¿no? / este / aquí he hecho muchos amigos también y / y es / sí este / son muy / de / arrimarme con la gente que / que quiero no / y ellos también conmigo 
+
+E: <tiempo = “06:10”/> así es / ¿y cómo es una reunión / allá en Durango? / ¿qué hacen? / ¿es igual que aquí que / las cervezas / la carnita?
+
+I: pues no aquí / aquí para / cualquier pretexto es bueno para hacer una carne asada / allá no tanto así / este / pero pues sí la / la / la / en las reuniones siempre hay unas chelas o / o algo más fuerte ¿no? porque por la / situación climatológica / la cerveza no creas que tiene tanto éxito como acá / allá se usa mucho más un tequila / o un brandy o un ron / este que / que salir y comprar chelas ¿no? sobre todo cuando / cuando hace frío
+
+E: así es / este // y a ¿y aquí / pero tienen alguna costumbre que hagan o / entre / tus amistades?
+
+I: sí / se acostumbra mucho / en cierta época del año cuando hay cosecha / hacer unas fogatas y poner a / a / quemar unos elotes / y / y con un / buen que es o / acompañarlos / este / con rebanadas de queso / y / y eso sí / las chelas o / o lo que / lo que haya que tomar ¿no? / pero eso es como que / allá las llaman elotadas / hacer una elotada es algo tan común como aquí hacer una 
+
+E: una carne asada 
+
+I: una carne asada siempre y cuando / sea época de elotes ¿no? / porque no siempre hay 
+
+E: así es / este / ¿y conservas eh alguna costumbre de allá de Durango aquí mismo? 
+
+I: pues más que costumbre el gusto por ciertas cosas no cuando / cuando yo voy o / o alguien de mi familia se da la vuelta / siempre le estoy encargando queso o / comida de / de allá ¿no? / este / no tanto conservar costumbres pero sí el gusto por / por ciertas cosas 
+
+E: mjm / ¿que comidas acostumbran allá?
+
+I: m / mucho / los frijoles / bayos o pintos / e / hay unas comidas muy específicas para / para la semana santa / e / hay / allá se le llama reliquia es una mezcla de diversas sopas / y / y carne / e / en chile rojo / e / el arroz cocinado de cierta manera y unos frijoles gigantes que se llaman alubias / o que / que parecen habas / que / son frijoles
+
+E: eh
+
+I: este / muy ricos / es algo muy / muy característico de allá / m m / el maíz quebrado / e / que se llama / allá se llama choales aquí no recuerdo como se le llama / también lo hay pero / muy / mucho más poco / menos / menos frecuente encontrarlo
+
+E: sí / aquí creo que / yo lo he oído como chicales 
+
+I: mjm / ándale / sí debe ser lo mismo / debe ser lo mismo pero / pos allá / cuando hay temporada de maíz / y que hay elotadas y todo eso / nunca / dejas de ver en los patios / de las casas el maíz después de que se coció / lo ponen a secar / aparte de lo que se va a consumir / siempre hay / este / tendederos con maíz / secándose al sol / y dura / pos desde la época de la cosecha / hasta la semana santa ¿no? / que es cuando se / se desgrana y se / y se mete a un molino a quebrar / a ser lo que / aquí se llama chicales 
+
+E: este / ¿y celebran navidad y cuaresma en tu casa?
+
+I: sí / como / yo creo que como en / la gran / gran parte del país con ciertas / diferencias pero / sí la / la cuaresma es / como / como el de / como en todos los católicos no / este / y / y la población es mayormente católica así es que / eso es de / de rigor / y la navidad pos obviamente / se destina normalmente una de las fechas para pasártela con tus cuates y otra para / para pasártela en familia ¿no? / ya sea navidad o año nuevo / ahí te la / te la repartes 
+
+E: así es / pero tu familia ¿qué / qué es lo que hacen así en navidad?
+
+I: <tiempo = “10:06”/> pos se hace una buena cena con / a lo mejor pocas carnes / este / se / se acostumbra / no tanto el pavo como / como más acá / más pegado a Estados Unidos no / sino / cosas más como / una pierna de cerdo / este / mismos tamales / e / muy diferentes a los tamales de aquí pero / pero / pero muy buenos
+
+E: ¿qué de diferente tienen / los tamales? 
+
+I: pues el contenido  / el tamaño / son unos tamales que con / dos tamales o tres estás / estás servido / se hacen en hoja de maíz como los aquí pero los de aquí parecen más bien como / como flautas ¿no? / están muy delgaditos muy chiquitos
+
+E: pero no son e / los tamales / tipo / de la Huasteca potosina que / llevan un pollo adentro
+
+I: no no no no / son tamales / de este / normales pero de buen tamaño / a lo mejor no con / no / te vas a encontrar de frijoles o / o de que es o / pero sí de / de // de pollo de / puerco / pero muy / muy bien servidos 
+
+E: ¿y tú sabes cocinar / a algún platillo?
+
+I: pues / estando allá no aprendí mucho porque yo salí / de allá cuando terminé la prepa
+
+E: mjm
+
+I: entonces / era una / tus intereses eran otros / ya que te / ya que vas creciendo / este / yo he aprendido a cocinar algunas cosas ya estando acá en Monterrey
+
+E: ah ¿cuál es tu especialidad?
+
+I: m / hay unas papas que / que han ganado concurso ahí entre la raza <observación_complementaria = “gente” /> / este / que las inventó un cuate y / y / ahí le eché / de mi sazón y quedaron muy chicas / unas papas / a / cocidas / a la mantequilla 
+
+E: ¿cómo? / pero cómo es el proceso que 
+
+I: pues / las pones / pones un / chingazo <observación_complementaria = “montón, una buena cantidad”/> de mantequilla como / no sé como // como medio bote / en / este en una cazuela de barro / y pones a cocer ahí las papas 
+
+E: en pura mantequilla 
+
+I: <tiempo = “12:04”/> en pura mantequilla un buen rato / este ya que están medio cocidas / se le agrega una salsa de / cilantro / tomate verde / e / creo que lleva un poco apio / y algunas cosas ahí de olor / y de / especies / y las dejas ahora sí destapadas para que / se deshidrate la salsa / y es todo / es muy práctico pero queda / es como una botana cantinera / pero queda muy chida 
+
+E: ah muy bien / este / oye ¿alguna vez has estado en peligro de muerte?
+
+I: sí / sí dos o tres veces
+
+E: ¿y me lo puedes platicar? 
+
+I: eh / pos una la que más me acuerdo / e / en la carretera / que precisamente en Durango yendo a / a Durango / a una velocidad no demasiada alta // yo creo que iba como a unos ciento veinte / ciento cuarenta / pero / e n / ya en la carretera para llegar a Durango sí cuenta con algunos cerros y / lomas y / y bajadas bastante pronunciadas / y en una de ésas / en una bajada que hacia curva / que no ves lo que sigue / este jun- / justo en la / en el columpio de la curva / iba un tractor con / dos sembradoras de cada lado / con / la mitad del cuerpo afuera / pero la otra mitad ocupando todo el carril donde yo iba 
+
+E: m 
+
+I: y del lado / de / de allá para acá venía un camión / entonces / yo no había / no tenía para dónde hacerme / y a la velocidad que iba tampoco me iba a parar entonces / lo que hice fue salirme de la carretera / rebasar ese / ese / ese tractor / por la derecha / que eran bastantes / <risas= “I”/> bastante lejos de la carretera / y volver a incorporarme 
+
+E: ah
+
+I: pero sí estuvo como que / gracias a dios iba yo solo y no pasó nada
+
+E: sí porque / el peligro de volcadura y
+
+I: no y de que / tú te ensartas con esos fierros y / ahí quedas o sea / es / era un tractor bastante grande / y / y / más o menos / una sembradora tiene de ancho como unos / cuatro / cinco metros / era para / como para cuatro / cinco surcos de / de / porque traía unos botes encima que es donde lleva la semilla 
+
+E: ¡ajá!
+
+I: iba cargado / iba / a trabajar / pero como que tampoco había ahí donde salirse / entonces se subió / para pasar esa curva / ahí sí la vi cercas 
+
+E: <risas= “E”/> ándale / ¿y qué otra así tienes?
+
+I: pos estar ahí estar en el lugar equivocado no cuando / hay una balacera o / ese tipo de cosas no / que tienes que / correr por / por piernas o / esconderte
+
+E: ¿allá en Durango o aquí? 
+
+I: no ésa es aquí / fue aquí en una / en un / ahí enfrente de / de donde vivo en una cantina / este / normal íbamos a escuchar rock a un a / a una / a una banda de rock de / de / señores ya grandesones / y este / algún idiota ahí se / se empezó a pelear con otro y sacó la pistola y empezó a tirar <risas= “I”/> 
+
+E: <tiempo = “15:02”/> ah / este // oye ¿alguna / anécdota que me quieras contar? que haya sido / muy importante en tu vida / algo que / te haya cambiado 
+
+I: pos / últimamente el ser papá me ha cambiado mucho 
+
+E: ¿hace cuánto fuiste papá?
+
+I: hace tres meses
+
+E: ah
+
+I: o sea yo creo que estoy todavía en el proceso de creérmela / y de / y de asentarme no de / de / de / cómo que ver a / a / al interior y decir ya eres papá / ya / ya pórtate diferente ¿no? / no tanto porque / te frenes / o te frenen / sino porque ya no / no solamente tienes que cuidar tu integridad por ti mismo / sino porque ya le haces
+
+E: ah
+
+I: falta a alguien más // entonces sí es como que / estoy en ese proceso / creo que el ser papá es / es lo mejor que me ha pasado
+
+E: así es / siempre / uno cuando no es papá y dicen / eh / vas a ver cuando seas papá y uno no les hace caso / aquí fue / lo mismo ya te das cuenta y
+
+I: sí / sí sí 
+
+E: oye ¿y antes trabajas en alguna otra parte o siempre aquí en este negocio? 
+
+I: <tiempo = “16:10”/> no no siempre / siempre he estado buscándole / desde que / salí de mi / de mi lugar de origen / me vine a / a estudiar / en / pasó / pasé un año sin poder / entrar a la escuela por / cuestiones de tiempo de que llegué tarde a las inscripciones y todo eso / me quede un año trabajando desde / una vulcanizadora / que son unas chingas de perro <risas = I”/> / este / luego entre / a trabajar a / a una tienda departamental / pero en el área de recibo / cargando y descargando camiones y esas cosas / este luego ya / me metí a la escuela y seguí con ese trabajo hasta donde pude luego // me quedé ahí mismo pero ya no iba todos los días / iba los fines de semana nada más / este / ya saliendo de eso me puse a trabajar en / ya en lo que / en lo / en algo que tenía que ver con mi carrera no / acabando de salir / mientras yo estaba estudiando otra cosa / estudié fotografía aparte de diseño / ya estaba trabajando en un / en un lugar donde hacen / artículos promocionales / 
+
+E: y
+
+I: después en un buró / en un buró de / servicios gráficos / ahí como empleado / ahí sí aprendí muchísimo / y / y ya / finalmente / este / nos aventamos a poner el / el negocio
+
+E: y te va mucho mejor ¿verdad? 
+
+I: pues sí / sí sí / tiene sus altas y bajas como todo pero / e / me va mejor en / en mis tiempos yo me acomodo / yo // no tengo que llegar a una hora ni tengo / ni / ni tengo que irme a otra / a veces me va peor en ese aspecto / tengo que estar aquí <risa= “I”/> / bien tarde trabajando / pero pos sabes que / que eso te va a redituar ¿no? / y no como si estuvieras en / en una empresa
+
+E: ¿y hace cuánto que pusiste este negocio?
+
+I: el negocio cumple este mes / nueve años 
+
+E: <tiempo = “18:04”/> este vamos a pasar a un cuestionario ¿cuál es tu nombre completo?
+
+I: _______ ________ // ______ _____
+
+E: ¿edad?
+
+I: treinta y cinco
+
+E: ¿estado civil?
+
+I: felizmente / arrejuntado 
+
+E: ése es / tu estado civil / o así lo pongo
+
+I: este / es concubinato porque ya tengo
+
+E: ah
+
+I: un buen rato de / de hacerle a eso <risas= “I”>
+
+E: eh / ¿tu dirección?
+
+I: es e l / los Condominios Constitución en el edificio treinta / departamento cinco
+
+E: ¿es Centro? / o es / es otra colonia
+
+I: es Centro 
+
+E: ¿teléfono?
+
+I: ochenta y seis / setenta y seis / setenta y siete / cuarenta y tres
+
+E: e / ¿tienes alguna religión?
+
+I: e / católico de / hocicón nada más 
+
+E: <risas= “E”/> e / eres de Durango ¿verdad?
+
+I: así es
+
+E: allá eras estudiante ¿verdad?
+
+I: sí / sí sí 
+
+E: viviste diecisiete años ¿verdá? allá en / Durango o
+
+I: no / aquí 
+
+E: aquí viviste
+
+I: aquí tengo más o menos eso 
+
+E: allá en 
+
+I: allá / allá a los / más o menos a los dieciocho salí
+
+E: okay ¿y en alguna otra parte has vivido / o nomás aquí? 
+
+I: m / no / no / vivir como tal / asentarme / nada más allá y aquí
+
+E: e / ¿tu papá / es de allá de Durango?
+
+I: así es
+
+E: <tiempo = “20:14”/> ¿tú mamá?
+
+I: también 
+
+E: ¿tu abuelo paterno?
+
+I: también 
+
+E: ¿tu abuela paterna?
+
+I: también es de Durango 
+
+E: ¿tu abuelo materno?
+
+I: no estoy sieguro si es de Durango o de Zacatecas / pero de por ahí / también 
+
+E: ¿y tu abuela materna?
+
+I: también de Durango 
+
+E: este / ¿había escuelas / ahí donde vivías?
+
+I: sí
+
+E: todo los servicios
+
+I: sí sí 
+
+E: comunicación y transporte llevas entre seis y veinte años viviendo aquí 
+
+I: mjm 
+
+E: te viniste a vivir por / educación / o por
+
+I: así es
+
+E: <tiempo = “21:22”/> ¿tienes alguna / afición o pasatiempo?
+
+I: m / a la fotografía
+
+E: e / ¿vas al cine?
+
+I: no con mucha regularidad
+
+E: ¿alguna vez al mes?
+
+I: no yo creo que menos
+
+E: una al año
+
+I: una / sí una o dos veces si acaso al año 
+
+E: este / ¿y qué prefieres ver / películas mexicanas o extranjeras?
+
+I: m / de todo / que sean buenas nada más
+
+E: y cuando son extranjeras ¿tienes alguna preferencia / algún país?
+
+I: m / pos el cine español me / me late / de algunos autores nada más no / no en general pero sí de algunos autores
+
+E: <tiempo = ”22:05”/> este / y ¿en general qué te gusta ver? / acción / aventura / drama / terror // o de todo un poco
+
+I: fíjate que de todo / el género / el género no es como que / no tengo como que géneros favoritos / este / sí hay / algunas muy tranquilitas de / de drama que me gustan mucho / pero también este / tengo ahí alguna que otra
+
+E: documentales / música
+
+I: mjm sí sí sí // ahí sí que a todo le hago
+
+E: ¿incluso de dibujos animados?
+
+I: sí
+
+E: este / ¿escuchas radio?
+
+I: sí
+
+E: que ¿qué tanto? / ¿unas dos horas? o 
+
+I: como una hora al día / no yo creo que unas dos horas / porque en la mañana escucho / un rato el noticiero y por las tardes también 
+
+E: okay este /en ¿qué estación prefieres? de / románticas en español / en inglés / rock / metal / hip-hop / reguetón / rancheras 
+
+I: fíjate que / estación / en en el radio / no escucho música 
+
+E:
+ 
+I: más bien escucho noticieros 
+
+E: e / ¿en qué estación? / ¿cuál es la preferida? 
+
+I: e / la doble u de México
+
+E: ¿ves televisión?
+
+I: sí
+
+E: este / ¿más de una hora / o / hasta una hora?
+
+I: a lo mejor una hora sí
+
+E: y también ves noticias o ves algún programa
+
+I: m / pos veo / algunas series / series / gringas 
+
+E: em // ¿ves películas en la tele?
+
+I: sí
+
+E: e / ¿poco / mucho?
+
+I: m / yo creo que mucho // porque no voy tanto al cine
+
+E: ah okay este / igual / películas mexicanas o extranjeras
+
+I: sí / tocho
+
+E: ¿y que prefieres que sean doblados o / subtituladas?
+
+I: e / prefiero que sean dobladas 
+
+E: ¿tienes video casetera?
+
+I: m / sí tengo una ve ache ese bien chida
+
+E: e / ¿DVD?
+
+I: sí también
+
+E: ¿consola para video juego?
+
+I: no
+
+E: e / ¿tienes cable / sky ? o
+
+I: m / no
+
+E: e ¿cuántas teles hay en tu casa?
+
+I: dos
+
+E: ¿lees el periódico?
+
+I: regularmente lo leo pero en internet
+
+E: ¿y qué periódico / lees? 
+
+I: la jornada 
+
+E: lo lees a diario ¿verdad?
+
+I: sí / procuro leerlo a diario aunque sean las columnas de / las principales columnas 
+ 
+E: ¿lees revistas?
+
+I: sí / sí sí / estoy suscrito a unas revistas / y a / bueno una es de fotografía y otra es de / de política 
+
+E: eh las ¿las lees una vez por semana o una vez al mes?
+
+I: m / una vez por semana / más o menos 
+
+E: el internet sí lo usas ¿verdad?
+
+I: sí / a diario
+
+E: ¿en tu casa / en el trabajo? / o 
+
+I: en el trabajo
+
+E: trabajo / ¿en tu casa tienes computadora? 
+
+I: m / no
+
+E: ¿envías eh correos / buscas información?
+
+I: sí
+
+E: ¿el chat lo usas?
+
+I: sí / también
+
+E: ¿con // con voz y video?
+
+I: em / no / con / con voz y video no 
+
+E: teléfono fijo sí / celular / ¿tienes?
+
+I: sí
+
+E: e / lo usasn / para recibir llamadas / o / hacer y recibir mensajes / o tomas fotos también o videos
+
+I: prácticamente para hacer recibir llamadas nada más 
+
+E: e /¿visitas museos?
+
+I: <tiempo = “26:28”/> sí / regularmente 
+
+E: eh / ¿una vez al mes?
+
+I: más o menos una vez al mes
+
+E: eh / ¿conciertos?
+
+I: también uno / uno al mes 
+
+E: ¿el teatro?
+
+I: m / ése sí / una vez al año yo creo 
+
+E: e / ¿sueles viajar por placer?
+
+I: sí
+
+E: e / ¿qué tanto? / ¿una vez al año / dos veces o / tres o más?
+
+I: una / una vez al año
+
+E: e / ¿cuál es tu último / grado cursado?
+
+I: profesional
+
+E: ¿escuela pública o privada?
+
+I: privada
+
+E: ¿hace cuánto terminaste?
+
+I: terminé hace diez / once / como doce años / no / no es cierto // nueve 
+
+E: ¿en el nueve cinco / nueve seis?
+
+I: sí más o menos / nueve nueve / seis 
+
+E: e / ¿cómo se llama el lugar / donde estudiaste?
+
+I: Instituto Profesional de Arte y Diseño
+
+E: ¿tienes alguna maestría / o especialidad?
+
+I: m / tengo un / una especialidad / un diplomado en foto profesional
+
+E: ¿en escuela pública o privada?
+
+I: en escuela privada
+
+E: privada ¿hace cuánto terminaste?
+
+I: <tiempo = “28:08”/> éste lo terminé // como en el dos mil
+
+E: ¿en qué lugar?
+
+I: en el / Colegio / Ansel Adams 
+
+E: de / licenciatura que / ¿cuál es tu título?
+
+I: m / Diseño Gráfico / Licenciado en Diseño Gráfico y Publicidad
+
+E: ¿desde qué año trabajas?
+
+I: m // ¿en esto? o // ¿o ganar lana? 
+
+E: no o sea
+
+I: en el / desde el nueve cuatro más o menos 
+
+E: cómo ¿cómo se llama tu negocio?
+
+I: Entropógrafo 
+
+E: propietario ¿vedá? 
+
+I: mjm
+
+E: e / se da servicio ¿ve vedá ? 
+
+I: son servicios / básicamente
+
+E: me dijiste hace nueve años ¿vedá? 
+
+I: mjm 
+
+E: o sea
+
+I: en el nueve ocho 
+
+E: em respecto a la siguiente escala podrías decir más o menos en qué rango / te ubicarías de salario / eh teniendo en cuenta que el salario mínimo son dos mil ochocientos pesos mensuales / tengo entre / dos y tres / cuatro y seis / cinco y diez / o más de diez 
+
+I: ¿cuánto es la / el mínimo?
+
+E: dos mil ochocientos 
+
+I: son como / ocho 
+
+E: o sea entre cinco y diez / ¿aquí / retienes prestaciones?
+
+I: más bien / doy prestaciones <risas= “I”/>
+
+E: das prestaciones / a tus empleados / este / ¿cuántos focos hay en tu casa?
+	
+I: ¡ay cabrón! / diez focos
+
+E: em / ¿quiénes viven en tu casa?
+
+I: m / nada más // mi pareja y / mi hija y yo
+
+E: e / ¿tu pareja tiene / sabe inglés / algún idioma?
+
+I: m / un poco de inglés
+
+E: <tiempo = “30:44”/> ¿hasta qué grado cursó ella?
+
+I: ella / también es profesionista 
+
+E: ¿dónde trabaja?
+
+I: e por su cuenta
+
+E: ¿más o menos cuánto gana ella / de acuerdo a la / tabla anterior?
+
+I: también más o menos lo mismo que yo / entre cinco y diez
+
+E: e / ¿aporta a tu casa?
+
+I: sí
+
+E: ¿qué tanto porcentaje?
+
+I: pos un / treinta yo creo / cuarenta 
+
+E: ya para terminar este / te voy a pedir / si me puedes firmar / esta hojita / llenar y firmar / si te acuerdas de algo que me quieras contar o / alguna anécdota
+
+I: uy sí / anécdotas tengo un chorro
+ 
+E: ¿la navidad las celebras aquí o allá en Durango?
+
+I: tengo mucho que no la celebro en Durango porq- si no es aquí es en Veracruz / que es donde es mi pareja
+
+E: ah oh / y allá qué / ¿cómo es la cena de navidad? 
+
+I: fíjate que es muy parecida a la de aquí / este / nada más que con // ya entre más al sur te vas haciendo más / este / más rica es la / la cultura / en cuanto a / costumbres / e / gastronomía no se diga / este / yo por mí ahí me quedaba <risas= “todos”/>
+
+E: y aquí es / pura comida rápida ¿no?
+
+I: sí pos es el / es la ciudad / yo creo que así / no porque seamos muy norteños pero también a lo mejor / te vas a Guadalajara y y la comidas rápidas han de ser más o menos igual que aquí / ya si te vas más a lo folklórico sí encuentras mucha diferencia 
+
+E: depende más del tamaño de las ciudades
+
+I: sí // ¿y han tenido broncas o algo así? 
+
+E: m no pero para que no se ofrezca // este / por eso / pedimos / la autorización 
+
+I: am 
+
+E: es trece
+
+I: cierto martes trece
+
+E: crees en / en supersticiones
+
+I: no / gracias a dios no <risas= “I”/>
+
+E: pero como quiera sí te diste cuenta ¿no? es martes trece 
+
+I: no / cuándo / ni me acordaba <risas= “E”/>
+
+E: ¿y te gusta la lucha libre?
+
+I: sí / sí sí sí / o es pura imagen <risas= “I”/>
+
+E: sí ¿vedá? <risas= “E”/> / ¿y cuál es tu / luchador preferido?
+
+I: fíjate que no tengo / ahí / depende de la época ¿no? / o sea de la época viejita sí / había muchos / este chidos / orita hay / como que algunos otros de moda / y este / no tengo así de que / manden uno solo / pero sí me gusta el / el / el / show ¿no? / y todo lo que conlleva la / la lucha como / pos como deporte y como / como show 
+
+E: prefieres a los luchadores clásicos
+
+I: no fíjate también los / los / algunos nuevos están / están cotorros 
+
+E: ¿y cómo ves el paso de la // de la lucha libre de ser una / cultura popular a una cultura de masas ahora con la / masificación? 
+
+I: pos es que siempre / yo creo que siempre // fue de masas / nomás que antes era / como que / raza más / más lejadona de la sociedad ¿no? / antes era como que más / chafo ir a la lucha libre ¿no? / como que más populacho / pero también eran masas / este ahora / y siguen siendo masas / obviamente con sus / con sus proporciones guardadas pero / pero ya es más / como que mejor aceptado ¿no? / por / y se volvió algo kitsch / también / y eso / y eso le dio entrada / a las esferas altas ¿no? de la / de la sociedad al ver que / ver el detalle / ya no es raro ver que alguien de / de lana / vaya a la lucha / o le guste la lucha // ya no es tanto como / como / no es tan marcada esa diferencia 
+
+E: así es / gracias por tu tiempo / este / ahí hablamos 
+
+
+Fin de la entrevista
+
+

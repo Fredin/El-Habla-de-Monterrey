@@ -1,0 +1,451 @@
+﻿<Trans audio_filename=”MONR_H12_HMP016.MP3” xml:lang=”español”>
+<Datos clave_texto=”MONR_H12_HMP016” tipo_texto=”entrevista_semidirigida”>
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” país=”México”/>
+<Grabacion resp_grab=”Benito Flores Treviño” lugar=”desconocido” duración= “42´51´´” fecha_grab=”2007-10-23“ sistema=”MP3”/>
+<Transcripcion resp_trans=”Dalina Flores Hilerio” fecha_trans=”2008-06-17” numero_palabras=”6359”/> 
+<Revision num-rev=”1” resp_rev=”Raquel Rodríguez de Garza” fecha_rev=”2009-02-12”/> 
+<Revision num-rev=”2” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-08-28”/>
+<Revision num-rev=”3” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-07-17”/>
+</Datos>
+
+<Hablantes>
+<Hablante id=”hab1” nombre=”Isaí Gutiérrez Horta” codigo_hab=”I” sexo=”hombre” grupo_edad=”1” edad=”22” nivel_edu=”2” estudios="estudiante de noveno semestre de licenciatura" profesion="empleado en una biblioteca" origen="Monterrey" papel="informante"/>
+<Hablante id="hab2" nombre="Benito Flores Treviño" codigo_hab="E" sexo="hombre" grupo_edad="2" edad="52" nivel_edu="3" estudios="Licenciado en banca y finanzas y pasante de bibliotecología” profesion="Licenciado en banca y finanzas" origen="Monterrey" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf="desconocidos"/>
+</Hablantes> </Trans>
+
+E: buenos días Isaí 
+
+I: ¿qué tal? / ¿cómo estás? 
+
+E: ¿cómo amaneciste?
+
+I: bien ya / este / bastante / descansado bien dormí
+
+E: qué bueno / este // ¿cómo te fue en / en el camino?
+
+I: eh / bien este / pos es domingo no / no había tráfico / lo que sí vi que / muchos este // muchos // muchos perros de tránsito que / nomás andan viendo ahí a ver / a ver qué sacan
+
+E: ¿y qué tal de calor?
+
+I: calor / pos / no / pues / para que ya haya entrado / el otoño / yo digo que // todavía hace mucho calor da / ya debería de hacer / más fresco pero pos / ¿verdad? que aquí es / diferente 
+
+E: está bueno / este // ¿y qué tal / cómo vas en la escuela?
+
+I: ¿en la escuela?
+E: sí
+
+I: pos ya más este // mmm // es extraño / yo digo que es / como que a veces es bastante extraño // el // el terminar después de cinco años // yo me acuerdo que / al principio no me caía el veinte que / que ya estaba en la universidad / y a lo mejor orita todavía no me / no me cae el veinte / que ya / voy a acabar la universidad <risas = “I”/>
+
+E: a gritos y sombrerazos 
+
+I: ¿cómo?
+
+E: a gritos y sombrerazos <risas = “E”/>
+
+I: ¿por qué / a gritos y sombrerazos? 
+
+E: o sea pos batallando y 
+
+I: <tiempo = “02:04”/> sí / y pues no / yo creo que / lo mejor de todo fue que / pos encontré mucha // mucha gente // que valió la pena / haber conocido
+
+E: sí / sí / así es
+
+I: porque / pos así como que / haya aprendido mucho de las materias <risas = “E”/> / pos no 
+
+E: estás trabajando actualmente ¿no? / a parte del / del estudio
+
+I: eh / sí / trabajo en / en la biblioteca de la facultad de Ingeniería Mecánica y Eléctrica y / ahí con los // con la raza de FIME
+
+E: ¿y qué / en qué / departamento en qué lugar estás ahí?
+
+I: eh / estoy en / en el área de / procesos técnicos / ahí nos / pues / le damos todo el / eh // pos sí todo el proceso el libro desde / darlo de alta en / en el catálogo // eh / darle una clasificación para acomodarlo abajo en los estantes / pegar que / la seguridad del libro sus etiquetas // se reciben también revistas // se hacen descartes / no pues / varias cosas que se hacen ahí
+
+E: a ver / pero este / explícame cómo / por ejemplo / este / llega un libro ahí a / a / a la biblioteca ¿y qué / qué es lo que le // qué es lo que le haces tú?
+
+I: primero // se / se le tiene que revisar / hoja por hoja que // no esté / que no esté maltratado porque / bueno sobre todo cuando son libros de compra / es lo que se les tiene que checar / porque si le hace falta una página / o / o / o no están impresas se le tiene que devolver al / a la persona que se lo compraste // ya después de eso se le analizan / los datos que / que traen los libros / eh / es decir quién / quién escribió el libro / cómo se llama el libro / cuántas páginas tiene / y todo eso se va registrando en un sistema que tenemos ahí que es el / el sistema de / de la / de la biblioteca / de la biblioteca de / del Virginia Tech / el de Estados Unidos // y ya después se / se sella el libro / se le pone la etiqueta con / su clasificación // se le asigna un código de barras / una especie de folio // y ya se va / después de eso ya se / se pasa / se pasa a sala o al préstamo externo según / según sea
+
+E: bueno / este / ¿y con respecto al // a tu familia por ejemplo / este / ¿cómo? / ¿cómo celebran ustedes las / por ejemplo la cuaresma?
+
+I: mjm
+
+E: o sea qué hacen ustedes en / cuaresm- / en semana santa / o bueno antes de semana santa // ahí en tu casa?
+
+I: este // creo que hay algo que yo nunca lo había contado / // la verdad es que // <risas = “I”/> yo venía diciendo sonseras / yo nunca / nunca le / conté que mis papás eran testigos de jehová ¿verdad?
+
+E: no / nunca
+
+I: ellos no / eh / sí sí festejan así como que / como que el aniversario de la muerte de cristo // pero no / no / la cuaresma no la llevan así / así digamos que // que ahí nomás comer pescado / o ayunar no sé qué / más o menos lo que se hace // o sea son como que días normales / lo / lo único es la / la / la fecha de // el su / el supuesto viernes santo / que le llaman 
+
+E: sí
+
+I: lo / bueno y eso era antes cuando / cuando era / porque pos orita ya / ni eso
+
+E: o sea que ya no / ya no pertenecen a 
+
+I: <tiempo = “6:07”/> no / ya no
+
+E: a ninguna // religión se puede decir
+
+I: <risas = “I”/> / este no // hace mucho que ya no / hace mucho que nos desencantamos de todo eso <risas = “todos”/>
+
+E: ¿y por qué o qué? / este / ¿cuáles / cuáles / crees que fueron las causa o / o te diste cuenta tú / de / cuáles fueron las causas que provocaron eso? 
+
+I: mira / yo creo que / las cau- / ora sí que nuestra raíz es / yo creo que como la mayoría son com- / son católicas // pero // mi papá tuvo ahí como que unas experiencias muy / muy extrañas / este // él / él siempre cuenta de / una cosa que le pasó a su hermana no sé si le ha con / eh / una cosa que / le pasó a su hermana / / que / ella / se / se empezó a / se iba a ordenar / como monja // total que / eh / la invitaron a una co- / a una comida / una especie de comida y después de / le / pos resultó ser ahí como que una especie de / de orgía extraña entre / entre monjas y 
+
+E: ¿y sacerdotes?
+
+I: mjm // y pues se / obviamente / mi tía se salió de volada / y mi papá después de eso fue como / o sea no / no quiso // y ya total que conoció a mi mamá / así con / como / como cuando empezaba a estudiar con los testigos de Jehová / conoció / a mamá / y / pues ya / hasta que se dio cuenta que // que de plano esta religión es como que / un lavado de // de cerebro / bien / bien sabroso da <risas = “todos”/>
+
+E: <tiempo = “08:09”/> ¿y tú qué opinas de eso?
+
+I: este // pues no yo ya / me di cuenta que // que que como que hay / diferentes formas de llegar a dios // y / esa religión pues es una más / que no // que no tiene ni / ni la verdad // ni se acerca siquiera da / yo ya // yo también ya // e // pos no sé y // como que // me dejó de interesar hace mucho tiempo eso / no / pero no volvería / eh / tampoco educaría yo a mis hijos / si los llego a tener / este // como / en esa fe
+
+E: y / pero // este / ¿crees qué / pos hace falta o / este la / sí ese ese / creer en algo? 
+
+I: eh / pues es que / igual y sí / o sea / igual y / yo pienso que sí es necesario / yo siempre he dicho que no o sea no / no concibo el universo sin // sin un creador o sin una fuente / sin una fuente de vida // pero / pues eso igual y lo puedes / lo puedes aprender sin // sin meterte tanto en la religión o sea / por ejemplo lo / lo que mi papá llegó a hacer es que // pos de / de entrada dejó el trabajo / o sea dejó el trabajo por estar metido ahí / eh / por lo tanto / pos económicamente nos / nos / pos sí nos / nos desatendió mucho // dejó el trabajo desde que / también / te peleas con / con amista des / te peleas con tus / con tu misma familia / y eso es de lo que ya / te quedas así como que 
+
+E: como que eso / lo alientan ¿no? / en esa religión
+
+I: sí
+
+E: Alientan / ese / ése / tipo de cosas ¿no?
+
+I: sí / y de hecho / o sea / ya cuando / cuando mi papá / decidió / porque / mi papá ya iba a ser ministro
+
+E: ah okay 
+
+I: <tiempo = “10:51”/> y / y cuando mi papá dijo no / o sea / ya / ya no / era porque ya estaba / estaba hundido / estaba hundido en deudas de que / pos de entrada que / da / da dinero a la religión / de entrada pos no trabajes / porque / no puedes desatender la / la iglesia // este / y / y / y pos ahi íbamos al día al día pero lo / lo que le pasó a mi papá le ha pasado a mucha gente es que / pues / sacaba dinero de las tarjetas para / para ir viviendo al día para ir viviendo al día / pero pos llegó un momento en que / que ya no / o sea / pos no resolvi ó no no / no tenía tantos ingresos / y pues // pos ya o sea estaba / estaba hundido en / en / en deudas de / de las tarjetas / y por lo mismo / entonces a mi papá como que / le llegó ahí un // <observación_complementaria = “se escucha el sonido de los pájaros y que alguien está hablando al fondo”/> pues / ora sí que / un chispazo divino y me refiero / realmente divino <risas = “I”/> / que dijo no pues ya hasta aquí / ya / ya no / ya no pienso seguir tolerando esto / total que / buscó trabajo con su antiguo jefe con / alguien con / con el que había trabajado de cuando era niño / y / pos / y ya le / le dio el trabajo / este / se / y ya de / de ahí para al real se / se / nos fuimos alejando nos fuimos alejando / y // y el resto es historia / <risas = “todos”/> / pero sí es todas / es / está // está bien canijo y / y el caso es que // cuando / cuando tú te sales de esa religión o sea / es / es / es bien feo porque es como si quedaras este // eh socialmente / tú quedas / desadaptado / porque / todas / todas / tus amigos / todos / todos tus conocidos / son nada más de la religión / entonces te / te sales de esa re / te sales de la religión / y como tú ya te salistes / a ellos les prohíben / a todos tus compañeros les prohíben que / a / prohibirte hablarte por haberte salido 
+
+E: sí
+
+I: pero por los mismo de que ya no tenías amigos / y ya no tienes familiares / pues quedas así como que / apartado de la sociedad y / y es / es volver a empezar / volver a empezar
+
+E: entonces / este / yo te comentaba eso / porque / sí he notado que / como que fomentan eso de que / si tienes familiares que no están en esa religión / pos que / que te deshagas de ellos / que ya no / ni les hables ni nada 
+
+I: mjm
+
+E: y en el caso de usted es pos / a lo mejor / mucha / muchas de esas cosas sí / lo hicieron 
+
+I: <tiempo = “13:29”/> sí / de hecho / mi / mi mamá es de que por mucho tiempo se dejó de hablar con sus hermanos por lo mismo
+
+E: sí
+
+I: con / con sus papás también / se / se distanció mucho / de hecho yo no sé o sea / yo mi infancia no // yo no la recuerdo haber // a / haberla / haberla vivido con mis abuelos / haberla vivido con mis tíos / o haberla vivido con mis primos / por lo mismo // por lo mismo de que / o sea / ellos se / decidieron alejarse 
+
+E: y luego cuando se salieron // pues ya // rehacer otra vez 
+
+I: sí / eso fue
+
+E: los lazos
+
+I: y / como quiera hay / toda / hay mucha gente que / que te insiste te dice no que regresa / y que no sé qué / pero / pues / gracias a dios ni mis papás / ni yo queremos regresar <risas = “todos”/>
+
+E: está bueno 
+
+I: y / y todavía o sea / a lo mejor todavía tengo muchas costumbres muchas / este // no / creencias ya no pero costumbres de cuando / de cuando fui criado así / todavía las tengo 
+
+E: sí / sí ps claro / así te 
+
+I: ya / la verdad / o sea no sé / yo no podía decir así malas palabras <risas = “E”/> / no ora ya / no me importa / yo no podía fumar / ya no me importa <risas = “E”/> / yo no po / yo no podía este / yo no podía fornicar / ya no me importa
+
+E: <risas = “E”/> ¿sí?
+
+I: pero es / es bien curioso fíjese yo / el otra vez hablando con uno de ellos que le decía yo / es que / o sea como quiera / se asustan / se supone que no se puede pero pues como quiera tienen sexo clandestino y / y como quiera / se emborrachan y como quiera se / pero // como quiera dicen que no puede hacerlo / pero sí / sí lo hacen 
+
+E: sí
+
+I: pos yo que estuve en la / bien metido en eso / en el ambiente / sí se da
+
+E: o sea ¿llevan una doble moral?
+
+I: sí
+
+E: <tiempo = “15:23”/> este // no pues qué bueno que / que están // o sea que se / se desligaron de esa religión 
+
+I: que regresamos a la senda del señor <risas = “todos”/>
+
+E: al / con los pecadores <risas = “E”/> / está bien / ¿tu papá / y tu mamá / de dónde son?
+
+I: mi papá nació / cerca de un pueblo // de / Acámbaro Michoacán / el pueblo es / se llama Chupio Michoacán 
+
+E: ¿cómo?
+ 
+I: eh / es un / es un municipio de Michoacán / Chupio Michoacán
+
+E: ¿Chupio?
+
+I: mjm / y mi mamá sí es del / es del Distrito Federal
+
+E: okay / y / ¿tú vas allá a la tierra de tus / papás / de tu mamá?
+
+I: hace mucho que no voy // más a la / más a la tierra de / de mi papá
+
+E: ¿cómo es allá?
+
+I: allá es / chido / da <risas = “E”/> es un / pueblucho ahí olvidado por dios / bueno / ya no ya les / como que ya les llegó la modernidad / este / pero pos es Michoacán es como que / todo muy / con muchos / mucha vegetación / con mucha agua / la comida muy diferente / el ambiente muy diferente también / las costumbres de / las mismas costumbres de la gente 
+
+E: ¿cómo qué? a ver / explícame
+
+I: por ejemplo yo siento que allá todos se saludan / aunque no / aunque no te / aunque no los conozcas allá todos se saludan // este // eso / es como que / eh 
+
+E: ¿qué te llama la atención más? 
+
+I: ¿en cuanto a las costumbres?
+
+E: sí / aparte del / de lo del saludo
+
+I: como que / la gente es muy amigable este / siempre // no importa a la hora que llegues o sea / te / te va a invitar a comer y te va a invitar algo / algo de comida / igual o sea / y no importa que / que no / que no te conozca igual y puedes llegar y decirle no pos es que / yo soy primo de / de fulano de tal que vive acá arriba / y si lo conoce ah sí no pásele vamos a comer y ya / te invitaron <risas = “I”/>
+
+E: ¿sí? <risas = “E”/> / o sea ¿te puedes pasar de gorra ahí? 
+
+I: sí <risas = “todos”/>
+
+E: no pues / por eso es chido 
+
+I: ya sé <risas = “E”/>
+
+E: oye / y este // ¿alguna / alguna vez has / has estado así en // con un peligro así // muy fuerte? / así que te haya sucedido alguna / ¿tienes alguna anécdota / personal de / peligro de muerte o // un peligro / o algo que te haya marcado así? 
+
+I: ¿un peligro que me haya marcado?
+
+E: sí / o sea / este / que tu vida / haya estado en riesgo / este // en algún riesgo fuerte
+
+I: <tiempo = “18:44”/> yo no / no recuerdo // mi mamá dice que cuando era muy niño // pero yo no me acuerdo / me dio este // bronco / ¿bronconeumonía?
+
+E: ei
+
+I: y que / pues ya o sea llegó un momento en que ya / dicen que na / nada más estaban esperando a que // ora sí que las malas noticias del doctor de que ya / de que ya me daban así / o sea / que ya no sabían qué hacer / conmigo // total que // eh pues / y de hecho / yo / yo recuerdo que de niño fui muy / muy enfermizo a cada / cada ratito / yo duraba / a veces hasta meses con una gripa <risas = “I”/> 
+
+E: sí
+
+I: eh / hasta que / pues ya ve que nunca faltan los / los remedios de la vecina metiche / del típico de que ¡no! mire / úntele limón en la espalda con un periódico y que / no sé qué / <risas = “I”/> y dicen que así fue como / como salí de eso
+
+E: ah ¿sí? 
+
+I: mjm
+
+E: ¿con un remedio así de 
+
+I: mjm
+
+E: ¿y cuál era? / ¿te acuerdas de cuál era el remedio?
+
+I: precisamente é se
+
+E: ah ¿sí? / ¿limón? 
+
+I: limón caliente / casi hirviendo / untado en la espalda / y después / me / dice que me cubrió con periódico / y que así me tuvo / envuelto / envuelto como tamal <risas = “I”/>
+
+E: o sea ya nomás para tirarte <risas = “todos”/> sí / pos oye está bueno ese / ese remedio yo / yo no lo conocía / no sabía yo / que existía
+
+I: sí / de hecho / dice mi mamá que // me / me hizo eso / y que / y / no fue a la primera o sea fue / de que me lo hizo me lo / me lo estuvo haciendo así / varias veces / al día / y por / no sé si por una semana o más / hasta que / llegó un momento en que yo empecé a toser mucho a toser mucho / y aventé por la boca un / un / pos sí / un pollo <risas = “todos”/> / aventé un pollo / eh / muy grande y que / y que ya / que me / aparte de eso pos más el medicamento que me / que me dieron 
+
+E: ah
+
+I: que ya / que me fui reponiendo / pero como quiera / o sea / yo digo que de eso me quedó lo / lo enfermizo
+
+E: quedaste tocadón / sí no 
+
+I: sí
+
+E: sí mi her / mi hermano / este / él // este / así le pasó de niño / una enfermedad así muy fuerte de los bronquios y / no / por años / por años y / este / pero no conocíamos el remedio ese <risas = “E”/> / sí este // está muy bien saber porque / si se ofrece de repente / y nada pierdes con / con eso ¿verdad? 
+
+I: sí 
+
+E: este 
+
+I: y yo creo que es el único o sea no / no sé // no se me ocurre así como que un / que haya dicho / un peligro así como que uf / por poquito y me muero 
+
+E: <tiempo = “21:50”/> sí y / pos orita / ya estás por salir / de la escuela y / este / ¿qué? / ¿qué expectativas tienes tú saliendo? / ¿qué planes tienes o qué esperas?
+
+I: yo le / eh // pos no sé / expectativas como que / muy oscuras / <risas = “I”/> / no pues / eh / yo no / a como yo veo las cosas yo / siento que no / no voy a trabajar / en lo que estudié
+
+E: ¿por qué? 
+
+I: <risas = “I”/> porque // porque mi papá tiene un negocio / muy distinto a / a lo que / a lo que yo estoy estudiando // y ahorita / tiene oportunidades muy muy / muy grandes / y ocupa gente / y aparte yo veo que él quiere que / que yo le ayude / pues e / pues es / pos es el negocio familiar y // y es algo que / aparte que ser un / un negocio familiar pos algo que / puede / va a dejar bastante / va a dejar para la papa
+
+E: sí
+
+I: y pues / más que nada por / por apoyarlo / lo hago por eso / por apoyar
+
+E: pero / bueno por apoyarlo y que / es mejor / una mejora / para ti también 
+
+I: sí / sí es // sí recibiría más sueldo <risas = “E”/> / o no / no lo sé 
+
+E: bueno eso es otra experiencia y / este / porque / ¿en esa carrera / este tú piensas que no / no hay buen / buenas perspectivas de / la cuestión / económica? // o sea / no hay / buenos sueldos
+
+I: no / son / son pocos y // bueno no sí / no no hay buenos sueldos da <risas = “I”/> / este / ora sí que / esta carrera el que entra / tiene que estar consciente que / que va a jalar / va a jalar mucho y / y va a recibir poco
+
+E: sí / este // y / orita mencionabas de / de la // de orita en el camino que muchos / agentes de tránsito y // ¿cómo ves eso de // este / que los domingos anden / ahí / acechando? 
+
+I: pos a eso se dedican <risas = “todos”/> / a acechar / eh / porque no así como que cuiden el orden / como que / están al pendiente de // del / de / pos sí ora sí de / del tránsito / no / nomás andan viendo a ver qué / a ver qué sacan / porque pues así puedes ir muy / muy borracho o muy mal / pos tú con que le des ahí // una buena / una buena mordida ya / con eso ¿verdad? / con eso la armas / entonces // volvemos a lo mismo / si eres rico eres imp- / eres impune eh <risas = “I”/>
+
+E: y así en / ¿en todos los aspectos nada más en el / tránsito o / o qué opinas tú?  
+
+I: ¿en todos los aspectos? 
+
+E: o sea con / en las relaciones con el // con la autoridad se puede decir
+
+I: yo pienso que sí te ayuda mucho / el // el // el tener una gran solvencia  pero no sé // no sabría / en como qué / qué ejemplo
+
+E: sí no pues en / o sea en la / las relaciones que / se presentan / que llegas a tener con la autoridad / ¿no? o sea con el gobierno // este / por ejemplo el caso ese de / que un tránsito / un policía un / funcionario 
+
+I: mjm
+
+E: este / ¿crees que // que / ayude eso / la solvencia?
+
+I: <tiempo = “27:18”/> sí ayuda porque / el / el darle un / el darle una mordida // a uno de tránsito es como que // a lo mejor será como que la escala más / o sea más simple / de / de cómo te beneficia / pero así como lo ves a / a nivel micro / también se te va a presentar a / pos a nivel macro ¿no? / por decirlo así
+
+E: sí
+
+I: es como que / un reflejo / ése es un reflejo / de lo que hay más arriba / no / no puede ser diferente
+
+E: este // ¿y a qué crees qué se deba eso?
+
+I: pos es / la corrupción / pos es corrupción pero no sé / o sea // como que dentro del gobierno yo creo de / de tantos años como que / ya se les / se les ha pegado en la piel todo eso / o sea / ni por tantos programas antimordidas ni / ni por más mejores sueldos que / que le / que le des a los / pues a los funcionarios o no sé cómo decirlo / no creo que / que deje de existir / o sea ya es como una herencia / más / más que un / una // o sea un / más que un problema pos sí o sea yo lo veo así / como una herencia / no sé
+
+E: o sea que / partidos políticos y / se supone que pues hay / orita diversidad ¿no?
+
+I: es que es / para mi esa diversidad está // está / hecha por / por ellos mismos o sea // son los mismos / y / y para que / ellos dijeron / para que no pues / para que piensen que no / que sí hay competencia // pues / ellos mismos tuvieron que crear esa diversidad // PRI PAN PRD son los mismos <risas = “todos”/> / los chuchos del PRD
+
+E: entonces / piensas que están / coludidos / o sea que / pos es / nomás es la misma gata 
+
+I: pero revolcada <risas = “todos”/> / así es / sí // a lo mejor unos son más que otros // pero / pero es lo mismo // porque / por ejem- / la otra vez / o sea / yo digo que una / o sea ellos mismos para / para que puedan / digamos que / si // si alguien quiere que gane el PAN / entonces / eh / suena como que muy lógico / que gente del PAN / del PAN / mande gente al PRD / pero / digamos gente // pues sí o sea gente chucha o sea // gente que diga trabajar para el PRD / pero que con sus acciones / haga quedar mal al PRD/ y por lo tanto la gente piensa / no pos o sea si ése / si ése es del PRD / pos no voy a votar por el PRD voy a votar por el PAN <risas = “I”/> / entonces / y / y / yo digo / y sí hay mucha gente así o sea que // que dice trabajar para un partido político pero en realidad no es más que ahí / más que una marioneta // y / y todo con / pues con / con el mismo objetivo de que / de que el poder se quede nomás ahí / con unos solos
+
+E: este / es / como caballo de Troya ¿no? / que se meten con
+
+I: sí
+
+E: disfrazados
+
+I: disfrazados / sí
+
+E: está bien / no pues sí es / o sea suena lógico / y este / ¿crees que todos los partidos lo / lo hagan?
+
+I: mjm
+
+E: ¿o hay unos más cochinos que otros? <risas = “E”/>
+
+I: pues eso de cochinos yo / no creo que se quede en partidos eso se queda en / en pers- / en / en la persona / para mi Calderón es un cochino // un cochino así / gigante / es un cerdo el señor // <risas = “todos”/> es un cerdo 
+
+E: pero y eso a / este / ¿qué / qué sabes tú de él o por qué // por qué / dices que es un cerdo?
+
+I: porque / trae las manos limpias pero las patas puercas <risas = “todos”/> // bien mamey / con las manos limpias y traía los pies así atascados <risas = “todos”/> // como que / ese señor va a terminar / vendiendo al / al país // a la / va a terminar dejándole a / todo a / a la gente para el que / para la que realmente él trabaja no para el pueblo mexicano sino // para el Banco Mundial // para la / oligarquía gringa // se la / va a terminar por cederles a los que / pos lo que / se ha venido vendiendo desde / no sé // ¿Echeverría? 
+
+E: <risas = “E”/> / no no pos es que / lo estamos vendiendo desde los españoles ¿no? <risas = “E”/>
+
+I: bueno / ya es / una herencia <risas = “E”/>
+
+E: este / todavía no se acaba pero / pos ya / ya les falta poco ¿no?
+
+I: pero como que hay / o sea hay / a lo mejor sí hubo / presidentes que / que hicieron mucho por el país y que / y que lucharon por las cosas que son del país no sé / me viene a la mente / Lázaro Cárdenas / eh / que lucharon / mucho para // para que el país tuviera sus cosas / y que un pelado como este / venga y / y destruya todo ese trabajo que / que hicieron gentes / como ellas / o sea / se me hace así como que / como que / pues querían PAN/ ni modo / aguántense <risas = “todos”/> / y / y / claro que es un marrano pos o sea eso de que // o sea esas son / para mi son / son jaladas esas de que / te aumentan los / eh / te aumentan los impuestos / ya en septiembre / pero la tenencia te la quitan hasta al dos mil once / es así como que <risas = “E”/> hijo de su pinche madre <risas = “E”/> / si / si la gente no ve eso / pues es porque // pos no sé por qué sea
+
+E: pero / a mí me llamó la atención eso de que la / hasta el dos mil doce ¿no? pero el dos mil doce él sale 
+
+I: sí / la quitas / hasta el dos mil once / y en el dos mil doce él sale
+
+E: y quién te asegura que no / se raja y dice bueno pues hay el que sigue que l 
+
+I: sí pues / de hecho es lo que podían hacer / igual nomás quitarlo un año y ya / y / otra vez con el próximo presidente pos volverlo a poner // y fue una de sus principales promesas de campaña / quita el / quitar la tenencia de los coches / no lo hizo // o lo hizo a medias / nada más
+
+E: o sea ¿está en promesa todavía? 
+
+I: mjm 
+
+E: <risas = “E”/> sí / sí ¿no? / pues así / así es nomás / le van sacando la vuelta a los / a las promesas // sí discúlpame ____ / pero es que / falló la este / la grabadora este / pero ya / estamos otra vez 
+
+I: okay 
+
+E: este / estábamos con lo de / lo de Felipe Calderón que es un cerdo / vendido / que vendió / o está vendiendo al país ¿no?
+
+I: mjm
+
+E: oye / sí tienes / tuviste problemas con / las / con los bronquios y eso / ¿pa qué fumas? <risas = “E”/> / digo yo.
+
+I: <tiempo = “35:31”/> pues es que / yo por lo / antes no fumaba / hasta que una vez me dijeron / pues como quiera te vas a morir de cáncer / entonces decidí fumar <risas = “todos”/>
+
+E: ¿resignado? <risas = “E”/> 
+
+I: sí
+
+E: ya fue por / resignación ¿o qué?
+
+I: sí / ya para // para darle / sí / resignación 
+
+E: celeridad ¿o qué? / este no pos tú sabes pero / este / si / si tuviste problemas de niño / pos es mejor que / te cuides porque ya / más 
+
+I: pero hace mucho que no este // que tengo / que gozo de buena salud / eh 
+
+E: ¿sí? / está bueno / no pos / ojala / que no / no te afecte ¿verdad? / este / oye / y ¿tú no sabes / cocinar?
+
+I: cocinar
+
+E: sí // algo que / que hagas que digas esto me queda con ganas // o sé hacer esto / sé hacer / carne / carne asada / o pollo
+
+I: yo en la cocina como en otras cosas soy un inútil <risas = “E”/> / sé picarle al / horno de microondas
+
+E: ¿sí? 
+
+I: y nada más / pero / pienso que sí se / podría ser interesante / saber cocinar // no sé así / ¿como qué?
+
+E: pos una receta que sepas / algo / debes saber
+
+I: eh / mi mamá este // preparaba unas enchiladas / muy // muy buenas / y / pero es que llevan / adentro llevan pollo
+
+E: <risas = “E”/> no son como las enchiladas de aquí
+
+I: sí / no llevan queso / y / o la salsa la salsa es la que / la salsa que lleva pos me gusta mucho / utiliza / maizena / para hacerla
+
+E: ah sí ¿para que quede espeso?
+
+I: mjm
+
+E: ¿y qué? / ¿qué le ponen o qué? /¿cómo las hacen? / ¿no le / no le has ayudado alguna vez tú?
+
+I: yo // pues / le ayudé a comérmelas <risas = “todos”/> / y / y le quedaron muy bien
+
+E: <tiempo = “38:07”/> chingado / ¿tú no sabes el / e l procedimiento? / dices que / es salsa espesita pero // ¿qué chile le pone o / usa tomate o qué / de qué tipo de tomate?
+
+I: usa / eh / sí / sí lleva tomate y / y lleva / ¿qué? / chile guajillo 
+
+E: ¿guajillo?
+
+I: mjm / y aparte con su / bueno / lo que / lo que le pone usted / crema / cebolla
+
+E: ¿encima?
+
+I: mjm / y / y encima también queso / pero no adentro
+
+E: <risas = “E”/> / tercoo sea / adentro no 
+
+I: adentro no 
+
+E: oh pos esas no son enchiladas son tacos ¿no? <risas = “E”/> / así le dicen / ¿y de qué / de donde es esa receta? 
+
+I: eh / eh / se la pasó un / un conocido de ella // que es de / de hecho él es de Guerrero // entonces supongo que deben ser / enchiladas guerrerenses
+
+E: ¿sí? // está bien // este / pues / ¿algo más que quieras agregar? / algo / un comentario o algo / que quieras expresar
+
+I: básicamente / ahorita como están las cosas // ya / ya / esto no tiene solución / da <risas = “I”/> / como que // a veces no me gusta ver las cosas tan pesimistas / pero / a veces siento que ya / la sociedad no / no piensa por sí misma / ya está como que todo muy controlado / o muy mediatizado // y / y a lo mejor pos no es culpa de la misma sociedad sino / de la misma gente que / que ha ido / eh / que ha ido poniendo / eh / métodos para / para ir como que controlando a la gente para que / tú dedícate a esto / a consumir / tú dedícate / eh / a divertirte ahí una vez por semana / y que / y que nosotros hacemos leyes en contra de ti / y que no te importe // eh / si nosotros te afectamos de una manera / que no te importe / si alguien te dice / que nosotros te estamos afectando / tú tienes que ir en contra de ése que te dice que nosotros te estamos afectando y no en contra de nosotros 
+
+E: o sea / la manipulación / total ¿no?
+
+I: sí / y / ora sí que / a lo mejor lo que / lo que puede ayudar es / una buena educación / una buena educación <risas = “I”/> que / que a lo mejor / puede ser difícil conseguir / por ejemplo / porque no tiene que ser precisamente universitaria o sea // tú puedes ser un muy buen ingeniero / un muy buen contador / eh / pero / pos igual / ¿y en todo lo demás? / o sea // pos podría no interesarte no sé
+
+E: la situación / eh / global se puede decir o sea / de la / de cómo está viviendo la sociedad en / en ese / en este momento
+
+I: yo pienso que sí
+
+E: este / digo ¿lo ves con tus amigos? / o 
+
+I: sí lo veo con muchos compañeros / que a veces hasta / hasta yo mismo o sea // es como que // a lo mejor / uno mismo también de repente te dejas llevar por cosas que // que no tienen sentido // igual / ¿verdad? unos que // unos de plano sí son así como que // el dios antro el / el dios sexo / el dios droga no sé / y pues se cae / la política / y la cultura / se quedan como que // pos los últimos / en los últimos grados
+
+E: sí // sí sí entiendo / este // vamos a pararle tantito y / para / vamos a llenar un / un cuestionario
+
+I: mjm
+
+ Fin de la entrevista
+
+

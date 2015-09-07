@@ -1,0 +1,1110 @@
+﻿<Trans audio_filename = “MONR_H33_HMP098.MP3” xml: lang = “español” />
+<Datos clave_texto = “MONR_H33_HMP098” tipo_texto = “entrevista_semidirigida” />
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” pais= “México” />
+
+<Grabacion resp_grab = “Víctor Ramírez Cortez” lugar = “consultorio delinformante” duracion = “90´21”’’ fecha_grab = “2007-11-17” sistema = “MP3” />
+<Transcripcion resp_trans = “Mayra Silva Almanza” fecha_trans = “2008-05-12”
+numero_palabras = “11330” />
+<Revision num_rev = “1” resp_rev=’’Raquel Rodríguez’’ fecha_rev = “2008-06-04” />
+<Revision num_rev = “2” resp_rev = “Mayra Silva Almanza’’ fecha_rev = “2010-08-25” />
+<Revision num_rev = “3” resp_rev = “Cynthia Martínez del Ángel’’ fecha_rev = “2011-11-28” />
+<Revision num_rev=”4” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2012-01-14 /></Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Raúl Porfirio Lamadrid Barrientos” codigo_hab = “I” sexo = “hombre” grupo_edad = “3” edad = “61” nivel_edu = “3” estudios = “Maestría en Medicina Nuclear” profesion = “médico” origen = “Veracruz, México” papel = “informante”
+<Hablante id = “hab2” nombre = “Víctor Ramírez Cortez” codigo_hab = “E” sexo = “hombre” grupo_edad = “1” edad = “29” nivel_edu = “2” estudios = “estudiante de licenciatura en Letras Hispánicas” profesion = “estudiante” origen = “Durango” papel = “entrevistador” />
+<Hablante id = “hab3” nombre = “desconocido” codigo_hab = “A1” sexo = “hombre” grupo_edad = “desconocido” edad = “desconocido” nivel_edu = “3” estudios = “Medicina” profesion = “médico” origen = “desconocido” papel = “audiencia” />
+
+<Relaciones rel_ent_inf = “desconocidos” />
+</Hablantes></Trans>
+
+
+E: este pues buenos días / este es sí se acuerda que le hicieron hace veinte años
+
+I: y hace poco / hace poco me hicieron otra
+
+E: ¿ah sí?
+
+I: sí lo que pasa es que me contaba / mi comadre que están afiliados a un problema / a un programa con España y no sé
+
+E: sí 
+
+I: cuantas cosas / y me decía que debía que ser un entrevistador hombre cuando es un hombre y
+
+E: claro
+
+I: y platiqué con una licenciada en comunicaciones
+
+E: mjm
+
+I: comunicaciones o letras de la UDEM / de la regiomontana que diga 
+
+E: ah sí
+
+I: platiqué hace un año / pero no hay problema / aquí estamos a tus órdenes
+
+E: bueno / bueno pues / pues es igual / una plática de / las costumbres de aquí de Monterrey / lo que hace en / en / en un día normal de / de su vida / de su trabajo / los días que pasa con su familia / este generalmente ¿qué? / ¿a qué se dedica usted?
+
+I: yo soy médico 
+
+E: médico ¡ajá!
+
+I: especialista en medicina nuclear 
+
+E: ¡ah mire! / ¿y eso más o menos qué?
+
+I: es / usamos sustancias radioactivas para hacer estudios / y dar ciertos tratamientos / y estudios que se llama lamagrafías
+
+E: ¿y ésos qué? / ¿para qué sirven?
+
+I: para muchas cosas // no nomás es para cáncer sino es para / diferentes tipos de enfermedades / cerebro / tiroides / pulmón / mmm / tubo digestivo / vías biliares / riñones / huesos / corazón 
+
+E: ¿y cuál es la afección qué más trata usted o?
+
+I: ¿la qué?
+
+E: mm no sé / una enfermedad que más 
+
+I: yo estoy orita / trabajando en Reynosa / de lunes a jueves / y estoy en una clínica de cáncer / entonces veo mucho problema con cáncer veo más cáncer sí
+
+E: ah / está más
+
+I: la medicina nuclear / pero veo mucho tiroides
+
+E: ¡ajá! / ¿y qué problemas son los más frecuentes en la tiroides?
+
+I: pues son / bocios / medulares / simples / multimedulares / hipertiroidismos hipotiroidismos / cáncer de tiroides
+
+E: sí // usted / ¿cómo ve usted el clima actualmente? / ¿sí vive usted aquí en Monterrey verdad? 
+
+I: yo / trabajo nomás de lunes a jueves / en Reynosa / y / fin de semana me la paso aquí
+
+E: <tiempo = “02: 09” /> pero ¿aquí ha vivido toda su?
+
+I: no yo soy de Veracruz / soy jarocho <observación_complementaria = “se les llama a si a los originarios del estado de Veracruz” /> / bueno / aquí ya tengo desde el setenta y cuatro así que tengo / más de treinta a años aquí viviendo / soy más norteño que jarocho
+
+E: sí <risas = “todos” /> / ¿pero sigue visitando / Veracruz?
+
+I: claro / obviamente
+
+E: ¿de qué qué / qué / de qué municipio de Veracruz es?
+
+I: soy del puerto de Veracruz 
+
+E: ah del puerto de Veracruz / ¿y cómo es ahí el // ¿cómo es la ciudad de Veracruz?
+
+I: pues es un puerto <énfasis /> / muy bonito / ¡ay sí! <risas = “E” /> pos soy / no / está muy bonito orita / e / la gente muy alegre / muy bailadora / muy cantadora / muy abierta / con una entonación / de jarocho como / hablamos los jarochos y demás / y 
+
+E: sí
+
+I: pues como es un estado muy rico Veracruz / tiene petróleo / tiene / tierras tiene agricultura / tiene ganadería / tiene pesca // tiene industria / entonces tiene todo Veracruz
+
+E: ¿sí?
+
+I: sí 
+
+E: y / ¿cómo ve usted / la seguridad allá? / en comparación con la de aquí de Monterrey 
+
+I: pues una ciudad más pequeña que aquí obviamente ¿no? / y el problema de la seguridad pos yo creo que ha de ser / quizás acentuadas en las grandes metrópolis / y las / pos sí / me imagino que también ha de haber narco ha de haber ladrones / ha de haber asesinos / lo normal ¿sí?
+
+E: sí
+
+I: pero quizás en menor proporción que en Monterrey
+
+E: ¡ajá! ¿la / arquitectura cómo es?
+
+I: la arquitectura / es / muy sencilla / no son casas muy // generalmente como hay terreno son casas / eh / de un solo piso / hay / casi ora mu- / todo mundo se está yendo a / ya fuera de Veracruz en un municipio de Veracruz // bueno / quizás la parte de atrás de Veracruz / que no conozco que nunca voy / la parte pobre quizás ya se ha poblado muchísimo y que ya no ha de ser pobre / ahora todo mundo se va para el municipio de Boca del Río donde está / la gran zona hotelera / donde está Mocambo / y / muchas casas que hay por allá residenciales de familias ya de clase alta
+
+E: <tiempo = “04: 17” /> Y / ¿Reynosa cómo es? / es 
+
+I: Reynosa es fea y polvorosa
+
+E: ah ¿sí? <risas = “I “ /> 
+
+I: es una ciudad fronteriza / y todas las ciudades fronterizas son feas 
+
+E: sí
+
+I: ¿quién se salva? / quizá un poco Tijuana / Ciudad Juárez / y de ahí en fuera todas son
+
+E: mjm
+
+I: horrendas / acuérdate que / era el paso / para el contrabando / para todo / básicamente contrabando ¿sí? / todo lo / muchos años Texas estuvo / no había servicio de copeo / entonces todos los fines de semana / mucha gente de las fronteras / americana / se venía / a las frontera mexicana / a cenar y a tomar la copa
+
+E: mjm
+
+I: y le salía mucho más barato / entonces se crearon todos los centros de prostitución / todos los / coctel lunch / estamos hablando de hace // treinta años / ¿sí?
+
+E: mjm
+
+I: entonces / florecieron esa parte / por ese tipo de población ¿sí? / más aparte el contrabando / del whisky del / cigarro y de / todo lo que había / de ropa y / electrodomésticos y más / conforme va avanzando el tiempo / pos es más fácil comprar un televisor aquí / tiene garantía / están casi a los mismos precios
+
+E: sí
+
+I: entonces un montón de cosas que ya / ha / disminuido ¿sí? / sigue la gente yendo a comprar del otro lado / e / ropa y / un montón de cosas que compran y demás / también / eléctricas electrónicas y demás
+
+E: sí
+
+I: pero pos sí ya puede uno traer una / laptop gratis digo / sin ningún problema en la aduana / y así bueno pues juguetes puedes traer hasta cinco juguetes / todo eso lo puedes hacer ya 
+
+E: sí
+
+I: entonces aumenta las franquicias / cuando hay // fecha de navidad que ya se abrió 
+
+E: sí
+
+I: el contrabando / quizás sea menos / o no sé / el contrabando ha de ser / otro tipo de cosas que ya está tratado con trailers y demás / pero el contrabando de las personas normales era ése ¿sí?
+
+E: sí
+
+I: eh / y ora pos está la droga / que es de aquí para allá 
+
+E: <tiempo = “06: 17” /> sí / igual es el mismo problema allá y
+
+I: Reynosa pos sí la han querido mejorar / y demás / pero es un municipio / priísta <observación_complementaria = “partidario del gobierno del Partido Revolucionario Institucional” /> / muy sucia mucho polvo mucha tierra 
+
+E: pues sí como dice como todas las / bueno yo nada más conozco Nuevo Laredo que es a donde he ido / entonces me imagino que ha de ser muy parecido ¿no?
+
+I: ¿de dónde es?
+
+E: no / yo soy de Durango // pero pues he ido ahí a 
+
+I: ¿de qué parte de Durango?
+
+E: de Durango Durango 
+
+I: Durango Durango 
+
+E: pos no / la única que conozco le digo es / Nuevo Laredo / y nada más / pero igual tampoco he cruzado para allá para / Estados Unidos // siempre he estado / acá / en México / ¿y las costumbres / cómo son / en / no sé / en una celebración de navidad en Reynosa y / de aquí de Monterrey? / ¿varía mucho?
+
+I: son parecidas / acuérdate que // como decía Vasconcelos / que a mi comadre Lidia le // le clavó una espina en el corazón / donde empieza la carne asada se acabó la cultura <risas = “E” /> // nunca me le he perdonado / una vez que los invité a cenar a tu casa / y di pulpos / de diez gentes / solamente dos / comieron los pulpos los demás me lo dejaron / entre ellos mi comadre / ¡inculta analfabeta! no te puedo decir porque sí sabes leer <risas = “todos” /> / ahora ya dice que ya come / pulpos y demás ¿no? / pero / e / aquí la gente es carnívora / cien por ciento carnívora ¿sí? / e / yo soy del puerto así que es otro tipo de comida / pescados / mariscos / cerdo / carne y demás / hay muy buena carne aquí 
+
+E: mjm
+
+I: es cierto / en comparación con Veracruz por / las plagas de la garrapata y entonces los / carnes es cebú / otro tipo de / de animales que hay allá / por el clima / ¿sí? // pero es muy rica la comida allá / o la comida del centro de la / México también / aquí su cabrito su carne asada / no salen / ¿sí?
+
+E: sí / ¡ajá! 
+
+I: <tiempo = “08: 28” /> es que la gente come muy pocas verduras ora está comiendo más por la / campaña que hay / hay tanta fruta tanta verdura aquí en México que / tú vas orita al supermercado y hay / veinte frutas y veinte verduras que puedes escoger
+
+E: sí / ¿toda su familia vive aquí en Monterrey?
+
+I: no / una familia vive en Veracruz y Xalapa
+
+E: ¡ajá! / y ¿usted allá pasa las navidades?
+
+I: paso navidades o semanas santas dependiendo cómo esté las / el program- la programación 
+
+E: ¿y qué es lo que hacen generalmente en su casa en navidad?
+
+I: en navidad / se hace / bacalao
+
+E: mjm
+
+I: ah en Veracruz se hace bacalao / pierna de puerco / y pavo / ¿sí? / pero básicamente el bacalao
+
+E: mjm
+
+I: se hacen buñuelos / se hacen // m / y aquí en el norte hacen tamales 
+
+E: sí / sí hacemos tamales 
+
+I: ¿sí? / y / quizás por lo barato quizás por la tradición ¿verdad? / mucha gente / el bacalao no le gusta / no lo sabe hacer
+
+E: ¡ajá!
+
+I: no lo sabe comer / no lo sabe apreciar / ¿por qué? porque no / es como a mí me das un / taco de ojo de cabrito y no te lo como // no porque no estoy acostumbrado a ese tipo de alimento / ¿sí? / igual allá / entonces y / mucha gente no le gusta el pescado los mariscos / le gustan los camarones pero tú le das / pulpo le das cayo de hacha
+
+E: mm
+
+I: y le das otro tipo de cosas y ya no sabe qué hacer / ¿sí?
+
+E: sí / y / bueno en // ¿rezan el rosario / o?
+
+I: bueno / yo nunca fui muy / bueno soy católico pero así mi familia no fue muy de golpe de pecho <observación_complementaria = “muy religiosos” /> y demás / quizás / sean más católicos aquí / que en Veracruz / la gente es más abierta / no dudo que haya de más pero así que acostumbren ir a / a misa los domingos // pos yo veo pocas iglesias en Veracruz / no sé / nunca había pensado en eso 
+
+E: <tiempo = “10: 33” /> yo pensaba que allá / bueno que en Veracruz eran / estaba más arraigado el catolicismo que aquí en 
+
+I: el catolicismo está muy arraigado en el centro de la república / Guadalajara / León / Guanajuato / todo ese tipo / centro lugares es donde / tiene más / en las costas / no tanto / es más liberal 
+
+E: por la apertura / ¿usted cree que sea por la apertura que hay? / bueno hay más afluencia de más llegada internacional / ¿cree que sea eso o?
+
+I: pos llegada internacional no porque / pos sí es un / principal puerto de México / pero llegan los barcos y descargan y se van / bajan los marineros una dos noches y se van así es que / no hay / relación con / los marineros nomás entran a todos los / la zona roja donde van los marineros o a los puertos donde van a conseguir mujeres y demás lugares / a bailar y eso / pero / pero no / la población no tiene / contacto con ellos ¿sí?
+
+E: mjm / el Veracruz / perdón el / el carnaval de Veracruz ¿sí lo ha?
+
+I: ah claro divino / e / ya tengo muchos años que no voy pero pos / todos los años que viví en Veracruz / en el carnaval yo siempre estaba ahí presente / e / Veracruz es un / el turismo es / del mismo México 
+
+E: sí
+
+I: que van a pasar / vacaciones a Veracruz / turismo internacional / pos no / turismo internacional pos está Cancún que / las playas que / pos Veracruz / ni en comparación con las playas que tiene Cancún la Rivera Maya / o Acapulco / o Huatulco Vallarta entonces / eh / el / el vacacionista va a Veracruz / porque tiene familiares en Veracruz y van a pasearse / o porque / es un puerto pequeño / económico y demás sin / sin tantas expectativas / tan caro como si fuera Cancún / va la gente de clase media
+
+E: sí / ¿y cómo ve el misticismo? / yo una vez fui allá / a Catemaco / bueno fui a varios lugares al santo de Guipantla / y / fue por Catemaco / ¿usted cree en ésas? / ¿en los brujos que hay ahí? 
+
+I: <tiempo = “12: 35” /> en el brujo es de San Andrés Tuxtla / pos como tú dices / es misticismo / hay muchos brujos ahí / que limpian y demás / y la gente que va / e / a buscar / una sanación / o un consejo / cosa mágica / ¿sí? 
+
+E: sí
+
+I: y demás / acuérdate que antes // yo leí una novela que se llama El Retorno de los Brujos
+
+E: ¡ajá! 
+
+I: ¿cómo se vestía el brujo / en África? / con su máscara con su vestuario / para crear un / un ambiente de misticismo y de magia también ¿sí? / entonces / y curaba / la gente lo creía y curaba / porque él es curandero / curaba ¿sí? / ¿cómo nos vestimos nosotros? / con una bata impecable / entonces / nos ponemos una disfraz una máscara ¿sí?
+
+E: mjm
+
+I: también / claro que ahora con una metodología científica / etcétera etcétera ¿sí? 
+
+E: pero / ¿usted cree que sea lo mismo / un / un brujo / o un? 
+
+I: bueno / no / pero antes había eso / o eso / antes que no había / la evolución de la humanidad y demás / pos antes la medicina / estaba en pañales y te curaba la abuelita con sus remedios caseros y demás / que era lo que había / ¿sí? / ya el médico era para los que pudieran pagarlo y demás y / muy limitados sus / sus / sus diagnósticos y sus medicamentos / conforme fue pasando el tiempo pues / ya / la medicina moderna y la tecnología que está atrás de la medicina pos es espantosa / entonces / y el costo también 
+
+E: <tiempo = “14: 11” /> usted en / en su pro / bueno ahí en / en su profesión ¿alguna ves ha utilizado la / medicina alternativa?
+
+I: mira / los pacientes de cáncer le van a todo
+
+E: ¡ajá! // 
+
+I: el cáncer es una enfermedad que no tiene palabra / entonces // así sea la clase social 
+
+E: ¡ajá!
+
+I: y la cultura que tenga un paciente / le va a todo 
+
+E. ¡ajá!
+
+I: si tú le dices usted se va a curar si va a ver a un brujo que hay en Catemaco y la / él va / si tiene los pos / económico va / ¿sí?
+
+E: ¡ajá!
+
+I: tiene todas las de ganar / y también nada de perder / entonces esa magia / la medicina alternativa // ya cuando / la medicina ortodoxa / metodología científica no podemos con ella / la gente recurre a la medicina alternativa / y a mucha gente le va bien
+
+E: mjm
+
+I: lo tengo que reconocer / ¿por qué? / le elevan su autoestima / le ponen / sueros le ponen multamina entonces / su contución física se la / mejoran un poco / le hacen // quizás no / le / no le van a detener la enfermedad / pero la van a llevar con mejor calidad de vida / a no hacerles nada / hay gente que le oiga / que le escuche / el médico ya no quiere saber de un caso terminal / ya na / ya / ya su / si nuestra ciensa / ya hasta ahí quedó / entonces / esa gente / pos / tiene un aliciente más 
+
+E: claro / y bueno usted / ¿cree que sí / debería avanzar más en no sé en la extracción de / de algunas plantas medicinales?
+
+I: acuérdate que todas las / las medicinas casi las sacamos de las plantas / el ochenta por ciento / son de las plantas / la herbolaria mexicana / es muy famosa por eso / está reconocida a nivel mundial y / nosotros los médicos lo reconocemos / ¿sí? 
+
+E: mjm
+
+I: ya todo lo sintético como antibióticos o el / la cosa moderna / sí pero / tú con 
+
+E: mjm
+
+I: tratamiento herbolárico / o / normal así / puedes tratar hasta / el setenta por ciento de las enfermedades / te queda un treinta por ciento / para las grandes cirugías / los problemas del corazón o de / o cosas metabólicas y demás con todos los medicamentos que hay y toda la tecnología / pero el setenta por ciento / se cura con tratamiento herbolario 
+
+E: <tiempo = “16: 35” /> mjm // pues qué bueno / ahí en Veracruz dice que hay más / bueno no / no más apertura / pero / el / ¿el día de muertos / es más celebrado que aquí en Monterrey / o en / en 
+
+I: es celebrado allá / quizás igual que aquí / ¿sí?
+
+E: ¡ajá!
+
+I: lo que pasa es que aquí hay mucha influencia / americana
+
+E: ¡ajá!
+
+I: yo tengo dos hijos y mi hija / celebra el Halloween pone toda su casa de Halloween / un nunca la ha puesto de muertos / o quizás yo no la enseñé
+
+E: ¡ajá! / claro
+
+I: ¿sí? / aunque en la escuela ponen el tradicional / altar y demás y cosas de ésas / la // información que tienen en el mercadeo / y demás es que el Halloween y demás entonces / yo siempre les compro / dos o cosas diferentes tods los años de Halloween pa que lo ponga / es una tradición que hay aquí / ¿sí? / hay ya entonces la acompañabas pedir su Halloween cuando eran niños y demás / ahora tiene veintisiete años pero pone su casa de Halloween 
+
+E: ¿y a usted si le gusta la tradición del Halloween?
+
+I: pue s / no me no me no me incomoda ¿sí?
+
+E: y / el dos de muertos / perdón / el día de muertos / ¿cómo lo / celebran?
+
+I: lo que pasa que / todos nuestros muertos están en México o están en Veracruz / entonces aquí no tenemos ningún / nadie ha fallecido gracias a dios / así que no tenemos ni un muertito aquí enterradito / entonces
+
+E: aquí no lo celebran / ¿y cuando era niño allá en Veracruz?
+
+I: pongo una veladora y una flor / siempre / eso sí
+
+E: sí
+
+I: si a caso voy a misa / ora fui a misa que fue el domingo no / pos hasta el domingo voy / fui a misa / ¿sí?
+
+E: sí / ¿y en Veracruz cómo recuerda que se celebraba eso?
+
+I: en Veracruz no se ponían altares / en mi casa nunca se pusieron altares / pero sí me / íbamos al panteón / se lavaba la tumba se llevaban flores / no se ponían altar de comidas allá nunca vi que se pusieran altar de comidas / eso es muy del centro de la república / ¿sí?
+
+E: <tiempo = “18: 35” /> ¿tampoco comían ahí en?
+
+I: no no no / nunca
+
+E: ¿su papá también es médico? / su padre
+
+I: no / mi papá era contador / ya falleció 
+
+E: y / ¿por qué usted decidió estudiar medicina?
+
+I: siempre me gustó estudiar medicina siempre me llamó la atención / y mi papá siempre me apoyó / la carrera que tú eliges estúdiala / tú la vas a estudiar / no yo / la que quieras / eso sí / que sea una carrera universitaria / siempre me lo dijo 
+
+E: mjm / pero ¿nunca le dijo estudia esto?
+
+I: no
+
+E: nunca / ¿y a sus hijos usted igual?
+
+I: tal cual 
+
+E: ¿y ninguno es médico?
+
+I: no / uno es ingeniero / ingeniero agrónom / ingeniero mecánico administrador y el otro está estudia licenciatura en Física / todavía le faltan dos materias 
+
+E: pero ya mero
+
+I: lo que pasa que / el que estudie una carrera de ciencias / es difícil / no es una carrera light como / como estudiar Comunicación / ¿sí? / entonces / e / y tiene una mentalidad / y una / personalidad diferente / a / a otros muchachos que estudian otro tipo de carreras entonces / son necios son / tercos / a veces como si estuviera montado en su nube allá / cosas etéreas / pero así son / hasta que poco a poco / le da el tiempo y los / la vida / los va aterrizando
+
+E: sí
+
+I: así es 
+
+E: ¿usted cuando se enferma / sí acude a otros médicos?
+
+I: sí / tomo medicina pos para una gripita cosa sencilla / pero ya cuando veo / voy con un doctor siempre 
+
+E: siempre busca una especialidad / o 
+
+I: sí que / necesito ir a / soy hipertenso pos voy con un cardiólogo que me atienda la / hipertensión 
+
+E: ¿pero no se / usted solo
+
+I: no / en ese tipo de casos pido ayuda / voy con amigos / voy tómate esto entonces me quieren muchos me hablan por teléfono no has venido vente al chequeo / entonces / me dejo querer / y me va mejor / a / automedicarme no sé de eso entonces mejor no me meto en lo que no me importa
+
+E: <tiempo = 20: 36” /> ¡ajá! / ¿cuando usted daba / daba clases en? 
+
+I: daba yo clases en la Facultad de Medicina / yo fui maestro / en el departamento de Patología Clínica donde veía yo Medicina Nuclear / ahí estaba Medicina Nuclear / y además daba clases a Medicina / y a laboratoristas 
+
+E: ¡ajá! / ¿en el laboratorio qué hacía?
+
+I: hacía lo estudios de Medicina Nuclear
+
+E: ¡ah! ¿sí? / ¿cómo hace un estudio?
+
+I: se necesita tener un equipo especial / una cámara / un instrumento especial para hacer / y necesita el material reactivo / ¿sí?
+
+E: sí
+
+I: tenía yo mucho trabajo y los mejores traba / hice mis trabajos de presentación porque era un / carne de cañón que había a todo lo que da en el Hospital Universitario / aprendí muchas cosas / e / me divertía yo mucho / y me gustaba dar mucho a mí las clases en la / carrera de Laboratoristas Químicos / porque eran grupos de veinte treinta / en cambio en el de Medicina / era un auditorio donde había / cien o doscientas gentes / entonces tú dabas la clase / y a veces tenía una pregunta allá o veces acá pero / muy / como sabían que solamente era un cuatro por ciento mis preguntas / como que iban nada más para / a ver si aprendían o no entonces / no sentías / no había empatía / ni tú con los alumnos ni los alumnos contigo porque no / no / no había comunicación en lo absoluto / en cambio los de / laboratoristas sí / eran más grupos / muchachos y muchas más / te perseguían / te preguntaban / les enseñabas / les vigilaba / ayudaba entonces / era más bonito el trato
+
+E: sí
+
+I: profesor alumno
+
+E: y / bueno / ¿por qué dejó de dar clases ahí en?
+
+I: pues / me compliqué la vida yo trabajaba yo en el Muguerza <observación_complementaria = “Nombre de un hospital privado situado en Monterrey” /> / tenía yo más trabajo / no tenía tanto tiempo / e / otras actividades estaba yendo a en Saltillo a una sucursal entonces / ya se me complicó entonces me retiré 
+
+E: <tiempo = “22: 34” /> sí / y / bueno por el m / ¿qué es lo que hacía / en un laboratorio? / ¿le llegan análisis / muestras?
+
+I: una orden / hágase un gamagrama de tiroides / un paciente tiene una bola en tiroides a ver qué es / entonces / hay que darle yodo / un reactivo tomado / al día siguiente se le toma la gamagrafía en nuestro equipo / que es un detector de radiación gamma / se llaman gamagrafías / e / se forma un impulso eléctrico / el impulso eléctrico lo puedes manejar electrónicamente / y formas una imagen / y esa imagen la interpreto yo / les doy una conclusión / un reporte
+
+E: ¡ajá! / pero ¿ya no toma muestras / que le haga una pequeña / biopsia? 
+
+I: no no / ya es o / otra rama que se llama Anatomía Patológica / yo hago / estudios / de laboratorio y gabinete / ¿sí? de extensión 
+
+E: ¡ajá! / ¿es como / tomar una tomografía?
+
+I: es como si fueras a toma un / un estudio de rayos X / ¿sí?
+
+E ¡ajá! / y usted / ¿para esa especialización hay / poca afluencia? / o 
+
+I: somos pocos / los centros de / entrenamiento son / en México / generalmente
+
+E: y / ¿aquí en Monterrey sí hay buen número de?
+
+I: pos está el San José está el Muguerza / está la Oca / está el Universitario / está en el Seguro Social / nada más 
+
+E: ¿cómo ve usted eso del / Seguro Popular? / me han dicho que a veces van / y hay muchísima gente y no hay lugar para las personas / ¿cree que es bueno?
+
+I: la gente que no tiene Seguro Social porque no tiene un trabajo / no es un trabajador de planta que / pueda afiliarse al Seguro Social / el Seguro Popular / es una opción para la gente humilde o de clase media baja / ¿sí? / entonces / los hospitales que dan ese tipo de servicio son hospitales de salubridad / entonces
+
+E: mjm
+
+I: tú verás el tumulto que tiene la consulta externa / como todos los tumultos que tiene el Seguro Social / entonces baja su calidad / baja entonces / pero ya estando hospitalizado / cambia el panorama / porque entonces sí lo tratan bien / generalmente
+
+E: <tiempo = “24: 42” /> sí / o sea que no es muy fácil que los / hospitalicen no por cualquier
+
+I: no pos no por cualquier cosa
+
+E: ¡ajá! / por ahorrarse camas o / quirófano
+
+I: o no hay 
+
+E: ¡ah! no hay camas 
+
+I: no hay camas para meter todo / no hay 
+
+E: ¿y usted sí conoce el sistema de seguro de estados Unidos?
+
+I: no muy bien pero sí / pos / tú eres un trabajador / tienes derecho a / ahí compran seguros de gastos médicos / la gente porque tiene poder económico / e / hay el / los dos grandes compañías que tratan a ese tipo de gentes / y les dan todo lo demás entonces
+
+E: sí 
+
+I: tienen 
+
+I: hola Edmundo
+
+A1: ¿cómo estás?
+
+I: ¿cómo estás?
+
+A1: ¿está la secretaria por aquí? 
+
+I: no 
+
+A1: no se ha visto
+
+I: no está
+
+A1: ah / no sé qué se haría
+
+I: pos que trabajan los sábados
+
+A1: sí a veces vienen a verme los sábados / así son ellas
+
+I: yo sabía que no iban a venir porque / me dejaron la llave pegada ahí
+
+A1: ¿dejaron la llave ahí?
+
+I: la llave pegada ahí
+
+A1: ¿para? ¿para que tú la?
+
+I: para entrar 
+
+E: este / bueno usted / está muy trabaja generalmente con pacientes / que / están enfermos de / bueno de diferentes cosas ¿no? / este / ¿le ha tocado a usted dar / decirle a una persona que está desahuciado o?
+
+I: no / ésos / hay que ma- / saber uno / hay que saber manejar ese tipo de información / hay que tener tablas / hay que saber cómo decirlo / hay que saber a quién decirlo / ¿sí?
+
+E: sí 
+
+I: no como los americanos / usted tiene un cáncer / y se va a morir dentro de tres a seis meses / punto / así te lo espetan ¿sí? / aquí no / aquí es uno más diplomático / más humano / sacarlo adelante y demás / nunca decir / toda la verdad 
+
+E: <tiempo = “26: 42” /> y a qué cree
+
+I: el paciente / consciente o inconscientemente lo sabe / ¿sí?
+
+E: sí / sí sí 
+
+I: entonces / para qué se lo haces realidad en ese momento aquí y ahora / ¿sí? / y va viendo su / su declive / a veces lento a veces más rápido a veces muy rápido 
+
+E: ¿y usted generalmente cómo analiza a una persona para darle un diagnóstico de ese tipo?
+
+I: yo no trato puro cáncer / yo no soy médico oncólogo / yo soy médico nuclear / aunque sí trato cosas generalmente / pos ya lo tratas con un familiar / 
+
+A1: te dejo
+
+I: te vas / qué algún recado si vienen las muchachas
+
+A1: eh no les hablo por teléfono ahorita / este hay un doctor que se apellida Osorio / y me lo mando Robles de de tópico / con una lesión tres vértebras rotas / con mucho dolor 
+
+I: 
+
+A1: te voy a recomendar que te / platique contigo / la semana que entra
+
+I: para un rastreo
+
+A1: para rastreo y aparte m / manejo sistémico porque debe traer muchas presiones / pero como te faltan para algo de 
+
+I: 
+
+A1: sí
+
+I: me lo mandan ahí de la / de la unidad
+
+A1: 
+
+I: ¡oye!
+
+A1: eh
+
+I: te mandé una paciente de endometrio de la doctora Luvia
+
+A1: Luvia / endometrio / ya la / ya la estoy viendo
+
+I: bueno / déjame decirte lo que pasa que fuimos a / al día del médico al Santander
+
+A1: mjm
+
+I: y la doctora Luvia se sentó con nosotros / se sentó conmigo perdón / se sentó en otra mesa 
+
+A1: mjm
+
+I: y entonces a la semana siguiente / tuvo el caso ése y nos lo mandó / me lo mando a mí / y yo <risas = “I” /> vi que entonces le dije no es para mí ni para el doctor Limón / va con el doctor Díaz / bueno
+
+A1: no le he podido ni hablar / a la pobre mujer / le habló a Medina
+
+I: bueno entonces
+
+A1: 
+
+I: ni modo
+
+A1: una clínica de casos múltiples para no tocarle las cicatrices / hasta el viernes // gordita hipertensa algo de azúcar y total un rollo no
+
+I: otra cosa / vi un paciente a un / contador con un cáncer de / tiroides / lo operó Eulogio Cano del / Rio
+
+A1: mjm
+
+I: y me lo mandó a mí / me dijo es todo suyo / entonces hizo un rastro tirodeo y encontré un / de tomado grande
+
+A1: mjm
+
+I: y toda tráquea 
+
+A1: ¡ah canijo!
+
+I: entoces tomada 
+
+A1: mjm
+
+I: entonces le di / cien de yodo / de yodo / entonces pero además de eso como ya le oferté más cantidad de yodo encontré otras tres / de ganglio entonces le dije que necesitaba radioterapia conformacional 
+
+A1: 
+
+I: eh / le acabo de dar yo este fin / este / el miércoles pasado / este miércoles / esta semana lo di / le dije que estaba para el treinta de noviembre / quince días después / para que empieces tú determinas cuándo ¿sí?
+
+A1: y ayer vi a una mujer con un tiroides / que ya hicimos todo el pr- / trae una bola acá atrás de la oreja esta inflamado / le voy a hacer un rastreo el martes / miércoles o por ahí / para ver bien se me hace si tenemos que manejarle un pedazo más
+
+I: pedazo más / está bueno
+
+A1: esa bronca que trae ahí
+
+I: pero tiene que suspender el medicamento tres semanas
+
+A1: tiene ya nos vemos ____
+
+I: ándale saludos a la comadre
+
+E: aquí en
+
+I: pos no sé de de tu mujer 
+
+E: ándale
+
+I: sí es que perdón por la entrevista ésta / estoy en eso
+
+I: <tiempo = “30: 06” /> ¿qué más?
+
+E: bueno dice usted que / le gustan mucho los mariscos / ¿usted los prepara? / ¿sabe usted prepararlos?
+
+I: yo compro los mariscos en Reynosa / entonces / camarones / ostiones / e / jaiba / y pescado
+
+E: sí
+
+I: el pescado que o sea / me gusta mucho el róbalo / el huachinango / la sierra / hacer ceviche entonces / llevo a la casa mariscos / una vez llevé veinticuatro / jai- / jaibas / pero llegué en la tarde y yo / como / un jueves / dije / oye oiga Petrita pos haga una jaibita / oiga que hice esto no pos dame una jaiba / no hay / ¡cómo que no hay si son veinticuatro las jaibas! / tu mamá y yo nos las acabamos <risas = “todos” /> / ¡viejas gandallas! <observación_complementaria = “aprovecharse de los demás o ser abusivo” /> / como estaban fresquesitas y muy pulposas // en una sentada se echaron seis / cada quien una / la noche esa misma noche las llevé / que llevé // y al día siguiente / yo tenía una comida junto / se echaron otras seis / cada quien / pos se acabaron las dos docenas / y no pensaron en mí <risas = “E” /> / ¡viejas malvadas!
+
+E: <tiempo = “32: 21” /> ¿y ésas cómo las prepara?
+
+I: las jaibas así es con limón y sal
+
+E: ¡ah! / nada más así
+
+I: sí se pelan con limón y sal / o / hay hay / compras pulpa de jaiba / entonces las guisas / como tú quieras hay muchos guisos de jaiba 
+
+E. sí
+
+I: o haces un caldo de jaiba / también
+
+E: ¿cómo sería un guiso de jaiba? / ¿cómo lo hacen? / ¿cómo lo prepara?
+
+I: pues preparas la jaiba / entonces puedes hacer un / m salsa / verde o o / la jaiba es un sabor muy / muy fino así que no puedes ponerle mucho condimento porque entonces matas el sabor de la jaiba // con tomate cebolla / y tantito chilito / las guisas / y ya está 
+
+E: mjm
+
+I: o puedes hacer / empanadas de jaiba / muchas cosas / es el guiso más sencillo ¿sí? / la cocina / veracruzana no es muy complicada / porque tiene la base que es el marisco / y si está fresco / ya la hicistes / el marisco congelado / sabe diferente / ¿sí?
+
+E: sí / ¿el pulpo cómo lo prepara? / digo porque / no sé yo me acuerdo mucho que alguna vez mi mamá compró uno / y lo puso a que a cocer pero queda muy muy duro / o sea no / está muy muy duro y no / o sea lo dejaba cociendo y cociendo y cociendo / nunca se hizo / suave / no sé si porque era / y allá en Durango / lo más cerca es Mazatlán / no sé si ya estaba congelado / o 
+
+I: el muy el pulpo es difícil 
+
+E: ¡ajá!
+
+I: de cocer 
+
+E: sí
+
+I: lo mejor es cocerlo en la olla express 
+
+E: ¡ajá!
+
+I: ¿sí? / y no por mucho cocerlo / se va ablandar / si no se ablanda a la primera cocida ya / tíralo / es un pulpo muy viejo / entonces / ya / vuelvo a lo mismo / tiene que ser un pulpo fresco
+
+E: fresco 
+
+I: lo coces y demás y ya después lo guisas como tú quieras
+
+E: sí // sí bueno es que / bueno allá en Durango / lo que más se hace es el ceviche ¿no? / que es lo / más 
+
+I: <tiempo = “34: 21” /> sí pos compras el pescado y lo metes en / limón a que se coza y luego ya después lo haces como quieras / con piquito de jaiba en tostadas / y muy / muy rico es el ceviche de sierra / cuando haya sierra compras sierra en la pulpa / partes en / lo cubres de limón / toda una noche
+
+E: ¡ajá!
+
+I: al día siguiente le quitas ese limón porque / y ya le pones pico de gallo / en tostadas / y es un delicatesen 
+
+E: ¡ah! / sí sí / bueno también hacía mucho / hay otro que / no recuerdo cómo se llama el / marlín / hacía taquitos de marlín
+
+I: el marlín es del Pacífico
+
+E: ¡ah! / ¿sí?
+
+I: y yo soy del Golfo / yo nunca casi como marlín 
+
+E: a  ¡ah! yo pensé que era igual
+
+I: no / hay mariscos del Pacífico y hay mariscos del Golfo 
+
+E: ah sí
+
+I: entonces son diferentes mar / mariscos / y sabe diferente el camarón / sabe diferente entonces
+
+E: ¡ah! / sí como acá nos queda más cerca el 
+
+I: el / Pacífico pues sí 
+
+E: sí Mazatlán ahí está muy cerca / es lo que hacían allá / ¿y los tamales veracruzanos? / ¿sí también los hacen allá? 
+
+I: ¡ah! / los tamales veracruzanos es otra / es 
+
+E: sí
+
+I: allá / se hace / de masa o de elote / con la hoja de / maíz o la ho- / la hoja de plátano / elote o la hoja de
+
+E: ¡ajá!
+
+I: / ése lo hacen / con carne de puerco / y le ponen una cosa que se llama / una hojita que se llama / acuyo / que aquí le dicen hoja santa 
+
+E: ¡ah! / claro sí 
+
+I: ¿sí? / entonces le ponen la hoja santa / y le da un sabor al tamal / sensacional 
+
+E: sí
+
+I: ¿sí?
+
+E: sí / bueno yo conocía ésa porque mi papá es de Guerrero / y pos allá hacen otro tipo de tamales 
+
+I: de tamal sí
+
+E: también tiene eso que se / le dicen allá hoja santa / pero ahí nada más son con frijoles / es nomás para acompañar / es también así / igual / pero nada más que es con frijoles / son como rollitos así / y también tiene la hoja ésa
+
+I: <tiempo = “36: 21” /> bollitos / hoja de plátano 
+
+E: no no tienen hoja de plátano es / hoja de maíz pero / este / nada más son / es que son raros son como rollitos / o sea los enrollan / y quedan como un tubo / y ya nomás los cortan así / pero sí es muy diferente / varía mucho
+
+I: pos sí / depende de la región 
+
+E: sí sí sí sí / pero sí son muy diferentes los de Veracruz que son / bueno aquí que / son los que más me gustan / que aquí venden 
+
+I: y pueden hacer de dulce / lo hacen de piña los hacen de fresa 
+
+E: ah sí
+
+I: los hacen de coco / o nuez / o 
+
+E: ¡ajá! / claro / ¿a usted sí le gusta el mar? / ¿si / si nada en el mar?
+
+I: claro / sí
+
+E: ¿nunca / ha estado ahí en peligro / que se fuera a ahogar o
+
+I: bueno cuando era yo de chiquillo sí me metía al agua más / ora ya de grande ya / me gusta mucho caminar / a la orilla del mar / descalzo que dé el / me meto a 
+
+E: sí
+
+I: los pies en la arena / y vas caminando / muy agradable / el ruido del mar / te / muy / antiestresante te tranquiliza / y si vas con una gente platicadora y demás / pos / caminas y se te fue el tiempo / rapidísimo ¿sí? 
+
+E: sí
+
+I: en la mañana / que no hay sol en la mañana temprano
+
+E: sí
+
+I: de siete a ocho / o seis ¿vedá? / muy buena hora pa / pa caminar en el mar / que no haya viento porque si hay norte entonces sí es muy desagradable 
+
+E: sí
+
+I: está picado el mar y te molesta pero si está tranquilo / me gusta mucho caminar en el mar / y puedo / y voy a hoteles que den / vista al mar / si no tienen vista al mar / no me den 
+
+E: ¡ajá!
+
+I: no quiero interiores / me tienen que dar vista al mar 
+
+E: sí / la brisa que llega ahí al cuarto y
+
+I: el ruido / el ruido del mar 
+
+E: sí
+
+I: en la mañana / las olas ¡sssss! / el ruido 
+
+E: ¡ajá!
+
+I: el oleaje que / se da 
+
+E: ¡ajá!
+
+I: duermes muy a gusto / la brisita muy rica
+
+E: ¡ajá! / sí / bueno yo no conozco el puerto de Veracruz nada más he estado en / Coatzacualcos / y en Minatitlán también
+
+I: ¡ay! un inmundo Minatitlán 
+
+E: sí
+
+I: la petrolera inmunda 
+
+E: <tiempo = “38: 27” /> sí está muy mal <risas = “E” /> 
+
+I: muy fea 
+
+E: sí sí / pos como ahí vive un tío pos alguna vez fui a visitar ahí / luego se cambió a Coatzacoalcos
+
+I: está mejor Coatzacoalcos que 
+
+E: sí
+
+I: Minatitlán 
+
+E: pero Veracruz no / no la conozco / ha de estar más bonita ¿no? / la
+
+I: el puerto está muy bonito / ¿y en qué año vas de la carrera?
+
+E: e n séptimo semestre / ya me falta un año y medio
+
+I: ¿son nueve semestres?
+
+E: diez 
+
+I: ¿diez?
+
+E: sí / diez semestres de / de Letras / ¿qué es lo que más le gusta leer a usted? / dice que le gusta
+
+I: novelas 
+
+E: novelas
+
+I: me gusta mucho leer novelas
+
+E: ¿cuál es la / una que le haya gustado?
+
+I: bueno Los tres mosqueteros / es mi novela preferida / estoy hablando de Los tres mosqueteros / veinte años después / Y el vizconde de Bragelonne 
+
+E: ¡ajá!
+
+I: que es la secuela de Alejando Dumas / entonces / ¿por qué mi preferida? / porque fue la que leí en la adolescencia / entonces / te imaginas muchas cosas / aprendes 
+
+E: mm
+
+I: las palabras que no entendía yo / las apuntaba y buscaba en el diccionario 
+
+E: sí
+
+I: y entonces leyendo aprendes / un montón de palabras / aprendes a expresarte mejor / es una / de / de aventuras esa novela // muy bonita // otra que me gustó mucho fue / la vida de San Lucas / novelada / por Taylor Cadwell 
+
+E: mm
+
+I: ésa me encantó / porque es la vida de un médico / ¿sí? / ¿sí la has leído?
+
+E: no / no la he leído ésa
+
+I: San Lucas era médico 
+
+E: ¡ajá!
+
+I: es el único evangelista que no conoció a dios / de los cuatro evangelistas que hay / ¿sí eres católico?
+
+E: sí
+
+I: ¿sabes de lo que estoy hablando?
+
+E: sí / un poco / tampoco soy
+
+I: <risas = “todos” /> muy muy / apasionado de la / religión / entonces / es e un evangelista que no conoció a dios / entonces / e / él fue el / escribió una parte del Evangelio según San Lucas / entonces me gustó / todo lo que hace / él estuvo / enamorado / en su juventud / de una persona / que se murió de tuberculosis que antes se llamaba la enfermedad blanca // sí pero nunca más se volvió a casar / después siempre estuvo inquieto porque / él / veía la cruz entonces el / cristianismo / estudió Medicina en Alejandría / que era la / donde / la mejor facultad de medicina que había en aquella época / Grecia / entonces fue un gran médico él / más a parte hacía muchos milagros / curaba / a través de milagros porque estaba influenciado por dios entonces / es una novela / romántica quizás / me gustó mucho / y quizás porque soy médico me identifico más 
+
+E: <tiempo = “41: 07” /> ¡ajá! / ¿novela / bueno / autores / hispanoamericanos o mexicanos no?
+
+I: ¡ah! pues Gabriel García Márquez me gusta mucho / e // yo con García estaba yo peleado / cuando era yo joven / a mí me gustaba leer cosas realistas 
+
+E: mjm
+
+I: entonces leo esa novela / y no me gusta / porque no le entiendo / ¿sí?
+
+E: mjm
+
+I: mi pensamiento no entendía / entonces / me / hice mi servicio social en Petróleos en Ciudad Juárez / entonces me metí a la UT / a llevar una / una mat- / dos materias de literatura / y llevé una / y había un doctor guatemalteco / ¿ya leyó el libro? ¿qué le pareció? / no me gustó / no le gustó ¿no? / no no me gustó / y ¿por qué no le gustó? / entonces me dio / novelitas cortas cuentos cortos mágicos / y me / enseñó / a apreciar / el realismo mágico / todo lo que tú ya sabes entonces / volví a leer la novela / y entonces / ya aprecié / y entonces / ya cuando terminé la Medicina y demás / mi interés era eso / aprender / si lees una novela que algo te deje / entenderle / empiezas a que / cuál es el argumento cuál es el / un montón de cosas que / que tienes que aprender cómo es entonces eso
+
+E: <tiempo = “42: 36” /> ¡ajá! / ¿y sí se da tiempo digo porque / cuando era estudiante de leer / aparte / novelas
+
+I: sí leía yo mucho / ya dejé de leer bastante pero sí leo mucho
+
+E: digo porque cuando / estudias Medicina también lees muchísimo
+
+I: ¡ah! no sí / al estudiar medicina o estudias Medicina o estudias Medicina / pero ya después que estudies medicina / entonces / en el servicio social tenía yo mucho tiempo / yo veía / trabajaba en petróleos / de siete a dos / un paciente promedio veía / no / entonces / estudiaba yo un rato para presentar el examen profesional / y leía yo novelas / y en la noche pos / yo no conocía Ciudad Juárez / y no podía salir todas las noches entonces / yo me quedaba a veces hasta las doce una de la mañana leyendo 
+
+E: mjm / sí / ¿y todavía se sigue preparando / leyendo de medicina? / temas 
+
+I: sí / en esa época leí una novela que nunca entendí / la curiosidad mm / me gusta mucho leer / porque mis padres leían mucho
+
+E: sí
+
+I: y eso influye mucho / y mi papá novelas y demás / entonces había una novela / Buenos días tristeza / de François Sagar / la escondían / para que no / pos un día / ya / se la leyeron punto / y yo la pepené y la leí / a escondidas / no le entendí ni madre <risas = “E” /> / pos a esa edad / entonces / cuando ya después que estaba yo de médico / la volví a leer la novela esa / y ya entendí pos / no era que no tenía capacidad no sabía muchas cosas / que se plantean ahí ni idea entonces / no le entendí por eso
+
+E: sí
+
+I: ya después ya / ya le entendí todo <risas = “todos” /> / la volví a leer / y / hace / el año pasado / o hace dos años / decidí / desaparecer / más del cincuenta por ciento / de toda la biblioteca que tengo / o que tenía / ya no puedo poner un libro más / en el librero / se caen / ya no caben / entonces // voy a quedarme con los libros / que más quiero / con los / hay un libro que tiene veinte años ahí 
+
+E: mjm
+
+I: que no tengo ganas de volver a leerlo / sale loco de contento / nomás esperando polvo tengo que sacudirlo tengo entonces / sale 
+
+E: sí
+
+I: los libros tan caros como están 
+
+E: <tiempo = “45: 05” /> sí 
+
+I: qué problema es deshacerse de los libros ¿sí?
+
+E: sí
+
+I: hablé / a cinco / bibliotecas / y nadie me los quiso aceptar / ¿están clasificados? / no señorita / ¡ah! no si no están clasificados no / así me contestaban / entonces los tenía yo en un pasillo / tengo / una casa que tiene dos puertas / una puerta lateral para servicio / ahí los puse / por ahí entraban / los muchachos del agua / y los veían / y ¿esos libros que están ahí? los voy a tirar / lo que pasa que me daba / escozor / comezón tirarlos a la basura / dije pos para que se limpien la cola pos no / a / alguien que les sirva / que los lea <risas = “todos” /> / y me dijo / ¿qué va hacer? los voy a tirar / ¿quieres llevarte? / sí / se llevó tres / a los cinco minutos volvió a tocar la puerta / mi compañero dice que también quiere / llévate los que quieras / y así fue / fui regalando deshaciéndome de los libros / énfasis> me costó como dos meses deshacerme de los libros / pero yo quería que se los llevara alguien / que lo iba a leer y después / pásalo / yo compro un libro / y en mi casa lo lee mi mamá lo lee mi hermana / y mi hijo a mi hija no le gusta leer / bien floja / el libro / circula / termina de circular / y yo / lo dono / lo regalo / para que siga circulando 
+
+E: pues sí
+
+I: los libros son para leerse no para tenerlos en un librero guardados / o colgados 
+
+E: sí
+
+I: claro que es lo que pienso orita / antes / ¡ah! no mis libros no ¡cómo! 
+
+E: sí <risas = “todos” /> 
+
+I: cómo me voy a deshacer de él / pos / ¿y luego? 
+
+E: sí
+
+I: ya después pos ya más viejo te vas haciendo más práctico / entonces 
+
+E: sí / ¿cómo ve el problema de lectura aquí en México?
+
+I: pos / pésimo / la gente no lee / y los libros tan caros / pos pior 
+
+E: sí
+
+I: ven la televisión / quizás ahora el Internet o / la computadora pues en leer los libros pero no sé si los lean / yo soy / de la era / de máquina / Olivetti / portátil 
+
+E: ¡ajá!
+
+I: no me saques de ahí / ahora la computadora porque todos los sistemas vienen computarizados y de más / pero / que yo tenga una computadora no
+
+E: ¡ajá!
+
+I: que yo lea un correo electrónico / menos / ¿sí? / mi secretaria me mandaron un correo etroico / para leerlo me lo pasa en la hoja y ya leo lo que me mandaron / a la oficina / es el que doy / el teléfono / me costó cuatrocientos pesos / pero esto po / no me interesa / yo el teléfono lo tengo / para que me hablen de mi casa si hay una urgencia / yo no soy de los que me cuelgo por teléfono no / para eso lo tengo / para eso lo cargo / para una urgencia / yo gasto cien pesos cada mes / del teléfono / no gasto más 
+
+E: ¡ajá!
+
+I: yo no hablo por el celular como veo que todo mundo / no / me mandan un mensaje / no / o me hablas por teléfono / yo no leo los mensajes / eso es muy fácil / no me interesa / no quiero / ser parte de la mercadotecnia / ahora / cada rato se andan mandando mensajes / / hacen mil / se ha aumentado el número de llamadas / de celular / que las del teléfono normal 
+
+E: <tiempo = “48: 33” /> sí / mmm / ¿cómo ve usted la crisis aquí en México? / crisis económica
+
+I: pos sí hay mucha gente pobre 
+
+E: mjm
+
+I: muy pobre / y 
+
+E: sí
+
+I: en mi época de joven era más fácil / ganabas más / y gastabas menos porque la cosa era más barata / entonces te sobraba para hacer muchas cosas / ahora / te pagan menos / y las cosas cuestan mucho / ¿cómo es posible que un profesionista salga y le paguen nueve o diez mil pesos? / es lo que les pagan / todo lo / todo en general / ¿sí? 
+
+E: ¿entonces usted / gana menos ahora que lo que ganaba / cuando era joven?
+
+I: pues sí ganaba / 
+
+E. sí
+
+I: pero / batallé pero ya con la experiencia con los años y demás / no es / la gente joven / yo / en el servicio social / ganaba / seis mil ochocientos pesos que era el sueldo el nivel que tenía yo / más ciento veinte pesos diarios de viáticos / yo vivía / con los viáticos // ¿sí?
+
+E: sí
+
+I: mi suegro los guardaba y con eso / pagué dos años de mi especialidad / y mantenía la fa / a la casa / a ver si ahora lo puedes hacer
+
+E: no pues no / bueno yo tengo algunos amigos que acaban de salir de Medicina / y bueno sí dicen que están batallando muchísimo incluso para presentar su examen / profesional / y más ahora que lo venden / y todo eso
+
+I: sí
+
+E: es muy difícil / ¿usted cómo ve eso del / examen profesional?
+
+I: pos un fraude 
+
+E: ¿antes cómo era / presentaba igual también?
+
+I: <tiempo = “50: 39” /> lo que pasa es que ahora / aumentaron la Facultad de Medicina su / su proporción de alumnos que saca / pero las plazas para especialidades son tres mil quinientas en todos los hospitales / y salen veinticinco mil gentes 
+
+E: sí / mjm / ¿usted cree que lo hayan visto como un negocio también las familias de tener un médico en casa o?
+
+I: pos no / lo que pasa / bueno / el médico siempre tienen un / estatus ¿no? / está como el cura el / presidente municipal el / y el médico eran / los chingones <observación_complementaria = “forma vulgar de decir poderosos” /> del pueblo / <risas = “I” /> eran los que tenían / la autoridad moral y / ¿no? / pos es el / la tradición de que / siendo médico ¡ay ya! / tienes un sacerdote ya tienes la salvación eterna ¡sí chuchis! <risas = “todos” /> / sí con sacerdote ya están salvados / un sacerdote un mariconazo <observación_complementaria = “homosexual” /> / pederasta y más ss
+
+E: pues sí 
+
+I: digo / ¿cuál yo tengo la salvación? / ¿no?
+
+E: sí / sí
+
+I: que ya se ha visto 
+
+E: sí
+
+I: y ya salió a la luz a nivel mundial ya / le restregaron a la iglesia todo lo que la la / entonces
+
+E: sí
+
+I: sigue igual de obsoleta y demás y todo / en Europa / las iglesias están vacías / hay gente porque van los turistas a ver la arquitectura / pero a misa / ni en España van / que se supone que es un bastión católico a todo lo que da / ¿sí?
+
+E: sí 
+
+I: porque ya no te / ya no me puedes convencer con la salvación eterna / y el pecado que me voy al infierno y / punto y demás / está como / preguntaba yo bueno / ¿cuál es el problema de Chiapas? 
+
+E: mjm
+
+I: yo no entendía / pos me dijo un chiapaneco es muy sencillo / en Chiapas un país muy rico / con todo lo que tiene ¿sí? / manejado por un cacicazgo / coludido con la santa Iglesia 
+
+E: <tiempo = “52: 49” /> sí
+
+I: ¿sí? / tiene todos los indios / como si fuera lista de raya estamos hablando ant- de antes de la revolución / así están igual / ¿sí? entonces llegan Iglesias que están en el campo / no como la Iglesia católica que estás acá 
+
+E: sí
+
+I: yo te doy / te perdono los pecados cada vez que venga y / le das la limosna y te // la vida eterna va a ser para ti / te dan de trabajo / al / varón / lo sacan de la cantina 
+
+E: sí
+
+I: ya a la india ya no le pegan
+
+E: mjm
+
+I: ¿sí? / le dan / algo para que haga manualidades esa india / le dan uniformes y escuela a sus hijos / ¿de qué religión quieres ser? / de la que sea / pero le están resolviendo su aquí / ¡y su ahora! / ¿sí?
+
+E: sí sí sí
+
+I: en cambio la iglesia católica / ¿qué hace?
+
+E: <tiempo = “53: 47” /> no pues al contrario ¿no?
+
+I:  ¿qué hace? 
+
+E: no pos
+
+I: se colude con el pinche cacique / el pinche cacique tiene aquí al / cura aquí con viejas y con / viajes y / comida y todo lo que tú quieras / ésa es la realidad 
+
+E: sí
+
+I: pos así está el problema / pos por eso fue 
+
+E: claro 
+
+I: entonces por eso / sí soy católico voy a misa cuando quiero / una cosa es la Iglesia otra cosa es // los que manejan la iglesia 
+
+E: sí
+
+I: este papa que tenemos es un retrógrado / otra vez la misa en latín y las balas al pueblo / ¿quién chingados sabe latín? 
+
+E: <risas = “E” /> / ni los que estudian yo creo eso
+
+I: entonces ¿no vas para atrás?
+
+E: sí
+
+I: <tiempo = “54: 43” /> vi un programa / a fin de año alemán / de tres capítulos / de de hora y media / dos mil años de la iglesia / desde Jesús / hasta / pos / cómo inició / cómo era la Iglesia la evolución / todos los conflictos que ha tenido / y todos los errores garrafales que ha tenido la Iglesia / que nunca ha querido reconocer / ah el año pasado acaba de reconocer que sí Galileo Galilei tenía razón <risas = “I” /> al chingado de / quinientos seiscientos años después / pos así va el retraso pos así está / entonces eh / el pleito con / el alemán ¿cómo se llama? este / Lutero 
+
+E: sí
+
+I: que tenía razón como que / te doy / una cantidad de dinero si me perdonas todos los pecados y la especulación / todo / todos los Borgia to todo / salió todo / y es verdad n o estaba / no estaba diciendo nomás que puros / datos históricos comprobados / nada que yo pienso que yo digo / ¿sí? / ahí está / cómo es eso / no es cierto que antes los padres tenían que ser / sí eran casados y demás / ora ¿por qué? / ¿por qué la Iglesia lo dice? / le quitas la naturaleza al hombre bueno pues / córtasela y / y ya o algo / pero pos / es un hombre / con deseos e instintos sexuales / no tiene que reprimirlo / entonces / mamadas <observación_complementaria = “forma vulgar de referirse a una cosa” /> de ésas / entonces están todos los desvíos / y la Iglesia ocultándolos para tener el poder el control 
+
+E: sí
+I: que ya se perdió
+
+E: sí pues sí ya
+
+I: ¿ya quién cree en ellos? / a ver los seminaristas / o se meten y al rato se rajan dicen ¡ay! que chinguen su madre / ya me voy a mi casa / a ser feliz / ésa es la realidad / entonces si la Iglesia no quiere dar un cambio pos ahí se va a acabar 
+
+E: claro 
+
+I: todas esas Iglesias / que salen al campo a trabajar y demás pero / pero le están dando / resolviendo sus problemas a esas personas 
+
+E: sí
+
+I: ¿la Iglesia católica qué les resuelve? / lleva mi bendición hijo mío / ¿los ayudará? 
+
+E: <tiempo = “57: 01” /> con eso no comen / ni viven ni nada 
+
+I: soy católico pero 
+
+E: pues sí <risas = “E” /> 
+
+I: la Santa Inquisición / ¡hijos de su! / ¡ssss! 
+
+E: pues sí
+
+I: el no defender a los judíos / también es otro / ¡se la tienen guardada! 
+
+E: pues sí / lo bueno que ya 
+
+I: 
+
+E: bueno ya / ya nada más le aplico un cuestionario rápido / ¿cuál es su nombre completo?
+
+I: ____ ________ ________ ___________ 
+
+E: ¿su edad?
+
+I: sesenta y uno
+
+E: ¿es casado verdad?
+
+I: divorciado 
+
+E: ah ¿su dirección?
+
+I: Porfirio Díaz / seiscientos ocho sur / Monterrey Nuevo León 
+
+E: Es en el centro / ¿su teléfono?
+
+I: ¿para qué quieres el teléfono? 
+
+E: el de su casa es / no pues nada más / para referencia
+
+I: Cuarenta y dos / noventa siete seis
+
+E: Es católico me dijo ¿vedá?
+
+I: Pues
+
+E: Nació / Veracruz Veracruz ¿verdá?
+
+I: Veracruz Veracruz 
+
+E: mm ¿cuándo vivía en Veracruz nomás era estudiante usted o? / ¿no trabajaba allá?
+
+I: no / terminé la facultad de Medicina y ya salí de Veracruz y ya no regresé 
+
+E: <tiempo = “59: 09” /> y / ¿en qué otros lugares ha vivido? / dice que ahorita está viviendo en Reynosa ¿verdad?
+
+I: no / voy y vengo
+
+E: ¡ah! ¿nada más va y viene?
+
+I: yo vivo aquí en Monterrey
+
+E: ¿ha vivido en algún otro lugar?
+
+ Fin de la entrevista
+
+
+

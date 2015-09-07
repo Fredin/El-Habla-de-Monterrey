@@ -1,0 +1,18 @@
+{
+    "contents" : "Todo list:\n\n* Do LDAvis\n* Git project\n* Complete Metadata",
+    "created" : 1440196740622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2270508800",
+    "id" : "6CD0BA48",
+    "lastKnownWriteTime" : 1441034241,
+    "path" : "~/hablaMty/toDo",
+    "project_path" : "toDo",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "text"
+}

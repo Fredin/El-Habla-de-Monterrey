@@ -1,0 +1,963 @@
+﻿<Traes audio_filename = “MONR_M22_HMP059.MP3” xml:lang = “español”> 
+<Datos clave_texto = “MONR_M22_HMP059” tipo_texto = “entrevista_semidirigida”> 
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” país = “México”/>
+
+<Grabacion resp_grab = “Susana Maribel Aguirre Ortega” lugar = “en una estética” duración= “62´02´´” fecha_grab = “2006-07-22“ sistema = “MP3”/>
+<Transcripcion resp_trans = “Flor Nelly Carrillo Torres” fecha_trans = “2007-04-27” numero_palabras = “11187”/> 
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2007-08-13”/>
+<Revision num_rev = “2” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-08-04”/> 
+<Revision num_rev = “3” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-06-21”/> </Datos>
+<Revision num_rev = “4” resp_rev = “Dalina Flores Hilerio” fecha_rev = “2011-10-25”/> </Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Lorena Victoria Campos Garza” codigo_hab = “I” sexo = “mujer” grupo_edad = “2” edad = “38” nivel_edu = “2” estudios = “Técnica en enfermería" profesión = “enfermera general" origen = “Monterrey" papel = “informante"/>
+<Hablante id = “hab2" nombre = “Susana Maribel Aguirre Ortega" codigo_hab = “E" sexo = “mujer" grupo_edad = “1" edad = “26" nivel_edu = “3" estudios = “estudiante de maestría en Ciencias con especialidad en Lengua y Literatura” profesión = “estudiante y empleada" origen = “San Nicolás de los Garza" papel = “entrevistador"/>
+<Hablante id = “hab3" nombre = “desconocido" codigo_hab = “A1" sexo = “hombre" grupo_edad = “desconocido" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “desconocido" origen = “desconocido" papel = “audiencia"/>
+<Hablante id = “hab4" nombre = “desconocido" codigo_hab = “A2" sexo = “mujer" grupo_edad = “desconocido" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “desconocido" origen = “desconocido" papel= “audiencia"/>
+<Hablante id = “hab5" nombre = “Diego Garza" codigo_hab = “A3" sexo = “hombre" grupo_edad = “ninguno" edad = “10" nivel_edu= “1" estudios = “primaria” profesión = “estudiante" origen = “Monterrey" papel = “audiencia"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1 = “desconocidos” rel_ent_aud1 = “no” rel_inf_aud2 = “conocidos” rel_ent_aud2 = “no” rel_inf_aud3 = “conocidos” rel_ent_aud3 = “desconocidos”/>
+</Hablantes> </Trans>
+  
+
+E: bueno / buenos días 
+
+I: buenos días
+
+E: mucho gusto por haber permitido que después de hace veinte años / viniéramos y la encontráramos / para volverle a hacer / a ver que nos platicara un poquito a ver cómo / cómo ha visto la evolución ¿verdad? / de hace veinte años / ahora // qué / ¿qué me puede contar? / por ejemplo / en la actualidad / ¿qué es un día / normal / para usted?
+
+I: un día normal para mí pues es / e / levantarme temprano / meterme a bañar / arreglar las cosas para irme a trabajar / yo entro a las siete de la mañana y salgo a las tres de la tarde // posterior a eso / tengo actividades en la tarde / yo tomo / clases de danza / lunes miércoles y jueves / y todos los días / de martes a viernes llevo a mis hijos a la natación // posterior a eso vengo y les doy de cenar / este / preparo las cosas para el otro día / y así es mi vida diaria
+
+E: ¿y / y en su trabajo / qué / qué hace?
+
+I: yo soy enfermera
+
+E: ah / ¿en en qué hospital / o 
+
+I: estoy en la clínica treinta y tres / soy cubre vacaciones y cubro regularmente áreas claves como quirófano / urgencias / urología / cirugía ambulatoria // este / terapia no porque no me gusta
+
+E: ajá / entonces / por ejemplo / no sé / ya me imagino que a la estas alturas de / del partido ya no / no se pone nerviosa o / no sé me imagino que / ha estado // dentro de las operaciones ¿no?
+
+I: sí
+
+E: ayudando / auxiliando / al doctor / ¿y qué es lo que / más impactante que ha visto usted / en una / en una operación?
+
+I: bueno mire yo he tenido experiencia con / pacientes / de todas las calidades / estuve nueve años en el hospital veinticinco como eventual / y / durante esos nueve años yo estuve en el quirófano entonces / sé lo que es una cirugía de corazón abierto / sé lo que es una / cirugía de cerebro / este / o sea / cirugías de alta magnitud ¿no? / aquí en el hospital treinta y tres se maneja relativamente cirugías // prácticamente son cirugías ambulatorias / entra el paciente / se opera / sale y se recupera de ocho a / a diez horas / o hasta menos tiempo / y egresa el paciente / entonces cuando yo estaba en el veinticinco / pos eran pacientes que / de estancias de / de tres a quince días / dependiendo de la evolución de cómo haya / este / sucedido lo de las / lo de la cirugía ¿no? / entonces es / una gran dimensión en / cuanto a calidad de pacientes
+
+E: <tiempo = ”02:33”/> y por ejemplo / ¿de ante / o sea / e / ¿hace veinte años usted también era enfermera?
+
+I: iniciaba / e / hace veinte años / yo tengo / quince años de antigüedad dentro del Instituto <observación_complementaria = “se refiere al Instituto mexicano del seguro social“ /> / y prácticamente / este/ yo apenas iniciaba la carrera de enfermería / hace veinte años / y entonces este/ estaba en la escuela apenas cuando empezaba / y / e / yo estuve en un hospital particular / haciendo la carrera / y es muy diferente la calidad de pacientes / en cuanto a atención / en cuanto a calidad de atención / en cuanto a todo / o sea 
+
+E: ¿y cuál cree usted que tiene más atención? / por ejemplo usted / ya vio los dos // los dos polos ¿verdad? // ¿quién cree usted que tenga mejor atención?
+
+I: lo que pasa que en cuestiones de a nivel privado / pues la atención es más directa con el paciente y más constante porque nada más tienes 
+
+E: uno
+
+I: uno o dos pacientes / y acá son / trece pacientes que yo tengo yo que atender / entonces 
+
+E: ¿en un turno? 
+
+I: es una / es una gran / este / dimensión ¿verdad? / son cuatro cinco veces más el volumen de pacientes que manejamos acá adentro del instituto / que en un hospital privado. 
+
+E: ¿y ha visto la evolución de las enfermedades? / o sea / ¿usted ha visto por ejemplo / no sé / de que antes no se presentaba un tipo de enfermedad y ahora es más constante?
+
+I: sí 
+
+E: por ejemplo 
+
+I: ha cambiado mucho la / m / acá / cuando yo estaba en el veinticinco / este / pues decías / un clivaje de aneurisma / pues ¿qué es eso? / o sea / lo veías en el libro pero en realidad decías ¿cuándo voy a ver yo un / un / aneurisma / aórtico / de cerebro / o equis <observación_complementaria = “ expresión que se refiere a algo de poca importancia o comúnmente es usado como sinónimo de etcétera“ /> / y aquí es muy común / en en / en nuestro / en nuestro estado / es / muy común ver ese tipo de pacientes / este / que tal vez lo deriven de otros estados / pero sí es / muy común ver eso aquí / en el hospital veinticinco / porque es un / hospital de gran especialidad / entonces todos los casos difíciles los mandan / a / a este / hospital 
+
+E: <tiempo = ”04:32”/> y por ejemplo ¿le ha tocado / cuidar a / enfermos así de sida?
+
+I: sí / he visto / bueno desgraciadamente como yo soy cubre vacaciones / este / una semana puedo estar aquí / un día puedo estar allá / claro que a mí me dan / me asignan un rol / ¡ah! y te digo yo / regularmente / tengo roles en / áreas claves / o sea siempre / como aquí en el hospital / las áreas claves están en el primer piso // escasamente ando yo allá en piso / en la torre donde están los internamientos de las especialidades
+
+E: ¿y es?
+
+I: este 
+
+E: sí es cierto de que / e / dependiendo el nivel / es el grado de / pues / la gravedad que tenga el paciente?
+
+I: bueno aquí en el hospital lo que pasa que / como / ahorita estamos trabajando a un ciento diez por ciento // porque hay mucho paciente / o sea el paciente nunca se acaba // entonces estamos trabajando a un ciento diez por ciento / tú ves en las áreas de urgencias / y están / saturadas / ves en piso y está saturado / están haciendo fila los pacientes para entrar / entonces ahorita es / u 
+ 
+A1: ¿está 
+
+I: todavía no llega
+
+A1: ¿a qué horas llega?
+
+I: no sé
+
+A1: 
+
+I: pero Carlos lo anda buscando y / no ha llegado // y entonces este / entonces haz de cuenta que es / muy poca la capacidad del hospital / y mucha la capacidad de pacientes 
+
+E: sí
+
+I: entonces ahorita / está crítica la situación en cuanto al / al sector salud
+
+E: <tiempo = ”05´55´´”/> ¿y usted sí se ha encariñado con alguno de los pacientes? / o sea le presta / no es que usted le preste más atención sino que / ve la necesidad de / me imagino de trece que le toca cuidar / hay alguno que / me requiera más su atención y usted se lo da / m e imagino ¿no? / se encariña con ellos
+
+I: lo que pasa que mira / aquí / no t- / no podemos / nosotros / aquí es una máquina del tiempo // ¿sí? / es / es constante / tú no puedes tener a un contacto directo con el paciente / o lo tienes / pero nada más en / es en momentos / ¿sí? / suponiendo que yo estoy en un área / de ambulatorio / yo voy a / a esta r / este / atendiendo a los pacientes los mando a quirófano / espero que regresen de quirófano / les checo la sonda / le checo el / el suero / le pongo medicamentos para un dolor equis / este es el único contacto que yo tengo en ese momento con el paciente // ¿sí? / entonces / van llegando conforme va pasando el tiempo / van llegando los pacientes entonces / haz de cuenta que es / breve el momento en el que yo les / doy ese / tipo de atención / igual y si yo ando en piso // pos si yo tengo un rol en piso entonces sí / y ellos ven la calidad de atención que tú les brindas porque / este / ellos no constantemente te ven / si le digo / a mí me / me preguntan cuando yo ando en piso me dicen / oiga señorita ¿usted es nueva? / le digo no / dentro del instituto tengo quince años de antigüedad / dijo pero es que usted nunca había venido aquí le dije no / lo que pasa que / yo / estoy en un área / de quirófano le dije ahorita / ando acá afuera le digo porque no hay rol allá abajo / me pusieron acá arriba / a que viniera a atenderlos a ustedes dice es que / es / trabaja muy diferente a como están las señoritas aquí / que es gente que ya está mecanizada que es gente que tiene contacto diario con ese tipo de pacientes ¿verdad? / entonces haz de cuenta que ellos ya / ya tienen una norma en / de cómo trabajan ellos / entonces nosotros vamos // que no estamos acostumbrados a manejar a los pacientes así de ese tipo / que estamos en otra área / entonces haz de cuenta que es un / mundo muy diferente 
+
+E: entonces ¿por su profesión es muy difícil / no sé salir de paseo s o / o tener una vida más personal ¿verdad?
+
+I: <tiempo = ”08:01”/> sí / bueno aquí / pues / tenemos nada más nuestra jornada / y / un horario establecido / si tú quieres lo cambias ya cuando eres de base / cuando eres eventual / pues sí te train de tarde de día y de noche / tarde día y noche o sea / y tienes así un / cuando yo estuve de eventual / haz de cuenta que / para mí era / demasiado / traumático ¡vaya! porque / pues no estaba acostumbrada a andar en la noche en la calle / y hasta la fecha yo en la noche yo aquí / si le preguntas a ella porque ella es mi vecina de aquí a mí no me anda viendo en la noche ¿verdad?
+
+A1: mjm
+
+I: o sea / yo aquí lle- / ya dan las ocho de la noche y yo ya no salgo / y no me gusta andar que / trayendo mandaditos / que a la tiendita / no / yo aquí compro todo y / pero yo en la noche no salgo entonces para mí era muy difícil / de que a mí me dejaran a doblar en la tarde // y mis / traslados / porque anteriormente yo no traía coche y mis traslados eran // venirme de allá del hospital veinticinco / trasbordar en Arteaga / trasbordar en el mercado Juárez / o en la Alameda / y tú sabes que de las ocho / cai la noche ahí y en esos lugares 
+
+E: sí / muy peligroso 
+
+I: y está peligroso ¿verdad? / y lo que se tardaba el camión / y todo lo que tú quieras entonces para mí sí era muy difícil / este 
+
+E: y por ejemplo ahorita / ¿aquí donde usted vive / es / es / e / seguro?
+
+I: no / este / bueno aquí / siempre la colonia / yo tengo aquí toda mi vida viviendo aquí / y siempre / la colonia ha sido un / una zona de conflicto / pero tiene sus árias / aquí / nosotros son muy tranquilo / este / pero / viene gente / de otros lugares / o gente que baja de allá de arriba / y son los que vienen a hacer el problema
+
+E: ajá / entonces en sus ratos libres por ejemplo / ¿va de pase os o 
+
+I: sí / o sea / hago mi / mi vida 
+
+E: normal 
+
+I: viajo / con mis hijos / este 
+
+E: ¿de qué / qué lugares ha visitado?
+
+I: conozco Cancún / Puerto Vallarta / Acapulco / Guadalajara / Guanajuato 
+
+E: ¿le gustan mucho las playas? 
+
+I: sí / pues sí me gusta / me gusta pero me / le / tengo mucho miedo al mar <risa = “E”/> le tengo mucho respeto al agua así en sus grandes dimensiones
+
+E: <tiempo = ”10:04”/> sí 
+
+I: hace / tres años viajé a Cancún / pero me fui sola / no llevé a mis hijos / me fui con mis papás / y una familia de mi mamá / este / mis hermanas / dos de mis hermanas la suegra de / de / iba un grupo grande / éramos trece personas / y yo me fui sola // y este / y fue la primera vez que viajé en un ferry / o en un yate / porque no / me decían mis tías / me preguntaban / ¿te sientes bien? / sí pero no me estés hablando <risa = “I”/> / porque / me angustia demasiado / y como no sé nadar
+
+E: ¿sí?
+
+I: entonces es / es una angustia / tremenda / el hecho de subirte a un avión / también / se siente / horrible / el bajar y subir / es una cosa / esplendorosa le digo que cuando / después como a la semana / oye me dio un dolor en el pecho dije ya me infarté // y decía 
+
+E: ¿la presión verdad?
+
+I: ¡ay! / sí / que haz de cuenta que / este fui a consultar y me dice el doctor / pero es que no tienes nada le digo / le digo es / un infarto no es no doctor le digo si hubiera sido un infarto ya me hubiera muerto / le dije acabo de llegar de viaje / subí a un yate / subí al avión le dije entonces / ya me hubiera muerto / a la mejor es una contractura o algo que / traigo por ahí / dijo pos yo creo sí / pero / era / una cosa así 
+
+E: es que impone ¿verdad? / el mar impone / y es / no sé me imagino que en todos esos lugares que ha visitado / las tonalidades de azul / es 
+
+I: decía mi hermana / decía este / vente / cuando íbamos a / al / fer / en el ferry / que íbamos a Cancún / a Cozumel // decía / vente mira acá / te avienta la brisa bien padre el / no no no / ni me estés diciendo / no no oye / tú vete yo aquí me quedo / no porque a mí me / o sea es / una angustia tremenda / una vez que fuimos a Tampico / mi papá quería cruzar el río Pánuco // de Tampico a Tampico el viejo / que ya es parte de Veracruz // mis niños estaban chiquitos / y pues cruzarse en una lanchita obsoleta ¿verdad? que dices / no 
+
+E: tener miedo que se vaya 
+
+I: <tiempo = ”11:56”/> sí / sí o sea una cosa / oye pos andaban patrullando / el / el río Pánuco porque quería entrar un barco y el barco venía contaminado / o sea andaban las lanchonas ahí de las patrullas // este marítimas // y / dice papá ¡ándale! vamos / no no le digo yo aquí me quedo / y abajo del puente donde toman las lanchas / pos está feo ahí el lugar // dijo no ¿cómo te vas a quedar aquí? / oye ya nomás vi que mis hijos se treparon a la lancha / ¡i ! dije no // no puede ser posible / no pos haz de cuenta / ¡ándale! / ¿ahí te vas a quedar? / dije no pos no / oye yo iba / de unas varillas el techito / obsoleto de / de la lanchita y / oye iba bien pescada / como si eso me fuera a salvaguardar ¿verdad? / y / y luego / que nos paran a medio río / yo veía inmenso el barco que estaba a la orilla de / de l / del muelle
+
+E: ¿sí?
+
+I: y veía para el otro lado y / y era una gran distancia todavía para cruzar / y la lanchita se quedó así / ¡ay! / porque no podíamos pasar / porque iba el lanchón y levantaba olas / ¡ay no no! / era una cosa especial
+
+E: ¿y cuánto tiempo quedó en ese / a lo mejor pasó muy poquito tiempo ¿verdá? pero con la / con la angustia / ¿no? 
+
+I: a mí se me hizo eterno yo creo era n / diez minutos / pero / era / una eternidad para mí porque te digo es muy angustiante estar a / así / y este / dije ¡ay diosito santo! / ¡a y! / que no vaya a quedar aquí / que no vaya a quedar aquí pero / para mí es un gran temor el agua / así / sus grandes dimensiones / cuando llueve
+
+E: pero los paisajes ¿verdad? / bien bonitos / y todo eso 
+
+I: son preciosos / se te olvida por un instante pero / no queda de que / o sea / aquí tienes grabado ¿verdad? que el agua te hace daño
+
+E: y aparte por ejemplo de viajar ¿usted acostumbra ir a misa? // por ejemplo / usted eh / ¿profesa la religión católica?
+
+I: sí
+
+E: ¿y a quién tiene más cerquita el santuario ¿verdad?
+
+I: pues sí pero no voy / <risa = “todos”/> 
+
+E: ah
+
+I: no acostumbro mucho ir a misa porque mira / este / última / a / estos últimos años / has visto / bueno yo he visto en sí el cambio de / de la / del catolicismo
+
+E: ah sí
+
+I: ¿sí verdad? / que a nosotros anteriormente nos formaban // como católicos de que teníamos que asistir a misa / el respeto de la iglesia / equis
+
+E: <tiempo = ”14:05”/> sí
+
+I: yo fui / formada / en / en la escuela de enfermería era una escuela religiosa / o sea ahí era cuchillito de palo <observación_complementaria = “frase que se usa cuando algo se aprende por repetición o que se hace obligado”/> ¿verdad?
+
+E: sí / o sea a la par- / e / el estudio / con la religión
+
+I: sí / y entonces / haz de cuenta que / este / a nosotros nos decían las madres / tú / tienes que ver a tu paciente como si estuvieras atendiendo a Cristo // ¿sí? / y como si tuvieras a tu paciente / a tu familiar / postrado en la cama / así tienes que ver a tu paciente 
+
+E: sí
+
+I: y te vas formando así de esa manera ¿verdad? y dices / dicen mis hermanas dice / oye pero tú trabajas en el seguro social ¿y cómo no eres como ellas? / digo como dijo mi mamá / tú puedes andar en el lodo y si quieres no te manchas 
+
+E: sí
+
+I: ¿sí? // o puedes andar entre la bola y / si quieres no te lleva ¿verdad? 
+
+E: ser diferente 
+
+I: sí / o sea entonces / este/ y ahora / hemos visto / bueno yo a mi manera de pensar / ha cambiado mucho el catolicismo // se ha involucrado mucho con la política / que nada tiene que ver // que entrar la / la / iglesia con lo político / porque lo religioso Jesús nunca anduvo en la política // entonces es algo 
+
+E: ¿usted cree que es una estrategia que están utilizando / para / no sé / ganar más simpatizantes?
+
+I: pudiese ser pero los están perdiendo porque mucha gente se está cambiando a otras religiones ¿verdad? se está perdiendo // el catolicismo / tal vez / e / la creencia de dios en uno está / pero / este / en la iglesia católica / o sea te digo / ha cambiado mucho / ahora / tal vez nosotros seamos católicos sociales como dicen ahora los padres / somos católicos sociales ¿por qué? porque nada más vamos cuando nos invitan a la boda / o cuando vamos al / al quince años / que es escasamente / a menos de que sea muy tu familiar allegado que vas a la misa
+
+E: sí
+
+I: pero si no / pos te vas a la fiesta 
+
+E: sí porque muchas personas ¿verdad? no van a la misa y se van directamente al salón / a la recepción ¿verdad? 
+
+I: <tiempo = ”16:00”/> ¿entonces / aquí dice / dice / lo importante / es / lo católico / o sea que tú acompañes / si verdaderamente le tienes aprecio a esa persona / que tú lo acompañes en ese momento / porque aquí es lo importante / no la fiesta // porque la fiesta en / tres horas / se acabó todo 
+
+E: sí
+
+I: y entonces / este / ha cambiado mucho la / la iglesia
+
+E: entonces pero por ejemplo / ¿usted es / sí festejan la navidad / o / la semana santa? 
+
+I: sí / sí la festejamos / mis hijos también fueron formados en / escuela católica / este pero te digo o sea / ha cambiado tanto que / que como que te va / restregando hacia atrás ¿sabes?
+
+E: o sea / ¿ustedes como quiera ponen el pinito y / y hacen su rosario?
+
+I: sí / sí sí nosotros hacemos / ponemos nuestro pino / celebramos la navidad / este / el día de reyes a los niños les 
+
+E: aquí es muy escaso ¿no? / que se festeje el día de reyes / siempre como que el veinticinco y / por lo de santa ¿no?
+
+I: sí / pero aquí / este / mi mamá / ella es muy / tradicionalista / este / gusta mucho de / de ese tipo de / de fechas ¡vaya! / este 
+
+E: ¿simbólicas no? 
+
+I: sí / y / y / entonces / los niños así se han ido formando / y nosotros también / este 
+
+E: y en esas reuniones me imagino que aprovechan para todos / verse / juntarse / y y / por ejemplo ¿qué preparan / de comidas en ese / en esos / en esas reuniones?
+
+I: pues aquí / mira nosotros somos cinco mujeres / este / todas casadas con hijos / y entonces haz de cuenta que / este / algunas de mis hermanas / para la Navidad ellas vienen aquí a la casa / y s 
+
+E: ¿viven / fuera?
+
+I: no / viven aquí dentro del área / e / en los municipios ¿verdad? pero / dentro aquí del área metropolitana // y entonces este / pues preparamos la cena especial/ que es el pavo / la pierna rellena / equis / o sea / cosas diferentes a las que no comes / diariamente
+
+E: ¿tamales?
+
+I: también 
+
+E: ¿y cómo prepara / por ejemplo / la pierna?
+
+I: <tiempo = ”18:00”/> la pierna pos le ponemos / se mete al horno / se inyecta con vino / este / se / se baña de mantequilla / se hace el relleno con / el picadillo / se le pone naranja / este / al picadillo se le ponen / este nuez / pasas / e / piña / y luego una vez que ya está hecha la pierna / regularmente se compra / ahumada / para que no dure tanto tiempo en el horno ¿verdad? por la economicidad del / del gas / entonces este / y ya se rellena / y se decora con las mismas rodajas de piña y aceitunas
+
+E: y / y / y todos ya me imagino que se ponen a / a / a compartir ¿no? / en esa misma noche o / después del rosario o no sé
+
+I: se hace / el rosario / después este / pues ya entre / diez y media y doce de / de / a que de la media noche / este / se da la cena / este / en ese momento / nosotros preparamos los regalos para los niños // para que en el momento en que nosotros estemos cenando y mantenerlos entretenidos allá / alguien de mis cuña dos / o mi esposo lo venga y lo ponga acá en el pino
+
+E: ¿y ya los / a bren o 
+
+I: y luego ya / pero es una ansiedad / la que a ello s / este / esperan ese día / por / el / y a mis hijos / orita el / más chico tiene diez años / y el / grande tiene catorce / y este / y haz de cuenta que / pues ellos todavía están con la idealidad de Santa Clos / de esperar la navidad / aunque sepan que / nosotros somos los que / propiciamos el / lo del regalo / para la navidad / pero / ellos / están 
+
+E: ¿es la ilusión no?
+
+I: sí
+
+E: comoquiera / comoquiera / dicen / bueno / es muy diferente / al tener una / no sé / albergar algo ¿no? / una esperanza
+
+I: sí
+
+E: y en ese momento como que se ve recompensado y más ustedes los padres ¿no?
+
+I: sí
+
+E: ver todo eso
+
+I: mjm
+
+E: por ejemplo ahorita que decía usted que / prefería / comprar el / la pierna ahumada por la economía del gas / ¿a usted le ha pegado mucho la crisis? 
+
+I: <tiempo = ”20:00”/> sí / sí porque / este // ahorita ya no se completa / con nada / est- / orita haz de cuenta de que / tengo una compañera que ella es soltera / y dice / y se enoja mucho / porque / hace poquito iba a ir a Laredo / y invitaba a otras compañeras / y las compañeras le decían que no / porque no tenían dinero / y me dice ______ / ¿cómo puede ser posible // que acaban de cobrar / y no tengan dinero? / le digo Lupita / lo que pasa es que / aquí / en la mayoría de los hogares / le digo / tienen compromisos con los hijos // el vestirlos el calzarlos / el darles escuela / el darles de comer / porque es un gasto de todos los días // yo aquí / hago la cena y son / cincuenta setenta pesos diarios que yo gasto en una cena // ¿sí? / entonces / le digo entonces / todo / e e / uno tiene comprometido todo el dinero que ganan en una quincena / ¿sí? / para distribuirlo en servicios / en darles a la escuela / en darle de comer / y uno que otro / gusto / porque a / ahora / el / el darte un gusto / pos / ya es // desembolsar trescientos cuatrocientos pesos en una salida que te vayas a dar / porque es lo que gastas // de un día 
+
+E: sí
+
+I: si te zumbas un fin de semana te gastas dos mil pesos / entonces orita 
+
+E: ¿y muy limitado verdad? / así de que / cuidando / para tener / y / a lo mejor no gastando / todo / porque después mañana o el lunes ¿verdad?
+
+I: sí 
+
+E: por ejemplo los camiones / bueno usted que tiene carro ¿verdad? pero me imagino también que / e la gasolina 
+
+I: sí porque mira / el / yo traigo el carro / mi esposo anda en camión // y mi hijo también anda en camión / entonces haz de cuenta que // todos los días son cincuenta pesos de camión para ello s / yo / e / escasamente / a la semana / e / son ciento cincuenta pesos por semana de gasolina / pero nada más las mis vueltas aquí / si yo / hago / hago vueltas / voy a Guadalupe / mi hermana vive allá / cercas de Villa Juárez / si voy / yo voy para allá le tengo que echar más gasolina al carro / mi otra hermana vive acá en Apodaca dos de mis hermanos viven en Apodaca / entonces también le tengo que / poner más gasolina al carro / tengo una casa que está en Huasteca / si yo voy a / a darle la vuelta a la casa / es / más gasolina / entonces / haz de cuenta que / se va a los extremos
+
+E: <tiempo = ”22:25”/> sí
+
+I: entonce s / anteriormente / pues te quedaba un poquito más / para // pues para hacerte / un gastito / que una nieve y que / pos ora le piensas por comprarte la nieve ¿verdad? porque ya va s- / vas a desembolsar sesenta pesos / como nosotros que somos cuatro
+
+E: sí / para todos
+
+I: entonces / este / pos sesenta pesos ya son sesenta pesos 
+
+E: sí
+
+I: anteriormente decías / ¡ay no! / cien pesos que me gaste / pero ahora / ahora sí le 
+
+E: después lo recupero ¿verdad?
+
+I: sí
+
+E: y ahora no se puede
+
+I: no / ahora no / la / la calidad de vida aquí es / más cara cada vez más / este / entonces // y precariamente estamos / en el suelo ¿verdad? porque / ya no rinde 
+
+E: ¿usted conoce gente por ejemplo / a raíz de la crisis que se haya ido a Estados Unidos / a trabajar? // ¿o que haya decidido sabes una cosa por aquí ya no / ya no puedo / y mejor me voy para allá / y que hayan dejado aquí a su familia y se hayan ido para allá? 
+
+I: fíjate que nosotros tuvimos una experiencia con uno de mis cuñados // él es contado r / y este / y un compañero de él / le ofreció / irse a trabajar allá / y / ya con trabajo / é l / establecido ahí en Estados Unidos / se fue / pero como él es muy apegado a su familia // pues / no toleró / se / y / se regresó / quin- / en quince días él se regresó / se fue hasta Dallas / este / no
+
+E: ¿con pape les o ?
+
+I: todo / y llevaba todo arreglado / y él ya llevaba su trabajo / este / pero / no / yo tengo tíos en Estados Unidos // y pues / viven bien / pero / ellos dicen que no es lo mismo / ellos / a / allá no pueden disfrutar / es trabajar trabajar trabajar / jornadas desde las cuatro de la mañana / hasta las nueve de la noche / jornadas de doce horas / que es un constante trabajo / dice / este / pues tienen / pero así también se gasta / dice / ellos se vienen / precisamente orita aquí andan ellos tienen casa en Los Herreras / y este / y ellos vienen aquí / y se desbordan / porque / pos los dólares aquí les rinden // tentativamente ¿verdad? / pero / este / allá / dice que para ellos es muy difícil
+
+E: <tiempo = ”24:42”/> o sea ¿es mucho el sacrificio que hacen ellos // para poder tene r // algo mejo r? / o no sé si ellos ya tengan residencia
+I: sí
+
+E: ¿ya tienen?
+
+I: ya tienen residencia allá / y este / y precisamente ahora mi hermana comentaba / me decían / a mí / siempre me ha n // este 
+
+E: ¿invitado? 
+
+I: este a / no / sí / sí me han invitado a estar en Estados Unidos con ellos / pero haz de cuenta que / mi tía / siempre me dice / ándale vente cuando va / salgas de vacaciones / yo salgo dos veces al año / y haz de cuenta que / uno un período de un mes / y el otro es de quince días / dice vente / para que te pongas a trabajar / acá vienes vengas a cuidar viejitos y quién sabe qué / que les pagan muy bien / y mi hermana estaba diciendo / este / que salió en el periódico de l / lo que gana una enfermera en Estados Unidos // de sesenta a setenta mil pesos mensuales // entonces dice ¿y por qué no te pones a estudiar en inglés / para que te vayas allá ? / y / y le digo / fíjate que / ahorita / dentro de la enfermería / este / aquí en / en México es muy mal pagado // un alto riesgo de contaminación
+
+E: sí / las infecciones
+
+I: a mí me pagan / veinte pesos por quincena / por infecto contagiosidad / ¿tú crees que mi vida valga veinte pesos?
+
+E: no pues no
+
+I: entonces me dice / y / y / y la contaminación es / altamente o sea / ya / aquí / nosotros antier tuvimos una paciente / la operaron de un riñón / traía una piedra // y pos les empiezas a hacer plática / les empiezas a cuestionar / de cómo empezó su problema y todo / y este / y le digo / ¿casada o soltera? / porque estaba joven / y dice soy viuda / treinta y un años 
+
+E: <tiempo = ”26:27”/> bien joven
+
+I: le digo ¿y qué le pasó a su esposo? / yo también bien Licha ¿verdad? <risa = “E”/> / y este / dijo murió de VIH // oye ¿a los cuántos años te casaste? dije / porque tiene una hija de catorce años / dijo me casé a los // ¿qué? // a los veinte años // le digo entonces este / pues te casaste muy joven / dice sí pos ya ve que / en esos años pos uno se le alborotaba la hormona y entonces / le digo pero imagínate o sea / y estar en / en / la sospecha y la / estar / dice pero a mí constantemente me checan / no soy seropositiva / no ha habido ningún dato de / de ser / VIH positivo / le digo pero está latente ahí el / el foco ¿verdad? de que / ya pasaron cuatro años / o sea / tiene cuatro años de viuda / le digo pero está latente ahí el / este entonces / he tenido compañeras que se han contaminado con paciente s / ahorita / están / este / latentes / no son seropositivas ni son VIH positivo / pero tienen un / un alto riesgo de contaminación ¿verdad? por una punción de una aguja contaminada por un paciente de esa índole / ¿y eso quién te lo va / a regresar? / ¿tú crees que con / por veinte pesos que a mí me paguen // mi respeto / entonces / ahorita / te digo / a mí / en cuestiones de / de / hacer / cursos / posgrados / y cosas de esas / en cuestiones de la enfermería no / me dice mi mamá / ¿por qué no haces la licenciatura? / ¿para qué ? / dentro del Instituto no está avalado / no tiene ningún valor 
+
+E: <tiempo = ”28:12”/> y / pero cursos allá en / Estados Unidos / no sé / ¿usted sabe el inglés?
+
+I: no // mira a mí me gustaría / o sea / te digo dentro del área de enfermería no / ni que / pediatra / ni que / me gustan los niños / todo lo que tú quieras / pero / no / quirúrgica // tienes muchos problemas vasculares el hecho de estar constantemente parada // jornadas de ocho horas parada // de estar en una patita y en otra / porque es lo único que hacen las muchachas / el único movimiento que hacen las muchachas / y estar en con / un constante estrés / porque tú también te relacionas mucho / al haber un sangra do o ah / equis / complicación que se presente con el paciente / tú te estresas / y estar como circulante te estresa también / que andas corre y corre / y que el paciente se chocó / y que córrele con la sangre y que córrele con el plasma / y que ponle una sonda y ponle un catéter y ponle un jelco / o sea / es una / gran responsabilidad para ti // y entonces / dice mi mamá pero es que ¿por qué no quieres hacerla? / no quiero que a / a / y e / y dentro de mi instituto / el / el hecho de / de estudiar / ahí se va por antigüedad / yo me voy a estudiar doce años / hasta que me llegue / mi jubilación // y que me llegue un cambio // y una diferencia de costos sí // de cuatrocientos quinientos pesos de lo que yo gano / a lo que gana la especialista / por quincena / pos no es nada // ¿sí? / entonces le digo / yo si voy a estudiar / o voy a hacer mi curso / yo lo voy a hacer algo que a mí me remunere y a corto tiempo // porque así nos los / nos lo hace la vida / o sea / quieres tener pos / que tienes que trabajar 
+
+E: ¿es una / por la misma necesidad verdad? me imagino que / que si estuviera bien pagado / pues lo haría co / o sea / todo estuviera equilibrado / y ahorita no está 
+
+I: <tiempo = ”30:04”/> no / ahorita / también comentaban sobre el // el cambio que dio no sé si han / ido ustedes al / hospital Metropolitano / a de ahora como está 
+
+E: ¡ah! no
+
+I: bueno el / el hospital Metropolitano es un hospital del sector salud / ¿sí? / entonces / haz de cuenta que tipo universitario // pero ya el universitario es / otra cosa / entonces ahora / el hospital Metropolitano / también ya es otra cosa / ya es un hospital elite de cinco estrellas / con especialidades // ¿sí? / pero gracias / a nosotros / porque a nosotros nos quitaron / el año pasado nos quitaron el presupuesto // que nos dieron para el año / y se lo dieron a / a / al Metropolitano / para renovarlo para / ponerlo avanti en / tecnología y todo / pero a nosotros nos dejaron precariamente / en el suelo / ¿qué pasaba? // que / las inquietudes de los pacientes / pos no hay radiografía / no hay medicamentos no hay / gracias a eso / y entonces al sector salud ahorita no n / estamos/ así
+
+E: ¿y usted cree que por ejemplo / ahorita con esto de / del cambio político / cree que / usted que les vayan a dar / no sé / apoyo?
+
+I: mira / ahorita / acaba de pasar una supervisión la semana pasada // vienen de México / a nivel delegacional // entonces / vinieron a hacer una supervisión / en cuestión / ellos venían a en busca de narcótico / porque / últimamente por cuestiones de drogas y todo lo que tú quieras se han perdido los medicamentos // entonces haz de cuenta que // venían en busca de eso / la persona que / que controla los medicamentos narcóticos / que es una auxiliar de enfermería / ella lleva / control con / vales / con diarios / y ella todo tiene registrado // ¿me das mi dotación? / a ver ¿quién y quién lo usó? // ¿cuánto tiempo / le rindió ? / y que / entonces todo eso lo checaron / ellos / y este / y salimos avanti en un ochenta y ocho por ciento / en cuanto calidad de atención / y cantidad de atención // entonces / es uno de los mejores hospitales / en del área del norte / que han estado checando ellos / pero / en cuestiones / de salubridad / estamos / precariamente / mal // ¿sí? / ahorita les dieron un ultimátum de tres meses / para / que / el instituto se levante en cuestiones de sanidad // la limpieza / todo // ¿sí? / la persona esta que vino de / de México / e / eran varias personas / del área de enfermería / vino ingeniería / este / que son los que manejan las áreas de conservaciones / y de servicios básicos // oye hicieron el / la prueba del guante blanco // en los megatoscopios / en los aparatos de laparoscopía / todo eso / ¿cómo puede ser posible? / estamos en un ária blanca / donde no debe de haber polvo / ¿qué es lo que está pasando? 
+
+E: <tiempo = ”33:01”/> sí // pero como usted lo dijo es / falta de / de ingresos
+
+I: ajá / y haz de cuenta que / ahorita // el área de servicios básicos es una mafia / no les puedes decir nada / son intocables / ellos hacen lo que quieren / ellos saben que tienen una rutina que hacer / ellos llegan y se sientan // vamos a pasar pacientes / y es la es la hora que se paran / para las diez de la mañana se desaparecen // a la hora que va a salir el primer paciente les tienes que estar gritando / ¿cuál es la necesidad de que tú estés gritando en un área / de quirófano? // tienes pacientes anestesiados // no tienes por qué gritar // entonces / es un vicio / entonces ese / eso / dijeron que / dentro de tres meses / cuando ellos regresaran / si encontraba n / el hospital en las mismas situaciones / se iba a subrogar el servicio de / limpieza / que ójala y sí / así se ¿verdad? / no es porque / les / echemos tierra / a la gente / pero es porque tal vez / ellos necesiten una prueba fuerte / para que valoren su trabajo ¿verdad? / porque / lo toman muy a la deriva // digo yo sí / tengo mi trabajo / pos yo lo cuido
+
+E: <tiempo = ”34´17´´”/> ¿y nadie los está checando / y todo eso?
+
+I: sí pero te digo que es una mafia / porque / pues / algo le sabe 
+
+E: ¿se cubren? 
+
+I: sí / sí / algo le saben al je fe / el jefe pues se siente / ahí como que / este 
+
+E: ¿el dueño / y todo eso?
+
+I: sí / entonces pos no / les dices y / o los mandas así // este / que necesitas sangre / que un laboratorio que hay que mandar / porque no te puedes salir tú / y y
+
+E: ¿a veces les hacen caso o no?
+
+I: no / no / o sea y aunque le digas a los jefes o sea / a los ayudantes / que so n los / jefes de ellos / y ellos tienen otro jefe / que es el / mero bueno // y haz de cuenta que / o sea / se van / o / o / te / ignoran // y entonces / pues / ¿cuál es la necesidad de que andes haciendo esos?
+
+E: ¿entonces usted viene haciendo varios trabajos a la vez?
+
+I: sí / sí / porque / ahorita no somo- / nosotros somos guardianas de / del / de nuestros / dice / nuestra jefa / nuestra jefa jefa porque / la jefa que nosotros ahí tenemos de / la jefa de piso / pos ella está con la rutina diaria ¿verdad? / y este / pero la jefa de ella que es la jefa de nosotros / dice / muchachas / pero ¿cómo puede ser posible? // dice / esto // para ustedes es su segunda casa // entonces si yo veo que usted es tienen así la sala / pos así han de tener su casa 
+
+E: es que / es cuestión de vocación no / ¿verdad? / porque muchas de las personas por ejemplo en otras áreas / o o / o estudian / nada más para conseguir un sueldo / pero / no lo hacen con esa vocación y pues / no les importa 
+
+I: sí mira porque ahora / los nuevos estudiantes / de / de enfermería que son licenciados hoy en día / este // te digo / a mí me gusta mucho la docencia // y / y soy muy observadora // y haz de cuenta que / este // y ahora que van los nuevos estudiantes // van y se sientan // ¿a qué vienen? / ¿a estorbar? // yo tengo que tener iniciativa / para que a mí me enseñen 
+
+E: <tiempo = ”36:29”/> ¿no / no se involucran? 
+
+I: no se involucran // y les dices / y están con el celular / o están con el i pod porque ahora van con / esos sofisticados aparatitos <risa = “E”/> / ¿verdad? / entonces están en Babilonia // y en cuestiones / de que le pongan atención al paciente / no 
+
+A2: buenos días
+
+I: buenos días
+
+E: buenos días 
+
+A2: ¿cómo está?
+
+I: todavía no llega Laura
+
+A2: sí / me dijo que antes de las diez me esperaba me dice / 
+
+I: <risa = “E”/> / siéntese
+
+A2: gracias
+
+I: y entonces este / le digo // le digo bueno ustedes ¿cuál es su interés por la carrera? le digo porque / pos / no se les ve claro // le digo porque fíjate porque yo tenía una compañera y le doy muchas gracias a esa persona / que me ayudó cuando yo era estudiante / porque nos arrastraba / pero ella nos veía / que si tu tenías interés // órale / ¿ya pusiste una sonda? ¿no? / bueno / prepara el carrito y orita nos vamos a poner / y llegaba un / un paciente nuevo ¿eh? / oye ¿ya pusiste una nasogástrica / ¿no? / bueno pos prepara el carrito y orita nos vamos / y así // entonces ella veía que nosotros teníamos interés / en lo que / que íbamos a hacer / ahorita no
+
+E: y los escuchaban
+
+I: y orita no / entonces le dices / pues éstos si e / éstos son los / nuevos formadores // que vamo- / que / que nos van a cuidar a nosotros / imagínate en el futuro / ¿cómo nos va a ir? / si orita se quejan / de nuestra atención // que tenemos otra formación / imagínate ellos / a ellos los están formando como administrativos / no como operativos / y lo que necesitan las instituciones de salud / es / personal / operativo / no administrativo / porque para los papeles cualquiera lo pude manejar / pero un paciente no / es una vida / que está en tus manos 
+
+E: <tiempo = ”38:11”/> sí 
+
+I: y eso no lo ven ahora
+
+E: y si no le dé la atención adecuada
+
+I: si yo soy un prestador de salud // en la calle // imagínate pos / yo dejo morir a la gente aiá afuera porque yo no me quiero echar un compromiso / si yo le metí mano / o le hice alguna maniobra / bueno a m- / me van a echar la culca / la culpa que por mí se murió ese paciente / o sea gente / que estaba en la calle / y no es así // tú como prestador de / de salud / tienes / esa / responsabilidad / de salvaguardar la vida de los que a ti te rodean / y la tuya también 
+
+E: ¿es / es muy delicado no?
+
+I: claro 
+
+E: porque no es cua- 
+
+I: porque tú hiciste un juramento / tanto el médico como la enfermera nosotros hacemos un juramento // ¿sí?
+
+E: es cuestión de ética ¿no?
+
+I: sí / entonces / pues / ahorita / se está perdiendo todo eso / no lo llevamos acabo
+
+E: entonces / bueno por ejemplo // usted lo comentó en la religión que es / ahorita el problema de / de la política / ya ve todavía ni sabemos si / si sabe / si / estamos seguros de que / vaya a ser el presidente / fulano de tal/ y / como que / es un periodo mu- / muy difícil ¿no?
+
+I: sí
+
+E: también la guerra que ahorita está // o sea / qué / ¿usted qué cree que / nos depare para el futuro / futuro no sé / diez años?
+
+I: pos a como estamos ahorita / precariamente / comentaba un compañero // decía ya se va a acabar el mundo / le digo no Alberto / el mundo se acaba para el que se muere / no pero mire la guerra de Líbano y que quién sabe qué / le digo / que también a nosotros nos repercute / en cuestiones de economía / y de política y de todo lo que tú quieras le digo / pero // pues no deja de estar cerquitas aquí de nosotros // porque a nosotros también nos puede perjudicar / este señor López Obrador orita está levantando al pueblo // que es lo que quiere // ¿sí? porque esta arrastrando 
+
+E: <tiempo = ”40:08”/> ¿usted cree que es buena / estrategia la que está haciendo?
+
+I: no / no porque mira / nosotros somos un país de paz / no somos de guerra / o tal vez seamos muy cobardes / porque no tenemos ese entrenamiento / de ser a sangre fría // ¿sí? / orita no / lo que nosotros hacemos es de salvaguardar nuestra integridad y lo de nuestra familia // ¿a ti te va a gustar gustaría que te den un tiro? 
+
+E: pues no
+
+I: imagínate o sea / esa mentalidad que tiene este señor // de / de / pos está levantando al pueblo / pero que es gente ignorante / que anda detrás / de algo que no tiene / que él le está ofreciendo // que quién sabe si se lo vayan a dar
+
+E: entonces usted cree / que / el lema / ¿no? que dice que / la coalición por el bien de todos / ¿usted cree que sí ayudaba a todos?
+
+I: no / no es cierto porque / mira // dícese de la gente / que nosotros sector norte / íbamos a estar olvidados de ese gobierno // ¿por qué? / porque no nos quiere
+
+E: ¿no estábamos contemplados en los / en los planes?
+
+I: no // allá el sur iba a beneficiar a toda la gente / pero acá del área del norte / que somos los que más producimos y los que más damos / que somos los que les pagamos los subsidios a México // estábamos fuera de // entonces nos iba a dejar en la lona / si orita nos estamos muriendo de hambre // imagínate ahora en este gobierno si él hubiera quedado en esas manos / que no sabemos ¿verdad? todavía // entonces / nos iba a ir / peor // dice un compañero dice / ¿a ver dime tú / cuánta promoción te dieron a ti / del PT // ¿cuántos vasos / cuántas plumas / cuántas camisetas? / aquí no hubo / ¿por qué? / aunque vino a hacer su / campaña y todo lo que tú quieras / pero ¿por qué? porque no eran lo s / suficiente s / este simpatizante s / aquí en el área del norte / vete al sur y / todo el mundo andaba con é l / y / les dio quién sabe / despensas y no sé qué tantas / pero aquí no 
+
+E: <tiempo = ”42:10”/> entonces usted cree por ejemplo si hubiera que / bueno / todavía no sabemos ¿verdad? si / con todo ese lío que tienen que / voto por voto otra vez / pero / si estuvieran aquí / ¿usted cree que sí ayudarían a toda la gente mayor así como lo hizo / en el gobierno del DF?
+
+I: pues 
+
+E: será / ¿será verdad o será mentira?
+
+I: pues a mí se me hace que no / aquí / a los que / ayudarían que se quedaron con el beneficio fue por lo de Naty que hizo // este / pero es PRI / ¿verdad? / pero / en cuestiones acá de que / en general fueran a / a / a / si para empezar ¿dónde iba a sacar tanto dinero para ayudar al // a la calidad de esa / de esas edades / de adultos
+
+E: según esto dijo que quería / reducir los / sueldos / de los funcionarios y los diputados y senadores
+
+I: ¿tú crees posible que / que eso vaya a hacer / si es gente / que ya está acostumbrada? / y está establecido ante / aunque yo sea el presidente / no puedo cambiar / o sea / hay un grupo que a mí me // me está / este / instruyendo ¿verdad? / porque no nada más / no es como un rey // que esa mentalidad él tiene ¿verdad?
+
+E: es que siempre / hay un interés de por medio ¿no? / siempre
+
+I: y entonces este / pero aquí / no / se puede así 
+
+E: ¿y usted sí fue a votar?
+
+I: sí sí fui a votar / este 
+
+E: es que decían ¿no? / que mucha gente como que estaba muy decepcionada porque / pues tantos bombardeos ¿no? tantas lucha s / de que / sacaba los trapitos al so l / y que esto y que lo otro y que no se qué 
+
+I: no sí fui a votar pero no soy muy / afecta / a andar en ese tipo de / eventos / este/ pero nada más por / este / cumplir con lo cívico / que nos toca ¿no?
+
+E: <tiempo = ”44:00”/> sí porque / e / decían muchas personas eso / pues nosotros vamos a ir a votar ya que / lo que hagan / pos ya nuestro / ya no es nuestra responsabilidad / ¿verdad? // bueno mire / le voy a hacer un / unas preguntas más concretas / ¿verdad? / e / ¿su nombre / completo? 
+
+I: es ______
+
+E: mjm
+
+I: ________ 
+
+E: sí
+
+I: ______ ______ 
+
+E: ¿edad?
+
+I: treinta y ocho años
+
+E: ¿estado civil?
+
+I: casada
+
+E: ¿la dirección?
+
+I: cinco de febrero 
+
+E: mjm
+
+I: ciento quince poniente 
+
+E: mjm
+
+I: colonia Independencia
+
+E: ¿ciudad Monterrey? 
+
+I: mjm
+
+E: ¿teléfono?
+
+I: ocho uno noventa // cuarenta y cinco seis cuatro
+
+E: ¿religión?
+
+I: católica
+
+E: e / ¿de dónde es usted?
+
+I: de aquí de Monterrey
+
+E: ¿siempre ha vivido en Monterrey verdad?
+
+I: sí
+
+E: e / ¿de dónde era su / padre?
+
+I: es / de Tamaulipas
+
+E: ¿y su mamá? 
+
+I: de Coahuila
+
+E: ¿sus abuelos tanto paternos como / maternos? / ¿los paternos / de dónde?
+
+I: los paternos / o sea / de Tamaulipas también // y los de mi mamá son de Coahuila
+
+E: entonces siempre ha vivido aquí / m / ¿tiene usted alguna afición?
+
+I: ¿una afición?
+
+E: sí un pasatiempo 
+
+I: m / pos ¿qué te diré? / me gusta mucho bailar / cantar 
+
+E: e // ¿con qué frecuencia usted va al cine? 
+
+I: no me gusta ir al cine 
+
+E: <tiempo = ”46:03”/> okay / entonces nada 
+
+I: pues es lo que pelean los niños 
+
+E: ¡ah! <risa = “E”/> / bueno orita que los muchachos de las caricaturas y todo eso ¿verdad?
+
+I: sí / pero no me gusta / no me gusta en / esta r / en lugares encerrados // ni teatros ni cosas de esas
+
+E: ¿tiene alguna fobia? o ¿no?
+
+I: no / lo que pasa es que soy alérgica al tabaco y / y me repudia el olor al tabaco / entonces hay lugares que / aunque sean libres de humo como quiera / se los fuman allá adentro
+
+E: ¿la alergia? 
+
+I: sí
+
+E: okay / entonces // en cuestión de / la radio / ¿escucha la radio?
+
+I: sí 
+
+E: e / ¿qué tanto tiempo escucha / la radio?
+
+I: en la mañana que voy en el carro / en la tarde cuando vengo en el carro / es ocasional no tengo horas así / especificas 
+
+E: ¿y qué tipo de música escucha?
+
+I: de todo
+
+E: ¿más en / español o en 
+
+I: en español
+
+E: ¿baladas?
+
+I: m sí
+
+E: ¿o de todas señora?
+
+I: todo todo
+
+E: todo género / un poquito de todo <risa = “I”/> / también como que anda el / el nuevo ritmo / el reggeaton 
+
+I: el reggaeaton / sí
+
+E: ¿la banda?
+
+I: todo todo
+
+E: e / ¿cuál es su estación preferida?
+
+I: EXA / y la / noventa y tres punto tres 
+
+E: ¿la banda? 
+
+I: ei
+
+E: y en cuestión de la radio hablada / o sea // ¿solamente escucha música / o también / e noticias / o / programas así culturales?
+
+I: sí me / m / me gusta escuchar las noticias / y este / y también al licenciado Lozano // que / también está en EXA / en la tarde / de cuatro a cinco creo es
+
+E: <tiempo = ”48:02”/> e / en ese horario / antes estaba Olga Nelly ¿o no / no es ahí?
+
+I: sí / sí pero / es la / ¿qué? / ¿la que le dicen la chula // que está ora en la / noventa y dos punto siete o algo así / en la mañana? / la coqueta 
+
+E: no / está confundiendo con otra
+ 
+I: sí
+
+E: locutora / entonces // e / ¿los programas que escucha en la radio? // sólo son / noticieros o músicales / o 
+
+I: pos son variados sea también es de noticiero y de 
+
+E: ¿un nombre específico / de / de algún programa? / ¿no? que tienen sus nombres / así 
+
+I: m // pos ese de / el de / el licenciado Lozano
+
+E: en cuestión de la televisión / ¿usted ve la televisión?
+
+I: me despierto con la televisión
+
+E: ¿la programa?
+
+I: sí
+
+E: y / ¿con qué frecuencia la ve?
+
+I: en la mañana // te digo me despierto con / el noticiero // en la tarde / pues me la / llego aquí a las siete de la tarde cuando / regreso de la / de la natación / y de ahí me aviento todas las novelas / hasta las once de la noche
+
+E: entonces es / ¿más de una hora?
+
+I: sí // estoy cocinando haciendo de cenar y estoy con la televisión / aquí / un camino de televisiones por todos lados
+
+E: ¿y qué tipo de programas las ve? / ve / e / dice / ¿dijo usted telenovelas?
+
+I: sí / así es // noticias // de humor / películas 
+
+E: así por ejemplo los Talk Shows 
+
+I: sí / de Adal Ramones y 
+
+E: y los reality shows 
+
+I: sí sí porque tengo un / un adolescente / y / tengo que estar viendo lo que está viendo <risa = “E”/> 
+
+E: mjm / ¿y los reality shows? / por ejemplo ahorita que la academia ? 
+
+I: <tiempo = ”50:02”/> sí / los domingos veo cuando no salgo así / a / pasear / me pongo a ver lo de / bailando por la boda de tus sueños
+
+E: bailando // e m / ¿qué más? // ¿ve películas en la televisión?
+
+I: sí
+
+E: ¿con frecuencia? // ¿o poco?
+
+I: sí / sí / regularmente los fines de semana ya ves que las / programaciones de / del seis y del siete a veces están más o menos
+
+E: ¿y de qué nacionalidad le gustan esas / películas?
+
+I: pos preferente / pues ya ves que son las americanas o sea las que están en cartelera ¿verdad?
+
+E: las extranjeras americanas / ¿y le gustan más / dobladas / o subtituladas? 
+
+I: subtituladas
+
+E: ¿lee el periódico?
+
+I: sí
+
+E: ¿qué periódico lee?
+
+I: el Norte
+
+E: ¿sólo ese? 
+
+I: bueno depende de l / que me pongan a / y / depende donde esté ¿verdad?
+
+E: pero más / ¿se inclina más por el Norte?
+
+I: sí
+
+E: ¿qué tanto lee el periódico? / ¿diario / frecuente o 
+
+I: no / esporádicamente 
+
+E: ¿los fines de semana?
+
+I: o sea aquí todos los días hay periódico en casa pero / o sea / es / raro que me siente todos los días a leerlo
+
+E: ¿cuándo tiene tiempo?
+
+I: sí 
+
+E: e / ¿qué sección del periódico ve?
+
+I: todo // el internacional/ el local/ cultural// de vida
+
+E: ¿espectáculos?
+
+I: también
+
+E: e ¿lee revistas?
+
+I: sí
+
+E: ¿qué tipo de revistas?
+
+I: Cosmopolitan / Vanidades // de / chismes de la / sociedad de artísticas <risa = “E”/> TV notas / TV notas y novelas / sí
+
+E: <tiempo = ”52:07”/> ¿qué tanto lee las revistas?
+
+I: m / ¿en cuestiones de tiempo o e n
+
+E: sí / por ejemplo cuán- / ¿qué / tanto / acostumbra / a comprarlas / con qué frecuencia?
+
+I: no las compro / soy muy coda <observación_complementaria = “avara” /> para esas cosas <risa = “E”/> / lo que pasa que mi hermana tiene aquí la estética 
+
+E: ah
+
+I: y ella es la que las trae / y mi hermana la más chica esa sí es / viciosa para la s / revistas / pero yo / aquí la / yo la que agarro la leo ¿verdad? pero / así de cuestiones de que yo gaste mi dinero en eso / no
+
+E: entonces / ¿frecuente / o qué?
+
+I: sí 
+
+E: ¿usted / usa el internet?
+
+I: no 
+
+E: en cuestión de la educación / en / en la primaria // ¿en dónde la / la estudió?
+
+I: es / se llama presidente / Abelardo L Rodríguez
+
+E: ¿y fue pública / o privada?
+I: 
+
+E: ¿la fecha en la que terminó?
+
+I: ¡eh! / ¡híjole! voy espérame / fue el setenta y tres / setenta y cuatro // al ochenta / del setenta y cuatro al ochenta // la secundaria del ochenta / y uno al ochenta y cuatro / un año de preparatoria // del ochenta y / cinco al ochenta y seis / y ya del ochenta y seis en adelante fue cuando hice la carrera 
+
+E: ¿del ochenta y 
+
+I: del ochenta y seis al ochenta y nueve
+
+E: y / ¿todo lo hizo aquí en Monterrey?
+
+I: 
+
+E: ¿y fueron en / instituciones públicas / o privadas?
+
+I: el / la secundaria sí fue en institución / pública / la prepa / también / es de la universidad // y / la / carrera ya en sí es / escuela de enfermería del hospital San Vicente // y ese es / particular
+
+E: <tiempo = ”54:17”/> ¿la preparatoria en / qué / cuál fue la prepa?
+
+I: quince / Florida
+
+E: ¿y la secundaria?
+
+I: escuela Jesús N. Montemayor 
+
+E: y / en cuestión del trabajo / ¿sí trabaja?
+
+I: sí
+
+E: es usted // enfermera ¿verdad?
+
+I: sí
+
+E: técnico en enfermería
+
+I: no / enfermera general
+
+E: enfermera / no está jubilada / tampoco desempleada / pensionada / indemnizado / nada
+
+I: no
+
+E: ¿desde cuándo trabaja usted?
+
+I: en el hospital/ desde el / noventa y uno
+
+E: ¿en el hospital número?
+
+I: treinta y tres 
+
+E: y / en cuestión de las actividades que realiza allí / ¿se produce algo / no verdad? / ¿se / da un servicio?
+
+I: sí
+
+E: cuál servicio // y en cuestión de los ingresos / ¿cuánto es lo que / usted gana? / ¿menos del mínimo / entre dos veces
+
+I: entre unos / cuatro salarios mínimos diarios / cuatro veces
+
+E: ¿cuatro y seis salarios al mínimo?
+
+I: sí
+
+E: ¿y qué prestaciones recibe en su trabajo?
+
+I: m 
+
+E: ¿despensa o?
+
+I: tengo / ayuda para despensa / ayuda par a la renta // este / la seguridad social
+
+E: <tiempo = ”56:05”/> ¿servicio médico?
+
+I: servicio médico 
+
+E: ¿vacaciones tiene?
+
+I: tengo vacaciones dos veces al año / tengo aguinaldo // tengo ahorro // tengo préstamos para / préstamo hipotecario / préstamo a mediano plazo / tengo préstamo para carro // que no los he sacado ¿verdad? pero / tenemos Infonavit / tenemos ayuda para la / cuando nosotros no tenemos a los hijos en / la guardería / nos pagan porque no los tengamos
+
+E: ¡ah! / ¿en las guarderías del IMSS?
+
+I: o sea los podemos poner la / sí / cuando ellos están chiquitos los podemos / meter a la guardería / pero si no los metemos / a nosotros nos dan una ayuda / por no tenerlos en la escuela / en el / en la guardería // que es muy mínima / tenemos viáticos para los que / vivimos en / que cruzamos diferentes municipios / para desplazarnos a nuestra unidad de trabajo // que ahorita hay un servicio / que se da de transportación / compañeros que / viven en ciertas áreas / ahora hicieron un medio de transporte para traérselos a todos y dejarlos en el hospital
+
+E: ¿a cierta hora / sale el camión y luego / también de salida?
+
+I: y / tenemos programas vacacionales para nuestros hijos 
+
+E: así ¿cursos de verano?
+
+I: sí / tenemos nuestra área recreativa / y nuestros cursos de 
+
+E: cursos // ¿de actualización / tiene cursos de actualización?
+
+I: sí / y también se nos da una prestación de // enseñanza / porque estemos constantemente / en enseñanza
+
+E: sigan e / ¿para que usted es sigan estudiando?
+
+I: sí / nos otros debemos de tener / todos los días una actualización de / nuestro s // tenemos catálogos de la especialidad / de las enfermedades / en cuestión de atención y todo eso entonces / todos los días se debe de repasar // para que no se te olvide <risa = “I”/>
+
+E: <tiempo = ”58:16”/> y ya por último / en cuestión de la familia / ¿cuántas personas viven en / su casa? // ¿y qué parentesco tienen / con usted?
+
+I: bueno yo vivo con mis papás // o sea es casa de mis papás 
+
+E: o sea // su papá / y / ¿qué // qué idioma / habla?
+
+I: español
+
+E: nada más español / ¿y último grado / cursado?
+
+I: primaria
+
+E: ¿dónde trabaja?
+
+I: es jubilado 
+
+E: entonces / ¿le dan una pensión / alimenticia?
+
+I: sí
+
+E: ¿y más o menos
+
+I: creo que son / seis mil pesos los que dan ahí / quién sabe
+
+E: ¿y su mamá?
+
+I: ¿mi mamá? / es ama de casa / habla español
+
+E: ¿y qué cu- / hasta qué grado 
+
+I: primaria también
+
+E: y pues ella / no recibe un sueldo o sí?
+
+I: no
+
+E: ¿y sigue?
+
+I: mi esposo / habla español // es empleado de una empresa
+
+E: ¿y el salario más o menos?
+
+I: m / como ocho mil pesos mensuales
+
+E: ¿y qué puesto ocupa?
+
+I: él es / ayudante de carpintero // y mayordomo
+
+E: ¿y estudió hasta la 
+
+I: <tiempo = ”60:01”/> primaria
+
+E: luego sigue usted
+
+I: mjm / español
+
+E: español / mjm // ¿la prepa / o la? 
+
+I: la prepa y la carrera
+
+E: prepa y carrera // en el hospital / ¿y salario más o menos?
+
+I: e / doce mil pesos mensuales
+
+E: ¿y el puesto que ocupa / e s?
+
+I: e / enfermera general
+
+E: ¿y dos niños verdad?
+
+I: sí // mi hijo de catorce años // estudiante de secundaria
+
+E: mjm // ¿está todavía en / en primero?
+
+I: en tercero año // va para tercero
+
+E: bueno no trabaja y 
+
+I: no
+
+E: ¿y el / otro niño?
+
+I: Diego tiene / diez años // también estudiante / quinto año de primaria 
+
+A3: once
+
+I: once / todavía no los cumples 
+
+E: no trabaja y todo eso / y habla nada más el español
+
+I: sí
+
+E: ¿o el niño / el de la secundaria el inglés también?
+
+I: pues poquito no / o sea nomás lo / básico que les han enseñado en la escuela
+
+E: ¿y el otro niño nada más el español ¿verdad?
+
+I: sí / y muy apenas <risa = “E”/>
+
+E: ¿nomás son dos?
+
+I: son dos pero valen 
+
+E: son todos ¿verdad? 
+
+I: pero valen por diez <risa = “I”/>
+
+E: creo que es / todo ¿verdad? // sí 
+
+I: es todo
+
+E: y pues / le agradezco mucho que tuvo tiempo / y que nos recibió aquí un // un rato ¿verdad? / en su casa / en su casa aquí 
+
+  Fin de la entrevista
+
+

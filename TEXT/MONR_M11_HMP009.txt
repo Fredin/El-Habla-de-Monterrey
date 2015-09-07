@@ -1,0 +1,918 @@
+﻿<Transaudio_filename=”MONR_M11_HMP009.mp3” xml:lang=”español”>
+<Datos clave_texto=”MONR_M11_HMP009” tipo_texto=”entrevista_semidirigida”>
+<Corpus corpus=”PRESEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México”/>
+
+<Grabacionresp_grab=”Beatriz Elena Jiménez Flores” lugar=”domicilio del informante” duracion=”33’40”” fecha_grab=”2007-12-17” sistema=”MP3”/>
+<Transcripcionresp_trans=”Leonor Tienda Díaz” fecha_trans=”2008-05-06” numero_palabras=”4051”/>
+<Revisionnum_rev=”1” resp_rev=”Raquel Rodríguez de Garza” fecha_rev=”2009-01-28”/>
+<Revisionnum_rev=”2” resp_rev=”Carmen García Torres” fecha_rev=”2010-07-23”/>
+<Revisionnum_rev=”3” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-08-18”/><Revision num_rev=”4” resp_rev=”Cynthia Martínez del Ángel” fecha_rev=”2011-03-12/>
+<Revision num_rev=”5” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-07-17/></Datos>
+
+<Hablantes>
+<Hablante id=”hab1” nombre=”Juana María Palomo Ibarra” codigo_hab=”I” sexo=”mujer” grupo_edad=”1” edad=”34” nivel_edu=”1” estudios=”primaria incompleta” profesion=”empleada” origen=”Monterrey” papel=”informante”/>
+<Hablante id=”hab2” nombre=”Beatriz Helena Jiménez Flores” codigo_hab=”E” sexo=”mujer” grupo_edad=”3” edad=”56” nivel_edu=”2” estudios=”comercio” profesion=”comerciante” origen=”Monterrey” papel=”entrevistador”/>
+<Hablante id=”hab3” nombre=”desconocido” codigo_hab=”A1” sexo=”hombre” grupo_edad=”ninguno” edad=”desconocida” nivel_edu=”desconocido” estudios=”desconocido” profesion=”desconocida” origen=”desconocido” papel=”audiencia”/>
+<Hablante id=”hab4” nombre=”desconocido” codigo_hab=”A2” sexo=”hombre” grupo_edad=”1” edad=”desconocida” nivel_edu=”desconocido” estudios=”desconocido” profesion=”desconocida” origen=”desconocido” papel=”informante 3”/>
+
+<Relaciones rel_ent_inf=”desconocidos” rel_inf_aud2=”conocidos” rel_ent_aud2=”desconocidos” rel_inf_aud3=”conocidos” rel_ent_aud3=”desconocidos”/>
+</Hablantes></Trans>
+
+E: bueno / buenas no buenas noches 
+
+I: buenas noches
+
+E: este yo soy la señora ______ _______ // este pues quiero verdad tener una breve plática con usted / porque sabe que estoy participando / en un estudio / de cómo somos en Monterrey / este / porque se están perdiendo las / las costumbres / de nuestra gente y / y quisiera tener una / una breve plática con usted // este // ¿cómo ve co- eh eh ¿cómo ha ha visto usted el tiempo el día de hoy? / ¿qué le ha parecido? 
+
+I: <ininteligible/>
+
+E: primero / en días anteriores cómo estuvieron los días a comparación de / del día de hoy / ¿qué le ha parecido a usted?
+
+I: pos muy fríos // fríos y de raros / días / calientes / calorosos
+
+E: muy calurosos ¿verdad?
+
+I: muy calorosos 
+
+E: y días anteriores o sea estuvo con 
+
+I: mjm
+
+E: con algo de frío
+
+I: de frío
+
+E: ¿verdad? / oiga / usted este / emmm ¿cómo se llama usted perdón?
+
+I: _____ _____ / ______ 
+
+E: ______ _____ / este ¿usted en / en donde nació / _____?
+
+I: en Monterrey 
+
+E: en Monterrey // mmm este y ¿cómo / cómo fue su / su niñez?
+
+I: muy bonita // bueno / para mi bonita porque / pos me miraban muy bien mis padres // mi madre nos llevaba a misa cada domingo / todos juntas 
+
+E: ¿fue muy numerosa su familia?
+
+I: sí
+
+E: <tiempo =”02:00”/> ¿sí?
+
+I: todos
+
+E: este / ¿qué tan numerosa era su familia? ¿qué tan numerosa era su familia?
+
+I: todos reu- nos reunimos / todos 
+
+E: ¿se reunían todos?
+
+I: mjm
+
+E: ándele
+
+A1: ¿está mi abuela?
+
+E: sí está ocupada si quieres
+
+A1: es que le habla Fermín
+
+E: ah / dile que orita va / mmm / ¿sí?
+
+A1: no / le hablan a este Julio 
+
+A2: le hablan por teléfono 
+
+A1: le hablan por teléfono 
+
+E: ah que le hablan por teléfono / que le hablan por teléfono 
+
+I: ah 
+
+E: bueno vamos a esperar un momentito mientras / va / a contestar la llamada / y orita regresa
+ 
+I: <tiempo =”05:28”/> a la mejor su mamá y su papá está dormido
+
+E: ¿mande?
+
+I: va por su 
+
+E: ¿quién / Julio?
+
+I: Julio 
+
+E: ah
+
+I: siéntate ahí amor
+
+E: siéntate Fátima / siéntate ahí que al cabo no nos interrumpe / este ¿en qué nos quedamos? ¡ah! / el lugar en donde usted nació
+
+I: en Monterrey Nuevo León 
+
+E: en Monterrey / ¿y cómo fue su niñez? 
+
+I: muy bonita// todos nos reuníamos / todos juntos / nos íbamos a misa / con mamá / y papá // todos nos reuníamos / siempre 
+
+E: ¿fue muy tranquila?
+
+I: sí
+
+E: ¿usted fue una niña / tranquila o inquieta o cómo fue? 
+
+I: no / tranquila 
+
+E: tranquila / ándele / ¿y cómo fue este / todo esa etapa de su adolescencia 
+
+I: muy bonita 
+
+E: este ¿cómo eran sus papás con usted?
+
+I: eran muy buenos 
+
+E: ¿y su familia? 
+
+I: pos / bonita también 
+
+E: <tiempo = ”07:00”/> ¿cómo?
+
+I: también ha / han estado / muy buenos son ellos 
+
+E: muy buenos 
+
+I: mjm
+
+E: este / y ¿cómo es la / la relación / familiar con sus hermanos?
+
+I: no / casi no nos comunicamos 
+
+E: ¿no hay mucha unión?
+
+I: no
+
+E: no / ¿por?
+
+E: no / ¿por qué motivo?
+
+I: nomás <risas =”I”/>
+
+E: nomás <risas= “I”/> /¿se han distanciado mucho / la familia?
+
+I: no 
+
+E: ¿no se han distanciado sus hermanos // con usted? 
+
+I: no 
+
+E: no / y / y luego / su vida de de casada ¿cómo ha sido?
+
+I: muy triste 
+
+E: muy triste / ¿por qué / por qué muy triste?
+
+I: pos porque no nos comunicamos / yo y mi señor / no platicamos / como una pareja que ha de ser 
+
+E: ¿no hay comunicación?
+
+I: no 
+
+E: ¿falta comunicación? / que se debe usted / usted / ¿qué piensa? / eh / ¿por qué / por qué esa falta de comunicación?
+
+I: por celos de él nomás 
+
+E: ¿su esposo es muy celoso? / y ¿usted piensa / a qué se debe que sea muy celoso?
+
+I: no// cosas de él 
+
+E: cosas de él // ¿oiga tiene muchos / muchos este / amigas?
+
+I: no
+
+E: ¿usted es muy amiguera?
+
+I: no 
+
+E: ¿no? / ¿no tiene muchas amigas?
+
+I: <tiempo =”09:00”/> no no
+
+E: este ¿y sus amistades? // que usted tenga 
+
+I: no nada más dos amigas 
+
+E: dos amigas 
+
+I: dos
+
+E: que las conoce de hace tiempo
+
+I: ya / hace tiempo 
+
+E: ¿y usted las frecuenta?
+
+I: porque siempre me han / ayudado en lo que puedo / en lo que pueden ellas 
+E: en los que
+
+I: me dan la mano 
+
+E: le dan la mano en lo que ellas pueden / mjm / ¿oiga cómo es un día normal para usted? 
+
+I: ¿normal?
+
+E: sí // un día normal / por ejemplo / un día normal yo digo / por ejemplo el día de ayer / ¿qué hizo el día de ayer? 
+
+I: el día de ayer // me jui a ver a mi hija 
+
+E: se levantó y se fue a ver a su hija / ¿se levantó a qué hora?
+
+I: me levanté a las siete 
+
+E: mjm
+
+I: dejé comida / almuerzo / y trapié / / lavé trastes / dejé limpio todo / y me jui / y ya regresé / llegué allá y me dijo mi nuero / mi yerno me dijo / ya se acaba de ir Blanquis / y digo ah sí / le digo bueno pos ya me voy / se jue a las diez / y ya me vine / y aquí estuve con mi hija 
+
+E: pero un / eso nada más fue porque / fue a visitar a su hija
+
+I: mjm
+
+E: pero un día normal para usted / ¿cómo es? // o sea / que no haya ido por ejemplo / a visitar a su hija / eso porque fue a visitar a su hija pero normal normal
+
+I: pos ¡ah! no pensaba ir / no pensaba ir 
+
+E: no pensaba ir / o sea eso salió de imprevisto
+
+I: pos salió / sí
+
+E: ándele / ¿oiga le gusta a usted cocinar?
+
+I: sí / claro
+
+E: ¿sí? / ¿y qué le gusta cocinar a usted? oiga
+
+I: <tiempo =”11:02”/> a mí me gusta hacer tortas de picadillo 
+
+E: ¿tortas de qué?
+
+I: de picadillo 
+
+E: achis achis / ¿y cómo es eso? oiga
+
+I: e / cozo la / el arroz 
+
+E: coce el arroz 
+
+I: lo disuelvo con la / con el picadillo 
+
+E: mjm
+
+I: y luego le echo / mostaza
+
+E: mjm
+
+I: y sí / le echo unos / piquitos de cebolla / chiquita / y ya / está bien / y luego / la doro y / en aceite / las tortitas / y ya / una sopa de arroz 
+
+E: una sopita de arroz
+
+I: frijoles / una lechuguita a un lado / tomate
+
+E: ándele / eso es // ¿eso / son tortitas de picadillo?
+
+I: mjm
+
+E: ándele / pos ha de estar saber ricas / este / oiga / ¿usted alguna vez ha estado este / em / impresionada por algo? // a algo que le haya a usted impresionado mucho / que / como que se / como para que se le haya quedado grabado / toda su vida?
+
+I: sí 
+
+E: ¿qué / cuál ha sido / ese / esa impresión que tuvo usted? 
+
+I: cuando / vivía con mi suegra 
+
+E: mjm
+
+I: yo estaba sola con la niña / y el bebé 
+
+E: mjm
+
+I: y / llegó mi suegro / y aventando la puerta / queriendo que / que le abriera 
+
+E: mjm
+
+I: dije no / no esta él / no está Javier / no está su hijo / dijo pero ábreme / dije ¿por qué lo voy a abrir si no está él? / le dije no / no voy a abrir y la aventó la puerta / jue cuando me quedé bien / acá / asustada 
+
+E: <tiempo =”13:07”/> ¿se impresionó usted mucho?
+
+I: sí / bastante 
+
+E: ¿ah usted se asustó? 
+
+I: sí
+
+E: porque su suegro le / le / le forzó la puerta de 
+
+I: mjm 
+
+E: de ahí donde 
+
+I: de la puerta 
+
+E: donde usted vivía con su esposo / o sea que / ¿vivía junto con sus suegros?
+
+I: sí / ah o sea / ellos vivían adelante y nosotros atrás / en un cuarto solo 
+
+E: en el fondo // ándele / y y / y este / y ¿su esposo / se molestó cuando / llegó él y le dijo usted? 
+
+I: sí / yo le dije / le dije vino tu viejo / tu papá y aventó la puerta 
+
+E: mjm
+
+I: y / y aventó y la abrió / y luego ¿tú pa qué le abres? / no / yo no la abrí / la forzó él / dijo ¿si algo tuviste algo con él? / le dije no / de veras 
+
+E: o sea que ¿decía que si usted había / había pasado algo entre / usted y su suegro?
+
+I: sí 
+
+E: ¿su esposo le dijo? 
+
+I: él pensó 
+
+E: y usted le dijo que no / nada
+
+I: sí / que no / nada
+
+E: ¿andaba tomado su suegro?
+
+I: sí
+
+E: ándele / mmm / y luego ya / ¿después se cambiaron de ahí / o siguieron viviendo ahí?
+
+I: no / nos fuimos de allí / para Villa Juárez 
+
+E: se fue / se cambiaron de ahí después de ese incidente
+
+I: sí
+
+E: ándele / entonces este / entonces usted piensa que su esposo cambió / mucho a raíz de / de ese problema o 
+
+I: sí
+
+E: ¿o tuvo más problemas después?
+
+I: no / nomás eso
+
+E: ¿nada más ese incidente?
+
+I: sí
+
+E: ándele / ¿y su esposo la cela mucho?
+
+I: sí
+
+E: ¿por qué?
+
+I: sabrá dios 
+
+E: ¿usted no sabe por qué / por qué la cele? // ¿y nunca le ha preguntado?
+
+I: no / nunca 
+
+E: <tiempo =”15:00”/> ¿nunca le ha preguntado el por qué?
+
+I: no
+
+E: ¿no se atreve? 
+
+I: no / no le digo / no le pregunto nada 
+
+E: no le pregunta nada // y por ejemplo cuando / la cela / ¿qué actitud toma / el señor?
+
+I: pos nomás me / me insulta / me dice cosas 
+
+E: la insulta
+
+I: que soy una cualquiera una / puta / no me sale / no me saca de ahí de / puta 
+
+E: ¿no la baja?
+
+I: nunca / nunca 
+
+E: mmm
+
+I: no sabe / le digo yo / ni sabes ni lo que tienes en tu casa le digo yo / no sabes / todavía no me conoces tú muy bien 
+
+E: ándele // ¿y alguna vez usted ha estado este / en peligro de muerte?
+
+I: sí
+
+E: ¿sí? / eh / ¿de / de qué manera?
+
+I: él me quiso ahorcar 
+
+E: ¿él la quiso ahorcar a usted? 
+
+I: sí
+
+E: ¿por qué motivo?
+
+I: nada más / cosas de él / estaba tomado 
+
+E: ¿estaba tomado?
+
+I: nada más porque no me dejaba / estar con él 
+
+E: ¿quería estar con usted y usted no quiso?
+
+I: me rompió la blusa / la ropa / pantalón 
+
+E: ¿le destrozó la ropa / que usted traía puesta? / ¿así a / a puros tirones? 
+
+I: ya / me traía las manos en la / cuello y / ya no miraba bien / bien oscuro miraba 
+
+E: y le / y le empezó a / apretar el cuello / por lo mismo tomado que estaba // ¿y estaba usted sola?
+
+I: sí / estaba sola / no había nadie en la casa 
+
+E: no había nadie / ¿y usted pensó que sí / que sí lo iba ahacer?
+
+I: <tiempo =”17:04”/> dijo / me decía si no / quieres nada conmigo / con nadien más vas a ser / vas a tener // te va a llevar la fregada // yo sí está bien / hazle como quieras 
+
+E: ¿y la golpeó?
+
+I: fue cuando me / no me pegó si no que me / apretó el cuello 
+
+E: la quiso estrangular / y usted dice que veía ¿cómo?
+
+I: oscuro 
+
+E: obscuro ya donde se estaba debilitando / ¿y no lo / acusó? 
+
+I: no
+
+E: ¿por qué?
+
+I: no sé
+
+E: ¿se ha aguantado usted mucho tiempo?
+
+I: sí 
+
+E: ¿por qué motivo?
+
+I: nomás / por los niños 
+
+E: por los niños // ¿y usted cree que vale la pena?
+
+I: no 
+
+E: ¿callar? // no vale la pena // pos sí está / está / canijo eso / porque pues imagínese él / hacerle eso / o pudo haber pasado / otra cosa
+
+I: otra cosa 
+
+E: ¿verdad? / está canijo // este / ¿usted cómo ve su / su posición / este / en su casa? // eh / posición económica
+
+I: ¿de dinero? / ¿o cómo? 
+
+E: sí 
+
+I: mmm 
+
+E: ¿usted trabaja?
+
+I: no / pos yo trabajo
+
+E: ¿y también su esposo?
+
+I: también él 
+
+E: entonces son dos / dos entradas de dinero
+
+I: mmm 
+
+E: su posición es solvente / ¿saca extras usted? / ¿tiempo extra? 
+
+I: <tiempo =”19:07”/> no
+
+E: ¿no? / trabaja usted / ¿cuántas horas al día?
+
+I: de ocho a / a cinco
+
+E: de ocho a cinco / ¿pero no tiene extras?
+
+I: no 
+
+E: y entonces ¿por qué la insulta su esposo si / si usted este / nomás cumple con su trabajo? / ¿él se imagina cosas? /¿o qué? 
+
+I: sabe / sí / se imagina cosas 
+
+E: ¿si? / ¿qué se imagina su esposo?
+
+I: cree que ando por ahí de chiflada 
+
+E: ¿piensa que anda usted de chiflada / con algunos otros hombres? 
+
+I: que tengo un amante / que cuántos tengo y que sabe qué tanto
+
+E: le dice que si tiene amante usted? 
+
+I: como anoche
+
+E: ah ¿sí?
+
+I: anoche me dijo 
+
+E: ¿y qué le dice usted?
+
+I: sí ay sí / ¿cuántos me conseguistes? / no necesito conseguirtelos / no necesito aconseguírtelos / tú sola sabes / y yo sí hombre / está bien 
+
+E: ¿y siempre sale con lo mismo?
+
+I: siempre / siempre 
+
+E: ¿siempre dice lo mismo?
+
+I: yo le digo / ¿para eso tomas? / ¿para eso? / ¿nomás para estarme hostigando? 
+
+E: ¿y luego / le dice que le dé dinero? / ¿le quita el dinero a usted?
+
+I: no / él me / nomás me dice cuando / que viene mucha luz y que esto y que lo otro / dame / estira la mano él nomás 
+
+E: que le dé 
+
+I: / antier le di doscientos / le dije pero paga la luz / voy a ver el recibo 
+
+E: que usted le dé a él / en vez de que él le dé a usted 
+
+I: mjm / que no me da ni un cinco 
+
+E: ¿usted lo mantiene a su esposo?
+
+I: haga de cuenta 
+
+E: como si fuera otro hijo suyo
+
+I: mjm
+
+E: ¿entonces tiene que trabajar más?
+
+I: orita tuve que ir a trai mandado para los niños porque ya no había nada / ¿usted cree? 
+
+E: <tiempo =”21:00”/> ¡eh! / oiga pos tiene muy chiflado a su marido /no / lo tiene muy chifladito / no pos está bien / cada quien ¿verdad? / este / oiga / y / y así que él / él por eso motivo le dice a usted que / que / que anda usted de más de chiflada // mmm / este / ¿algo que usted quiera / agregar a / a esta pequeña plática? // lo que usted guste 
+
+I: no pos que / a todas las mujeres
+
+E: mjm
+
+I: que no les toque lo mismo que a mí / que sean felices con los señores / con sus esposos / con sus hijos // ya que yo no llevo una vida normal / como debe de ser / con su familia 
+
+E: ¿algo más?
+
+I: pos que miren su fo- / que / los hijos de ellos / los / las vean bien // que no la insulten nunca como a mí que me insultan en veces y / me callo / todo 
+
+E: ¿usted se calla todo lo que le dicen su / marido sus hijos? 
+
+I: sí
+
+E: ándele / y / y eso pues no es normal
+
+I: no 
+
+E: <tiempo =”22:57”/> este / no pos / es todo / bueno pues este / me dio mucho gusto haber platicado con usted / un momentito ¿verdad?
+
+I: mjm
+
+E: haberle / quitado este tiempo porque ya pos ya es tarde para usted / este / y / pues anticipadamente le doy las gracias / por haberme / usted facilitado y / este tiempo ¿verdad? 
+
+I: sí
+
+E: que yo sé que es muy valioso / este y haber platicado con usted este / estos momentitos
+
+I: mjm
+
+E: pos muchas gracias por todo
+
+I: mjm
+
+E: y este / nada más le voy a hacer una / una / un pequeñito cuestionario
+
+I: sí
+
+E: mmm / por ejemplo datos generales / eh / ¿su nombre?
+
+I:_____ _____ _____ ______
+
+E mmm / mmm / edad treinta y / ¿qué me dijo?
+
+I: treinta y cuatro
+
+E: treinta y cuatro años / eh / sexo femenino / este / casada / este / la colonia Ricardo Flores Magón / de Escobedo / ¿teléfono?
+
+I: no tengo
+
+E: ¿religión?
+
+I: tampoco / ¡ay! / perdón <risas = ”I”/>
+
+E: ¿religión?
+
+I: católica
+
+E: católica // ¿de dónde es usted?
+
+I: de Monterrey Nuevo León
+
+E: este // ¿ha vivido usted siempre en Monterrey?
+
+I: sí
+
+E: sí / este / ¿de dónde era su papá?
+
+I: de San Luis Potosí 
+
+E: ¿y su mamá?
+
+I: de Torreón Cagüila
+
+E: mjm / ¿de dónde era su / abuelo paterno?
+
+I: de Torreón
+
+E: ¿y su abuelita paterna?
+
+I: <tiempo =”25:01”/> también
+
+E: ¿su abuelita materna?
+
+I: de San Luis
+
+E: ¿y abuelito materno?
+
+I: también
+
+E: también / okay / este / ¿en su lugar de origen había escuelas?
+
+I: sí 
+
+E: sí / pos es de Monterrey ¿verdad? / servicios también / y medios de comunicación también
+
+I: mjm
+
+E: okay / ¿cuánto / en cuánto tiempo lleva viviendo usted en Monterrey? / ¿de cero a cinco / de seis a veinte / de veintiuno a cuarenta / o más de cuarenta años?
+
+I: más de cuarenta
+
+E: ¿más de cuarenta años?
+
+I: sí 
+
+E: pues / sería usted entonces // de veintiuno y cuarenta / ¿verdad? 
+
+I: por ahí así
+
+E: eh /¿por qué se vino usted a vivir aquí a Monterrey? / ah pos usted nació aquí ¿verdad?
+
+I: mjm
+
+E: bueno ¿por la / educación trabajo enfermedad / o migración previa de otros familiares? 
+
+I: sí 
+
+E: ¿por eh? / ¿por qué motivo?
+
+I: por familiares
+
+E: familiares / y educación 
+
+I: educación 
+
+E: mjm / ¿tiene usted alguna / a afición o pasatiempo? ¿no tiene algún / algún pasatiempo?
+
+I: no
+
+E: no / eh / ¿asiste usted al cine?
+
+I: no
+
+E: no / este / ¿escucha radio?
+
+I: sí
+
+E: sí / este / ¿qué tanto tiempo usted usted escucha / al día la radio? / ¿la escucha mucho? / qué es más de dos horas // o poco / hasta dos horas? 
+
+I: poquito
+
+E: poco / mmm / hasta dos horas / eh ¿qué tipo de estación / prefiere escuchar? / la / cultura / no perdón / ¿la ranchera / tropical / romántica / rock / reguetón en inglés o reguetón en español? / ¿qué / qué tipo de música?
+
+I: <tiempo =”27:06”/> romántica 
+
+E: romántica // y de la radio hablada está la cultural / las noticias o la deportiva 
+
+I: noticias
+
+E: noticias / ¿cuál es su estación preferida?
+
+I: Radio Alegría / y FM 
+
+E: FM ¿qué tipo de / de programa le gusta escuchar en la radio? / ¿de música / noticieros / de parejas / de música clásica / cultura general / La Hora Nacional / radio novelas / narraciones / chistes o bromas?
+
+I: noticias
+
+E: noticias / ¿ve usted televisión?
+
+I: sí
+
+E: sí / eh ¿con qué frecuencia ve la tele usted? / mucho / es más de una hora / y poco / menos de una hora 
+
+I: menos
+
+E: menos de una hora / poco / ¿qué tipo de programa le gusta ver en la tele? / ¿noticieros / cómicas / deportivas / de revista para mujeres / telenovelas / eh / reality shows / concursos / análisis / culturales / policíacos / musical / científico / de variedades?
+
+I: noticias
+
+E: noticias / ¿con qué frecuencia ve usted películas / en la televisión? / ¿l as ve con frecuencia / poco / o no ve?
+
+I: no veo
+
+E: no ve / eh / ¿cuenta usted con videograbadora?
+
+I: no
+
+E: no / ¿DVD?
+
+I: no
+
+E: no / ¿consola para videojuegos?
+
+I: no
+
+E: no / ¿cable?
+
+I: tampoco
+
+E: ¿Sky ?
+
+I: no
+
+E: ¿MVS?
+
+I: no
+
+E: okay / ¿cuántas televisiones hay en su casa?
+
+I: dos 
+
+E: dos / ¿lee / el periódico?
+
+I: no
+
+E: <tiempo =”28:59”/> no / ¿lee usted revistas?
+
+I: no
+
+E: no // ¿usa internet?
+
+I: no
+
+E: no /mmm // ¿tiene teléfono?
+
+I: no
+
+E: ¿celular?
+
+I: no 
+
+E: no / okay / ¿visita usted museos?
+
+I: no
+
+E: ¿asiste usted a conciertos?
+
+I: no 
+
+E: ¿asiste usted al teatro?
+
+I: no / tampoco
+
+E: ¿suele viajar por placer?
+
+I: no
+
+E: ¿qué / qué estudios ha realizado usted? // ¿primaria?
+
+I: primaria
+
+E: primaria / ¿último grado cursado? // ¿hasta qué año estudió usted? 
+
+I: quinto año 
+
+E: quinto año / ¿en escuela pública?
+
+I: sí 
+
+E: ¿y fecha en que la terminó? / ¿en en qué año? // ¿no / no / no recuerda?
+
+I: no muy bien 
+
+E: este // en mil novecientos ochenta y / como en el ochenta y siete / ochenta y ocho / más o menos / eh / lugar en que la estudió pos / ¿aquí en Monterrey?
+
+I: sí
+
+E: okay / eh / ¿está trabajando?
+
+I: sí
+
+E: ¿desde cuándo trabajó usted?
+
+I: ya / tengo un año
+
+E: <tiempo =”31:00”/> un año
+
+I: trabajando
+
+E: ¡ajá! / ¿en dónde trabaja?
+
+I: de limpieza
+
+E: ¿es empleada?
+
+I: sí
+
+E: em/ usted / cuál de las siguientes actividades se realiza en su trabajo / ¿produce? no / ¿vende? pos tampoco / ¿se da un servicio? / un servicio / ¿cuál es el servicio que se da ahí en su trabajo?
+
+I: de limpieza de las casas
+
+E: de limpieza / de limpieza de casas 
+
+I: sí
+
+E: ¿qué puesto desempeñaba usted antes? / ¿antes de trabajar / qué puesto desempeñaba?
+
+I: en la casa
+
+E: ¿era ama de casa?
+
+I: ama de casa
+
+E: mjm / pues de siempre ¿verdad?
+
+I: sí
+
+E: este / eh / ¿usted gana un salario de?
+
+I: siete cincuenta 
+
+E: siete / catorce son quince / tres mil pesos / tres mil pesos // ¿qué prestaciones recibe usted en su trabajo? / de despensa / ¿tiene despensa?
+
+I: no
+
+E: ¿servicio médico?
+
+I: no
+
+E: ¿vacaciones?
+
+I: sí
+
+E: ¿reparto de utilidades?
+
+I: sí
+
+E: ¿curso de capacitación?
+
+I: mjm
+
+E: eh / ¿cuántos focos tiene su casa?
+
+I: cuatro
+
+E: cuatro / mjm/ eh ¿quiénes viven en su casa?
+
+I: tres / y / bueno el muchacho mayor / y dos niños 
+
+E: mjm
+
+I: yo y mi esposo
+
+E: ¿cinco personas?
+
+I: mjm
+
+E: mjm // no pues / yo creo que / es todo / no pues es todo por lo pronto // no pues / pues muchas gracias
+
+I: <tiempo =”33:11”/>mjm
+
+E: de antemano y yo creo que / es / es todo / este / pos muchas gracias // y / y pues este / ahí si yo le puedo servir en algo / ya sabe con toda confianza ¿eh?
+
+I: sí
+
+E: okay / gracias
+
+I: gracias a usted 
+
+Fin de la entrevista
+
+
+
+
+
+
+
+

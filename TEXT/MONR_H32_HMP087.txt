@@ -1,0 +1,1603 @@
+﻿<Trans audio_filename = “MONR_H32_HMP087.MP3” xml:lang = “español”>
+<Datos clave_texto = “MONR_H32_HMP087” tipo_texto = “entrevista_semidirigida”>
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” país = “México”/>
+
+<Grabacion resp_grab = “César Rodrigo Jiménez Villa” lugar = “oficina del informante” duración = “1’23’53’’” fecha_grab = “2007-12-19” sistema = “MP3”/>
+<Transcripcion resp_trans = “Mayra Silva Almanza” fecha_trans = “2008-04-15”
+número_palabras = “14460”/>
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2008-09-01”/>
+<Revision num_rev = “2” resp_rev = “Alejandra Moreno Rangel” fecha_rev = “2010-06-27”/>
+<Revision num_rev = “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-09-18”/> 
+<Revision num_rev = “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-11-09”/> <Datos/>
+<Revision num_rev = “5” resp_rev = “Dalina Flores Hilerio” fecha_rev = “2012-01-23”/> <Datos/>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Leonardo Montes Alvarado” codigo_hab = “I” sexo = “hombre” grupo_edad = “3” edad = “63” nivel_edu = “2” estudios = “licenciatura incompleta y carrera técnica” profesión = “técnico electricista” origen = “Monterrey” papel = “informante”/> 
+<Hablante id = “hab2” nombre = “César Rodrigo Jiménez Villa” codigo_hab = “E” sexo = “hombre” grupo_edad = “1” edad= “27” nivel_edu = “3” estudios = “Lic. en Diseño gráfico, publicidad y mercadotecnia” profesión = “Diseñador gráfico y fotógrafo” origen = “Monterrey” papel = “entrevistador”/>
+<Hablante id = “hab3” nombre = “desconocido” codigo_hab = “A1” sexo = “hombre” grupo_edad = “3” edad = “desconocido” nivel_edu = “desconocido” estudios = “desconocido” profesión = “propietario de una tienda de insumos eléctricos” origen = “Monterrey” papel = “audiencia”/>
+
+<Relaciones rel_ent_inf = “desconocidos” rel_ent_aud1 = “desconocidos” rel_inf_aud1 = “compadres”/>
+</Hablantes> </Trans>
+
+
+
+E: bueno primero que nada // muy buenas tardes y muchas gracias por / por ayudar
+
+I: claro 
+
+E: este 
+
+I: a sus órdenes
+
+E: no sé cómo // cómo vea aorita // el clima que hemos tenido en Monterrey la / la temperatura y todo muy 
+
+I: sí / ha estado muy / muy extremosa / tú sabes de que / ha estado muy extremoso el tiempo que // pos así es en esta temporada / viene el tiempo de invierno y / y la temporada es // es así // este más // pos / no es uniforme ¿verdad?/ tienes una temperatura en la mañana otra al mediodía y otra en la tarde 
+
+E: mjm / no 
+
+I: es diferente 
+
+E: no / a veces no le ha tocado que / llueve en la mañana / en la noch en la tarde hace calor / y en la noche estamos // casi nevando
+
+I: sí así es / sí pero realmente este / pos es muy extremoso / aquí en Monterrey es muy extremoso / en otras ciudades es es / Saltillo pos es // pos como es más alto / tienen tres mil metros // lógicamente que / que tienen otra / otro tipo de / de / el ambiente / la / el aire es / pos es / es diferente ¿verdad? 
+
+E: sí / yo tengo un amigo allá / que vive en Saltillo que / que me dice allá siempre hace frío
+
+I: sí / amanece amanece con frío / y en la medio día / está templado / y luego en la noche pos ya sabes que está medio fresco 
+
+E: el frí 
+
+I: sí / todo el tiempo fresco
+
+E: el frío
+
+I: sí / este / yo unos meses trabajé yo una temporada allá con / con ciertos clientes ¿verdad? / yo trabajaba para / para Energía / y Energía este / tenía clientes allá / de agua y drenaje / este / y / y tú sabes que / que / es muy árida esa parte donde / en la serranía
+
+E: sí 
+
+I: entonces este / pos es donde estaban los pozos / son pozos de treinta y seis pulgadas
+
+E: mjm
+
+I: estamos hablando un / un / boquetote así 
+
+E: pozote 
+
+I: y / las bombas eran de doscientos caballos de trescientos caballos / unas unidades muy grandes / entonces / nosotros checábamos la / la potencia de la / unidad / y el factor de potencia y la corriente que co / que consumía
+
+E: mjm
+
+I: <tiempo = “2:00”/> y para poder hacer eso / teníamos que le e / hacer un / una lectura / para / tomar el potencial de esa unidad / realmente / cuál era / e / los KR activos que tenía la / esas unidades / pe / y pero en sí este / pos era un trabajo que se estaba haciendo / evaluando para poder este / sacar / a / a flote cuánto eran los / los reactivos que / que tenía el motor / un motor de trescientos caballos / es un / es un mounstro / trabaja / trabaja con / con / cuatrocientos cuarenta volts / de entrada / para arranque / nomás para arranque // el trabajo normal trabaja con tres o doscientos 
+
+E: el arranque es lo pesado
+
+I: es lo / lo pesado / pero trabajaba con / con / con corriente alta / pero en arranque normal 
+
+E: mjm
+
+I: ya que estaba trabajando normal // checábamos el KR activos / la potencial que estaba trabajando / el factor de potencia // y / y la reactancia capacitiva 
+
+E: mjm
+
+I: todo eso lo hacíamos / lo hacíamos este / con un aparato ¿verdad?
+
+E: ¿con la máquina prendida?
+
+I: con la máquina prendida / sí 
+
+E: ¿no era peligroso?
+
+I: sí / no no no / es que / todo se hace con / con / con amperímetros altímetros y / control de presión y / temperatura / de todo / tú haces un parámetro / y necesitas sacar una gráfica y / y sabías / este / la / la / capacidad de la potencia del motor / este si la reactancia que tenía era / la adecuada / entonces / ahí es donde entonces entrábamos nosotros para / para subir el factor de potencia / el control de potencia es / la reactancia capacitiva que se forma en un motor / cuando se arranca
+
+E: okay 
+
+I: hay momentos en que / en que la corriente // baja / el / el ciclaje poquito / pero no te das cuenta nunca vas a percibir / pero un motor sí / porque está trabajando con un potencial / de / altísimo
+
+E: sí
+
+I: entonces / eso es lo que hace que / que / que tu factor de potencia de la motor / baje la eficiencia / entonces / se busca la manera de que todo sea un / que se estabilice // que todo el tiempo sea con un mismo consumo / porque no ora va a ser / treinta y cinco mil kilo watts luego después de treinta y siete mil / treinta y dos mil / entonces se busca un / una estabilización y / y es lo que se trata de hacer / un ahorro de energía / a largo plazo // y los costos pos / lógicamente que bajan / y entre más / más económico sea el / la energía / más barata el agua ¿verdad? / ahí es / es / donde está / el meollo de la cosa
+
+E: <tiempo = “4:31”/> pues sí
+
+I: pero este // en / en / en / en otros motores / otros motores más chicos / como por ejemplo el aire acondicionado / hay aires acondicionados que / que son de / heavy duty / de / baja capacidad / y alta capacidad / unos que traen resistencia para calefacción y otros que / vienen normal // en algunos / el factor potencia es muy alto / entonces / para la gente que no conoce / pue- decir ¡n’ombre! / este / que al cabo que / que para un ratito que lo vamos a tener / ¡no es cierto! / tú / el aparato lo tienes / a lo mejor hasta ocho oras trabajando / en lo que estás durmiendo ¿verdad? / se acuesta a las diez de la noche y / y amanece a las seis de la mañana y / y ya / ya / lo tienes que apagar ¿verdad? / lógicamente que lo tienes controlado para que una temperatura que te dé entre / entre dieciocho y veintidós grados / porque es la temperatura agradable / de / del / ambiente
+
+E: en Canadá los tenían a / cinco 
+
+I: sí
+
+E: los climas / y los teníamos prendidos las veinticuatro horas del día 
+
+I: sí
+
+E: nunca supe cómo no tronaron
+
+I: sí sí / lo que pasa es que // que esas unidades las tienen este / e / son / son de / helio o de otro tipo de / de gas / que / que trabajan con una presión muy alta / pero la expansión es / muy constante / entonces / trabajan a una / a una / temperatura muy baja // que / que / el motor está trabajando constante / no no no tiene / no se cansa / o sea / es una constancia / eso es lo que te mata en algunos equipos / que el motor / para y arranca / para y arranca / y / y cuando arranca es cuando el motor consume más corriente 
+
+E: mjm
+
+I: entonce s / ahí es donde entra el factor de potencia / para que un motor / este / la reactancia capacitiva / se mantenga estable es / que esté con / una constante / y esa constante es / a través / de / de / de un factor de potencia controlado / normalmente la / la factor de potencia anda en entre / entre los ochenta y uno / y noventa y siete 
+
+E: okay 
+
+I: <tiempo = “6:27”/> y normalmente de de / de un equipo de esos / los trabajan entre ochenta y tres y ochenta y cuatro
+
+E: mjm
+
+I: es el factor // pero si tú lo manejas a una / a un noventa y dos noventa y tres o noventa y cuatro por ciento / el ahorro es muy alto / entonces // pos / en algunos equipos / a la gente no le con / al fabricante no le conviene / ¿por qué? porque pues / no se va a acaban nun- / nunca se va a acabar ese motor / entonces lo que se quiere / que ese motor se acabe / para que vuelvas a comprar otro // pos / ¿de qué te sirve que tengas un motor que / que lo tienes diez años con él y / y lo usas o lo / lo pones a trabajar / lo tratas diez minutos o quince minutos / cada / cada / cada / hora / y no se va a cansar ese motor está / pos nomás está manteniendo la temperatura / entre dieciocho y veinte grados / porque pos aquí hay / no hay generación de calor / y ese motor trabaja / pos / a un / a una temperatura ambiente / entre dieciocho y veintidós grados / tú lo puedes probar / ahí tienes / si tienes entre / sesenta y setenta farenheit / sesenta y cinco y setenta farenheit / y tienes una temperatura entre / entre dieciocho y / diecinueve grados
+
+E: sí más o menos 
+
+I: ¿sí? / entonces / todas esas cosas / este / a grandes rasgos / la gente / no lo / no lo sabe / lo que es / a nivel de ingeniería o / o / o / algo eléctrico / que la gente / está en eso / pos sí / pero hay / hay ese / ese desarrollo
+
+E: tienen qué 
+
+I: pero / en una computadora / tú metes al sistema / o a través de tu control / y metes al sistema de la computadora / a través del del / de la carga de tu unidad / y te das cuenta tú el desarrollo que / que estás llevando / en tu unidad / y puedes controlar / los flujos de corriente / con / con temperaturas puedes controlar / el el el / el motor
+
+E: <tiempo = “8:18”/> ¿ah sí?
+
+I: es como / como / funciona ¿verdad? / pero con una computadora todo se va a hacer ya con / con frecuencia / es diferente
+
+E: pues sí
+
+I: pero / mucho más noble ¿verdad? / así es 
+
+E: ¿en la computadora?
+
+I: sí / sí porque // este / nosotros controlábamos el / el factor de potencia en una subestación de / de ciento diez mil 
+
+E: mjm / es mi celular // un momentito ya / perdón
+
+I: no / pero sí te digo una cosa / que / que que / que este / controlar a través de / de / de un / de un / de un sistema este / normal / un sistema normal / este / tú lo haces // checas // la temperatura // checas / el flujo checas el consumo y los kilowatts / entonces checas tú los cálculos / y luego ya sacas tú el / el promedio / y la computadora te lo está dando el resultado 
+
+E: pues sí
+
+I: sí / checas las cuatro lecturas / y te está dando el resultado / y luego te lo grafica / y te lo entrega ya ya / ya graficado / que es una una / una ventaja / este / grandísima
+
+E: mjm
+
+I: y / tanto / como es eso / son como las / lo lo / los sistemas / ora un / hay vehículos tú que / que orita / este / son de doce cilindros / o de ocho cilindros / o de seis cilindros / y tiene un sistema de ahorro de consumo
+
+E: tengo entendido que entre menos cilindros más se ahorra
+
+I: en este caso // los / los / los sistemas europeos / el sistema americano también / este usan / ocho cilindros / ¿verdad? / en diesel / y te trabajan / la mitad / de la potencia o sea / trabajan cuatro pistones / y bajan dos pistones // cuando están en la ciudad / trabajan / con seis pistones / normal / pero sale de la ciudad / y automáticamente solito va bajando un pistón / otro pistón / y luego se quedan con cuatro pistones 
+
+E: ajá / ¿fuera de la ciudad?
+
+I: <tiempo = “10:25”/> fuera de la ciudad / o sea / para ahorrar / energía 
+
+E: mientras más
+
+I: consumo / el consumo / entonces / y pior / y y / y una de las cosas de gran ventaja que / que son en diesel / el diesel es este / nomás que hay tres clases de díseles  / el diesel industrial / el diesel este / e / nomás que / hay tres clases de díseles  / el / el diesel industrial el diesel comercial y el el / el diesel 
+
+E: okay 
+
+I: este / este para / para equipo este // electrónico / técnico 
+
+E: okay 
+
+I: entonces / los / los americanos este / ya tienen / codificados los / los combustibles / tipos de combustibles / e / en Estados Unidos usan mucho / mucho el diesel / usan un sesenta por ciento de diesel / y el cuarenta por ciento es de / de otro tipo de combustibles 
+
+E: okay 
+
+I: ¿m? / ¿por qué? / porque / porque le sacan más eficiencia 
+
+E: al diesel 
+
+I: al diesel / sí / y aquí en México no / / este / todavía no tenemos la / la ventaja de que / de / usar este / máquinas que tengan /este / alto rendimiento / sí las hay / pero no / no se usan 
+
+E: pues no / de hecho ya me ha tocado / ver / en varios programas de televisión // e / que ya están empezando / en Europa y parte de estados Unidos / a querer manejar // lo que llaman el biodiesel 
+
+I: sí / sí
+
+E: y también a querer utilizar / ya / ya están empezando con lo de las energía alterna
+
+I: sí / sí pos este / mira orita ya ay motores / eléctricos / como trabajar un monta cargas / ese motor trabaja con / con cincuenta y tres volts / con cuarenta y tres volts / o con veintidós / con veinticuatro ya dependiendo de / el tipo de diseño // tiene una batería / que pesa / pos como setecientos o ochocientos kilos
+
+E: okay / está grande
+
+I: un monstruo ¿verdad?
+
+E: un monstruo de batería 
+
+I: <tiempo = “12:14”/> entonces / ese monstruo / este / aguanta / un motor de / de cuarenta caballos / que es el que mueve el motor / que mueve / la potencia / mueve la transmisión y la transmisión mueve el diferencial y / el diferencial pos el / el rodaje ¿verdad? 
+
+E: mjm
+
+I: pero todo a través de un / de un sistema de engranes / como un carro nomás / nomás que / en lugar de ser // e / de gasolina // es eléctrico ¿verdad? / entonces tiene / todas las ventajas / también tiene sus / ventajas de / de / de / de caída / cuando el / el motor trabaja / a una velocidad / va decayendo y entonces // solito va perdiendo la potencia / entonces / entra un sistema de / de / de / de pulso // se llama / este / pulso de aco
+
+E: <tiempo = “13:00”/> mjm
+
+I: es un / es un / una pulsación que está dándole paso a paso paso a paso / para que el motor / se vaya acelerando / sin necesidad de / acelera solo / tú lo estás acelera / tú tienes el acelerador / a un / treinta y cinco por ciento / cuarenta por ciento / y el motor / has de cuenta que lo tienes al sesenta por ciento / llega el momento en que / que el motor ya necesita / e e / acumula esa / esa energía / y la manda a un fac- / a un / a un capacitor 
+
+E: okay 
+
+I: y ese capacitor / la almacena / y cuando vuelve a utilizar ese pulso / es un pulso de aco 
+
+E: okay 
+
+I: él vuelve a utilizar ese pulso / y el motor sigue trabajando / al mismo paso sin sentir / que se cansó 
+
+E: ¿entonces el motor / a la vez que / utiliza la energía / también recarga la batería?
+
+I: y se ahorra / y se ahorra
+
+E: órale / eso está bueno
+
+I: sí / eso ya lo tiene la General Motors / eso ya lo / ya lo usa / lo usan en Europa / es que como / el combustible es mucho más caro allá / este / este / la energía pos sale más barata
+
+E: pos ahorita / orita está mucho con el carro híbrido de / eléctrico con gasolina
+
+I: sí / sí sí / lo que pasa es que / por ejemplo los barcos ¿verdad? / hay barcos que / que tienen su propia planta generadora / que genera la corriente / y a la vez / mueve su propio motor // o sea en lugar de trabajar / con diesel / trabajan con / con energía / pero / con poca / con poco combustible / mueven / cuatro veces más la / de potencia ¿verdad? 
+
+E: y ahorran 
+
+I: y ahorran energía y combustible ¿verdad? 
+
+E: sí pos eso < < este / un auto eléctrico / lo único que hace en realidad uno prende el motor / el motor // el motor electric- / el motor de este / el motor este / de / de gasolina 
+
+I: son sistema / sistema centrífugo / hace / hace hace que / el motor se / se acelere / y se mantiene vacío / vuelve a agarrar carga y vuelve a a a / enchoc- / enclochar / y vuelve a agarrar / la fuerza / y así se va 
+
+E: <tiempo = 14:57”/> sí sí
+
+I: son / son por pulsos / se llaman pulsos / es como / como si tú metieras el acelerador y se te para / lo aceleras / y se para / pero lo haces por pasos / pero / controlado ¿verdad? 
+
+E: mjm
+
+I: como un diente de fierro 
+
+E: sí sí sí
+
+I: lo va manteniendo/ entonces / ahí mismo trae su oriscopio / su / este su control / su / su detector / y marca la la / la potencia / eso de las / de / de / del sistema / motoeléctrico ¿verdad? / yo te digo que pos eso ya hace ya tiempo de que / de que / de que / lo hemos estado viendo
+
+E: mjm
+
+I: pero / es / muy productivo ¿verdad? / muchos de los / de los / de los equipos nuevos / modernos 
+
+E: mjm / digo / supongo que es porque / se está queriendo acabar / la gasolina y 
+
+I: estar al pendiente de eso ¿verdad? / sí / sí est- / está como / como el detalle de / de / del ozono ¿verdad? / que / hay partículas / más dañinas que las que nosotros estamos provocando que / que se destruye el / la capa de ozono
+
+E: sí
+
+I: eh / no nomás nosotros lo hacemos / otros / otras este / este / e / plantas este / que están trabajando / están despidiendo ese tipo de / de 
+
+E: incluso también los volcanes 
+
+I: sí / sí sí / de los / los polvos volcánicos este // por eso este / pos ahora / están buscando la manera de / de / en poquito evitarlo ¿verdad? 
+
+E: pues sí
+
+I: tratar de de de / en neutralizar / la / el / el / la contaminación 
+
+E: de hecho
+
+I: sí porque / los / el ozono / el ozono es / es uno de los factores más fuertes / más dañinos / el ozono se forma // cuando se quema / el oxígeno 
+
+E: mjm
+
+I: estás / estás / estás dañando / estás haciendo una lumbre / y estás quemando el oxígeno / nomás que cuando estás quemando el oxígeno / se forma / un gas / es el ozono / ese ozono / es el dañino / tanto / para / para la atmósfera como para / para la gente ¿verdad? 
+
+E: okay 
+
+I: y / y / es muy peculiar / cuando estás quemando / los / los este / los pozos este / e / de petróleo ¿verdad? / para consumir los / el / el / la energía el / el gas o / o el combustóleo ¿verdad? / que sale / pos / lo queman / y ahí es donde se forma el / el ozono ¿verdad?
+
+E: sería como la planta de Pemex que está acá por Apodaca 
+
+I: sí / sí / sí
+
+E: siempre hay / llamas arriba de las torres
+
+I: sí / y ahí pues / están dañando la atmósfera / ellos dicen que no pero sí / porque en el momento que tú estás quemando el oxígeno / estás formando / un ozono ¿verdad? 
+E: yo / yo creo que como todo el mundo / van a defenderse ¿verdad? / de que pos nosotros no hacemos nada de esto 
+
+I: sí / sí pero / haz de cuenta como un puntito aquí / esta planta es una la de / Veracruz / los pajaritos / es otra / la que está en / Taxco es otra / la que está en / aquí en frontera / toda la frontera <a> y 
+
+E: <tiempo = “18:01”/> pues sí / pues sí
+
+I: nomás que / lo que pasa es que no / la gente no / pos no lo ven lo ve / ven las cosas más / más / toscas / más grandes ¿verdad?
+
+E: creo que más bien es que la gente no lo entiende del todo / la mayoría de la gente
+
+I: la mayoría de la gente exactamente / sí / estamos la gente como los diputados quieren hacerse lo que les da su gana ellos / quieren / quieren este / hacer / e / pues / e / ¿cómo dicen? / quieres controlar la casa cuando no no tienes controlado / están mal / están mal los cuates <observación_complementaria = “forma de referirse a personas del sexo masculino” /> estos / este / quieren este / tener / una autonomía / la cual no existe / y / pos están mal / uno uno / uno este / los critica pero / no hay quien los critique a fondo para que se den cuenta que / que realmente está mal 
+
+E: pues sí / no y de todas formas aunque los critiquen no / no hacen caso
+
+I: no no / pos / traen el cucharón por el mango 
+
+E: eso sí 
+
+I: uno los pone para que / a uno mismo lo / sacrifiquen
+
+E: pues sí la verdad es que no / no ayudan nada esos sujetos
+
+I: sí / así es / no / este / pos lo que pasa es que / este / pues le dan alas / tú sabes que / que / que / que el IFE / es / es el control de / de ellos / y si va a haber un control entre ellos / pos no / pos cómo no / eso no jala 
+
+E: pos no
+
+I: eso es lo que está tratando de evitar ¿verdad? / decían que nomás había un / un / un futuro jefe del IFE / resulta que orita ya hay como seis 
+
+E: sí / de hecho
+
+I: y ¿de dónde salieron tantos? // pero es lo mismo porque // quieren mantener este / ecuánime las cosas ¿verdad? / pero realmente pues / uno no puede / no puede ¿cómo se dice? / este / a veces ni / ni exponerse porque / estás en riesgo de que te pase algo 
+
+E: sí de hecho / uno / uno puede arriesgarse demasiado / diciendo / su opinión
+
+I: sí / porque este / pos tú sabes que es una mafia / todo / por un lado y por el otro / aunque digan que no / si tú sabes cómo el partido setenta años de de de / de lidiar con la gente ya sabían / ya se hacía / y deshacían con / con todo mundo ¿verdad? / ya se le / se habían salido de las trancas / porque / pos / acuérdate Salinas de Gortari / tenía su propio airopuerto 
+
+E: sí
+
+I: digo no / no / no creo yo / que para que este / que esté normal ¿verdad? 
+
+E: porque tiene mucho dinero
+
+I: porque tiene mucho dinero / mira nomás / nomás suponte tú orita / en el / en el grupo más fuerte que / ¿quiénes son? / de los grupos más fuertes que tenemos orita / es Banorte 
+
+E: mjm
+
+I: ¿de quién es Banorte? 
+
+E: ¿de quién es?
+
+I: te lo pongo de tarea 
+
+E. okay 
+
+I: ¿de quién es este / Maseca?
+
+E: no no sé la verdad
+
+I: ¿de quién es Airoméxico? / ¿m? / ¿quién es el grupo hotelero / de nacional? / ¿sí? / nomás / hazte esas preguntas / y te das cuenta / dónde está el control de todo eso / mira / Azteca / ¿de quién es Azteca? / todos son con prestanombres 
+
+E: sí
+
+I: todas son prestanombres / y nadie hace nada // y lo que pasa es que / pos no puedes hablar de más porque // porque te cae el / chamuquín <observación_complementaria = “se refiere a la mafia de la que habla” /> 
+
+E: <tiempo = 21:30”/> y lo peor de todo es que no es el chamuquín el / que te lleva a la cárcel / es el otro
+
+I: <risas = “todos”/> pos sí / no no no no / yo fíjate / de antemano este / pues / como yo ya estoy jubilado ya no ya no sé / ya / yo tengo mis propias ideologías y / y / vivimos de lo poquito que nos / nos cai- / y que tenemos y que nos ganamos ¿verdad? / este / pos tenemos una profesión y sabemos depender / depender de ella / que ya estamos todos aporriados /pos ya eso es otra cosa <risas = “E”/> / pero este / como quiera nos defendemos ¿verdad? / pero / en sí / este / aquí en / en la vida si / orita si no guardas un peso / estás mal / el problema tú lo va a tener / y te da pos un // parte de lo que tú guardastes / te lo está dando pero te lo está dando a / a / a pausas ¿verdad? para que / para que te dure 
+
+E: pues si
+
+I: y / y todavía y / y se quieren quedar con él / sí / pero / pos ahí / ahí vamos despacito
+
+E: pues si
+
+I: ahí vamos / muchas de las cosas este / e / quiere uno declararlas / pero no se pueden aclarar porque / hay muchas intervenciones orita / y tú sabes / este / así es la vida / quieres este / no puedes / el tapar el sol con un dedo porque / es imposible
+
+E: aunque uno lo intente <risas = “E”/> 
+
+I: <tiempo = “22:51”/> pues sí / no / ¿cómo? así es la vida / y / y pos vive uno al / al cuatro / al día / ¿verdad?/ no puede decir // no puedo decir yo / yo no puedo / darme el lujo de tener un carro nuevo / pos si / no me puedo ni mantenerme yo menos el carro 
+
+E: pues sí
+
+I: ¿verdad? 
+
+E: pues sí
+
+I: porque así / así es la cosa / y luego / pior este / pos todo te quieren cobrar // sales / sales entras a un hospital y hasta por el aire que consumes ahí te lo están cobrando / y así es que pos / que sí ya es difícil 
+
+E: sí de hecho sí es difícil eso
+
+I: sí / sí es que / si no tienes un se / un / un / un seguro de gastos médicos mayores / estás frito / ya caminaste ahí ya / entras a un hospital y gastas veinte treinta mil pesos / ¿en qué? / dos tres mil pesos nomás de pura consulta / ¿verdad?
+
+E: y luego las medicinas
+
+I: y luego las medicinas / sí / como ora que / agarré una tifoidea yo en / por andar este // de paseo // andábamos en / en villa García y / nos invitaron un / un menudo y / una barbacoa de pozo ¿verdad? / y pos / feliz de la vida / entonce s pues / era una ya una tarde / ya tarde / este / un sábado en la noche / y pues llevábamos mucha hambre y / no pos yo me tomé un / un / un menudito / un / una cacerolita ¿verdad? / y ya nos calentamos ahí / porque estaba haciendo un frío / medio sabroso / para ese rumbo / del Alcatraz / es un ária  donde / donde estábamos / pues desolado ¿verdad? / y no hay / cerros que te eviten 
+E: pero para allá sí hace frío
+
+I: pero hace frío pos / bien frío / pero allá hace frío / entonces no pues / pos nunca llueve y ese día comenzó a lloviznar / y se puso medio feo ahí la cosa pero como quiera vamos a traer / la lumbre y / leña y troncos y / este / ya estuvimos ahí pasándola más o menos bien / nos echamos un menudazo / pero yo sentí que no me cayó el menudo ¿verdad? / entonces / me dan ganas de / de / de regresar / y / se me hacía muy feo / con la gente ¿verdad? / y nos tomamos una cervecita y que le digo no pues qué cervecita / yo no quería nada / o sea quería irme / ir a echar el menudo / porque ya no lo / no lo aguantaba / nomás que fui y me escondí / le di vuelo // entonces / fui y me enjuagué la boca con / con una / una / cerveza / y este / pos ¿qué pasó te sientes mal? / no no / estoy bien / pos ¿para qué les demostraba y agüitarlos ¿verdad? / y / quieres esto y que lo otro y la fiesta y / pos que / como eran / veinte treinta gentes / imagínate en un / en un / en un rancho / pos ya / ponle que sí había luz y / ruido y tracalada y / eran como siete o ocho camionetas / que andaba ahí / y mucha gente / pero / yo no los quería agüitar / y / total ya me sentí un poquito mal ya / ya fui a mi camioneta ya busqué ahí / algo que / que me diera resultado ahí para / para tomar y / tomé un agua mineral con un Alka Seltzer y / pos más o menos me / me controlé / pero / yo sentí que me había / me había caído algo mal / y / la deposición y al baño y al baño y al baño dije / eso no está bien ya // esto ya es que / algo algo algo está / pasó mal / me vine con el doctor / llegando allá / luego luego / no lo encontré ¡chín! / el domingo en la mañana / llegamos ahí / busqué otra vez / total ya lo hallé / me dio el medicamento / y como pos / fue muy fuerte fíjese pero la inyección cuesta trescientos cincuenta pesos / trescientos setenta para / por ahí más o menos / y pos son / necesitas unas seis ocho inyecciones ¡ay hijus! / bueno pues / pos pos pues bueno / está bueno / pos vamos a comprarlas 
+
+E: <tiempo = “26:46”/> pos ándele ¿qué le hace?
+
+I: y / compré nomás cuatro / y luego las jeringas y esto y lo otro / / son intramusculares / son tres / una cada ocho oras
+
+E: mjm
+
+I: total ahí es tu / como para ya para el martes / ya me sentía más o menos tranquilo / pero no admitía / mucho / comida / y / y me dice / mi mujer <observación_complementaria = “esposa” /> este / vamos a ver al doctor de vuelta / no pues mandó hacer unos análisis / no pues está hasta las orejas de gorupos / una tifoidea bien fea / no pues me dieron un chorro de antibiótico <observación_complementaria = “una gran cantidad” /> / entonces tomado y / inyectado y / y este / y me aliviané / pero tenía mucho / tenía mucho este / mucho problema / estomacal / no / estaba 
+
+E: es peligrosa la cosa esa 
+
+I: no / no lo soportaba / total yo comoquiera me venía / me venía porque / pos qué estás ahí en la casa 
+
+E: pues sí
+
+I: agüitarte / no / me venía para acá para la casa así estuve un / una / un rato este / aquí y me iba de vuelta // y este / hasta que ya más o menos me compuse / que / 
+
+E: no pos
+
+I: entonces me quedó la ca- / la / el estómago quedó muy / muy frágil / cualquier cosa que comía / y las náuseas / entonces me dieron / medicamento para // para el vómito y para el mareo / y es que como son tan fuertes / que / haz de cuenta que está saliendo hiel 
+
+E: sí
+
+I: la / la medicina / es ¡amarg- pero amarga con ganas! / imagínate / aquí en la lengua ora cuando llega al estómago / ¿eh? / entonces me dieron omeprazol / dos de omeprazol / y dos ranitidina / o sea / son / neutralizadores al cien por ciento / al / al estómago / no pues ya con eso me me / me aliviané y todavía las traigo mira
+
+E: todavía
+
+I: ey / pero sí tengo el paquete ahí necesito todavía / donde / donde todavía este / pero / dejé de tomar yo el medicamento porque el antibiótico es tan fuerte que parece que estoy // tragando hiel / entonces este / automáticamente me / me / me estaba yo destruyendo / más 
+
+E: <tiempo = “29:00”/> pos sí
+
+I: y ya / dejé de tomarlo / comí / comencé a comer / fruta y / plátano / manzanas y / y mango y alguna cosa que / que estuviera / este aligerando / haciendo este / cuerpo en el estómago / de / a la caída del / del esófago / y ya me / más o menos me aliviané / pero / es difícil / es una / una enfermedad muy / muy latosa 
+		
+E: exactamente
+
+I: muy latosa / lo que es esa enfermedad te / es que como te / te ataca directamente / las paredes del estómago / y / se adhiere / como algo / algo pegajoso ¿verdad? 
+
+E: sí / y luego // esa / esa enfermedad particularmente / me han dicho / si no se cuida / uno / se puede ir 
+
+I: sí te vas / sí te vas / fácil porque pues / es peligrosa
+
+E: bien peligrosa que es 
+
+I: te acaba las defensas / y me / me controló / me controló / me dijo / dijo este / le dije yo / me dijo no / hay que ponerte otras seis inyecciones más / y yo no dije nada le dije pues que / si las necesito ¿verdad? / pos me las puse / ya me ardía hasta el / ya ni / yo ya ni hallaba ni cuál pu- / pues / pues por / por donde quiera me dolía ¿verdad? / pos ya decía / y ya nomás seis dije pos ya / pos ya / pos lléguele <risas = “E”/> pues que tiene / sí / y este / y porque / ya me / me terminé la última / el viernes // y me seguí tomando la / el antibiótico 
+
+E: ¿eso fue hace poquito? 
+
+I: sí / la semana antepasada / y luego esta semana este / yo me tomé el antibiótico y / me fui a hacer los análisis / y ya no salí mal / entonces / quiere decir que ya está / eso pero / dejó el / el estrago en el estómago el medicamento // eso fue el que hizo todo el / zafarrancho <observación_complementaria = “problema” /> / entonces / que ora me van a dar otro medicamento para / para // antes yo lo hacía con / con sábila / la sábila / se hacía en jugos / en refresco / o me la comía así / este / nomás así la pura pulpa ¿verdad?
+
+E: sí
+
+I: digo / porque cualquier pedacito de de / de / de la pulpa / que tenga el verdecito / haz de cuenta que estás / comiendo hiel / amarga pero con ganas / pero / en cambio no tiene nada / y haz de cuenta que / estás comiendo este / algo este / gelatina / como gelatina 
+
+E: sí / no / sabe / casi no sabe
+ 
+I: casi no sabe / casi no sabe / y este / y así la estuve tomando y / ya tengo mi mata ahí ya para / para seguir ya la semana que entra con / con la sábila 
+
+E: ¿al natural?
+
+I: sí / sí al natural / haces refrescos / jugos / alguna cosa / o te la comes con / como el nopal / haz de cuenta
+
+E: ¿sí?
+
+I: nomás que pos ya este / ya con o con azúcar o con / avena / con alguna otra cosa / y ya te compones / orita ya más o menos ya gracias a dios estoy más o menos / más o menos bien / creo que estoy bien pero / fui con otro doctor / otro especialista / y todo es pura lana / con / el otro me cobraba doscientos cincuenta y luego me dijo no hombre a ti la otra consulta ya nomás te voy a cobrar doscientos / pos sí pero doscientos cada vez que iba 
+
+E: sí <risas = “todos”/> 
+
+I: doscientos / fui cinco veces y <risas = “I”/> / fui como quiera pero no / ya salimos ya del paso ya estamos bien ya no hay / ya no hay problema
+
+E: sí / eso es bueno
+
+I: sí 
+
+E: es muy bueno
+
+I: pero este / yo le digo que / que / te descuidas tú de / tu organismo y / nosotros tenemos un problema con una / una / cuñada 
+
+E: mjm
+
+I: este fíjate que / que traía un problema con la / el azúcar / le fue atacando / atacado una cosa y otra y luego después le pegó una embolia / y luego después / le tuvieron que quitar un riñón / y luego después ps ya / el riñón que tenía no servía / tuvieron que dializarla / cada / veinticuatro oras / y luego cada ocho oras / y luego cada cuatro oras / y orita pos ya / ya está cada // no sé si cada tres horas o cada cuatro oras pero / pero / ya este / ya se está / el / ácido úrico la est- / le está contaminando la sangre / y el cerebro / entonces ya comienza / a no ver bien / a desconocer la gente / a no conocerla / y // y este / y y / no está tranquila / está muy inquieta / quiere decir / que ya no está / está / está acabando 
+
+E: pues sí / y el resto de su familia / ayuda 
+
+I: pos / imagínate que todos este / están muy consternados porque pos / no es tan vieja / la gente de / de / de cincuenta y siete años cincuenta y seis años / pos no es vieja para / para ese tipo de enfermedad ¿verdad?
+
+E: <tiempo = “33:40”/> pues no pero uno nunca sabe / desafortunadamente 
+
+I: sí se revienta el hilito y se acabó la fiesta
+
+E: sí
+
+I: sí / entonces se / este / está / la consternación ahí con ellos y / y ayer le mandé ahí al doctor para que / para que le diera una checadita <observación_complementaria = “revisión” /> / y / hablé con aquel oye ¿qué necesitas? pos / ahí que / lo que / se te ofrezca / yo / yo mero / ya fui con él y le / pagué la consulta y / si necesita medicamento de una vez / llévatelo / yo le dije claramente que le pasaba / que / que le tenía / y sí me dijo no mira aquí el / el el / dispensario tiene / tiene algo de medicamento que es / que puedo llevarle / sin costo 
+
+E: mjm
+
+I: y este / hacía dos meses o tres que yo se lo había mandado / pero este / pos ya estamos este / e / conscientes de que / mañana o pasado este 
+
+E: sí ya
+
+I: esto va / a acontecer ¿verdad? / y / y e / y a nosotros / pos mal porque / es hermana de mi mujer // y son ocho hermanos / nueve hermanos / y la señora pos padece por el mismo mal / la mamá de ella // entonces este / pos / cuidamos al / a la señora / y pos cómo cuidamos a la 
+
+E: pos no
+
+I: a la hija no se puede / ahí le damos canillazo ¿verdad? pero no es igual / pero / todas son cosas que / que te vienen en la vida y / y tienes que / tomar el / toro por los cuernos <observación_complementaria = “expresión que se refiere a enfrentar los problemas” /> 
+
+E: pues sí
+
+I: y / no hay otra manera de hacerlo
+
+E: no no hay
+
+I: mas que así ¿verdad? / este / pos / es vivir la vida / vivir / tranquilamente lo / la / la que uno / cómo lo toma / como viene la vida pos / a veces que / mi mujer también / ella padece del azúcar mi mujer / este / pero / no es / muy de la agresiva es / este / se le controla 
+
+E: <tiempo = “35:32”/> mjm
+
+I: entonces este / pue- / pos sí este / de vez en cuando este / que e / me doy cuenta que / que se sale de los cabales ¿verdad? 
+
+E: sí como a todo mundo que / le pasa // el azúcar de repente le / le pasa 
+
+I: sí / ahí entra el enojo / e / los celos / el coraje / el que / por qué haces esto por qué haces otro ¿verdad? / pero / realmente tú ya comprendes ya sabes // ya la conozco bien / cuarenta y cinco años de estar con ella y sé / cuál / cuál es su problema ¿verdad? 
+
+E: pues sí
+
+I: ya ya / ya lo tomas como una cosa normal ¿verdad? <risas = “E”/> / y que oye te / te felicito porque tienes una paciencia / pos sí / pos ¿qué más hago?
+
+E: pos ¿qué queda? 
+
+I: no / ni modo que me ponga a llorar yo también 
+
+E: sí
+
+I: no / pero sí la vive / sí la vive uno 
+
+E: <tiempo = “36:24”/> bueno / este / hablando / de de su familia / me podría / contar un poquito del lugar / donde vive
+
+I: pos realmente / yo tengo / donde estoy viviendo orita tengo ya / treinta y cinco cuarenta años de vivir en / en Santa Catarina / en el sector poniente / ahí en noviembre ciento ocho / e / y este / pos mis hijos estaban chiquitos estaban en la escuela / en la escuela profesor Elizondo / ahí estaban / ahí terminaron su primaria / y luego en el kínder que está / en Santa Catarina / y de ahí pos fueron a la / a la secundaria que está / en Santa también / y / y fueron a la preparatoria número dos / casi todos / este / lo que pasa es que / pos este / hay hijos que / que / comienzan a trabajar a ganar dinero / y ya les interesa más el dinero que / que la escuela / pero pos / tú se los hiciste ver pa hacer a que / a que ellos estudiaran / su carrera / si no la quieren agarrar / allá ellos / son los que van a / y son los que van a sufrir / son los que van a mantener la familia son los que van a batallar / y pues / yo se los hice ver a mis hijos / de / de antemano ¿verdad? porque pues este / realmente // e / pos éramos una familia ahí 
+
+E: mjm
+
+I: y creció / yo trabajaba en Nylon de México / trabajaba yo en General Electric / en Nylon de México / y luego trabajé / en otras / otras compañías / ya después / pero vivía en naranjo y Matamoros / y luego de ahí pues compré la casa allá en Santa Catarina / en el sesenta y tres / en mil novecientos sesenta y cu / en mil novecientos sesenta y cinco / y ya del sesenta y cinco para acá / vivo allá / en Santa Catarina / pero yo trabajaba en Policrón / que era Nylon de México
+
+E: ¿Policrón?
+
+I: Policrón // cuando se arrancó Policrón / antes de arrancar Policrón / ya estábamos mi compadre y yo / mi compadre y yo 
+
+E: ¿se conocen desde / entonces?
+
+I: desde hace más de / pos sí de / en ese entonces tenemos ora verás / como unos cuarenta y siete años 
+
+E: mucho tiempo
+
+I: sí / entonces / pos cuando uno / cuando estaba en su apogeo / Nuevo León / de Nuevo León / todas esas compañías que / estaba Dupont que era una de las compañías más fuertes de / Estados Unidos / que / estaba la planta esa / una planta / de / de polinectalate / o sea Nylon de México / producía un / un producto que se llama polinectalate / y ahí se manejaba / el titanio el fosfórico el magnesio y / y era era un / un laboratorio gigante ¿verdad?
+
+E: sí
+
+I: nomás que pos / todo controlado // y este 
+
+E: bueno controlado hasta cierto punto 
+ 
+I: sí / lo que pasa es que // por ejemplo / el titanio es un producto / el fosfórico es otro / el magnesio es otro / el polinectalate es otro
+
+E: <tiempo = “39:14”/> ¿qué es el ponilectalate?
+
+I: el polinectalate es / es un producto // petroquímico / que se saca / del petróleo
+
+E: ¿del petróleo?
+
+I: sí / ese es / es un producto / son / son petroquímicos que salen / son / este / reactivos
+
+E: reactivos / okay 
+
+I: reactivos
+
+E: ¿del petróleo?
+
+I: del petróleo
+
+E: okay / ¿y para qué se usa?
+
+I: nosotros trabajábamos / el titanio es para blanquiar  
+
+E: para blanquear
+
+I: sí / el fosfórico / era para / agrandar / el magnesio / para endurecer / los productos / y / y el / polinectalate pos era la materia prima / para hacer el nylon / o sea hacer / la fibra / poliéster / la fibra poliéster se mez- / se hace con todos esos productos / para hacer el / para hacer el / el proceso 
+
+E: okay ya / ya / ya comprendo
+
+I: ya se hacen a través de / temperatura ¿verdad? 
+
+E: mjm
+
+I: una fusión / pos sí las temperaturas y cambia de / reacciones químicas / mezclas químicas y / y luego / este / e / por presiones ¿verdad? / se hace / se hace todo es / ese proceso 
+
+E: pues sí / y ya / al final se obtiene el 
+
+I: se obtiene / se obtiene el producto terminado que se llama poliéster 
+
+E: poliéster
+
+I: el poliéster es / es el producto terminado / pero / antes de eso se / es procesado a través de / de un producto que se llama polinectalate 
+
+E: polinectalate / okay 
+
+I: el polinectalate / es un producto petroquímico // este que / que se saca // de unos derivados
+
+E: ¿derivados?
+
+I: derivados
+
+E: de unos derivados / o sea ni siquiera directamente del petróleo 
+I: son derivados 
+
+E: órale / ¿y esos / derivados son?
+
+I: pues de los otros donde / sale / de ahí sale / pos / como cuatro o cinco productos / sale hasta / hasta / cuerdas nylon y se hace / que tiene / que es / que es parte del / del producto / petroquímico ¿verdad? 
+
+E: ¿la cuerda nylon es la que se utiliza para 
+
+I: para las llantas
+
+E: para las llantas
+
+I: sí / que sale también de / del / es petroquímico / es del petróleo / son productos derivados de ahí mismo / entonces este // como esos productos / e / el otro el / titanio pos ya sabes que es un producto que también se saca / que es mineral
+
+E: sí
+
+I: ese mineral pos es un / calcio // es un calcio que 
+
+E: es muy duro el titanio 
+
+I: sí / es es / es / es el polvo / lo hacen / lo muelen ese haz de cuenta que es una cantera y lo muelen / y luego / lo utilizan para / volver / a hacer la mezcla para que se vuelva a endurecer / pero lo / lo / la mezcla se hace con una temperatura de doscientos ochenta y cinco grados / a doscientos ochenta y siete 
+
+E: mjm
+
+I: <tiempo = “42:12”/> entre / entre / doscientos / doscientos ochenta y cinco y doscientos ochenta y siete / es el / el punto / este / donde / donde / donde se fusiona 
+
+E: mjm
+
+I: como / como por decir este / el bauter / el bauter sus fusiones a los doce grados 
+
+E: okay 
+
+I: doce grados
+
+E: ¿doce grados centígrados?
+
+I: doce grados centígrados
+
+E: muy / muy poquito
+
+I: es poquito ¿verdad? / entonces este / e / lo / lo / lo que pasa es que / el bauter e / es un producto también / que / con muy poca presión / tiene mucha temperatura // son / son para utilizarse en calderas / para usar cámaras / térmicas / para / llega el producto aquí / tú tienes el / el poliéster el / producto que viene aquí / y luego tú lo cubres / para que la temperatura que trae / el polímero / antes de llegar a ser monómero / cuando es polímero // va líquido
+
+E: okay 
+
+I: ya cuando ya se hace líquidos / se hace monómero / monómero es / ya pasta
+
+E: okay 
+
+I: ya sólida 
+
+E: si si
+
+I: entonces cuando / antes de hacer eso se hace la fusión / se mete a través de unas toleras / y esas toleras lo que hacen es / es / presionarlo / filtrarlo / y luego al presionar en tal manera / que cuando tiene cuatrocientos ochenta / kilos de presión / comienza a / a fusionar / a a / extruirlo / extruir es / aventar
+
+E: okay 
+
+I: y te sale ya / en forma de filamentos
+
+E: a / a esa presión
+
+I: a esa presión / cuando / cuando / pasa la presión esa / ya va // caída libre / entonces / lo traen / unos extractores / lo bajan / a través de una temperatura de / entre dieciocho / entre catorce y dieciocho grados
+
+E: <tiempo = “44:00”/> mjm
+
+I: es una temperatura / que / que el / el aire / está enfriando el / el el / polímero para / para que ya se solidifique
+
+E: okay 
+
+I: entonces se llama / de ahí pasa a un a un / a un / a una área de extrución / extrución y es expulsión / extrución / es / lo es / lo extruyes / es para estirar ¿verdad?
+
+E: sí
+
+I: y luego expulsión / donde lo avientas / pero lo avientas con tal fuerza / de que / que tiene una enlongación / esa enlongación / es el estirado / del punto de / de / de / que se llama / de // pos es / la enlongación es parte del / del estirado ¿verdad?
+
+E: mjm
+
+I: entonces / ya entra un jet / de vacío y / lo estira para / poderlo acomodar / para / para / procesarlo ¿verdad? / otros productos que se / que ahí todavía 
+
+E: todavía es casi en bruto ¿no?
+
+I: todavía está / toda / no / ahí ya está extruido ahí 
+
+E: ahí ya está
+
+I: ya está hecho / cuando entra / entra a los / entra a los / los rectores / a los hilos / a los / a los secadores / es cuando está el proceso ¿verdad? / está el proceso / entra uno a jalarle / hay que jalarle bien los platos / y ahí va haciéndose el / la fusión / llega un momento que pasa / a un / a un extrusor / ese extrusor / es un tornillo / que lo está / lo está fundiendo / y lo está mandando / a un presión de // siete ocho kilos / siete ocho kilos / de de / de / de / de camino
+
+E: okay 
+
+ I: y va caminando a / a / a un / una cosa lenta / llega a una cámara / donde está un // un bloque / mantiene una temperatura de cuatrocientos grados / ¿verdad?
+
+E: mjm
+
+I: pero / para mantener el área / caliente para mantener una temperatura aproximadamente entre doscientos / doscientos cuarenta doscientos ochenta grados ahí 
+
+E: okay / okay 
+
+I: y luego ya después escogi- / escogen / van / van controlando la temperatura / a través de unos controles / este / termopares / un termopar / te controla una temperatura controla para otra temperatura / hasta que llega a la / la temperatura de fusión
+
+E: okay 
+
+I: <tiempo = “46:27”/> cuando llega a un / a cierto lugar / va a la parte esa a donde te digo es / que es / la parte de fusión / se llama extrusión 
+
+E: okay / okay 
+
+I: ya está y estirado / y luego / esto / estos dos / procesos / es el producto terminado
+
+E: ya todos
+
+I: poliéster / poliéster / son esos / procesos / luego ya después sigue / el que se llama / súper estirado / y luego / enchinado // o este / o cortado a cierta / a cierta / tamaño para 
+
+E: eso ya más bien es este 
+
+I: ya es proceso / ya es proceso / parte del proceso / pero / son diferentes / son procesos diferentes / pero / también había un área / donde / donde separaban el producto / y lo mandaban / a un área que se llama recorte 
+
+E: mjm
+
+I: el recorte es // donde el poliéster / todavía no está / no está / este / completamente terminado / sino que sale a un cortador / y ese cortador / lo hace puros cuadritos 
+
+E: sí
+
+I: ese es para fundirlo para hacer / plásticos para hacer / abanicos para hacer / mangos de planchas
+
+E: es cuando son las / ¿cómo se llaman?
+
+I: monómero 
+
+E: eso / los monómeros 
+
+I: monómeros / son los monómeros 
+
+E: monómeros 
+
+I: monómeros / todavía / va sólido ¿verdad? / ya va cortado / en tramitos ¿verdad? / en cuadrito en ruedita / pero / pero ya va cortado 
+
+E: sí
+
+I: pero para otro proceso / otro proceso diferente
+
+E: de hecho con ese / con esos cubitos son con los que se puede hacer el acrílico y demás ¿no? 
+
+I: ándale / sí / sí porque el acrílico / este lo puedes hacer transparente / lo puedes hacer gris / lo puedes / depende del de / de la temperatura en que lo fusiones
+
+E: de la temperatura
+
+I: sí / el tono lo da el control de la temperatura
+
+E: ¡ah! entonces / supongo que / si lo quiero más transparente es más temperatura 
+
+I: más temperatura / o de líquido / se hace caldo / se hace agua / y no lo ves / nomás / nomás ves el el / el volumen ¿verdad? 
+
+E: nomás no metas la mano ahí porque
+		
+I: pos imagínate está como a doscientos / está a doscientos ochenta y siete grados ahí
+
+E: se queda uno sin mano
+
+I: sí <risas = “I”/> / sí pos es que sí es / así es / yo todo / yo / yo con / yo conozco todo ese proceso / todo el proceso químico / yo lo conozco porque pos / pos / nosotros éramos este / pos haz de cuenta que era / éramos el fabricante
+
+E: ¿entonces usted estudió eso?
+
+I: todo eso / sí / todo estudié 
+
+E: okay 
+
+I: tengo / toda la información / procesos / también procesos de / de cómo funcionaba el / el nor- / nan-  / nan- / para cómo arrancó el el / proceso de / de los / de los transistores
+
+E: mjm
+
+I: cuando empezamos 
+
+E: okay 
+
+I: todos los chiquitos norton y nanis / computacionales / todo eso lo hacíamos nosotros / todos son procesos que nosotros trabajamos / desde / mil novecientos setenta y dos / setenta y tres 
+
+E: setenta y dos / ya tiene tiempo / o sea ya es bastante / experiencia la que / le ha agarrado a / a eso
+
+I: ¡ah! sí / sí / cómo no / so / haz de cuenta que son etapas / he trabajamos diecisiete años / yo trabajé / como / como técnico de transmisiones de / de / del grupo Radio Alegría / trabajé otros diez años / como unos / cinco años trabajé en / como periodista 
+
+E: <tiempo = “50:04”/> mjm
+
+I: también y yo aquí tengo otros / trece / doce trece años / aquí pero como / como técnico / ¿verdad? / que ahora ya no hacemos nada ya / esta / estamos aquí este / viéndonos el compadre y yo <risas = “E”/> / pero así es ¿no? pues es que / tenemos experiencia / el compadre como contador / y yo como eléctrico / y ya ahí la llevamos // pero / así es la vida / uno vive / pasa el tiempo / y si no te preparas te quedas atrás
+
+E: pues sí
+
+I: tienes qué / aunque / aunque todo vaya / vaya caminando / tienes que / seguirte empapando / de / de todas las innovaciones que existen
+
+E: sobre todo en lo que te dedicas 
+
+I: porque / pos nosotros éramos de bulbos 
+
+E: pos sí
+
+I: en aquel entonces eran de bulbos y luego transistores 
+
+E: y ahorita el bulbo ya 
+
+I: y luego ya híbridos / y luego / lógicos / y ora binarios / ya estamos / como / como cuarenta años / de atraso
+
+E: el lógico es el de la tarjetita ¿no?
+
+I: sí 
+
+E: que uno ponía una tarjetita y 
+
+I: sí
+
+E: nunca entendí eso 
+
+I: mira / ese proceso / trabaja por medio de perforaciones / cada perforación / es un lógico 
+
+E: okay 
+
+I: en cada lógico es un binario / y tien- / tiene / nueve binarios / positivos / y nueve binarios / negativos / y tienes / otro positivo / pero menos uno / a negativo / es uno a e positivo / uno a / e negativo
+
+E: okay / okay 
+
+I: todos los procesos / por cada uno de los pasos 
+
+E: okay 
+
+I: ¿cómo le es una doble lectura? / apenas así / porque no / no puedes decir bueno pos tie- / tiene veinte agujeritos pero qué / qué agujerito pos para qué son y / y cómo jalan ¿verdad? / entonces las máquinas / procesadora para hacer los textiles / tenían / tarjetas perforadoras / y cada máquina tenía su / su propio / haz de cuenta una hoja / ahí tenía su lectura / y ahí tenía su perforación / tú metías la hoja / la máquina la leía / y hacía el proceso 
+
+E: o sea la máquina ya sabía lo que tenía que hacer en base a los hoyitos
+
+I: sí
+
+E: <tiempo = “52:17”/> órale 
+
+I: entonces / y ahora no / ora / tú le metes a la máquina / le dices qué es lo que tú quieres / y ahí están / y le dices / y te / y te lo manda a impresión / ¿por qué? / pero porque tú ya se lo aplicaste a la máquina / la máquina ya lo tiene / lo único que va hacer / acomodártelo / para / para entregarte la información / dices / okay / yo quiero / yo quiero que / que / est- / este / proceso que yo tengo aquí / me lo dé / en impresión / entonces ¿dónde está? / no pos yo / voy a sacarlo / pos no sé / cómo / ni cómo sacar todos / vas a la máquina / y tú le pides / tu / tu proceso de / de / de tal a tal / y te lo da gráficamente / tú ya lo mandas a / 
+
+E: pues sí
+
+I: pero / para / que esto funcione / va a ser un proceso grandisísimo ¿eh?
+
+E: sí cómo no
+
+I: porque / e / ahí para empezar / tiene una memoria / y luego el modo / y luego el modo control / y luego el cerro / luego la memoria del cerro 
+
+E: es mucho 
+
+I: sí
+
+E: lo que está detrás de la máquina
+
+I: sí / lo que hay / no / a simple vista no hay nada / no se ve nada / pero eso es lo que / es lo que / lo que se le e ¿verdá? / entonces este / pos esos / todos los procesos esos se / los tenemos que saber en la vida aunque no no seas ingeniero en / en sistemas 
+
+E: sí / una cosa es conocerlos y otra saberlos aplicar 
+
+I: sí / o reparar
+
+E: o reparar
+
+I: es otra cosa también / sí / diferente 
+
+E: sí porque uno dice ¡ah! / se descompuso 
+
+I: sí / ¿y ahora qué? / no pues / hay que mandarla al especialista 
+
+E: sí
+
+I: sí / no quítale esto quítale lo otro / quítale / ponle esto/ a esto / orita jala / lo pones y jala / ¿por qué? / porque ya tienes una noción de cómo / de cómo funcionan / cuando estás viendo / los sistemas / te enseñan cómo / cómo irlo desarrollando ¿verdad? / es una de las cosas
+
+E: pues sí / bueno / este / muchas gracias por / por echarme la mano ahí / muy buena plática la verdad // la disfruté bastante / me gustó // muy interesante lo de los polímeros // no me sabía ese proceso / la verdad 
+
+I: sí
+
+E: estuvo muy bueno / este / yo tengo que que proceder a hacerle una pequeña encuesta / este / para / son datos más que nada / si / si quiere comenzamos con la encuesta 
+
+I: <tiempo = “54:50” > sí / como gustes
+
+E: ¿su nombre?
+
+I: ________ ______ _______ 
+
+E: ________ ______ _______ ¿su edad?
+
+I: sesenta y tres años
+
+E: sesenta y tres / ¿es casado?
+
+I: sí
+
+E: la dirección / me había dicho que era en Santa Catarina
+
+I: noviembre ciento ocho 
+
+E: noviembre ciento ocho / e 
+
+I: colonia Industrias Poniente
+
+E: colonia Industrias en Santa Catarina / m ¿algún teléfono?
+
+I: ochenta y tres / ochenta y ocho / cero cero / cinco dos
+
+E: cinco dos / okay / e / ¿usted profesa alguna religión?
+
+I: católico
+
+E: católica la / ayer / me tocó asistir a una construcción / y me topé con puro testigo y yo ¡ay! / pues cómo hablan ésos de religión
+
+I: sí / sí / sí / bastante / este / se complican la vida solos 
+
+E: sí / pos sí 
+
+I: y no tienen necesidad pues ¿qué? pues / tu / tus / descendientes son católicos / y te / inculcaron en la escuela / aunque tú no / tú puedes decir yo soy católico / sí / aunque tú no / sabes que / que vas a la iglesia cada ocho días 
+
+E: pues sí
+
+I: pero tú estás / te inculcaron que / que tú eres / que tu / tu religión iba a ser / el catolicismo 
+
+E: sí pues sí
+
+I: y y cuando te empieza a ir mal pues te arrimas / ¿verdad?
+
+E: pues sí bueno me dijo que usted es de Monterrey / toda su vida ha vivido acá
+
+I: ahí / sí / que nos cambiamos a Santa Catarina pos / pos por necesidades de trabajo ¿verdad? 
+
+E: pues sí / / m /todas estas preguntas no / / más de cuarenta / / estas tampoco / ¿tiene usted alguna afición?
+
+I: pos me gusta / este / pos casi todos el futbol el el / softbol y 
+
+E: deportes / en general 
+
+I: sí // pos porque los / lo inculcan a uno / uno les / tiene que seguir la corriente pos / todo mundo le gusta el béisbol / el futbol
+
+E: los Sultanes / los Tigres o el Monterrey 
+
+I: sí / y te llevan en rastras 
+
+E: sí de hecho / e /¿usted va al cine?
+
+I: sí / no no no muy afición / porque pues / pos casi nunca lo / como te / alguna película que te / te llame / llame así la atención / pos sí pero / tú sabes que el noventa por ciento son puros churros 
+
+E: pues sí / ¿podríamos decir que va / algo así como una vez al año / o alguna vez 
+
+I: sí / exactamente / o dos o tres si a caso pero / que te diga no pus / soy muy aficionado a / a /a los / a las películas / solamente que / estén en el cable / ah pos si me interesa esa / me espero / aunque sea la una de la mañana no le hace / yo la veo 
+
+E: <tiempo = “58:05”/> pues sí / cuando usted ve una película / en el cine / ¿prefiere verla / mexicana o extranjera?
+
+I: pos e / e / no me interesa nomás / que sea didáctica y que sea constructiva ¿verdad? / porque pos hay 
+
+E: da lo mismo
+
+I: sí / puede ser francesa holandesa o / o inglesa / no no no / no me / no / no me / me es / indiferente
+
+E: okay / y cuando se trata de ver películas / ¿qué tipo de películas prefiere ver? / ¿de acción / de aventura / de comedia?
+
+I: el ochenta por ciento que veo me gusta // de acción
+
+E: acción
+
+I: sí
+
+E: ¿usted escucha el radio?
+
+I: sí
+
+E: ¿más o menos con qué frecuencia al día?
+
+I: pos / te voy a decir que yo creo que // pos un diez por ciento de lo que es el tiempo que estoy / en la oficina ¿verdad? / orita lo acaban de apagar
+
+E: viene siendo / unas dos horas al día / más o menos 
+
+I: unas dos horas al día / sí
+
+E: <tiempo = “59:06”/> all right ¿cuándo escucha el radio qué tipo de / de programas prefiere? / ¿música? / o / o noticiero
+
+I: mixto 
+
+E: mixto
+
+I: mixto sí / ya ves Adela Micha es / a veces está / oigo de una cosa y de otra / ya sea porque está en la televisión / o en / está en radio
+
+E: mjm / e / ¿alguna estación de su preferencia?
+
+I: pues la AW 
+
+E: AW 
+
+I: sí
+
+E: la inolvidable <risas = “E”/> 
+
+I: sí / por la música	
+
+E: mjm / por la música
+
+I: sí
+
+E: por la música / ¿usted ve tele? / me había dicho que sí 
+
+I: pues sí / sí
+
+E: ¿con qué frecuencia más o menos?
+
+I: pos todos los días porque la vieja <observación_complementaria = “esposa” /> / no deja de / ver las novelas / y pos ahí estás en la casa 
+
+E: más de una hora al día / me imagino
+
+I: pos sí / llegas a las diez de la noche y / está viendo las novelas 
+
+E: ¿y usted ve las novelas con ellas? 
+
+I: pos / a fuerzas
+
+E: no le queda de otra
+
+I: viene / y la otra / oye / ¿en qué quedó? / no / pos esto y esto otro y ahí está contándote la historia
+
+E: pues sí / luego uno se interesa
+
+I: sí / realmente así es
+
+E: mjm / me había comentado que usted prefiere ver las películas en la tele <observación_complementaria =“ forma común de abreviar la palabra televisión” /> 
+
+I: algunas veces / el ochenta por ciento sí las veo en la tele mejor 
+
+E: podría decir que ve películas en la tele con frecuencia
+
+I: sí / sí / unas dos tres películas / en el mes
+
+E: supongo que / tampoco le importan si son mexicanas o extranjeras
+
+I: no / no / me vale / que es / bueno orita / estamos viendo / este / mucha película este / la de cadena de de / este mexicana ¿verdad? / que son de / de la época del oro
+
+E: la época de oro mexicana
+
+I: de oro mexicana / ahí hay / películas / de Jorge Negrete / de Pedro Vargas / de Luis Aguilar / ayer / ahora estaba viendo una / en la mañana / como a las / seis de la mañana / pero así / por la tele ¿verdad? 
+
+E: sí / nomás por la tele
+
+I: <tiempo = “61:17”/> y sí tengo películas / y veo películas / tengo un montón de películas pero / las veo de vez en cuando / ¿por qué? porque / pos me las regalan / y ahí las tengo
+
+E: bueno / y cuando ve películas extranjeras / ¿las prefiere dobladas / o subtituladas?
+
+I: pues este / fíjate que / que / cuando son / cuando son tituladas / este / pos te forza tantito porque / tienes que ponerle más atención ¿verdad?
+
+E: mjm
+
+I: porque cuando son dobladas al español / este / ya no le tomas la atención que / es / porque / te cambian las palabras
+
+E: sí / entonces la prefiere / subtitulada
+
+I: sí 
+
+E: ¡ah! okay / ¿en su casa tiene videograbadora?
+
+I: sí
+
+E: ¿tiene DVD? 
+
+I: sí
+
+E: ¿consola de video juegos?
+I: sí 
+
+E: ¿sí? 
+
+I: sí / tenemos un antiguo también / de discos 
+
+E: no ese no viene aquí / el / el sistema / supongo que el sistema es para televisión / el sistema de video juegos
+
+I: monógrafo
+
+E: ¿m? / monógrafo / ¿es suyo?
+
+I: sí
+
+E: ¿tiene cable / Sky o MVS?
+
+I: los dos 
+
+E: los dos / el cable y Sky órale / ¿cuántas televisiones tiene en su casa?
+
+I: cinco
+
+E: cinco / okay / ¿usted le e el periódico?
+
+I: sí / pero el noventa por ciento lo veo en televisión 
+
+E: de hecho / en el noticiero / ¿qué periódico le e?
+
+I: cuando leo / leo El Norte 
+
+E: El Norte/ casi todo el mundo lee el Norte / ¿lo le e diario?
+
+I: pos no a diario / cada fin de semana cuando / cuando vienen este / pos todos los reportajes y los / ¿cómo se llama? / la / éste / pos las / novedades de las mujeres / es otra de las cosas
+
+E: entonces / ¿podríamos decir que dos veces a la semana?
+
+I: sí 
+
+E: okay / ¿qué sección prefiere leer?
+
+I: pues / veo más la deportiva / este / espectáculos / y este / ¿qué otra? / sociedad / y este / y / la otra ahí el / pos no nomás la deportiva / y esas
+
+E: <tiempo = “63:45”/> okay / ¿usted le e revistas?
+
+I: sí / bastantes libros
+
+E: ¿de qué tipo de revistas prefiere leer?
+
+I: pos leo / tengo muchas revistas de / de historietas de / Selecciones / son cuatro historietas o son cinco / tengo como unos diez libros / quince / por aquí luego están pero se los presto a mi compadre / estén por ahí / están arriba yo creo 
+
+E: okay // m / ¿qué tan / seguido le e revistas?
+
+I: pos casi todos los días 
+
+E: okay / le pongo que frecuentemente / ¿usa el internet?
+
+I: poquito
+
+E: poquito / ¿lo usa en el trabajo / en su casa / en la escuela?
+
+I: en las dos cosas
+
+E: bueno en la escuela no / es que me ponen aquí la 
+
+I: sí / en la casa y trabajo / aquí lo manejamos más / el internet 
+
+E: ¿tiene computadora en su casa?
+
+I: sí / en mi oficina / en el negocio y aquí / donde quiera
+
+E: ¿cuántas tiene en su casa?
+
+I: dos
+
+E: le voy a dar una serie de / de cosas que se hacen en internet / y usted me diría si las usa diario / una vez a la semana / o una vez al mes
+
+I: sí
+
+E: ¿envía correos electrónicos?
+
+I: pues sí mandamos pero de vez en cuando
+
+E: sería una vez a la semana digamos
+
+I: sí 
+
+E: okay / ¿busca información?
+
+I: la mayoría
+
+E: <tiempo = “65:22”/> okay / diario / e /¿hace trabajo / tarea o alguna cosa de 
+
+I: algunas cosas las sacamos de ahí / promoción / biblioteca este / notificaciones / reportes / ventas / compras / de materiales / todo lo sacamos ahí
+
+E: mjm / este / ¿habla / por chat?
+
+I: internet / sí
+
+E: ¿usa el sistema de audio / de voz?
+
+I: casi no / sí lo tiene pero no no / casi no lo usamos 
+
+E: es que casi nadie lo usa / bueno / ¿tiene teléfono en su casa?
+
+I: sí
+
+E: ¿celular? 
+
+I: sí 
+
+E: ¿qué uso le da al celular?
+
+I: pos mandar mensajes / recibir mensajes / este / y mandar información
+
+E: okay / mandar información / ¿usted visita museos?
+
+I: sí / no mucho pero sí
+
+E: ¿podríamos decir que / una vez al año / dos veces al año?
+
+I: dos veces al año / sí
+
+E: dos veces al año //¿va usted a conciertos?
+
+I: ¡ah! sí / seguido
+
+E: ¿qué tan seguido?
+
+I: pos / una vez al mes
+
+E: bastante seguido / mucho más de lo que yo voy / yo voy / una vez cada año bisiesto si tengo suerte / ¿al teatro va?
+
+I: sí / sí / bastante / mi mujer es muy aficionada al teatro así es que 
+
+E: ¿una vez al mes también?
+
+I: sí / la sigo / sí no / ando comprando los boletos como loco porque / pos no alcanzaste / a veces que / que / este / que ya a tiempo me acuerdo / ¿cuándo es? / no pos que en marzo / en febrero
+
+E: ¿cuál? / ah la obra 
+
+I: la / la / la obra sí / y me les adelanto ¿verdad? 
+
+E: pues sí
+
+I: sí / ¿por qué con tanto tiempo? / le dije porque se me olvida y después 
+
+E: y luego no hay / y 
+I: no luego aquí se me arma la jicotera con / agarrado y tacaño y que ¡uh! <risas = “I”/> 
+
+E: sí y luego ya no se hizo 
+
+I: no / este / a veces que la rifan y / me saco los / las 
+
+E: qué suertudo yo nunca m <e> he sacado nada
+
+I: fíjate que / que / en el canal veintiocho / muy seguido este / hacen eso / y por celular / za za za / no pos ya / ya ya / ya se ganó dos boletos / órale <observación_complementaria = “expresión de asombro” /> / ah ustedes
+
+E: ya hasta lo conocen
+
+I: sí / y <a> hasta me conocen / ya me sacan la vuelta <risas = “I”/> 
+
+E: bueno
+
+I: sí es que no / dale oportunidad a otro le dije / pos que no hablan / si no hablan pos yo soy el que gano
+
+E: <tiempo = “68:00”/> pues sí pues sí 
+
+I: 
+
+E: este / con respecto a viajar / ¿usted viaja?
+
+I: sí / muy seguido
+
+E: ¿qué tanto es seguido? / ¿dos veces al año / tres veces al año?
+
+I: tres veces al año 
+
+E: este / un poquito de su educación / cursó la primaria / supongo que obviamente sí / la secundaria también 
+
+I: sí
+
+E: terminados
+
+I: sí / y prepa <observación_complementaria = “forma común de abreviar la palabra preparatoria” /> / sí / y carrera de ingeniero civil no la agar- / no no la terminé porque pues / me quedé a mitad del camino / pero / sí me hubiera gustado haber terminado la ingeniería mecánica eléctrica 
+
+E: ¿dejó trunca entonces la carrera?
+
+I: sí 
+
+E: sería / ¿era técnica o profesional?
+
+I: técnica / no la técnica la terminé / la profesional no la terminé
+
+E: ¿terminó la técnica?
+
+I: sí terminé / la técnica / mecánica eléctrica
+
+E: entonces la técnica sería mecánica eléctrica
+
+I: sí / industrial / estudié / electrónica digital / electrónica mecánica eléctrica / y cine sonoro
+
+E: okay / este / ¿me podría decir / la primaria fue pública o privada?
+
+I: no / pública 
+
+E: pública / ¿la secundaria?
+
+I: pública
+
+E: ¿la prepa?
+
+I: privada
+
+E: ¿la carrera técnica?
+
+I: privada
+
+E: me supongo que también privada / ¿la / profesional?
+
+I: privada / sí 
+
+E: ¿en qué año terminó la primaria más o menos?
+
+I: no pos / sepa la / la canica / siete y siete catorce / mil novecientos cuarenta y nueve / mil novecientos como en el cincuenta y cuatro terminé yo la carrera 
+
+E: ¿mil novecientos cincuenta y cuatro la primaria?
+
+I: no la primaria / la primaria
+
+E: cincuenta y cuatro 
+
+I: en el cincuenta y siete terminé la secundaria 
+
+E: mjm // ¿la prepa?
+
+I: <tiempo = “70:17”/> en el sesenta y uno / por ahí 
+
+E: en el sesenta y uno
+
+I: el sesenta y uno // estaba estudiando la prepa y estaba estudiando / este / Álvaro / el Álvaro / estaba en dos cosas / terminé mecánico industrial / en el sesenta y cinco
+
+E: sesenta y cinco / ¿todas son aquí en Monterrey?
+
+I: todas en Monterrey y ya en el sesenta y siete ya tenía mi / mi negocio
+
+E: mjm / ¿un negocio de qué?
+
+I: de electrónica 
+
+E: de lo mismo de lo que estábamos hablando / hace rato ¿verdad?
+
+I: sí
+
+E: ¿ahorita está trabajando?
+
+I: sí
+
+E: sin embargo me había dicho que es jubilado
+
+I: sí
+
+E: también / / sí ya / de hecho creo que ya no llegué a la otra cita / ¿desde cuándo trabaja usted? / ¿desde qué año?
+
+I: no pos yo creo que estoy trabajando desde del sesenta y ocho
+
+E: ¿de mil novecientos sesenta y ocho?
+
+I: sí
+
+E: m / ¿ahorita usted / cómo se llama / la empresa donde trabaja?
+
+I: este / aquí / Energía Integral
+
+E: Energía Integral / mjm / ¿usted es empleado o propietario?
+
+I: pos sí / empleado <risas = todos> 
+
+E: m ¿usted produce / vende o da un servicio?
+
+I: servicio
+
+E: servicio / ¿electrónica?
+
+I: mm
+
+E: ¿sí no?
+
+I: sí //
+
+E: m / ¿cuál es el puesto que tiene?
+
+I: pos / ¿cuál es el puesto que tienes compadre? / ¿cuál me vas a dar? / <risas = “I”/> 
+
+A1: este 
+
+I: ¿asistente? 
+
+E: ¿desde cuándo tiempo tiene con ese puesto?
+
+A1: 
+
+I: noventa y dos
+
+E: desde el noventa y dos m- ¿más o menos cuánto gana con ese puesto? // ¿más o menos?
+
+I: bueno aquí no / no es / es proporcional a lo que se 
+
+A1: 
+
+I: a lo que se cierra / es por comisión / por servicio prestado
+
+E: <tiempo = “72:53”/> ajá / entonces no hay un 
+
+I: no hay una cantidad / un / un /un / por decir un / promedio ¿verdad? 
+
+E: okay / ¿recibe alguna prestación? / o sea algún servicio médico o algo por el estilo / ¿no?
+
+I: no pues todo es comprado
+
+E: todo es comprado
+
+I: todo es comprado
+
+E: ¿cuántos focos tiene en su casa?
+
+I: ¿focos? / ¡uf! 
+
+A1: como cien
+
+I: pos / se me hace que / yo creo que 
+
+A1: 
+
+I: fíjate cada abanico tiene cinco focos 
+
+E: ¡ay güey! <observación_complementaria = “expresión de asombro” /> 
+
+I: eh / son cuatro abanicos 
+
+A1: 
+
+E: veinte focos / eh 
+
+I: nomás ahí son veinte focos
+
+A1: uno atrás / uno adelante y dos en el baño
+
+I: y sin contar la segunda planta / sin contar la segunda planta 
+
+E: ay / entonces ¿cuántos les pongo? / ¿veinte focos?
+
+I: todos son de ahorro de energía / eh / eso es lo que nosotros
+
+E: pos sí
+
+I: puro foco de esos / o sea que / un foco consume veinte watts / son ciento veinte watts / estamos hablando de / setecientos veinte watts / el puro / el puro este / refrigerador / te consume / entre ochocientos y novecientos cincuenta 
+
+E: mjm
+
+I: kilowatts 
+
+E: <tiempo = “74:35”/> okay / es bastante
+
+I: sí / sí es el / el eso / es el tragón de la casa
+
+E: sí / es el que más come / es glotón
+
+I: sí / el glotón
+
+E: ¿en su casa vive alguien más con usted aparte de usted?
+
+I: pos / vive mi familia / que son / los que / son este / los que viven / pos es que mi casa este / te voy a decir / este 
+
+A1: 
+ 
+I: mi mujer y yo / y mi hija y mi yerno / abajo / y arriba está este / mi hija / la mayor / con sus tres hijos / uno ya pos es / es este 
+
+E: mjm
+
+A1: autosuficiente 
+
+I: autosuficiente / el segundo pos casi también / nomás el más chiquito no 
+
+E: mjm
+
+I: tiene / siete años ¿verdad? / apenas va / a primaria 
+
+E: su / perdón / perdón la interrumpida / ¿su esposa habla algún / un idioma aparte del español?
+
+I: pos que yo sepa no 
+
+E: ¿su hija?
+
+I: mi hija sí
+
+E: inglés supongo 
+
+I: mi hija sí
+
+E: ¿su yerno?
+
+I: no / no tengo yerno / bueno el otro yerno sí / sí / sí le gusta mucho el inglés 
+
+E: m / su 
+
+I: mi nieta pos no pos sabe hasta francés 
+
+E: ¿en serio?
+
+I: sí // sabe / también sabe / el otro este / portugués / fue el que estudió al último el último que estudió
+
+E: ¿su otra hija?
+
+I: mi hija / ¿la más chica? 
+
+E: mjm
+
+I: no no ella no / nomás sabe inglés / español
+ 
+E: okay 
+
+I: pero 
+
+E: <tiempo = “76:28”> pues sí / bueno / ¿su esposa estudió algo?
+
+I: pos ella no no / no no / ella no estudió más que / este / estudió / enfermería 
+
+E: enfermería
+
+I: y estudió este / arte culinario
+
+E: qué rico 
+
+I: 
+
+A1: 
+
+E: ¿ella trabaja actualmente? / ¿o no? / ¿o sí?
+
+I: ya tiene como unos / tiene como unos seis / no cinco años / que ya no trabajó / pero / todavía hace / tres años / estaba trabajando
+
+E: okay / ¿su hija la menor trabaja?
+
+I: sí / y la mayor también
+
+E: ¿en dónde trabajan / las dos hijas? 
+
+I: mi hija / tiene su propio negocio / la más chica / la más grande trabaja en el DIF <observación_complementaria = “Desarrollo Integral de la Familia”/> 
+
+E: DIF / m 
+
+A1: 
+
+E: ¿hasta dónde estudiaron las / sus hijas?
+
+I: pos / bueno mi hija la mayor / ella se recibió 
+
+A1: es licenciada
+
+I: es licenciada en servicio social / y la otra estudió / belleza / comercial
+
+E: mjm / m /¿no sabe más o menos cuánto ganan sus hijas? / ¿un mas o menitos?
+
+I: pos // las hijas tampoco te dicen 
+
+E: pos no
+
+I: una vez me dijeron cuánto ganaban / ganaban / más del doble de lo que yo ganaba <risas = “I”/> / sí
+
+E: <tiempo = “78:01”/> entonces le ponemos que no sabemos / m / ¿no sabe qué puesto ocupan sus hijas?
+
+I: pos bueno / mi hija la mayor
+
+E: la mayor es jefa 
+
+I: sí
+
+E: digo la menor es jefa 
+
+I: sí / y la mayor es jefa de / Prudedif
+
+E: ¿Prudedif? 
+
+A1: proveduría
+
+E: proveduría
+
+I: yo sé que gana / unos / doce mil ocho mil / entre ocho y doce / por ahí anda la cosa
+
+E: más o menos / ya se acabó esto pues / bueno este / creo que ya casi terminamos 
+
+I: si quieres otro día seguimos platicando
+
+E: muchas gracias / namás por último esta / este / una pequeña carta en la que usted le da permiso a la Universidad / de usar la plática que acabamos de tener / son dos copias / usted la llena y la firma // aquí ya le puedo subir el volumen al celular otra vez
+
+I: tú la fecha se la pones aquí / ¿o qué?
+
+E: no / de hecho tiene que llenarla usted / es un requisito que nos dan
+
+A1: 
+
+I: dice / ¿yo qué?
+
+E: yo / su nombre 
+
+I: mexicano 
+
+E: dedicado a / lo que hace con domicilio en / y la fecha es diecinueve
+
+I: diecinueve / sí 
+
+E: tiene que hacer lo mismo con la otra
+
+I: ¡ah! ¿sí? / ¿la / la / la misma función?
+
+E: mjm / deberíamos comprar pasante y listo
+
+I: <risas = “i”/> 
+
+A1: ¿usted de que parte de Guadalupe es?
+
+E: este / está sobre / ¡ay! / / ahorita le digo este es un mapota / está mejor que el otro aquí / no hay / todo este camino / todo este camino / el ochenta / acá / acá / aquí / Modesto Alanís / ¿cuál sería la ruta más rápida para llegar aquí?
+
+A1: <tiempo = “82:29”/> 
+
+E: yo estaba pensando tomar por aquí por Ruiz Cortines / pero / si vienes la más recta también hay mucho tráfico por ahí
+
+A1: aeropuerto
+
+E: hago como que voy al aeropuerto
+
+A1: constitución 
+
+E: me salgo en Alfonso Reyes / como si fuera al aeropuerto
+
+A1: antes de subir a una joroba nueva que hicieron / le das por abajo /para que puedas agarrar para acá
+
+E: ¿esta es esta? / / perdón por / esto yo lo lleno
+
+I: sí ésta la
+
+E: bueno / muchas gracias por echarme la mano / de todas formas / con la / con la plática
+
+I: está bien / no / estamos para servirte
+
+E: ahí con el perdón de de la interrupción / pero tengo que llegar rápido
+
+  Fin de la entrevista
+
+

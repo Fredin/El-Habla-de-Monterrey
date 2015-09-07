@@ -1,0 +1,1677 @@
+﻿<Trans audio_filename=" MONR_H11_HMP001.MP3" xml:lang=" español" > 
+<Datos clave_texto=" MONR_H11_HMP001" tipo_texto=" entrevista_semidirigida" > 
+<Corpus corpus=" PRESEEA" subcorpus=" ESMXMONR" ciudad=" Monterrey" pais=" México" />
+
+<Grabacion resp_grab="Alejandro Castaño Villarreal” lugar="en la esquina de una calle" duracion= "54´08´´" fecha_grab="2007-11-28"sistema="MP3"/>
+<Transcripcion resp_trans="Sandra Verónica Santos Gómez" fecha_trans="2008-02-07" numero_palabras="10113"/> 
+<Revision num_rev="1" resp_rev="Raquel Rodríguez de Garza" fecha_rev="2008-08-29"/>
+<Revision num_rev="2" resp_rev="Mayra Silva Almanza" fecha_rev="2010-02-02"/> 
+<Revision num_rev="3" resp_rev="Cynthia Martínez del Ángel" fecha_rev="2011-03-12> </Datos>
+<Revision num_rev=”4” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-06-03</Datos>
+
+<Hablantes>
+<Hablante id="hab1" nombre="Javier Rodríguez Delgado" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="32" nivel_edu="1" estudios="1ero primaria" profesion="lavacoches y jardinero" origen="Monterrey" papel="informante"/>
+<Hablante id="hab2" nombre="Alejandro Castaño Villarreal" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="28" nivel_edu="3" estudios="Licenciatura en Letras españolas” profesion="maestro de literatura" origen="Monterrey" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" />
+</Hablantes> </Trans>
+
+E: mmm // hola buenos días ¿cómo estás?
+
+I: bien
+
+E: eh / ¿co- / cómo te llamas?
+
+I: Javier
+
+E: y ¿cómo ves el / el el / friecito / éste que se vino?
+
+I: no está / está está bien / está rico está / está sabroso
+
+E: ¿no tienes frío así como andas? 
+
+I: no / sí <risas = "I"/> 
+
+E: pues / ¿no traes suéteres? / ni
+
+I: sí
+
+E: a ver
+
+I: no / ahí traigo suéteres / mira
+
+E: y ¿qué te gusta más / el frío o el calor?
+
+I: pos las dos cosas 
+
+E: las dos ¿por qué? 
+
+I: no pos porque / t- está agradable 
+
+E: ¡ajá!
+
+I: el / el tiempo / el panorama
+
+E: sí 
+
+I: sí es que / por todo el / por todo pos hay que darle gracias a dios por todo 
+
+E: sí 
+
+I: el / frío y el calor 
+
+E: sí
+
+I: sí porque / porque pues dios / dios nos manda todo eso
+
+E: mjm / sí / y ¿a qué te dedicas tú?
+
+I: a lavar carros y a / a veces a podar
+
+E: ¡órale! / ¿y y para tu trabajo que prefieres más / el frió o el calor?
+
+I: no pos para mí es igual
+
+E: es igual 
+
+I: sí / es igual 
+
+E: ¿por qué? / ¿si lavas un carro no / no te va afectar a? 
+
+I: ¡ah! no no / no sea / pero no me salen / carros cuando hace frío 
+
+E: cuando hace frío
+
+I: no
+
+E: ¡ajá!
+
+I: porque el agua está muy heladilla
+
+E: sí / y el / y dices que lavas carros y ¿qué más? 
+
+I: y jardinería
+
+E: jardinería / y ¿qué / en qué consiste eso de ser jardinero? / ¿qué haces?
+
+I: no pos en / podar árboles / y / el césped / y todo eso 
+
+E: ¿podar y?
+
+I: y sembrar 
+
+E: ¡ajá!
+
+I: matas así 
+
+E: y eh / y ¿cómo qué plantas te / te piden que siembres? 
+
+I: sí del / a veces palmas a veces matas así 
+
+E: ¿cómo? 
+
+I: de distintas
+
+E: ¡ajá! / por ejemplo / ¿cómo se siembra una palmera?
+
+I: se le hace el / el pozo y luego ya / se mete 
+
+E: mjm / pero el ¿qué tan profundo debe hacer el pozo?
+
+I: no pos depende / depende también como esté 
+
+E: ¡ajá!
+
+I: depende de cómo esté
+
+E: y qué 
+
+I: el / la tierra / está / a veces / a veces hay / hay lugares que hay / hay piedras y todo eso y / a veces se batalla 
+
+E: ¿sí?
+
+I: Porque no pesca la / crece muy / muy / muy lento el / este la / la mata que vas a poner ahí 
+
+E: ¿por qué? / ¿por las piedras?
+
+I: por las piedras
+
+E: mjm 
+
+I: porque le estorban y / y no la deja / que se / que se meta más a la s / sí a las raíces así 
+
+E: sí / en / entonces ¿cómo debes tú e? / por ejemplo / fijarte que no haya piedras / ¿cómo le haces?
+
+I: no pos solamente escarbando el pozo y / y ya / ya así ves la / las piedras y / a quitarlas
+
+E: <tiempo =“02:43”/> sí / y ¿hay una manera de / de / cómo cortar el césped o nada más lo cortas así / normal?
+
+I: no pos puede ser de tijera / de / con una tijera o con / con la máquina 
+
+E: y / ¿cómo es por ejemplo con la / con la tijera / cómo le cortas? 
+
+I: no pos nomás este / este / se / agarrar un cierto nivel nomás / del nivel que te piden
+
+E: ¡ajá!
+
+I: que tenga / este / güen / o sea que no / no tiemble / no tengas
+
+E: buen pulso
+
+I: buen pulso / sí
+
+E: sí / ¿y tú aprendiste / a / hacer eso / o te / o? 
+
+I: pos lo aprendí viendo
+
+E: ¿viendo?
+
+I: viendo / pues / pos decir siempre que sí / que sí puedes / porque pos si no / sí sí puedas / eso de / que no puedes pos no no existe eso ya
+
+E: ¿por qué?
+
+I: pos a veces / a veces / lo hacen porque / no / no saben / bien / o porque tienen miedo a hacer el trabajo
+
+E: mjm 
+
+I: y por eso pues / tiene que arriesgarse uno también 
+
+E: sí
+
+I: o saber de todo / porque pues / no te vas a imponer a una sola cosa pos entonces / qué tal si en / en ese tiempo no hay e / no hay lo / a lo que tú te dedicas y / y hay otras cosas y / y no puedes // no puedes salir adelante porque nomás sabes eso 
+
+E: sí
+
+I: o sea siempre hay que saber / de todo 
+
+E: sí
+
+I: este / albañilería / o de lo que sea
+
+E: ¿y tú lo haces así para / pos para tener trabajo / para salir adelante?
+
+I: sí no pos sí para / salir adelante y 
+
+E: ¿por qué es importante para ti salir adelante? 
+
+I: ¡claro!
+
+E: pero ¿por qué es importante?
+
+I: pos porque / este / es importante porque pos uno tiene también familia y / y pues tú estás como // como cabeza / principal del hogar pues / tienes que / que ingeniártelas de todo sea de // este de todos trabajos 
+
+E: ¿y tú has aprendido así de que tú le dices sí a todo nomás con el fin de tener trabajo y superarte? 
+
+I: pues sí 
+
+E: ¿por qué?
+
+I: no pos es que / es que tienes que // que / que este que seguirle adelante y / y / pos estar dispuesto a todo / al trabajo 
+
+E: ¿tú estudiaste algo? 
+
+I: lo que sea / no
+
+E: y este / dices que estás casado ¿no? 
+
+I: sí
+
+E: en tu caso ¿hace cuánto que te casaste? 
+
+I: no hace / de / hace de / tengo como cinco años 
+
+E: cinco años de casado / ¿y tienes hijos?
+
+I: sí
+
+E: ¿y en en dónde vives ahorita?
+
+I: no pos vivo allá en la Alfonso Reyes
+
+E: ajá / ¿y trabajas hasta / hasta / hasta acá? 
+
+I: sí / desde allá trabajo hasta acá 
+
+E: ¿y cóm- / dónde queda la Alfonso Reyes? 
+
+I: está allá por // es por el lado de / de Hilario Martínez
+
+E: ¿dónde queda eso? 
+
+I: mm / este / allá por el / rumbo por allá por donde está // la / la Fe 
+
+E: La Fe <observación_complementaria = “salón de baile y música de la ciudad”/> / ah
+
+I: ¡no no! / La Fe / esa la discoteca no 
+
+E: ¿no? / ¿cuál? 
+
+I: una tienda que se llama así
+
+E: ¡ah! ¡órale!
+
+I: es Hilario Martínez / ahí
+
+E: ¡órale! / ¿en en qué municipio está?
+
+I: Monterrey / aquí 
+
+E: ¿aquí en Monterrey?
+
+I: aquí
+
+E: y y ¿vives con / con con con con tu familia o en casa de tus papás?
+
+I: no pos / vivo en / en / en mi casa / propia
+
+E: <tiempo=“06:10”/> en tu casa propia / ¡órale! / y este / y / ¿qué es lo que van a hacer ahora para navidad?
+
+I: no pos este / pues va dependiendo cómo esté de / de / de / trabajo y cómo salga / también porque a veces / a veces en estos tiempos escasea el trabajo 
+
+E: sí 
+
+I: porque no / mucha gente orita no quiere gastar 
+
+E: sí / está ahorrando / los regalos 
+ 
+I: está ahorrando y / y pos uno / uno también le busca por / por / por / este / más que nada para que / pues de perdido unos zapatos una / ropilla que le compre a sus hijos 
+
+E: sí 
+
+I: por eso
+
+E: sí 
+
+I: y pos uno le busca / haya la / la forma de / busca la forma en / en cómo / honradamente ¿verdad? / el trabajo
+
+E: y generalmente qué / qué / ¿cómo celebras la navidad? 
+
+I: pues en la / la navidad / en mi casa / se celebra pues / nomás este / vamos a una iglesia de / de hermanos y ahí / convivimos todos todos los hermanos
+
+E: ¿cuál / qué / ¿qué religión tienen?
+
+I: este / pos pos pentecostés 
+
+E: ¡órale!
+
+I: y este y / pues pos ya tengo / tengo poco ahí / en las / en las cosas de dios y / apenas estoy 
+
+E: ¡órale! / pero este 
+
+I: estoy sabiendo más de allá de 
+
+E: más
+
+I: de / las cosas de dios / ¿por qué? porque hay que temer a dios también / <ruido = “se escucha un motor“/> / tener temor de dios ¿no? 
+
+E: sí 
+
+I: porque no hay que / no hay que temerle de la gente / no hay que / no tengas miedo a / no / no le tengas miedo / pero / no le tengas miedo a / no te cuides de la gente sino que de dios ¿verdad? / porque dios es el que nos ve / hasta lo más oculto que / que tengamos / que / que hagan / ¿verdad?
+
+ E: ¡órale!
+
+I: él conoce nuestros pensamientos / todo / él conoce todo / y a él no lo vamos a engañar 
+
+E: ¡órale! / y / y / este / entonces generalmente / en navidad vas con tu familia / a la iglesia 
+
+I: sí nomás / nomás convivimos / convivimos y 
+
+E: ¿no hacen algún tipo de cena o?
+
+I: este sí / este / se junta una porción de cada uno de nosotros y / y convivimos 
+
+E: mjm
+
+I: ésa es la forma en que nosotros / festejamos la navidad ¿verdad? 
+
+E: ¡órale!
+
+I: porque no la festejamos como / como el mundo la / la la 
+
+E: la festeja 
+
+I: la festeja ¿verdad?
+
+E: ¡ajá!
+
+I: por eso
+
+E: ¡órale! / y / y entonces / cada familia lleva algo / de 
+
+I: <tiempo = “08:44”/> sí / una una / una por / una porción de cada / de cada cosa que / que tú puedas
+
+E: traer 
+
+I: que tú puedas llevar 
+
+E: ajá
+
+I: ¿verdad? no / de lo que tú quieras / 
+
+E: sí / algún guiso / así unas / galletas 
+
+I: unos tamales 
+
+E: tamales
+
+I: un té / un café un 
+
+E: cualquier cosa 
+
+I: cualquier cosa / la cosa es convivir 
+
+E: mjm
+
+I: y pos tener más comunión 
+
+E: mjm / y / y antes este / que estuvieras tú en esa religión / ¿cómo festejabas la / la navidad?
+
+I: antes pues era // era pues / no no la / no la festejaba porque no / yo no tenía nadie
+
+E: mjm
+
+I: o sea no me refiero yo no / no tenía nadie de mi familia de 
+
+E: de tu familia 
+
+I: este / pues no convivía con nadie / porque yo vivía solo 
+
+E: sí
+
+I: y pues la / la pasaba pues / de una casa a otra 
+
+E: ¿y no / no no tienes familiares aquí en Monterrey? 
+
+I: sí / aquí está toda mi familia nomás que / por / por ciertas / problemillas no / no se pudo
+
+E: mjm
+
+I: vivir con- / convivir como debe de ser / como todas las familias conviven 
+
+E: sí
+
+I: pues pasan cosas así / que / cosas de- / desagradables o cosas / difíciles que tienes que tienes que // tienes que superarte
+
+E: ajá 
+
+I: sí / tienes que sacar adelante y / y pensar pos / pensar que / que / que no estás solo 
+
+E: sí
+
+I: muchas veces pensamos que estamos solos pero dios siempre está con nosotros 
+
+E: ajá
+
+I: siempre / en en las / en las buenas y en las malas él está con nosotros
+
+E: pero orita ya / ya ya tienes una familia y ya sí / ¿sí valoras más la importancia de la familia?
+
+I: ¡ah claro ora sí! / tiene que valorar uno más </ruido_fondo/>
+
+E: ¿por qué? / ¿cómo lo valoras más? 
+
+I: pos tener que / que tratar de / de ser este / de tratar más tu familia / comprenderla y / entenderla y / y apoyarla 
+
+E: sí
+
+I: ¿verdad? porque pues / pues tienes que / tienes que darle el lugar a tu familia también 
+
+E: sí
+
+I: ora / ora pos tú / este / pos tienes por quien luchar / por quién salir adelante 
+
+E: ¿y los amigos?
+
+I: este / pues amigos no no 
+
+E: ¿no tienes amigos? 
+
+I: No tengo amigos / no / amigos no hay aquí 
+
+E: mjm / nada más tu familia y / ya se acabó 
+
+I: sí / nomás / pues sí / y aparte pues dios / primeramente
+
+E: mjm / ¡órale! / ¿y / y / y siempre has vivido aquí en Monterrey? 
+
+I: sí / toda mi vida
+
+E: ¿y y / has / has trabajado de alguna otra cosa? / a parte de jardinero y así / o lavar autos como orita 
+
+I: pues pa / pintando o / o este // o limpiando ventanas o / o / andaba en / también en / en la obra también 
+
+E: mjm / y este / por ejemplo sí / ¿sí le sabes de / como / cómo / levantar una pared o / este / echar / ¿cómo se llama ese? 
+
+I: la mezcla 
+
+E: la mezcla
+
+I: zarpeo / todo eso sí
+
+E: ¿cómo se hace eso del / del zarpeo? 
+
+I: pues del zarpeo es nomás / este / pues / lo que vayas a ocupar 
+
+E: mjm
+
+I: sea una / una carretilla / o menos unas 
+
+E: mjm
+
+I: unas tres / botes que vayas a ocupar 
+
+E: ¿y luego cómo le haces? 
+
+I: la cantidad pues / es / ya nomás se le echa cemento y se le / se le va batiendo con agua / con la pala y / hasta que de él / en su cierto punto y 
+
+E: ajá 
+
+I: y es cuando ya la puedes utilizar 
+
+E: ajá / y y ¿para echarla así en / en en la pared se necesita una técnica o 
+
+I: se necesita una / se necesita la cuchara y y / y tener / buena técnica en la mano 
+
+E: sí
+
+I: saber / aventarla porque / no nomás es de / aventarla porque tiene su / su chiste ¿verdad? también tiene su / su lado
+
+E: <tiempo = “12:42”/> sí / ¿y qué te parece aquí el vivir aquí en / en en Monterrey? ¿qué opinas / de la ciudad
+
+I: pos orita la / la / la ciudad está bien / o sea / pos está bonita y todo pero pos orita ya / ya orita hay mucha / muncha corrupción y muncha / muncha maldad
+
+E: sí 
+
+I: hay muchas / cosas // que ya no puedes / ya no puedes confiar en nadie / ¿verdad? / sí / muchas cosas desagradables 
+
+E: ¿y a qué? 
+
+I: se ve ya / pues la ciudad sí está bonita pero pues / no tiene nada que ver que / se vea bonito pues no / sería más bonito que / que toda la gente conviviera como en los ranchos / en los ranchos ya ves que 
+
+E: mjm 
+
+I: todos / conozcan o no te conozcan / buenos días buenas tardes o / o / te hablan de cualquier manera pero ellos te buscan la forma de / de saludar y de / platicar conocerse la gente ¿verdad?
+
+E: y ¿a qué crees que se deba eso? 
+
+I: pues 
+
+E: que Monterrey sea así 
+
+I: pues porque hay mucho / porque hay mucho / hay mucho dinero de por / por / medio / hay puro / puro dinero aquí / aquí en Monterrey es puro dinero 
+
+E: ajá
+
+I: aquí es puro / ya aquí si tienes dinero / puedes / pasarla bien y si no no
+
+E: ajá
+
+I: ¿por qué? porque ya no / uno te / uno tiene la mirada en el dinero 
+
+E: mjm
+
+I: ¿verdad? que / creen que / con el dinero no van a / que creen que con el dinero se vive nada más 
+
+E: sí
+
+I: y no es cierto / este si todos / si todos fuéramos / este / humildes / este / y que no hubiera ambición ni dinero ni nada de eso pues yo creo que / estaría más bonito Monterrey todavía / ¿verdad?
+
+E: ¿tú conoces otras partes? / a aparte de Monterrey / ¿has viajado a otras partes?
+
+I: pues nomás he / he ido pa- / para Ciudad Valles para / para Chihuaián para allá 
+
+E: ¿qué es eso de Chihuaián? / ¿dónde está? 
+
+I: es un ranchito 
+
+E: pero ¿dónde está? 
+
+I: es por rumbo de / San Luis
+
+E: San Luis Potosí / ¡órale! / ¿y cómo es allá? 
+
+I: no pos ahí sí está bien bonito 
+
+E: <tiempo =“14:51”/> ¿por qué? 
+
+I: porque allá / allá ves todo natural 
+
+E: ajá
+
+I: comes todo natural
+
+E: ajá
+
+I: manzana / el mango / lo que tú quieras pero es natural 
+
+E: mjm
+
+I: leche / pos de vaca 
+
+E: sí
+
+I: está muy / muy sanamente / y allá // allá no se ve la maldad 
+
+E: mjm
+
+I: allá no se ve nada de maldad / como aquí / aquí se ve de a tiro / muncha tentación mucha maldad / no / está / está todo no está todo volteado 
+
+E: sí / ¿quién vive allá o / por qué has ido allá?
+
+I: allá viven mis suegros 
+
+E: ¡órale! / ¿y has has ido de / de visita rancho? 
+
+I: sí 
+
+E: ¿y cómo es el rancho? / ¿qué tienen?
+
+I: no pues allá las casitas son / de palito así muy / muy bonitas / muy humilde y // no pues allá / sí se vive / mejor porque / más que nada porque aquí / aquí hay mucha contaminación 
+
+E: sí
+
+I: aquí todo lo que respiramos / es pura contaminación
+
+E: sí
+
+I: todo / smog / todo de los carros / y allá no 
+
+E: ¡órale!
+
+I: allá se ve hasta azul el cielo y / se ve bien bonito porque ahí estás respirando / se ve / se ve luego luego 
+
+E: sí / ¡ajá!
+
+I: porque aquí haz de cuenta que / aquí lo agarras como rutina del trabajo a tu casa y / y allá no 
+
+E: sí
+
+I: allá en el rancho / pos allá / a sembrar a / a / a este // mirar / lo del café 
+
+E: mjm
+
+I: sí a sacar / puras cositas / que el frijol y que / todo eso muy bonito 
+
+E: ¿qué más / qué otros lugares conoces / aparte de / ¿qué me decías? / ¿Higueras Nuevo León?
+
+I: no / es / es este / es / es Chihuaián 
+
+E: Chihuaián 
+
+I: <tiempo = “16:32”/> y es / este / no para / nomás he ido a esas partes / a Galiana también he ido 
+
+E: a Galeana / ¿cómo es Galeana? yo no conozco
+
+I: pos Galiana es muy bonito / Galiana / es también es como un / es un rancho también 
+
+E: ¡ajá!
+
+I: allá es mucho nopal mucho / mucha tuna 
+
+E: mjm
+
+I: y / también se come todo natural y / se ven todas las / montañas muy bonitas y / no no no es una / cosa muy / muy bonita 
+
+E: ¿y hace mucho frío allá? 
+
+I: hace
+
+E: en Galeana 
+
+I: hace frío pero // pero no / allá no se siente ni el frío
+
+E: <risas = “E”/> ¿por qué? / está bien chido 
+
+I: ¿por qué? / porque estás // estás gozando del panorama 
+
+E: ¡ajá!
+
+I: estás viendo todo y / y / usted sabe que cuando / usted sale a una parte / todo ve bien bonito 
+
+E: mjm
+
+I: y la gente de ahí / pues no / no lo ve así porque ya está / ya vive 
+
+E: ya está ahí / y se acostumbra / sí 
+
+I: haz de cuenta como / pos yo vivo aquí en Monterrey / yo / yo / pos tengo otro / otro modo de hablar
+
+E: ¡ajá!
+
+I: de / de Monterrey 
+
+E: sí 
+
+I: ¿verdad? / y como otros de allá de otras partes / de los ranchos
+
+E: hablan diferente
+
+I: se les hace muy bonito / o sea // muy bonito 
+
+E: raro
+
+I: no no / muy bonito / y // y / y hablan muy bien de Monterrey porque 
+
+E: porque no han estado aquí 
+
+I: porque ellos no conocen / no están / no han estado aquí
+
+E: ¡ajá!
+
+I: ya hasta que van conociendo a / a Monterrey / muy bien muy bien del / de / todo a todo / pos no 
+
+E: ¡ajá! / ya dicen mejor el rancho <risas = “E”/>
+
+I: mejor el rancho porque / aquí ya todo todo / por todo te enfermas 
+
+E: sí <risas = “E”/> 
+
+I: sí porque pues / el huevo no es natural 
+
+E: ¡ajá!
+
+I: el huevo lo inyectan / inyectan a las gallinas y / y los hacen a que / pongan a fuerzas el huevo y no es así
+
+E: sí
+
+I: no es lo natural 
+
+E: sí
+
+I: y allá no / allá no se usa nada de eso
+
+E: mjm
+
+I: acá toda la comida pues está / contaminada y está en / tienen muncho 
+
+E: ¿y cómo te / por te / te visualizas tú / te imaginas tú viviendo / aquí en no sé / en unos veinte años / o sea aquí todavía aquí en Monterrey / o te gustaría irte a otra parte / o te gustaría no se trabajar mucho para / tener una mejor vida o / estudiar? 
+
+I: no pues 
+
+E: ¿cómo te imaginas tú / en veinte años?
+
+I: mi imaginar / mi imaginar es este // orita / mi imaginar es / es servirle más a dios 
+
+E: mmm
+
+I: porque aquí no / no / dice / dice la Biblia que aquí no hay que / que aquí no hay que hacer tesoros en la tierra 
+
+E: ¡ajá!
+
+I: porque aquí / aquí muncha / munchas veces te / aquí te afanas / por tener
+
+E: ¡ajá! / sí
+
+I: ¿sí? / aquí te afanas / por salir adelante / por tener lo mejor y todo eso / y a dios lo / y a dios lo olvidamos 
+
+E: sí
+
+I: entonces dice por eso dice que no hagas / tesoros aquí en la tierra porque / el tesoro lo debe de hacer allá 
+
+E: sí 
+
+I: con dios no con
+
+E: <tiempo = “19:39”/> ¿entonces lo más importante / es servirle a dios?
+
+I: servirle a dios / sí 
+
+E: ¿más que tener dinero más qué 
+
+I: no / a mí no me importa el dinero no me importa / no no no que / más me importa es / servirle más a dios y serle más sincero a dios 
+
+E: sí
+
+I: que tenga más temor de dios
+
+E: y oye / en el / en / tantas actividades has hecho en el / jardinería / ventanas / limpiar ventanas y todo eso alguna alguna / ¿alguna vez te ha pasado / un accidente fuerte / o algo así?
+
+I: no 
+
+E: ¿no?
+
+I: no porque
+
+E: no que digas tú ¡ya mero me moría / ya no me contaba!
+
+I: no 
+
+E: ¿y al / algún e / accidente que tú hayas visto cuándo trabajabas / así?
+
+I: no 
+
+E: ¿no? ¿para nada? 
+
+I: no porque pues / dios me cubre de todo 
+
+E: mjm
+
+I: me libra de toda // de toda pues me subo a los árboles están muy altos a veces 
+
+E: mjm
+
+I: todo eso y / y este / pero pues nomás me com- / me encomiendo a dios y / y dios me libra de todo / peligro de todo / o sea no me pasa nada porque pues
+
+E: ¡qué bueno!
+
+I: teniendo / teniendo al mejor / al rey de reyes no tengo por qué temer 
+
+E: sí 
+
+I: y pues / orita no tengo ni desmayos porque / tu dios siempre estará contigo / en las buenas y en las malas entonces // yo no tengo por qué temer y / y si en caso pues llegaría a irme // me llegaría a caer y me llegaría a matar pues / yo sé que voy / yo voy con dios yo estoy 
+
+E: ¡ajá! 
+
+I: yo estoy seguro que yo voy con dios 
+
+E: ¿no / no / no te da miedo / morirte ni nada? 
+
+I: no le tengo miedo a nada ni a la muerte ni nada porque / debes de preocuparte cuando no le sirves a dios 
+
+E: sí / pero / pero 
+
+I: porque / cuando usted / cuando uno se muere / y que nunca tuvo temor de dios / nunca / nunca se acordó / nunca le dedicaste / nunca hicistes nada por él / el que te da la vida pos ahí sí // hay que tener / miedo 
+
+E: miedo
+
+I: porque / pues vas al infierno / así como / muchas veces / pos no le hablan de dios y / y todo / y uno a veces / te hablan de dios y / y lo juzgas 
+
+E: mjm
+
+I: o lo tomas muy en poco / no / no sé
+
+E: no importa
+
+I: es que me saca de otras cosas que no ¿verdad? / pero siempre y cuando / tiene que ser / que / uno le hable / para que usted y / y todos los demás tengan / tengan que renovar sus votos con dios 
+
+E: ¿y qué fue lo?
+
+I: hacerlo agradable a dios 
+
+E: ¿y qué fue lo que te hizo / a- acercarte así / de esa manera / a dios? 
+
+I: no pos / sólo dios me puso en mi sentir / porque pues / nunca nunca fui drogadicto
+
+E: ¡órale!
+
+I: nunca fui / no no / es que muchas de las veces / nos reunimos a una / a una congregación o una / una / porque / que anduve de drogadictos o que / nos salvó la vida de / un peligro 
+
+E: estuviste / cerca de la muerte y / te salvó la vida 
+
+I: sí / nada
+
+E: tú fuiste ¿por qué?
+ 
+I: <tiempo = “22:47”/> yo / yo / yo me nació / yo lo sentí es que más vale que lo nazca / que lo 
+
+E: sí / que te nazca
+
+I: que te nazca / no que lo hagas hinpócritamente porque / por quedar bien con la / muchacha o / por quedar bien con el / el hermano no / es que te nazca 
+
+E: sí / oye pero / pero como quiera la profesión de / albañil y ésas sí / son peligrosas ¿no? / sí suceden / accidentes 
+
+I: no sí pero pues porque a veces / pasan las / las cosas no pasan porque / porque uno quiere 
+
+E: ¡ajá!
+
+I: si no que pasa porque / porque conforme te vas / vas afanando afanando / pos / usted nomás está pensando / uno nomás está pensando en / en que hay que trabajar / en que hay que salir adelante y que / pero a dios nunca te acordaste 
+
+E: sí
+
+I: entonces a veces dios / dios nos permite las cosas que pasen / para que a ver si así nos acordamos / por decir / él nos da una oportunidad / este / él nos da una oportunidad / para que / para que / para que este ¿cómo le diré? / sí / para que reconozcan y para que se acuerden de dios / para que aclamen a dios / para que digan ¡ah! el señor / porque si / si siempre nos va bien / siempre / siempre nos va bien / en el / en el trabajo / siempre nos llueve trabajo 
+
+E: ¡ajá!
+
+I: y todo / pues nunca nos vamos a acordar de dios 
+
+E: sí
+
+I: <tiempo = “24:20”/> ¿verdad? / nunca / ¿por qué? / porque estamos llenos de dinero / estamos llenos / tenemos güena casa / tenemos güena / ¡tenemos todo! / la salud / ¡tenemos todo! / pos uno no falta nada ¿por qué vamos a aclamarle a dios? 
+
+E: ¡ajá! y ahí ahí
+
+I: ¿sí? / y entonces / ahí / ahí es cuándo / te contesto esa pregunta / ¿por qué pasan la cosas así? 
+
+E: ¡ajá!
+
+I: ¿por qué les pasan eso? / porque a veces lo permite dios 
+
+E: sí
+
+I: a ver / tuviste mucha oportunidad que te hablaran de dios y nunca
+
+E: y sí
+
+I: siempre lo inorastes / siempre lo inorastes 
+
+E: ¡ajá! / oye y / ¿hay algo que te haya sucedido y que nunca se te haya olvidado que te haya impresionado mucho / en en tu vida?
+
+I: no / nada
+
+E: ¿nada? / o algo así que haya cambiado el rumbo de / de de tu vida / o algún acontecimiento de tu vida / que haya cambiado el rumbo de tu vida 
+
+I: no / nada / no pos he pasado por / cosillas / pues desagradables también pero pues // pos si me pongo yo a- / a- / a- acordarme pos no / eso no me agrada mí en nada / no no / son cosas / cosas desagradables que no / que no tienes por qué recordar 
+
+E: recordar 
+
+I: para nada porque / en el camino de dios / todo está borrado yo no / no tengo porque recordar cosas pasadas 
+
+E: órale
+
+I: sí / por eso / todo lo que sea 
+
+E: negativo / y por ejemplo algo así / positivo / a a lo mejor te pasó algo / que te cambió la vida para bien / o no necesario tiene que ser para mal o / una cosa que te haya pasado importante / que no la vayas a olvidar nunca / pero para bien / no necesariamente para un mal 
+
+I: no pues a veces este / pues a veces que pues / te / te engaña la mujer y todo / y pues tú la ves con tus ojos / tus propios ojos / este / y no conocí a dios 
+
+E: ¡ajá!
+
+I: este / y pos encontrar a / a tu esposa con / con un hombre
+
+E: con otra persona
+
+I: con otra persona / pos son / cosas pesadas
+
+E: ¡ajá!
+
+I: pero pues yo en ese tiempo pues yo le dije a dios ¿no? / pues que no señor perdóname / yo / yo no puedo / no voy hacer nada porque la justicia es tuya no es mía 
+
+E: sí
+
+I: porque pues / si yo no hubiera hecho pos yo este tuviera / ya ves que muchos / en esas / en esas cosas hay que / hay que tener / demasiado valor / porque orita / para esas cosas ya hubiera / pues ya hubieras quitarle la vida la / al hombre y a la mujer también / y pos ¿qué ganastes? / ¿qué ganastes? si fuistes a dar al bote allá te estás pudriendo / y no dicis / no ganastes nada 
+
+E: <tiempo = “27:11”/> nada
+
+I: entonces pues hay que dejárselo a dios y / y así fue / yo dije ¡no pues! / dios mío pues / perdónalos porque no saben ni lo que hicieron ni / y pues / para mi sorpresa ¿verdad? pues / gracias a dios que dios / dios es justo / y / es que / pues / el gusto nomás les duró una semana y 
+
+E: ¡ajá!
+
+I: y el hombre pues / se dio unos // se perforó la cabeza / a puros plomazos él mismo
+
+E: ¿se suicidó?
+
+I: se suicidó porque // pos / pos qué / es que / digo yo / pues la justicia no era mía / era de dios / no era mía 
+
+E: ¡órale!
+
+I: y / pues / ni modo / era con / la mujer con la que yo me había juntado / me había casado / pues // y a esta edad ya tiene muchos hijos regados ya anda ahí / a la libre / viviendo la vida
+
+E: igual no era la mujer para ti ¿no?/ y por eso pasó eso 
+
+I: no / y por eso a veces dios permite las cosas porque / servirle a dios no nomás de / de que todo te va ir bien / no / tiene que pasarte cosas
+
+E: sí / sí sí 
+
+I: <tiempo = “28:14”/> ¡son pruebas que tienes que pasar! 
+
+E: sí
+
+I: a ver si en verdad / a ver si en verdad / gracias / sí gracias / entonces / hay que / hay que / hay que aprender / de todo // porque / a todos no pasan / munchas cosas
+
+E: sí 
+
+I: pero es para que / es para que crezcas / para que te / te superes más 
+
+E: sí
+
+I: para que sepas más 
+
+E: sí
+
+I: ¿verdad? / no es para que / te tires al vicio y / estés ahorcándote / como muchos se avientan de los puentes muchos se / se ahorcan / muchos se meten a las drogas muchos / ahí están / tristes 
+
+E: pero sí / pero / tú por ejemplo / ¿jamás te quitarías la vida? 
+
+I: ¡no! 
+
+E: ¿por nada?
+
+I: ¡por nada! 
+
+E: ¿aunque te pase lo más feo del mundo? 
+
+I: ¡no! / es / dice dios que eso / es cobardía porque / dios no te está quitando la vida // es ser cobarde cuando / tú te quitas la vida / tú mismo 
+
+E: sí 
+
+I: <tiempo =“29:19”/> es ser cobarde
+
+E: oye / y bueno ya / hablando de cosas más amenas / ¿cómo festejas tú tu cumpleaños? / ¿qué haces en tu cumpleaños?
+
+I: no pos si te contesto todo pos es / es cosa de dios / no no te voy a platicar cosas / cómo / pues / todo lo convivo así / cómo te puedo hablar 
+
+E: ¡ajá! / no va ser diferente 
+
+I: sí / cómo te puedo dicir yo / no te puedo hablar de otra forma / de / pues ¿cómo te diré? / no te puedo hablar / no / yo / la convivo 
+
+E: pisteando y 
+
+I: no / pues / y porque no / no
+
+E: tú no eres así 
+
+I: yo no soy así / pos para qué / no te puedo hablar de otra manera / desagradable pues // porque no lo vivo
+
+E: ¡claro!
+
+I: ¿por qué lo voy a decir? / no pues / convivo con mi familia y / y ahí estoy con ellos 
+
+E: mjm
+
+I: me compran mi pastel y / me festejan y / y es todo 
+
+E: sí / y tú / tú / ¿tú sabes cocinar? / tú le cocinas a veces a tu / tu esposa o / ¿en las reuniones en tu / congregación llevas tú comida que preparas tú? 
+
+I: no yo / yo sé cocinar 
+
+E: ¿qué sabes cocinar? 
+
+I: de todo 
+
+E: a ver por ejemplo ¿sabes hacer chiles rellenos? 
+
+I: sí
+
+E: ¿y cómo / cómo lo haces los chiles rellenos? 
+
+I: no pues / se dora la carne y / con todo / tomate cebolla chile / y todo / ya después se / se pasan en la lumbre los chiles y / y este / y ya pues / se ponen en un bolsa para que se les quite el / el cuero lo quemado / de volada / ya se abren y / se le rellena y luego ya se lamprean con huevo / batido / bien batido y // ya se echa la cacerola y ya / es cuando / están / guisado ya
+
+E: ¡órale!
+
+I: <tiempo = “31:19”/> está preparado / está no no / con / sus condimentos ¿verdad?
+
+E: ¿y por qué sabes cocinar tú? 
+
+I: porque pos la vida me enseñó a mí / me enseñó / en mi soledad pues / eso jue lo que me enseñó / y me tuve qué // como yo desde los trece años que / viví solo / yo me mantuve solo yo / supe salir / por mí mismo 
+
+E: ¿desde qué años vives solo?
+
+I: trece años
+
+E: ¡órale!
+
+I: y gracias a dios que pu- pues / me juntaba con muchos mariguanos pero / pero a mí no me agradaba nada de eso / y dije yo no pues // ¿qué hago yo aquí si yo ni / ni hago eso?
+
+E: ¡ajá!
+
+I: pues no ¿saben qué? / ahi nos vemos / y ya me retiré y / y pos si te ofenden y te dicen / tantas / cosas
+
+E: sí 
+
+I: desagradables / ¡no que tú eres esto! y / tú 
+
+E: ajá
+
+I: con tal de que ya / muchas veces ya no me puedo porque dicen no ¡que tú eres esto! / ¡ah! güeno pues para que no digan que no / soy así / yo también 
+
+E: ¡ajá!	
+
+I: le haces / le das / le das el gusto y no / no pues no / y pues / gracias a dios que estoy bien aquí
+
+E: ¡órale! / y / ¿y viviste solo entonces tú desde los trece años / tú tú por / por tu / por tu / cuenta / sin ayuda de nadie? 
+
+I: sí / sin ningún consejo y sin sin / sin nada
+
+E: ¡ajá! 
+
+I: yo solo
+
+E: ¿y cómo le hiciste cómo / cómo fue eso? 
+
+I: nomás le pedí a dios / que me / que me guiara por buen camino 
+
+E: mjm
+
+I: que me / que me cubriera de todo / mal de todo / peligro de toda la / tentación / maldad y todo 
+
+E: mjm
+
+I: porque pues yo no quiero ser un vicioso no quiero ser este / pos que me diera fuerzas / y / pos estando solo / pues si ya me pasaron todas esas cosas que le dije
+
+E: ¡ajá!
+
+I: y pues / más más / dije yo no / dije no pues / eso no me va a tumbar / eso no me va a desanimar 
+
+E: sí
+
+I: y pues para seguir adelante 
+
+E: mjm
+
+I: siempre le pedí / el camino al señor y / y que me / que me guiara con / por buen camino 
+
+E: <tiempo =“33:25”/> o sea ¿tú / tú nunca has tenido problemas así de / de pandillerismo / o que te haya agarrado la policía una vez o 
+
+I: pos / a veces me agarran pero pues / pos son injustos 
+
+E: ¿por qué?
+
+I: son injustos porque a veces / a veces / pues los policías ellos mismos / saben quién roba y / quien / quien anda haciendo daños 
+
+E: sí 
+
+I: y / pues / los policías pues orita lo que tienen es que / te agarran / traes dinero / si ellos te transculcan ellos mismos te roban 
+
+E: sí / son más ladrones que los 
+
+I: son más rateros que nada / que todo 
+
+E: ¿y por qué crees que? 
+
+I: porque / créeme / créeme / créeme que / tengo / conozco muncha gente ratera / pero nunca / aunque yo esté así / nunca me han robado / nunca / nunca me han / que un cuchillo / o esto 
+
+E: mjm
+
+I: y los policías sí / los policías pues / ¡a ver una / una rutina! / y ¡órale! 
+
+E: y te bajan
+
+I: y ¡órale! y se acabó / y pero ellos no supieron ni con qué te lo ganastes 
+
+E: sí
+
+I: ni cómo te lo ganastes 
+
+E: sí 
+
+I: sí / por eso / y y / y / y uno trata defenderse / de defenderse / y // y ya le distes motivos 
+
+E: para que te agarren
+
+I: para que ellos / te / puedan / puedan decir allá no / pues ora sí me lo llevo y / ora sí 
+
+E: andaba de agresivo
+
+I: ora sí me dio / motivos ¿verdad? / pero pues mientras / ya en la bolsa ya no hay nada 
+
+E: y / ¿y por qué crees que la policía sea así? 
+
+I: pues porque son / corruptos / por eso / porque son abusivos 
+
+E: ¿y por qué crees que haya / corrupción en la policía en el gobierno? 
+
+I: porque / ellos no tienen temor de dios ¿verdad? / ellos / ellos creen que toda la vida van a vivir así 
+
+E: mjm 
+
+I: pos lo / digo yo no pues dios tenga misericordia de ellos ¿verdad? que / pos sigan adelante / sigan haciendo / dicen pues / gózate / si estás en el mundo / ¡gózate! / haz / y deshaz lo que tú quieras 
+ 
+E: <tiempo = “35.27”/> sí 
+
+I: pero / e- / ese día // pos ellos no van a tener buen fruto para 
+
+E: sí 
+
+I: que / vayan a dar cuentas con dios / algún día 
+
+E: Mjm
+
+I: ¿verdad? / este / saben / saben / quién andaba / quién andaba bien y quien andaba mal / orita pues / ellos / ellos si acaso / pos todo el robadero / y pues todo lo que hacen / todas sus / sus transías que hacen por ai / pues ellos se están / re / enriqueciendo así porque ellos tienen sus mejores casas / quizá hasta los mejores muebles 
+
+E: sí
+
+I: quizá hasta su / no les falta a ellos / pero pues siempre le / le quitan al de / al / al que / al que se sacrifica / el que se sacrifica
+
+E: sí es bien / es bien injusto / por mi casa hay una señora que / que lava / te limpia el coche cuando te estacionas / y dice dice que la policía llega y les quita todo el dinero así nada más / y / o sea ni siquiera están robando ni nada
+
+I: sí hace poco / hace poco me garraron <observación_complementaria = “termino alusivo a que lo robaron“ /> allá 
+
+E: ¡ah! ¿sí?
+
+I: para allá y / y este 
+
+E: ¿cómo fue?
+
+I: no pos yo / yo iba / iba pensando / en cosas personales de / de mí / pos de mí ¿verdad?
+
+E: mjm
+
+I: sé cómo he pasado / estaba meditando yo / perdón por tantas cosas que he pasado
+
+E: sí
+
+I: por tantas / tantas cosas / que he pasado desagradables / pesadas
+
+E: sí
+
+I: y / y como he salido adelante / adelante 
+
+E: mjm
+
+I: y eso estaba pensando cuando de repente llegó la policía / me transculcó / me empezó ahí a decir / y luego me llevó // me / dijeron no súbete 
+
+E: ¿te subieron? 
+
+I: ¡me subieron! 
+
+E: malditos 
+
+I: y luego me subieron y luego me llevaron y luego / llegaron a una casa / y dijeron no bueno éste es / no es el que robó / yo dije no dije ¡jijo de su guayya! ya estuvo dije ¡n’ombre! / estos de veras no hayan ni cómo estar
+
+E: sí 
+
+I: y a veces / a veces porque no tienes dinero / a veces porque tú no fuiste / ya te quitaron todo el tiempo ya me dices no ya 
+
+E: sí / y hasta el dinero 
+
+I: sí / ya no hicistes nada ya perdiste / todo tu dinero / y / todavía de remate / este / van y te dejan allá bien lejos y sin camión y sin nada y te dejan allá / sin ningún cinco <observación_complementaria = “sin dinero "/> y ahi andas / otra vez
+
+E: <tiempo =“37:57”/> sí / cómo te regresas a tu casa 
+
+I: ¿por qué? / porque / eso es / puro / pura injusticia ¿no? 
+
+E: mjm
+
+I: y pos / eso ya está escrito / en la biblia / la maldad se va a multiplicar / todo se va a multiplicar 
+
+E: mjm
+
+I: al rato no vamos a tener qué comer / al rato no va haber trabajo / no ve a haber nada // y todo se va a escasiar 
+
+E: mjm
+
+I: entonces / todo se está cumpliendo
+
+E: mjm mamm
+ 
+I: por eso está pasando todo eso y así la gente todavía ni entiende / todavía le hablan de dios y no entiende 
+
+E: sí
+
+I: todavía siguen haciendo de las suyas / pero pos dios los bendiga mucho ¿verdad? // a todos 
+
+E: ¿y / y por qué no te vas tú por ejemplo al rancho de allá donde dices que está bien chido y que comen muy bien? / ¿por qué prefieres estar aquí en Monterrey?
+
+I: no pos este / sí he pensado / sí he pensado irme de aquí / porque sí no / no me agrada nada 
+
+E: mjm
+
+I: aquí vivir pos si / sólo por ir a lavar un carro / orita / orita te ven / y / ¡eh! / como es oficial / llega y / y te dice / ¡eh! / ¿tienes credencial? de / de / permiso 
+
+E: permiso 
+
+I: ¡achis! / no pos no / pos no pues / lléguele de aquí 
+ 
+E: mmm
+
+I: no te queremos ver aquí // así te dicen / llégale de aquí / aquí / quién sabe esto que / que hay muchos robos que quién sabe qué le digo y por eso ¿y yo qué? / si yo no tengo por qué andarme escondiendo de nadien 
+
+E: mjm 
+
+I: sí / y / luego después dicen / ¿qué? pos ¿cuánto trais? / luego luego te dicen / ahí está el soborno / ahí está / ahi está la
+
+E: la mordida
+
+I: la mordida y no es así
+
+E: ajá
+
+I: si en verdad eres sincero y de rep- / de en verdad eres derecho // qué padre ¿no?
+
+E: mjm
+
+I: <tiempo =“39:48”/> pero si no eres derecho 
+
+E: sí
+
+I: ¿verdad? / como / es como Colosio ¿por qué lo mataron? pos / por lo mismo / él sí iba descubrir a todos 
+
+E: ¡ajá!
+
+I: iba a descubrir todo 
+
+E: mjm
+
+I: ¿y por qué lo mataron? / porque no se quiso vender 
+
+E: sí
+
+I: es lo mismo / es que así / a- / así si tú te quieres meter de policía de judicial o lo que tú quieras / y tú quieres ser derecho / allí no ahí vas entrando y ahí te van a decir no mira aquí se va a hacer lo que tú / aquí / lo que te dicen / no lo que tú digas 
+
+E: mjm
+
+I: y ahí está lo malo 
+
+E: sí
+
+I: y ahí es cuando usted / quede mal y le dice la gente ¿no? / ¡eh no que usted! / que / ¡usted mero y que! 
+
+E: mjm
+
+I: y nada que usted ya está amenazado / y si no lo hace y / si empieza a hablar / lo matan 
+
+E: sí 
+
+I: ¿por qué? porque es ¡pura corrupción puro! / pura maldad ya 
+
+E: mjm
+
+I: ya aquí no se puede vivir / aquí en Monterrey ni en ninguna parte
+
+E: <tiempo = “40:49”/> sí
+
+I: ya no / ya no 
+
+E: apenas en el rancho allá donde no hay 
+
+I: sí / claro / ¡no! y todavía / y todavía / y todavía allá son bien injustos todavía 
+
+E: sí / pos sí 
+
+I: porque la / donde quiera / porque / un día estaba pla- / me / me platica mi señora también que / allá / allá este / los del gobierno así los / las / los que se / los que / andan en eso los / en lo del partido
+
+E: sí
+
+I: les dan cobijas / cobertores / y / comida o algo despensa para la / para los pobres / para los que no tienen 
+
+E: <tiempo = “41:24”/> mjm
+
+I: y ellos mismos que tienen / las andan vendiendo 
+
+E: <risa = “E”/> ¡úchale!
+
+I: es la verdad 
+
+E: sí
+
+I: o sea / las venden
+
+E: ¡ajá!
+
+I: ¿y qué es lo que están haciendo? / ellos se están enriquiciendo y / y a- / y al / y al humilde / al que no tiene nada / no lo / no lo / lo / toman en poco 
+
+E: sí
+
+I: nomás no / no se puede / por ningún lado // pos a veces / por eso / pasan las cosas de que a veces te matan // porque no hay justicia
+
+E: sí // oye y / y e- // entonces / dices tú que las / las fiestas próximas que vienen en / en diciembre / tú te las pasas en / con tu congregación / y dedicado a dios / no las celebras como / los demás
+
+I: no
+
+E: entonces por ejemplo ¿semana santa todas esas actividades tampoco?
+
+I: nada 
+
+E: ¿y cumpleaños / de tu esposa? 
+
+I: no pos / pos / igual / igual / y pues la semana santa pues / no no / no / no / no te vas a gozar porque / cristo murió por ti
+
+E: mjm / sí es como 
+
+I: no te vas a / no te vas a gozar porque / pos es como si estás gozando / como que si / el familiar se murió / el tuyo y 
+
+E: <tiempo= “42:20”/> y tú te vas de fiesta / ajá
+
+I: y le haces fiesta ¿verdad? / y no es así
+
+E: ¡ajá!
+
+I: este / pos pensar en lo que dios hizo por ti / pensar todo lo que él pasó por ti / lo que hizo por ti / lo que no le importó lo que / lo que tú hicieras / lo que / tú eras / lo que uno era / que él sin embargo dio la vida por nosotros 
+
+E: sí
+
+I: y pues / orar / este / orar por él / por ti / por / por la vida que nos da y / por su misericordia cada día 
+
+E: oye pues bueno mira / ahora te voy a hacer unas preguntas <ruido=“el informante se aclaro la garganta”/> ah / va a ser una / una encuesta // ¿me puedes decir tu nombre completo? por favor
+
+I: <tiempo = “43:35”/> Javier Rodríguez Delgado 
+
+E: Javier / Rodríguez 
+
+I: ¿ése para qué es?
+
+E: es que / este / yo estoy estudiando en Filosofía y Letras 
+
+I: ah
+
+E: y eh nos encargaron / unas maestras que / que teníamos que hacer eh / platicar con la gente porque más o menos van a hacer un estudio de cómo es la gente en Monterrey / que cuáles son sus costumbres / cómo celebran la navidad / qué hacen en vacaciones / es de la escuela / ¿su edad?
+
+I: Treinta y dos años 
+
+E: ¿estado civil? 
+
+I: este 
+
+E: casado ¿verdad?
+
+I: casado
+
+E: ¿su dirección? / completa 
+
+I: es este / Avenida Canon doce 
+
+E: Avenida Canon doce / dos mil quinientos treinta y cinco ¿en la colonia?
+
+I: Alfonso Reyes 
+
+E: ciudad / Monterrey / ¿tiene un teléfono?
+
+I: no
+
+E: ¿no? / me dijo que era / ¿pentecostés? ¿sí?
+
+I: sí
+
+E: ¿de dónde es usted originario? / ¿de Monterrey no?
+
+I: de aquí de Monterrey
+
+E: ¿su lugar? / bueno no // ¿tú papá de donde es? / ¿de Monterrey también?
+
+I: de Zacatecas
+
+E: de Zacatecas ¿su mamá? 
+
+I: de México
+
+E: ¿del Distrito Federal?
+
+I: sí 
+
+E: eh / ¿tu abuelo paterno de donde eran? / ¿de Zacatecas?
+
+I: de Zacatecas
+
+E: ¿y tus abuelos maternos del DF?
+
+I: sí <ruido = “movimiento de papeles”/>
+
+E: ahí está mire / Cortijo del Río / es que / al parecer de aquí para allá es Cortijo / y para allá la verdad no sé muy bien pero / creo que sí es Cortijo // mmm / te decía ¿que si tienes alguna afición o pasatiempo?
+
+I: <tiempo = “45:49”/> ¿cómo? / ¿qué?
+
+E: o sea de que te guste leer / o la música o 
+
+I: no 
+
+E: no / ¿vas al cine?
+
+I: no 
+
+E: ¿escuchas el radio? 
+
+I: para oír canciones
+
+E: ¿y qué / qué tanto tiempo escuchas el radio? / ¿más de una hora / o hasta dos horas?
+
+I: puede ser hasta cinco horas 
+
+E: ¿qué tipo de estación prefieres escuchar?
+
+I: ¿qué estación?
+
+E: mjm
+
+I: pos / este / TKR 
+
+E: TKR / es como / ranchera ¿no?
+
+I: sí pero ahí pasan las de / las predicaciones
+
+E: sí / okay / ¿ves la televisión? / ¿con qué frecuencia ves la la tele / mucho poco? 
+
+I: no / poco porque / me lastima la vista 
+
+E: ¿y qué / qué tipo de programas ves? 
+
+I: pos a veces / pos pasan esos de / puras de dios
+
+E: mjm
+
+I: puros videos
+
+E: mjm / y ¿ves películas en la tele? 
+
+I: no casi no
+
+E: ¿en en tu casa hay / videograbadora DVD y consola de videojuegos?
+
+I: no 
+
+E: nada de eso
+
+I: puro video
+
+E: ¿nada más videograbadora? / ¿o DVD?
+
+I: no / video
+
+E: videograbadora / a okay / ¿tienes algún sistema de cable?
+
+I: no
+
+E: okay / ¿lees el periódico? / ¿revistas? / internet ¿usas el internet? 
+
+I: tampoco 
+
+E: ¿hay computadoras en tu casa? / ¿tienes teléfono fijo en tu casa?
+
+I: no 
+
+E: ¿teléfono celular? 
+
+I: sí
+
+E: ¿cuáles son los usos que le das al celular? / ¿recibes llamadas / haces llamadas / o también mensajes / fotos?
+
+I: no pos yo no lo uso porque pues no / no le entiendo yo casi a eso
+
+E: entonces ¿nada más para recibir llamadas / para que te localicen?
+
+I: sí / nomás
+
+E: okay / ¿vas a los museos? 
+
+I: no
+
+E: a los / ¿a conciertos vas? / ¿a conciertos?
+
+I: sí de 
+
+E: ¿religiosos? 
+
+I: sí religiosos
+
+E: ¿como con qué frecuencia? / ¿una vez a la semana / una vez al mes? 
+
+I: no pos / depende cuando hay / a veces
+
+E: pero generalmente ¿cuánto? / ¿como una vez al mes o más?
+
+I: no / como / tres meses
+
+E: ay se me va a caer todo / el teatro / ¿vas al teatro? // eh ¿sueles viajar por placer? / o sea de que vas de vacaciones / sales con tu familia de vacaciones
+
+I: no 
+
+E: ¿no mucho? 
+
+I: casi no 
+
+E: okay / ¿hasta qué grado estudiaste? 
+
+I: hasta primero 
+
+E: ¿hasta primero de secundaria o de primaria?
+
+I: primaria 
+
+E: ¿y fue / en una escuela pública? 
+
+I: sí
+
+E: <tiempo =“49:25”/> ¿estás trabajando ahorita / actualmente? / sí 
+
+I: sí / pues ando aquí
+
+E: ajá / dizque trabajando
+
+I: dizque trabajando digo <risas = “E”/>
+
+E: ¿y desde cuando trabajas / desde qué año más o menos trabajas?
+
+I: no / pos ya / todos los años 
+
+E: ¿cómo?
+
+I: todos los años 
+
+E: ¡todos los años! 
+
+I: sí <risas = “E”/>
+
+E: pero / dices que desde los trece trabajas ¿verdad?
+
+I: ¡ah! sí
+
+E: y bueno / más o menos con respecto al ingreso mensual / que tienes / o sea el dinero que percibes mensualmente / te voy a decir unos rangos y tú me dices en cuál de esos estás / ¿menos del mínimo? / son dos mil ochocientos / ¿menos de dos mil ochocientos al mes / o dos mil ochocientos más o menos como dos mil ochocientos al mes? 
+
+I: por ahí
+
+E: ¿entre dos o tres veces eso / o más? 
+
+I: no / entre dos
+
+E: entre dos mil ochocientos / más o menos / okay / ¿cuántos focos hay en tu casa?
+
+I: ¡uy! hay un chorro / son como diez <risas = “I”/>
+
+E: diez focos entonces / bueno en tu casa vive / tu esposa ¿verdad?
+
+I: mjm
+
+E: ¿ella habla algún otro idioma? / que no sea / aparte del español
+
+I: este / el / ¿cómo? / dialecto
+
+E: ¿cuál dialecto habla?
+
+I: pues no / no sé <risas = “I”/>
+
+E: algún dialecto pero quien sabe cuál / okay 
+
+I: sí 
+
+E: y ella / ¿hasta qué grado estudió?
+
+I: no pos ella estudió hasta la secundaria 
+
+E: hasta la secundaria / ¿ella trabaja ahorita actualmente?
+
+I: no 
+
+E: ¿se dedica al hogar? 
+
+I: sí 
+
+E: okay / ¿quién más vive ahí en tu casa? 
+
+I: pos / mi hija 
+
+E: una hija / ¿ella habla el dialecto / o nomás el español? 
+
+I: no / normal
+
+E: ¿y ella está estudiando?
+
+I: sí / la secundaria / está estudiando
+
+E: qué bueno
+
+I: Inglés también
+
+E: ¿y ella está trabajando?
+
+I: no
+
+E: ¿quién más vive en tu casa? / nada más / por último te voy a pedir / esta es una hoja que te voy a pedir que firmes / es nada más / para que / para que quede constatado que yo vine / que estuve platicando contigo que todo lo que está grabado aquí es verdad // que sí existes como persona <risas = “I”/> / que no fuiste inventado / igual y / y ahorita / aquí le / lleno tus datos / nomás te pido de favor que si le firmas aquí / y aquí
+
+I: no sé escribir ¡eh! 
+
+E: no pos no hay problemas con que sea / con que sea tu letra ahí / van a ser dos / sería esta / y ésta 
+
+I: ¿ésta?
+
+E: sí / yo le lleno orita // ¿hay / hay algo más que nos / que nos quieras contar / que nos quieras agregar?
+
+I: no pos ¿qué? / no sé / ya <risas = “I”/> / ya no sé 
+
+E: ¿ya todo bien? 
+
+I: no ya hasta me dio frío <risas = “I”/>
+
+E: hay que conseguir un / jardincito 
+
+I: <tiempo = “52:20”/> sí / hay que buscarle 
+
+E: sí / pues muchas gracias
+
+I: orita está calmado ya 
+
+E: sí / es que ya es / mediodía / y ya vas a a 
+
+I: es que no quieren gastar orita 
+
+E: sí / ¿y comes aquí o comes en otra parte? // ¿o no comes? <risas = “E”/>
+
+I: ¿cómo? 
+
+E: o sea / por ejemplo orita que ya va a ser la / la hora de comer ¿te vas a tu casa / vas a comer?
+
+I: no a veces como aquí / y a veces no 
+
+E: a veces no comes nada 
+
+I: hasta la casa
+
+E: hasta la casa / pero ya 
+
+I: me llevo un pollito / o algo / una piczita 
+
+E: ¿sí?
+ 
+I: sí <risas = “I”/>
+
+E: sí porque igual y cuando / trabajas en una casa 
+
+I: y según como me vaya / a veces no me llevo nada <risas = “I”/> / que no / no me llevo nada
+
+E: sí
+
+I: como orita no hay trabajo / casi no
+
+E: por / y ¿por qué crees que no hay trabajo?
+
+I: no pos no quieren gastar orita / por lo de la navidad
+
+E: la navidad y esas cosas 
+
+I: <tiempo=“53:40”/> sí 
+
+E: pero pos casi siempre cuando trabajas en una casa ahí te dan de / de comer algo ¿no? 
+
+I: no
+
+E: ¿o no? / nomás de que tu jale y ya 
+
+I: no / es raro 
+
+E: ¿es raro cuando te ofrecen algo? 
+
+I: es raro // pero pos son comidas ya frías <risas=“E”/> / que la calientito algo y no 
+
+E: sí / apenas en tu casa con tu esposa / calientito
+
+I: no hay como en la casa
+
+E: sí / pos ya estás / bueno 
+
+I: que te vaya bien / dios te bendiga 
+
+E: muchas gracias / igualmente / estamos platicando 
+
+I: échale ganas
+
+E: ¡órale!
+
+ Fin de la entrevista

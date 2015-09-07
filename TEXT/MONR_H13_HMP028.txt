@@ -1,0 +1,1268 @@
+﻿<Trans audio_filename=”MONR_H13_HMP028.MP3” xml:lang=”español”> 
+<Datos clave_texto=”MONR_H13_HMP028” tipo_texto=”entrevista_semidirigida”> 
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México”/>
+
+<Grabacion resp_grab=”Daniel Jaime Rodríguez Macías” lugar = ”casa del informante” duración = “59´40´´” fecha_grab = ”2007-11-07“ sistema = ”MP3” />
+<Transcripcion resp_trans = ”Zeuxiz Melissa Crespo López” fecha_trans = ”2008-03-06” numero_palabras = ”10000”/> 
+<Revision num_rev = ”1” resp_rev = ”Raquel Rodríguez de Garza” fecha_rev = ”2008-10-22” />
+<Revision num_rev = ”2” resp_rev = ”Mayra Silva Almanza” fecha_rev = ”2010-07-07”/> 
+<Revision num_rev = “3” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = 2011-04-18“ /> 
+<Revision num_rev = “4” resp_rev = “Dalina Flores Hilerio” fecha_rev = 2011-10-31“ /> </Datos>
+
+<Hablantes>
+<Hablante id=”hab1” nombre=” Edgar Omar Treviño Cavazos” codigo_hab=”I” sexo=”hombre” grupo_edad=”1” edad=”30” nivel_edu=”3” estudios=" licenciatura ingeniería en Sistemas, CEU" profesion="analista programador" origen="Monterrey" papel="informante"/>
+<Hablante id="hab2" nombre="Daniel Jaime Rodríguez Macías" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="30" nivel_edu="3" estudios="licenciado en letras españolas” profesion="fotógrafo y maestro de licenciatura" origen="Monterrey, NL" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos"/>
+</Hablantes> </Trans>
+
+E: ¿cómo estás _____? buenas noches
+
+I: buenas noches 
+
+E: este / ¿qué? / ¿cómo te va en tu domingo?
+
+I: muy bien / muy bien muy bien 
+
+E: ¿descansando?
+
+I: descansando 
+
+E: ¿mucho trabajo? 
+
+I: sí / sí mucho trabajo mañana empezamos // otra vez / otra semana de trabajo 
+
+E: ¿qué? / ¿qué? / ¿a qué te dedicas? 
+
+I: sistemas 
+
+E: eh
+
+I: sistemas informáticos 
+
+E: ¿y qué haces ahí? 
+
+I: ahí / eh / desarrollar sistemas / sistemas / eh / de todo tipo o sea / tipo de / administrativos / de la / planta de / laboral no sé / equis 
+
+E: y así un sistema básico que hayas hecho / que uses / ¿cómo es?
+
+I: ¿sistema básico? 
+
+E: pos es que no sé nada de / de sistemas así
+
+I: pos es que / puede ser de todo tipo o sea / un portal de internet este / un sistema para una empresa / este / administrativo / contable / etcétera 
+
+E: ¿tú haces / cualquier cosa que te piden?
+
+I: sí / así es 
+
+E: este / y ahí donde trabajas ¿qué es lo que desarrollas? / o sea / ¿para qué / ¿qué sistema / ejecutas o / qué programas o ?
+
+I: m ¿cómo cómo? 
+
+E: ¿o qué es lo que haces ahí donde trabajas? / ¿haces / sistemas / o usas sistemas? 
+
+I: sí sí 
+
+E: pero / para / ¿qué hacen ahí donde trabajas? o sea 
+
+I: ¡ah! okay / eh / ellos hacen acero / bueno construyen acero / hacen lo que son rollos de acero / los alambres / y todo eso
+
+E: mjm / este / oye y / ¿en dónde estás viviendo actualmente? 
+
+I: eh / en dónde / ¿en qué colonia? / ¿o en?
+
+E: sí tu casa ¿dónde es?
+
+I: ¡ah! / en Valle del Mirador 
+
+E: Valle del Mirador 
+
+I: mjm 
+
+E: ¿en dónde es / eso?
+
+I: enfrente / enfrente de Liverpool Valle Oriente
+
+E: ah oh
+
+I: en Lázaro Cárdenas 
+
+E: ¿y cómo es la zona por ahí?
+
+I: pos tranquilo / es tranquilón 
+
+E: porque / por ahí está La Risca ¿no? 
+
+I: pues sí / ahí está La Risca / La Campana <observación_complemenaria = “colonias conflictivas de Monterrey” /> / este / pos / es lo más cercano / Las Canteras / la Risca y la Campana / pero ya está más tranquilo no es como antes / que 
+
+E: que ante s
+
+I: antes sí estaba muy / muy pesado 
+
+E: ah / ¿y ahí en tu colonia los afectaba?
+
+I: sí pos / se bajaban a risquear <observación_complementaria = “se refiere a apedrear”/> carros y / las casas / sí pero / por envidia yo creo no sé / no sé 
+
+E: ¿y alguna vez eh / en tu casa les tocó / o a algún vecino? 
+
+I: en mi / en mi casa no a un vecino sí / pos era una fiesta y n’ombre bajaron a risquearle / todos los carros rotos y hubo sangre y / de hecho en la casa una mano así toda ensagrentada ahí embarrada en la pared y todo
+
+E: ¿a poco?
+
+I: sí / sí se ponía feo / luego me tocó ver un / a un / este / un vecino que lo / que entre una pandilla lo / lo golpearon pero gacho / o sea / patadas y cuanto 
+
+E: al hospital / directo
+
+I: pos no sé si al hospital pero sí la dejaron pero como / una / friega / como perro lo / o sea le / pusieron bien gacho 
+
+E: este / y ¿todavía te juntas con tus amigos ahí?
+
+I: no / no / yo me juntaba ahí con los de l / la / cuadra / jugábamos futbol / este / el trompo las canicas / y / cosas así ¿no? / clásicas de niños
+
+E: ajá 
+
+I: pero ya no fíjate / curiosamente / a cierta edad ya nadie salí a cada quien se- / en su mundo / trabajo etcétera y / ya no hablo con nadie / ni con / con el que me juntaba más en aquél entonces / ya casi ni lo saludo te he de decir / 
+
+E: no
+
+I: mm
+
+E: este / ¿y ahora tus amigos son de la / facultad o del trabajo? 
+
+I: del trabajo facultad este / de amigos / de mi novia / etcétera 
+
+E: ¿y se juntan regularmente?
+
+I: cada fin de semana
+
+E: ¿sí?
+
+I: mjm
+
+E: ¿y qué hacen? / ¿cómo? / ¿cómo es un fin de semana con / con tus amigos?
+
+I: <tiempo = ”4:00”/> un convivio este / platicar eh / bromear y / de repente / este / salimos a un lado / o nos que damos de ver en casa de alguien / de ahí
+
+E: ¿y hacen carnes asadas o 
+
+I: pos / m pos carnes asadas casi no / nomás este / convivio y que una comida y cosas así 
+
+E: ¿y qué?
+
+I: más tranquilo 
+
+E: y ¿qué tipo de comida / acostumbran? 
+
+I: pos / mandamos pedir que tacos y / sopes y eso
+
+E: pero ¿nadie cocina ahí?
+
+I: sí / sí cocina n / de repente no siempre / cuando ya se hace algo más formal / pos ya / alguien cocina ¿verdad? 
+
+E: ¿tú cocinas?
+
+I: yo no 
+
+E: ¿nada?
+
+I: bueno / para mí / nada más / pero si es para una reunión no no 
+
+E: ¿qué / qué? / dime una receta que te sepas así que
+
+I: picadillo / este huevos 
+
+E: ¿el picadillo cómo lo haces? / ¿cuál es el secreto?
+
+I: lo hago con sal sa- / con / haz de cuenta que lo doro / le pongo que el / las especias / una salsa de tomate / y ya / así 
+
+E: pero / ya ves que algunos le ponen carne / de puerco y / mezclada o 
+
+I: no / no de / yo puro picadillo y / si hay aceite de oliva con aceite de oliva y si no pos / con aceite normal 
+
+E: ¿y qué tipo de especies le pones?
+
+I: le pongo / pimienta / cebolla y ajo / y luego la salsa pos / con chile 
+
+E: pero / ¿de qué tomate? / ¿cómo la preparas ? 
+
+I: tomate / tomate / este rojo / tomate / jitomate / el rojo / mjm 
+
+E: este y / ¿se juntan el fin de año o?
+
+I: no 
+
+E: a celebrar / o ¿los cumpleaños?
+
+I: bueno no me ha tocado en fin de año pero / los cumpleaños sí / sí / acostumbran / acostumbramos 
+
+E: ¿qué hacen en los cumpleaños?
+
+I: pos una fiesta / un convivio / convivio / hay cheve y / este / hay juegos así que dominó este / baraja / este / tamales o carne asada no sé / equis / lo que en ese momento se nos ocurra / hacemos 
+
+E: mjm / ¿y en tu casa / hace n algún tipo de reunión o ?
+
+I: eh / ¿así en navid- / en / qué? / en 
+
+E: pos / que / no sé / a lo mejor si ya están casados / cada quince días se juntan los hermanos / o en navidad 
+
+I: de repente sí / sí nos juntamos / m / antes / es variable / porque mi mamá trabaja y cuando / este / a veces no tiene / libre el fin de semana 
+
+E: mm
+
+I: pero cuando lo tiene libre pos sí nos juntamos y / ahí en la casa de mi mamá van mis hermanos con sus / esposas / mis cuñadas / sus hijos y / pos unas cervecitas sí nos echamos y / una comida / y platicar / más que nada convivir / es el objetivo qué hacemos 
+
+E: y ¿eh n navidad celebran también?
+
+I: sí pero / no en la casa sino que vamos a la casa de una / una abuela / en navidad / de mi abuela / materna 
+
+E: <tiempo = “7:09”/> ¿y qué hacen ahí? / ¿cómo celebran? 
+
+I: pos ahí / haz de cuenta que / se reúnen todos / todos los / los / hijos de mi abuela / con sus esposas hijos / y pos eh / comida / que pavo este / tamales este / etcétera / o sea varias / lasaña es lo más común 
+
+E: ¿ponen nacimiento?
+
+I: hacen / hacen el nacimiento / el rezo / sí ese tipo de cosas 
+
+E: todo el / rosario lo 
+
+I: sí / sí / pos haz de cuenta que / hacen como una especie de / de círculo / y a cada quien le dan como que una / una / copia de / un / fragmento del / no sé cómo se llama rosario o no sé qué sea / no estoy muy enterado de eso / y pos tienes que / a cada quien le toca leer una parte / ¿verdad? / y eso es lo que se hace / pero no se hace que / levantamiento del niño y esas cosas no / no ahí no acostumbran hacer eso 
+
+E: ¿y qué / qué cenan e en navidad?
+
+I: pavo / eh / lasaña es lo más común / y tamales / lo / casi siempre 
+
+E: y ¿romerito s / bacalao y esas cosas
+
+I: no / no / eso no acostumbran / de hecho el / es lo básico te digo es el / pavo / lasaña / tamales y / si acaso que / un pastel de postre / este / no sé alguna ensalada / ahí extraña y no sé qué
+
+E: ¿y cada familia lleva un platillo / o? 
+
+I: sí / pos cada quie- / alguien / se apunta con una cosa / y otra con otra / y así 
+
+E: ¿tú sí eres católico? 
+
+I: no / no soy 
+
+E: ¿no? / pero eres respetuoso como quiera 
+
+I: sí / no pero / no yo respeto y / a mí no me afecta en lo absoluto / yo soy / no suelo que me afecte / ni / tengo / ni / me tenga por qué afectar 
+
+E: mjm / ¿y cuaresma y eso también lo llevan o no 
+
+I: en mi casa no / en mi casa no llevamos nada 
+
+E: en la casa de tu abuela sí
+
+I: sí / sí pos / son / la familia de mi mamá son católicos / así es 
+
+E: <tiempo = “9:10’’/> y de los sistemas / por ejemplo / eh eh / ¿reparas computadoras también?
+
+I: sí / bueno ahí en el trabajo / no / porque no es mi trabajo mi trabajo es / desarrollar / este / aplicaciones / sistemas
+
+E: mjm
+
+I: pero / pero / en su momento yo trabajé / así fue como empecé / arreglando comp- / armando y / este armando computadoras arreglándolas / configurándolas etcétera 
+
+E: y por ejemplo qué / ¿cuáles son los componentes básicos así para / armar una computadora? que tú digas necesito / estas piezas / y / descríbeme cómo es el proceso de armarlas y / ¿qué es lo básico para eso? 
+
+I: mira / cuan / cuando armas / una computadora así de / de / de inicio / o sea / son todas las piezas sueltas / por ejemplo te traen que el gabinete que es el cascarón donde tú vas a armar todo 
+
+E: mjm
+
+I: este / te traen la tarjeta madre / el procesador aparte / la memoria / el / la fuen- / bueno la fuente de poder viene con el / con el / el / lo que viene siendo el gabinete / este / aparte tienes que / te traen que el / lector de CD room / DVD no sé / aparte / tienes que / tengas que instalar / este / la el / si la tarjeta no trae integrado pos tienes que comprarle que / viene con tarjetas / aparte de vide o / de audio / este de red / o sea / y / de módem etcétera lo que requiera
+
+E: mjm 
+
+I: este / entonces ya / haz de cuenta / empiezas pues obviamente / primero la tarjeta madre la / eh / bueno / antes de empotrarla al gabinete le tienes que / este instalar ciertas cosas básicas / como es el caso del procesador / instalando el procesador / ya lo empotras en el / lo atornillas al gabinete / ya estando el gabinete pos empiezas a armar los demás componentes ¿verdad? que son las tarjetas / que son la memoria / este / le metes el / el / lector de CD / DVD / conectas todos los cablecitos / los pines del del / de lo que es la tarjeta madre los / configuras / porque unos vienen con configuración tienes que configurarlos / este / no sé según la / l / la cantidad de me / megahertz y velocidad de la tarjeta / este / etcétera / porque / una tarjeta te permite varias configuraciones entonces tiene unos pines tienes que ahí / moverle / eh / a la configuración
+
+E: mjm
+
+I: para que / según el / la velocidad del / la memoria o / no sé la velocidad más que nada y también del / procesador / lo configuras / ¿verdad? / el disco duro también hay que instalarlo / y conectarlo / este / a la tarjeta madre / este el / el el floppy / también / que ya casi ni se usa pero / todavía sigues / este lo sigues instalando 
+
+E: <tiempo= “12’11”/> así es / este / ¿y ya nada más la / la prendes y ya está funcionando?
+
+I: no / no no / tú la prendes y lo lo / te lleva / lo primero que va a buscar / haz de cuenta si viene en el BIOS / o es en el chip / de la tarjeta madre / cómo quieres que arranque si primero el / disco duro / y luego el CD room / o el floppy / o primero el floppy primero el CD room etcétera / tú lo configuras/ obviamente / no va a arrancar nada / si no tienes el / CD puesto / el disco duro está virgen haz de cuenta que no está ni formateado no tiene sistema operativo no tiene nada/ tú lo prendes y no hace nada / se queda así este / tratando de arrancar tratando de arrancar y / nunca nunca va a arrancar porque no hay sistema operativo / ¿verdad? / el sistema operativo es el que se encarga ahora sí de mover todos los fierros y la chingada / es el que // te lo presenta a ti todo bien amigable vaya / ya lo que haces bueno pos ora sí instalar el sistema operativo // bueno / antes de instalar el sistema operativo / una de esas tareas es primero formatear el disco duro / si tú no lo particionas con un sub-equipo especial / lo particionas no sé si / lo quieras dejar con una sola partición / o en / varias particiones en / dos particiones no sé / dejar un disco ce o disco /de no sé / lo que tú quieras
+
+E: mjm
+
+I: pero la instalación del sistema operativo siempre se va a hacer en la primera / en e / en el disco ce
+
+E: sí
+
+I: en dado caso que pongas dos part- / dos particiones / pos ya lo particionas el disco / y luego empiezas la formateada / este lo / lo formateas / que / pues es un comando / este / un comando no sé / este / de un software especial / para formatear el disco duro / antes / cuando no hay nada de instalado todavía en el disco duro / es software especial y tú lo formate as y le das formato / o sea lo lo / ¿cómo se dice? / lo particionas / y lo formateas / el disco duro / 
+
+E: mjm 
+
+I: ya que lo formateas / ora sí te arrancas a instalar el sistema operativo / ya formateado 
+
+E: mm
+
+I: luego ya que re / instales el sistema operativo / si acaso hay algún / controlador de alguna tarjeta que no se haya instalado / este pos / tienes que instalarlo / ¿verdad? // ya en los nuevos sistemas operativos / pues regularmente lo hace / automáticamente / o sea lo hace todo // en los de antes sí había que instalar todo / pos ora sí / individualmente ¿no? / el instalador / y / ya una vez instalado / pos / ya el sistema / operativo / trabaja
+
+E: ya está como las conocemos 
+
+I: así es
+
+E: como uno las conoce más bien 
+
+I: como uno las conoce como tú / agarras y etcétera ¿no? / sí pero / si / si no fuera por eso pos tú / o sea tú / la prendes y / pos no va a hacer nada / no hay / no hay nada que lo controle / todo ese / todo ese hardware / todos esos fierros 
+
+E: <tiempo = “14’57”/> es como las computadoras de hace / ¿qué? / veinte o veinticinco años que / era una pantalla / de un solo color ¿no? y / un cursor y tú 
+
+I: ah sí / como el / DOS / sí / que eran de puros comandos / tú no ves ningún gráfico no ves nada / pero aún así hay un sistema operativo instalado / la diferencia es de que no es este / vaya / no es de ventanitas no es de iconos ni de arrastrar con un mouse o sea que / a base de comandos / tú le dices a la máquina quiero que hagas esto quiero que hagas el otro / ya no es ahora que el Windows o / etcétera / es la que / con el puro mouse hace todo nomás arrastra s / y das click y cuanto rollo / este / está súper amigable a comparación de los / sistemas operativos de antes 
+
+E: así es / y por ejemplo ¿qué es / mejor / un procesador / de baja velocidad con mucha memoria RAM / o / mucho / procesador / y poca memoria? 
+
+I: eh / no pos / yo / yo le apostaría más / si había que elegir entre los dos / bueno lo óptimo sería / mucho procesador / y mucha memoria / pero si habría que elegir entre los dos / yo elegiría / poco procesador y mucha memoria 
+
+E: <tiempo = “16:09”/> ¿por qué? 
+
+I: porque / para empezar // para empezar el Windows ocupa mucha memoria / para trabajar 
+
+E: mjm
+
+I: por un lado / por otro / todos los / la mayoría de las aplicaciones / hacen un uso extensivo de memoria / haz de cuenta que // toman memoria para poder trabajar es como si / esta mesa / si tú quieres este comer // pon tu plato aquí en la mesa // y si otro tipo quiere venir a comer / pones tu plato aquí así / pero si tienes poquita mesa / pos nomás alcanza para uno / o / a veces para ninguno / o alcanza para dos no sé / según el tamaño de la mesa 
+
+E: mjm
+
+I: en este caso si tú le pones / poca memoria a la máquina / pos te va a alcanzar / a lo mucho / no sé para cuántos programas / o para uno / no te va a permitir hacer muchas cosas ¿no?
+
+E: ajá
+
+I: si ocupa más memoria / pos lo que va a hacer es tomar lo / lo / lo que llaman memoria virtual es el / disco duro / va a tomar este / espacio del disco duro / y ahí va a empezar a / almacenar datos / para luego pedirlos y así / lo que hace con la memoria RAM / la diferencia es de que la memoria RAM pos va súper rápido porque / es este memoria / vaya / es especialmente para eso 
+
+E: mjm
+
+I: para / agarrarlo / sobre la marcha vaya
+
+E: sí
+
+I: en cambio en el disco duro pos / ahí es distinto porque es un / una memoria física / ora sí / tiene que grabar un disco duro / el disco duro pos tiene que una / ¿cómo se le llama? / un lector que es como una / especie de patita que se / encarga de moverse por el disco / y todo eso es / lo hace mucho más lento o sea si lo lo / obviamente / es rápido ¿verdad? / pero si lo comparamos con memoria RAM / es mucho más lento / y al momento en que una computadora empieza a usar / hacer uso de la memoria virtual / lo que es el disco duro / pos ya / se nota / es muy notorio / para el usuario que se empieza a ver todo así en abon- / en / ¿cómo se llama? / en partecitas / y se empieza / se empiezan a aparecer en partecitas y todo se viene en cámara lenta ¿no? / no sé si te ha y a / te haya tocado pero / es porque ya / ya se acabó la memoria y empieza a utilizar 
+
+E: o que cierras una ventana / y no se cierra 
+
+I: no se cierra / y luego quieres / le das click a otra ventana y / y se queda así todo / inhibido y luego / hasta mucho tiempo después ¡pum! / te aparece / y cosas / y todo es por la memoria / por la falta de memoria / en cambio el procesador / ponle / si tienes poco procesador sí te puede afectar que / pos / es más lento vaya / el procedimiento / pero no afecta tanto como la falta de memoria porque a fin de cuentas / este / este / te digo / utilizar memoria virtual ya ora sí que / la máquina se te hace súper lenta / es mucho más lento eso que una / un procesador / de poca capacidad 
+
+E: sí / muy interesante no / no sabía nada de / de eso / este / oye ¿alguna vez has estado / te ha pasado algún accidente muy grave así / que estés en peligro de muerte? 
+
+I: ¿en peligro de muerte? 
+
+E: o muy grave
+
+I: pos / muy muy grave así en peligro de muerte no / no he tenido / lo más grave es que / un accidente de niño que / que me / fracturé la pierna pero / que estuve hospitalizado varios meses y luego en la / en la ca- / en la casa estuve / también otros tantos meses / este / encamado / y perdí todo un año en el / en la escuela también por eso / pero / así que sea peligro de muerte pos no / no / la verdad no 
+
+E: ¿y ahí te atropellaron / o te caíste? 
+
+I: no / fue una / fue / este / en un juego / estaba jugando / juego de niño ¿no? que / estaba jugando con otro / con un vecino / a las carreritas / y este / pos iban los / vamos los dos / este / le empiezo a ganar y / el pelado me / mete el pie <risas= “E”/> / y ¡pum! / caigo mal / haz de cuenta que caigo / en una posición media rara en la pierna y / ahí se me / como que se fracturó / como que se astilló / y luego el pelado me cai encima / en la pierna / la posición muy comprometida / y ¡pa! / tronó todo el mugrero 
+
+E: mm // ¿y cuánto tiempo estuviste ahí en el hospital?
+
+I: <tiempo = “20:31”> no recuerdo pero / uno / unos 
+
+E: ¿fue ya hace mucho? 
+
+I: sí / yo creo unos tres meses / o algo así / a mí se me hizo bastante la verdad / se me hizo mucho / y luego en la casa pos otros tantos meses ahí encamado / luego ya que me quitaron el yeso pos / aprender a caminar otra vez / cojeando y tanteando / si fue todo un proceso pero
+
+E: ¿rehabilitación con agua caliente y esas cosas te dieron o no? 
+
+I: eh / no me acuerdo / no me acuerdo / sólo me acuerdo que me gritaban ¡órale! camínale ya! / cuando empezaba a cojear y / una vecina o / mi abuelo así ¡camina bien cabrón! / camina bien / y así fue como empecé a caminar bien porque si no / 
+
+E: ¿con muletas o cómo? 
+
+I: no / normal así / así normalito 
+
+E: ¿cuántos años tenías en ese entonces?
+
+I: como unos / diez años 
+ 
+E: órale / como / cuando uno es / niño / el tiempo se hace eterno ¿no? / ya sea / cuando uno está jugando / es muy poco 
+
+I: mjm
+
+E: y cuando uno está haciendo tarea o cosas así que no le gustan a uno 
+
+I: cuando / estás en una posición que / en una situación que no te gusta se te hace eterno / porque siempre quieres estar / pos jugando / divirtiéndote / y tanta madre 
+
+E: <tiempo = “21’44”/> así es / este / y ya uno crece y se llena de ocupaciones y ya no / no encuentra tiempo ¿no? 
+
+I: sí pos como que se pierde esa manera de vivir de cuando eras niño ¿no? / o de ver las cosas / ya lo ves todo más fríamente más / sin chiste 
+
+E: mjm
+
+I: desapasionado / pienso yo 
+
+E: así es / ¿cuánto tiempo tienes trabajando / así en sistemas o en esta / dónde hacen aceros?
+
+I: eh / siete años / desde el noventa y ocho / creo que desde el noventa y ocho / no / noventa y nueve
+
+E: noventa y nueve / tienes bastante / y este antes trabajaste en / ¿cómo / cómo te iba con la reparación de computadoras sí salía?
+
+I: pos bien / pos yo trabaj- / o sea la empresa no se dedicaba a eso pero se dedicaba a vender software pero / yo le daba el servicio / o vaya / o yo lo que hacía era / este / darle servicio a todos los usuarios de ahí / de / reparar las / las computadoras / o que si hacía falta una computadora / pos traían así o las piezas y las armaba / configuraba y todo / ya se las daba / y todo eso / la red o sea / problemas de la red / los servido res / todo eso / pos así / esa era mi / mi trabajo ¿verdad? 
+
+E: así es
+
+I: pero pos siempre mi tirada fue / el software / no tanto el hardware / entonces ya / me cambié a programador / o sea me ofrecieron / este un compañero de la escuela me ofreció / oportunidad / donde él estaba / y era el líder del proyecto 
+
+E: ah
+
+I: ahí en el hospital Muguerza / y ahí empecé como programador
+
+E: ah órale
+
+I: así es
+
+E: y eh / me imagino que te va mejor / económicamente
+
+I: pos / pos sí / obviamente a como estaba antes / me va mucho mejor pero / no sé qué sea / yo pienso que es mejor pagado el software que el hardware / definitivamente / pero pos te digo / yo pienso / o sea / yo pienso que ahí / depende / de lo que sepas / y de lo que hagas / porque puede ser a / alguien de / de redes que sabe cosas bien especializadas / que puede mejor el trabajo también 
+
+E: ¿y eso es hardware? / o 
+
+I: de hardware / o sea de redes / cosas que / tú sepas de redes / que eres muy experto en / en redes / y también / o sea ahí puedes cobrar / o te pueden pagar bien / o sea todo está en función del / de / tu experiencia de lo que sepas y todo eso / por ejemplo si nomás te dedicas a / a / a armar y configurar máquinas / eso cualquiera lo hace / pero ya hacer cosas que requieren de más conocimiento / de experiencia y cosas / pos ahí no cualquiera / ya es más especializado y ahí sí te / obviamente / te va mejor /
+
+I: mjm
+
+E: así es / mjm / oye ¿alguna / anécdota que me / quieras contar?
+
+I: ¿anécdota?
+
+E: sí
+
+I: ¿de qué tipo? 
+
+E: cualquiera / que o sea / que haya sido importante / algo / con tus amigos o en tu casa 
+
+I: no me viene a la mente algo que / anécdota 
+
+E: eh no sé / si te cambiaste de trabajo ¿cómo fue? / o / que tu novia te haya / golpeado <risas= “I”/>
+
+I: no pos siempre me golpea / da
+
+E: ¿a poco?
+
+I: no / no te creas <risas= “todos”/> / no pos pos / pos no sé o sea no / no me viene a la mente así una anécdota / interesante para contar 
+
+E: bueno ¿y una aburrida no? <risas= “E”/>
+
+I: ¿una aburrida? // pues // ¿qué te puedo decir? 
+
+E: ¿ya llevas tiempo con tu novia? 
+
+I: ya tengo / ¿desde cuándo? / desde marzo creo / ah no no desde / abril mayo algo así / no me acuerdo bien pero 
+
+E: espero que cuando ella esté presente te acuerdes <risas = “todos” />
+
+I: no / me va a matar 
+
+E: ah / ¿y cómo se conocieron? 
+
+I: este / en un / en un antro / en un / una disco / este / pos yo / ella estaba con sus amigas y yo con un amigo / y luego llegué y le invité una / una bebida y / lo que estaba tomando ella y / y empezamos a platicar / así / y ya / ahí fue cuando nos conocimos / así 
+
+E: agarró el anzuelo luego luego
+
+I: fíjate que no / porque no me quería dar el teléfono 
+
+E: ¿a poco?
+
+I: no pero pos / no no / no / como que no halló la manera de salvarse del <risas= “I”/> anzuelo 
+
+E: <risas= “E”/>
+
+I: pero / a ver este cóm- / ¿no te sabes el número? me dice no pos es que no me sé el número / ¡ah! no te sabes el número / ¡ah! pos márc- déjame te marco / bueno márcame a mi número / no / márcame / márcame a mi celular y ahí aparece el número / y pos / ya no hallaba ni qué decir y / bueno 
+
+E: te marcó
+
+I: me marcó / y ahí se / se marc- / se vió el número / pos ya lo / lo grabé / ya / así fue como / y al día siguiente le hablo / que fue un domingo / haz de que le hablo me / me contesta / ah no no me contesta / haz de cuenta que le hablo y / y / escucho que / como que / como descuelgan ¿no? / o sea como si fueran a contestar 
+
+E: sí
+
+I: pero / lo cuelgan 
+
+E: ¿a poco?
+
+I: sí / a la madre <risas= “E”/> / no pos está bueno / no pos <risas= “I”/> / me colgó 
+
+E: <tiempo = “27’09”/> ¿y luego qué? / ¿le volviste a marcar?
+
+I: no ya no / ah sí le volví a marcar pero ya / lo tenía apagado / haz de cuenta que / el número que usted marcó / este / está fuera de servicio / inténtelo más tarde la clásica ¿no? / le volví a marcar y dije no que / se me hace que ya / se arrepintió de darme el teléfono <risas= “E”/> / no pos lo dejé así por la / por la paz y / me hablaron unos amigos que para ir a la presa y no pos / me fui / y luego ya cuando iba para la presa / pos ella me marca / al celular 
+
+E: el cargo de conciencia 
+
+I: pos no sé / a mí se me hizo bien raro dije pos / yo ya me hacía / a la idea de que / pos de que no / que se había arrepentido de darme el teléfono ¿no?
+
+E: mjm
+
+I: se me hizo bien raro ah cabrón / nomás que ella / o sea / en vez de decirme por mi nombre me dijo / por un nombre / ficticio así como que / no no sé / o sea / no se acordaba de mi nombre <risas= “E”/> me dijo / y me dijo / este Adrián / yo me llamo _____
+
+E. ah
+
+I: ¿qué onda Adrián? que no sé qué y yo ah cabrón <risas= “E”/>/ y luego luego me quedé / se habrá equivocado de teléfono ¿verdad? le ha de haber / le ha de estar hablando a su / a su nov- <risas= “I”/> / al / al bato <observación_complementaria = “ forma común de llamarse entre hombres” /> con el que anda en ese momento y dije 
+
+E: mjm
+
+I: no no soy Adrián / soy _____ / ¡ah! / perdón _____ ¡ah! / que no sé qué / y ya / ya empezamos así a hablar y toda esa cosa y no / ya quedamos de vernos el día siguiente / así estuvo 
+
+E: ¿pero no / no hubo ningún _____?
+
+I: no pos yo pensé qué 
+
+E: que diga Adrián 
+
+I: yo pensé que se equivocó de teléfono yo pensé / se equivocó de teléfono y le está hablando a / al otro ¿verdad? / 
+
+E: ajá
+
+I: nada <risas= “I”/>
+
+E: sí era para ti
+
+I: sí era para mí pero / ni se acordaba de mi nombre <risas= “E”/> según ella / me llamaba Adrián 
+
+E: ya andaría muy ebria el día anterior 
+
+I: yo creo que andaba bien / bien acá bien entrada no sabía / ni se acordaba ni de mi nombre 
+
+E: muy bien // este / y entonces no / ¿no te acuerdas de ninguna anécdota? / así 
+
+I: anécdota / anécdota
+
+E: de la escuela / algo así / un primer lugar 
+
+I: a ver a ver / déjame acordarme 
+
+E: o tu primer trabajo / no sé 
+
+I: primer trabajo / mi primer trabajo / pos tengo / anécdotas de todo / o sea / hasta de que me corrieron del trabajo y 
+
+E: ¿en serio?
+
+I: sí / una vez me gritaron / no que / hasta un / una vez un jefe me pedorreo ahí delante de todos 
+
+E: <tiempo = “29’30”/> y ¿por qué? 
+
+I: porque pos ya teníamos días trabajando sin dormir / y todo el rollo / y yo pos ya / a / mi trabajo lo había terminado pero estaba apoyando a otros / y pos en ese entonces yo estaba casado y pos / me estaba ahí chingue y chingue no // y que / yo pos ya tenía que llegar a la casa y / <risas =”I”> y luego / no // lo que / ya era bien noche y dije no / ya me voy / ya tenía como dos días ahí 
+
+E: mjm
+
+I: o tres no sé / me fui / y ahí los dejé embarcados a estos batos / y / no pos ya / bien tranquilo / llegué a la casa / ya con / pos con problemas allá / esa es otra historia ¿verdad? / llegando y / también eso provoca problemas el no estar en tu casa / este / pos ya el día siguiente que llego / pos el / el mero mero supo que yo me había ido / no / bien enojado / delante de todos ahí en la mañana / ¡que tú no sabes / que no sé qué! / ¡que un trabajo se termina! <observación_complementaria= “el informante finge la voz para parecer la de su jefe/> / así gritando como loco y yo no / le dije está bueno / comiéndome unos cacahuatitos / así como si nada <risas= “E”/> / di lo que quieras pero <risas= “I”/> / no / pos de qué / ¿qué le puedes decir? / está bueno / grita / haz lo que quieras / a mí nomás me pagas <risas= “I”/> 
+
+E: ¿y tenían que quedarse así / todos los días o algunos días 
+
+I: sí / pos es que / el tipo se aventó un proyecto / se aventó con un proyecto así de / pos medio grandecito y que había que / había / terminarlo en poco tiempo // pero pos en vez de contratar más gente pos se / la clásica ¿no? que / te quieres explotar / ya tienes y / hacerlos trabajar de más y / pero pos a mí eso me provocaba broncas allá / del otro lado ¿verdad?
+
+E: y te / ¿estás separado o ?
+
+I: no / estoy divorciado
+
+E: te divorciaste 
+
+I: mjm
+
+E: ¿y ya tenías rato? 
+
+I: ya tengo rato / tengo desde / ¿qué será? / mmm / a ver / déjame hacer cuentas decimales 
+
+E: <risas= “E”/> ¿ya llev-? 
+
+I: no / no / tengo como cinco años / ya / ya / separado y divorciado 
+
+E: ya / ya no / pudieron convivir juntos
+
+I: no pos era / problemas todos los días / todos los días todos los días / ya / no tiene caso 
+
+E: <tiempo = “31’42”/> así es / mejor por la / por lo sano 
+
+I: cada quien por su lado / sí / búscate alguien que / quien se acuerde de ti / y yo / alguien que se acuerde de mí / asunto arreglado / para qué andas ahí / este de / de necio de / pos de hacer funcionar algo que no / que nunca va a funcionar / no tiene caso 
+
+E: <tiempo = “32’00”/> claro / sí / bueno pues / pasaríamos a / a un cuestionario 
+
+I: okay 
+
+E: este / ¿cuál es tu nombre completo? 
+
+I: _____ ____ / _______ / _______
+
+E: ¿edad?
+
+I: treinta años 
+
+E: ¿estado civil?
+
+I: divorciado
+
+E: ¿dirección?
+
+I: dirección / calle Paseo del Rosario / número once siete tres / colonia Valle del Mirador 
+
+E: ¿qué número perdón?
+
+I: once siete tres
+
+E: ¿colonia qué?
+
+I: colo / colonia Valle del Mirador
+
+E: en Monterrey ¿verdad?
+
+I: en Monterrey / sí 
+
+E: teléfono
+
+I: teléfono ochenta y tres / cincuenta y nueve / trece / veinticuatro
+
+E: entonces / de religión / ¿no tienes religión?
+
+I: no / no tengo 
+
+E: ¿has vivido en alguna otra parte?
+
+I: este / sí bueno / estuve viviendo en Apodaca 
+
+E: bueno ¿eres de aquí de Monterrey?
+
+I: soy de Monterrey 
+
+E: ¿siempre has vivido aquí?
+
+I: sí siempre 
+
+E: ¿tu papá de dónde es?
+
+I: de Monterrey 
+
+E: ¿tu mamá?
+
+I: es de Allende 
+
+E: ¿Nuevo León / o Coahuila?
+
+I: Nuevo León 
+
+E: este / ¿tu abuelo paterno?
+
+I: de Monterrey 
+
+E: ¿tu abuela materna? 
+
+I: ¿mi abuelo paterno?
+
+E: tu abuelo paterno 
+
+I: de Monterrey
+
+E: ¿y tu abuela mate / paterna? 
+
+I: de Allende 
+
+E: Allende / y ¿tu abuelo materno? 
+
+I: de Allende
+
+E: ¿y tu abuela materna?
+
+I: también 
+
+E: también // ¿tienes alguna afición o pasatiempo?
+
+I: sí / mi novia
+
+E: ¿tu novia es tu pasatiempo? 
+
+I: sí 
+
+E: no pero / ¿algún deporte juego o?
+
+I: ah ¿deporte? eh / sí / bueno tae kwon do / últimamente he estado practicando tae kwon do 
+
+E: ¿cómo es eso? 
+
+I: este 
+
+E: ¿como karate?
+
+I: sí / es un / arte marcial 
+
+E: arte marcial / ¿para defensa o para / atacar?
+
+I: la / no / es defensa personal / es autodefensa 
+
+E: ¿vas al cine?
+
+I: sí / sí voy 
+
+E: ¿con qué? / ¿una vez a la semana?
+
+I: este / una vez a la semana / regularmente / una vez / sí / se puede decir / o / a veces una vez cada dos semanas / no sé / pongámosle una vez a la semana 
+
+E: este / y ¿qué prefieres ver películas mexicanas o extranjeras? / ¿o de las dos?
+
+I: pos fíjate que no me interesa / o sea no me no me / no me / no me / molesta / si es / de tal o cual país / simplemente que sean interesantes / o sea / puede ser mexicana / o puede ser extranjera / no importa
+
+E: mjm / ¿y qué tipo de películas / de acción / aventuras / de guerra / drama o
+
+I: pues últimamente / hemos estado viendo que / cómicas / películas cómicas / uno que otro drama // terror no / no hemos visto / ¡ah! sí / una vez / nomás una / pero de / de todo el montón que hemos visto nomás una 
+
+E: pero si te gusta el terror 
+
+I: sí sí me gusta 
+
+E: la acción también ¿o no?
+
+I: la acción / también me gusta 
+
+E: ¿la ciencia ficción?
+
+I: también me gusta / pos casi todas / nomás 
+
+E: ¿ahí decide tu novia o decides tú?
+
+I: no / los dos / los dos nomás que / según el estado de ánimo que tengamos / o el horario a veces / dejamos que el horario elija 
+
+E: la que esté a la hora que vayan 
+
+I: sí / a ver la más cercana / esa / y a a ver si son buenas películas / a veces vamos uno este / con la idea de una película y te salen con un churrazo <observación-complementaria = “mala película”/> así feo 
+
+E: ¿como cuál? 
+
+I: como 
+
+E: ¿cuál fue el último churro que viste?
+
+I: el último churro que vi / churro churro churro / no pos una película / era malísima una / gringa dizque de terror como / Hotel sin Salida / una tontería así / sí no / feísima 
+
+E: si no tenía salida tampoco tenía entrada ¿no? 
+
+I: pos / quien sabe pos / pos estaba malísima / estaba pero de lo mas churro que te puedas imaginar o sea / la / la clásica fórmula de el / el sonidote / el camarazo / ya / lo que está bien trillado ¿no? 
+
+E: ah
+
+I: malísima / malísima
+
+E: <tiempo = “37’06”/> ¿escuchas radio? 
+
+I: sí / sí / sí sí escucho / a veces 
+
+E: ¿qué tanto tiempo / mucho / más de dos horas / o poco / menos de dos horas / o hasta dos horas? 
+
+I: pos no sabría decirte porque / a veces / es de tie / de / de ganas / o a veces algunos días / puro radio escucho / otros días pos puro CD / es puro CD entonces / no sabría definirte decir qué tanto escucho 
+
+E: no pos como todos / porque igual y a veces escuchas todos los días un poquito ¿no? 
+
+I: sí / sí / en las mañanas cuando voy al trabajo 
+
+E: ¿qué escuchas / cuan / cuando oyes qué / escuchas?
+
+I: me gusta el / D99 / y / Classic 
+
+E: o sea ¿rock en inglés? 
+
+I: rock en inglés 
+
+E: rock pop en inglés 
+
+I: así es 
+
+E: este / ¿Classic es tu estación preferida / o? 
+
+I: yo respondería igual / D99 y Classic // son las que / regularmente escucho / casi no me muevo de ahí 
+
+E: y ¿la Classic es la ciento seis punto nueve?
+
+I: así es 
+
+E: ¿y la 91X no la escuchas? 
+
+I: sí la / sí la / escucho pero / este / ¿cómo te diré? / me gustan más / las canciones que ponen / en D99 y en Classic / aparte de que son estaciones digitales / que te ponen ahí el grupo y / te ponen la canción y todo / en el otro / pos no 
+
+E: y / pero / ¿cómo que te ponen / el grupo? 
+
+I: sí o sea / tú ves / cada la canción que te ponen te dice / qué grup / el grupo que está escuchando 
+
+E: ¿en el estéreo?
+
+I: en el estéreo
+
+E: ¿ah sí?
+
+I: y el nombre de la canción / también 
+
+E: ¿qué estéreo es?
+
+I: no pos es el que venía de agencia 
+
+E: ah / ¿qué carro es?
+
+I: Clío 
+
+E: y ¿a poco te pone ahí?
+
+I: sí te pone / está escuchando / fulano tal grupo y / y está escuchando la canción fulano de tal 
+
+E: ¿y la letra también o no?
+
+I: no letra no / nomás / no pos ya sería 
+
+E: karaoke 
+
+I: ya sería karaoke / nomás / nomás hay una cosita así o sea / nomás / haz de cuenta que / tiene espacio para ahí que empiece a / a correr las letras y / o sea / si fuera el / si fue / te pusieran letra pos no alcanzas ni a leer porque / ¿te imaginas? 
+
+E: mjm / entonces / los programas que escuchas son de música por lo general ¿verdad?
+
+I: pos de músic- / sí de mu- / bueno 
+
+E: o sea / ¿noticieros y 
+
+I: bueno se me olvidó decirte uno / que es de noticieros que es el de / ¿cómo se llama? / Imagen / también
+
+E: ah okay 
+
+I: pero más más / D99 y Classic 
+
+E: ¿ves televisión? 
+
+I: a ve / a veces / muy pocas veces cuando tengo chance 
+
+E: ¿hasta una hora al día? 
+
+I: no / es mucho / yo digo que una media hora / a lo mucho
+
+E: ¿y qué ves cuando 
+ 
+I: regularmente el / ¿qué canal? 
+
+E: sí / o noticias o
+ 
+I: no / pos me gusta más documentales / es lo que más me gusta / es lo que más me gusta ver 
+
+E: ¿ves películas en la televisión? / ¿de la tele? 
+
+I: casi no / casi no veo 
+
+E: cuanto / pero si has visto alguna 
+
+I: sí sí he visto 
+
+E: y ¿te gustan / dobladas o con subtítulos o / te da igual?
+
+I: con subtítulos 
+
+E: igual / no distingues entre mexicanas y extranjeras
+
+I: no / no mientras la película esté interesante / no / no importa 
+
+E: ¿tienes videocasetera?
+
+I: sí
+
+E: ¿DVD?
+
+I: sí 
+
+E: eh / ¿consola de videojuegos?
+
+I: eh / sí 
+
+E: ¿para televisión o portátil?
+
+I: televisión 
+
+E: ¿tienes Cable / Sky o Multivisión?
+I: Cable
+
+E: ¿cuántas teles hay en tu casa?
+
+I: una 
+
+E: eh / ¿lees el periódico?
+
+I: no 
+
+E: eh / ¿revistas?
+
+I: eh / tampoco 
+
+E: internet / ¿usas? 
+
+I: sí
+
+E: sí / ¿en tu casa / en tu trabajo? 
+
+I: en la casa 
+
+E: ¿cuántas computadoras tienes en tu casa? 
+
+I: este / ¿vivitas o ?
+
+E: <risas = “I”/> en uso 
+
+I: una 
+
+E: ¿y muertas? 
+
+I: <risas= “I”/> muertas pos / otra / bueno tengo varias que ni son mías que / me las llevan para reparar pero / ahí están
+
+E: ahí se quedaron 
+
+I: <risas= “I”/> tengo como unas tres <risas= I”/>
+
+E: este ¿usas a diario el internet?
+
+I: no 
+
+E: ¿una vez por semana / o dos? 
+
+I: un día a la semana 
+
+E: un día a la semana / ¿para / correos / chat / buscar información?
+
+I: no pos / principalmente hacer transacciones / por Internet que / entrar al banco y hacer un pago de equis / tal cosa / declaraciones de hacienda y cosas por el estilo / más que nada para eso 
+
+E: ¿el mail no lo usas? 
+
+I: sí / sí lo uso 
+
+E: ¿tienes teléfono fijo? 
+
+I: sí 
+
+E: eh / ¿celular?
+
+I: sí 
+
+E: eh / ¿qué tanto usas el celular? / ¿nada más / haces y recibes llamadas o / haces muchas llamadas o recibes / mensajes / eh tomas fotos / videos?
+
+I: no / nomás este / llamadas y mensajes / es lo que /uso nada más 
+
+E: museos / ¿te gusta / asistes a museos?
+
+I: ¿museos? / pos más o menos / lo que más me gusta a mí // más así como que // ¿cómo te diré? / como un zoológico y cosas así me gusta a mí
+
+E: ¡ah! okay / este / y los museos ¿qué / vas una vez al año / o dos veces? 
+
+I: no / yo digo que / menos / no de hecho ahora fui / en eso del / Fórum / fui a un / una exposición bueno fuimos a una exposición / tenían varias obras / estaban interesantes / muy buenas / la verdad sí me gusta pero / casi no tengo el hábito de ir a museos / sí me / sí me gusta o sea / no / no que no me guste / me gusta / pero no acostumbro y no / no es lo máximo 
+
+E: mjm / ¿y a qué exposición fueron?
+
+I: híjole no sé cómo se llama / pero está ahí en la Cineteca / en la Cineteca tienen ahí / pos de varios expositores / tienen ahí varias cosas ahí medio raras / exposiciones medias / sí / raras <risas = “E”/> / bueno la que está enfrente de la Cineteca esa sí se / muy muy raro / tiene / puras exposiciones
+
+E: es donde tienen un cuadro lleno de / velas consumidas ¿no? / de veladoras
+
+I: sí / ¿con vasos? / y que tienen este una / como un estante de / de cajas de / de / de sopas / todas iguales no sé para qué sean / con un / lente / con un numerote que va contando / no sé para qué sea / no lo leí 
+
+E: ¿y la cabeza de alce también la viste? 
+
+I: sí / la cabeza de alce / ah y hubo uno casi como un cuarto de un espiral / que en medio tienen este <risas= “I”/> / como un cerebro así como en formol / partido en cuatro partes y luego / y en cuatro partes pasaron como imágenes así medias raras y no / no sé para que se / no sé para qué eran las / eso / de lo más raro / es lo que no / sabía 
+
+E: ¿a conciertos a asistes?
+
+I: no / casi no 
+
+E: <tiempo = “44’56”/> ¿al teatro?
+
+I: tampoco 
+
+E: eh / ¿sueles viajar por placer?
+
+I: no 
+
+E: ¿puro trabajo? 
+
+I: tampoco
+
+E: no / no viajas
+
+I: no viajo 
+
+E: este / ¿hasta qué / cuál fue tu último grado / de estudios?
+
+I: eh / facultad 
+
+E: ¿profesional?
+
+I: profesional 
+
+E:¿en universidad pública o privada?
+
+I: privada 
+
+E: ¿cuándo terminaste?
+
+I: en el / dos mil
+
+E: ¿en qué / universidad estudiaste?
+
+I: en el CEU
+
+E: y // ¿qué licenciatura o?
+
+I: ¿cómo se llama? 
+
+E: sí
+
+I: Ingeniería en Sistemas Computacionales 
+
+E: ¿desde cuándo trabajas? / ¿me dijiste desde el noventa y qué?
+
+I: desde el noventa y nueve 
+
+E: ¿ahorita en dónde trabajas?
+
+I: orita en Internacional de sistemas / una consultoría
+
+E: <tiempo = “46:29” /> ahí qué / ¿se produce se vende o se da servicio?
+
+I: mmm / l as tres cosas / venden / este / máquinas software / este dan servicio / y dan servicio de / vaya / de personal / se puede decir / o sea mandan gente a una empresa que pida / equis / consultorio / eso es lo que hacen 
+
+E: eh / ¿qué puesto desempeñas?
+
+I: analista programador 
+
+E: ¿desde hace cuánto? / ¿igual desde el noventa y nueve?
+
+I: ¿en esa empresa? 
+
+E: eh / de analista programador
+
+I: en esa / no / desde el dos mil
+
+E: ¿me puedes decir / de acuerdo a la siguiente tabla / cuál es tu salario mensual? / teniendo en cuenta que el salario mínimo son dos mil ochocientos pesos mensuales / hay / entre dos y tres / cuatro y seis / cinco y diez / o más de diez el salario / mínimo 
+
+I: a ver ¿el salario mínimo es de cuánto? 
+
+E: dos mil ochocientos mensuales 
+
+I: este / ¿cuántas veces el salario mínimo dices tú?
+
+E: sí / más o menos
+
+I: ¿cuántas veces? / unas // pos unas / este / unas diez veces / no más o menos / nueve / nueve veces 
+
+E: eh / ¿recibes prestaciones en tu trabajo?
+
+I: sí 
+
+E: ¿despensa / servicio médico?
+
+I: el IMSS / nada más 
+
+E: ¿cursos de capacitación?
+
+I: eh / mm bueno actualmente no estoy recibiendo pero sí / pero sí los llegué a recibir 
+
+E: ¿aquí donde trabajas?
+
+I: no / en la anterior / trabajo anterior 
+
+E: eh / ¿cuántos focos hay en tu casa?
+
+I: ¿cuántos focos? /pues uno / dos / tres / cuatro / cinco / seis / siete / ocho / nueve / como diez focos 
+
+E: diez focos
+
+I: once focos 
+
+E: once este ¿quiénes viven en tu casa?
+
+I: mi papá mi mamá / mi hermano menor y su esposa y su hija / y yo 
+
+E: ¿hablan algún idioma ellos? 
+
+I: el español nada más 
+
+E: nada más / este /¿tu papá hasta qué grado cursó?
+
+I: eh / la carrera / profesional 
+
+E: ¿tu mamá?
+
+I: la secundaria 
+
+E: ¿tu hermano?
+
+I: ¿cuál de todos?
+
+E: el que vive contigo
+
+I: eh / profesional también 
+
+E: eh ¿la esposa de tu hermano / que vive ahí contigo? 
+
+I: m / no estoy seguro pero creo que / profesional / sí / yo creo que sí
+
+E: ¿y tu sobrina?
+
+I: no pos es / tiene seis meses apenas
+
+E: ah okay / este / ¿tu papá trabaja?
+
+I: no
+
+E: ¿tu mamá?
+
+I: sí
+
+E: ¿en dónde?
+
+I: en Consorcio Hogar
+
+E: ¿qué es?
+
+I: es una constructora / venden casas / hacen casas y venden casas 
+
+E: este / ¿qué puesto / eh / que puesto ocupa?
+
+I: es vendedora 
+
+E: más o menos su salario de acuerdo a la / tabla anterior
+
+I: uy no sabría / bueno su salario son tres mil mensuales / pero / ella gana por comisión / según lo que venda 
+
+E: el salario fijo más la comisión 
+
+I: más la comisión 
+
+E: pero / por decir / ya en total / entre dos y tres o 
+
+I: híjole no / no sabría decirte 
+
+E: eh / ¿tu hermano / trabaja?
+
+I: eh sí pero / es negocio propio 
+
+E: ¿su esposa trabaja?
+
+I: no no trabaja 
+
+E: y pos la hija tampoco ¿verdad? 
+
+I: mjm
+
+E: este / y / ¿tu hermano aporta para / para tu casa para los gastos?
+
+I: sí
+
+E: ¿qué tanto?
+
+I: ah / aquí con mis papás / con mis papás no / no aporta nada / ahí en la casa de mis papás no aporta / o sea / ellos aportan / ellos viven a parte / viven en unos cuartos aparte / que tiene / es como una sección aparte que tiene su cocina tiene todo / entonces ellos 
+
+E: ah okay 
+
+I: es la misma casa / pero es una sección aparte 
+
+E: pero tienen medidor aparte y todo
+
+I: no / es el mismo medidor / es el mismo / los servicios si son los mismos / ¿verdad? / pero que yo sepa no aporta 
+
+E: este / ¿tu mamá sí aporta?
+
+I: sí
+
+E: este / te voy a pedir que si me puedes llenar esta hojita / y firmar y puedes leerlo 
+
+I: ¿casado?
+
+E: ¿cómo?
+
+I: dice / yo / este / _____ ____ mexicano mayor de edad / casado / ¿por qué dice casado? 
+
+E: la verdad no sé / así nos dan la la / hoja
+
+I: mm
+
+E: este / ya está impresa / pero si quieres tacharle 
+
+I: nah pos no / no importa 
+
+E: oye y algo que me quieras contar de tu parte / así lo que quieras
+
+I: ¿contar de mi parte?
+
+E: que me quieras platicar alguna cosa o algo
+
+I: este / pos fíjate que no estoy orita <risas “I”/> de humor de andar / contando / no sé será que no es el / no / no / no es el momento / o no se me viene a la mente qué / qué te pueda contar la verdad / igual y si orita se me viene a la mente algo / pos te lo / platico con todo gusto ¿verdad?
+
+E: mjm
+
+I: vamos a firmarle / ¿a qué estamos? 
+
+E: hoy es once / de noviembre 
+
+I: once / de noviembre de dos mil siete / ¿también ésta?
+
+E: sí por favor / es lo mismo / dice exactamente lo mismo 
+
+I: <tiempo = “55:16”/> bueno pos sí tengo algo que contarte
+
+E: ¿sí?
+
+I: con eso del último / ya ves que está / se puso de moda lo del dengue 
+
+E: mjm
+
+I: pues me dio el dengue
+
+E: ¿a poco?
+
+I: sí 
+
+E: ¿pero muy fuerte o / más o menos?
+
+I: muy fuerte
+
+E: ¿en serio?
+
+I: sí yo pensé que era una intoxicación por que me había tragado unos camarones / y / coincidió que me comí los camarones y / tantito después este / me empieza / me puse / malito ¿no? o sea / primero / me / me / empecé a poner caliente muy caliente del cuerpo / y luego me empezó a dar escalofríos y todo así ¿no?
+
+E: sí
+
+I: este // estaba con mi novia / en ese momento / este 
+
+E: ¿y fuiste al hospital o no? 
+
+I: pero sí no / no fui al hospital / pero haz de cuenta que me empezó a dar / así como temperatura y escalofríos / cuando estaba yo con ella 
+
+E: ¿dolor de huesos y todo?
+
+I: no / todavía no / en ese momento todavía no / en ese momento no / y como que me quería empezar a doler la cabeza / y pos ya me despedí de ella / me fui a la casa / este / y pos me fui a dormir 
+
+E: mjm
+
+I: no pos a mitad de noche a media noche me / me desperté pero / ya / grave 
+
+E: sudando y 
+
+I: no con una fiebre / exagerada / exagerada y / y un dolor de cabeza / inaguantable pero así como
+
+E: como migraña
+
+I: que me iba a explotar la cabeza / así / exagerado / toda la cabeza así un dolor / fuertísimo / no pos este / como pude / no me podía ni levantar así como que / como si estuviera hecho de atole o sea bien / cañón / pero así / de trapo no sé / me fui para abajo / pero como pude / mis papás estaban dormidos / bueno / eso yo creí pero / bajo a la / a la sala / este / a la parte de abajo / el primer piso / y pos mi papá estaba en el baño abajo / y / pos yo fui a / pos a / hacer algo / pos para alivianarme porque ya me estaba cargando el payaso / me estaba poniendo peor / y pos haz de cuenta que llevé unos trapos así mojaditos / al congelador / los puse en el congelador a que se / se enfriaran / y ya me fui a la sala / a echarme ahí un rato porque / no aguantaba / pos ya fui por los trapos me los puse en la frente y como que / más o menos se me empezó a quitar / o a alivianar un poco lo que es el / el dolor de cabeza / y ya salió mi papá y me ve ahí todo grave / y pos va y le dice a mi mamá / ya viene mi mamá pos / me empieza a atender / y que me empieza a poner / trapos y cuanta madre / y luego pos no / haz de cuenta el trapo así con agua y no no / no iba a jalar ¿verdad? / y una / en el refri tenía / como unos este botes así / con agua pero que se congelaron 
+
+E: si
+
+I: pos haz de cuenta que / me quito la camisa y / dije pónmelos / así 
+
+E: directo
+
+I: directo al cuerpo / y en la cabeza unas / bolsas con hielo y así / todo el cuerpo
+
+E: <tiempo = “58’09”/> órale
+
+I: puro hielo / en todo el cuerpo / para alivianarlo porque está / mal / ya me empecé como que a / pasa que esos / botes de / de hielo se empiezan a derretir / muy pronto / ya se derritieron n’ombre empecé a tomar el agua helada <risas= “E”/>/ me los empecé a tomar / este / ¡n’ombre! me dieron ganas de vomitar / me fui al baño / y a vomitar / yo con la idea de que no / estos méndigos camarones me hicieron mal y que la fregada / ¡n’ombre! nada que ver los camarones / era un dengue / y yo ni supe / ya hasta después / me di cuenta / cuando no me alivianaba no me alivianaba dije esto / una intoxicación / no te va a durar / más de unos / dos tres días era
+
+E: mjm
+
+I: ya habían pasado como cinco días / no / ya voy con un especialista y / pos ya me da un buen medicamento / y así de repente / ya me dejó de dar temperatura / dolores de cabeza de ojos me dolían mucho los ojos también / la pierna s haz de cuenta que un músculo como que se me / engarrotaba y ¡nombre me daba un dolor! / pero / bien fuerte / dolor de espalda yo creo que por estar / echadote todo ese tiempo yo creo que me daban / como en la columna bastante dolor pero / por tanto tiempo estar acostado / y a parte la cama donde duermo está pero / hecha un asco ¿no? / puras bolas / n’ombre
+
+E: <risas = “E” /> / ya necesitas otro colchón
+
+I: sí / tengo que comprar un ortopédico / de esos
+
+E: está bien / bueno pues muchas gracias / por todo
+
+I: no de nada 
+
+E: eso sería todo / gracias 
+
+ Fin de la entrevista
+
+

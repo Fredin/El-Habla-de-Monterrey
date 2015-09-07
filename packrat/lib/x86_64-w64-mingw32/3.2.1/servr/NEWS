@@ -1,0 +1,27 @@
+		 CHANGES IN servr VERSION 0.2
+
+NEW FEATURES
+
+- when running inside RStudio, the RStudio web browser will be used if
+  available (requires RStudio >= 0.98.439)
+
+- added three server functions jekyll(), rmdv1(), and rmdv2() to serve Jekyll
+  websites, R Markdown v1, and R Markdown v2 documents, respectively
+
+- added a server function vign() to serve R Markdown/HTML package vignettes
+
+- added a server function make() to serve a directory and update files
+  automatically via Makefile (#2)
+
+- the URL pathname foo will be redirected to foo/ automatically if foo is a
+  directory (#5)
+
+- in case of errors when serving dynamic documents, the server functions will
+  double the delay to check for updates and wait for the next build until the
+  error is cleared (like Gmail)
+
+		 CHANGES IN servr VERSION 0.1
+
+NEW FEATURES
+
+- the main function httd() to start an HTTP server for a local directory

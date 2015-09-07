@@ -1,0 +1,1308 @@
+﻿<Trans audio_filename = “MONR_H21_HMP039.MP3” xml:lang = “español”/>
+<Datos clave_texto = “MONR_H21_HMP039” tipo_texto = “entrevista_semidirigida”/>
+<Corpus corpus = “PRESEEA” subcorpus= “ESMXMONR” ciudad= “Monterrey” país = “México”/> 
+
+<Grabacion resp_grab = “César Rodrigo Jiménez Villa” lugar = “en la construcción del fraccionamiento Amarantos en Apodaca, Nuevo León” duración = “48’13’’” fecha_grab = “2007-12-18” sistema = “MP3”/>
+<Transcripcion resp_trans = “Zeuxiz Melissa Crespo López” fecha_trans = “2008-05-16” numero_palabras = “7390”/>
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2009-04-24”/>
+<Revision num_rev = “2” resp_rev= “Alejandra Moreno Rangel” fecha_rev = “2010-09-19”/>
+<Revision num_rev = “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-09-21”/> 
+<Revisión num_rev = “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-06-06”/> </Datos>
+<Revisión num_rev = “4” resp_rev = “Dalina Flores Hilerio” fecha_rev = “2011-10-31”/> </Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Jaime Guzmán Hernández” codigo_hab = “I” sexo = “hombre” grupo_edad = “2” edad = “50” nivel_edu = “1” estudios = “analfabeta” profesión = “albañil” origen = “Saltillo“ papel = “informante”/>
+<Hablante id = “hab2” nombre = “César Rodrigo Jiménez Villa” codigo_hab = “E” sexo = “hombre” grupo_edad = “1” edad = “27” nivel_edu = “3” estudios = “Lic. en Diseño Gráfico, publicidad y mercadotecnia” profesión = “Diseñador Gráfico y Fotógrafo” origen = “Monterrey” papel = “entrevistador”/>
+<Hablante id = “hab3” nombre = “desconocido” codigo_hab = “A1” sexo= “hombre” grupo_edad = “desconocido” edad = “desconocido” nivel_edu = “desconocido” estudios = “desconocido” origen = “desconocido” papel = “audiencia”/>
+<Hablante id = “hab4” nombre = “desconocido” codigo_hab = “A2” sexo= “hombre” grupo_edad = “desconocido” edad = “desconocido” nivel_edu = “desconocido” estudios = “desconocido” origen = “desconocido” pape l= “audiencia”/>
+<Hablante id = “hab4” nombre = “desconocido” codigo_hab = “A3” sexo = “hombre” grupo_edad = “desconocido” edad = “desconocido” nivel_edu = “desconocido” estudios = “desconocido” origen = “desconocido” papel = “audiencia”/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1 = “conocidos"
+rel_ent_aud1 = “desconocidos" rel_inf_aud2 = “conocidos" rel_ent_aud2= “no" rel_inf_aud3 = “conocidos" rel_ent_aud3 = “no"/>
+</Hablantes></Trans>
+
+
+E: primero que nada / muy buenos días gracias por echarme la mano / este / antes de / de empezar con todo esto / ahorita / allá / de do / dónde venía no hace tanto frío como acá / está fresco aquí 
+
+I: sí / aquí está fresco / aquí es otro clima / lo que es aquí / aquí en Cadereyta y en / y en / y en Zuazua / es otro clima aquí / es más / este / es otra temperatura 
+
+E: otra cosa diferente 
+
+I: otra cosa diferente a / que a otros municipios 
+
+E: mjm
+
+I: ya / San Bernabé / los demás este / San Nicolás / ya son un poquito más / más calientes
+
+E: sí / okay 
+
+I: pero aquí es más frío porque como / se ve más desierto 
+
+E: pos sí
+
+I: y el / y el tiempo de calor también se siente más / más el calorcito más calientes / en estos lugares 
+
+A1: 
+
+I: sí / en serio
+
+A1: 
+
+I: no / en serio / ya
+
+A1: 
+
+E: <risas = “E”/>
+
+I: sí no / este 
+
+A1: ¿y el chiquillo?
+
+I: sí este / sí es así aquí en Monterrey / yo de los / de los / treinta / treinta y cuatro años que tengo aquí // yo soy de allá de / de Durango 
+
+E: mjm
+
+I: pos yo aquí a / aquí este // pos aquí realicé / aquí todo mi / mi / mi juventud / todo aquí estuve / aquí en Monterrey / aquí me casé / y todo / y ora ya tengo / mis hijos / una esposa
+
+E: mjm
+
+I: y / pos / es / es comúnmente ¿verdad? que aquí / en Monterrey / casi todo / todos los que estamos aquí pos / semos de fuera de varios estados 
+
+E: mjm
+
+I: de Tamaulipas de / Durango de / de México de / varias partes / hay más / gente de / de afuera que 
+
+E: que de la zona
+
+I: que de la zona / aquí en Monterrey
+
+E: pero sí les ha ido bien aquí ¿verdad?
+
+I: gracias a dios / sí nos ha ido bien 
+
+E: eso es bueno 
+
+I: sí nos ha / este / bien porque pues / de abajo siempre / arriba 
+
+E: gracias a dios / es bueno 
+
+I: y aquí / Monterrey pos es una zona / es una ciudad este / industrializadora / o sea / tiene todo / fábricas 
+
+E: pues sí / es una ventaja que hay aquí / trabajo no falta 
+
+I: y / en la construcción pos aquí se rifa <observación_complementaria = “se refiere a que se dan muchos empleos” /> también mucho / más la construcción 
+
+E: pos sí / y con eso de que la ciudad está creciendo mucho 
+
+I: muncho / exactamente
+
+E: todos lados 
+
+I: para todos lados / y han venido varias / pos aquí también han metido varias compañías de / de varios estados también a / hacer trabajos aquí a Monterrey 
+
+E: ¿compañías como cuáles? 
+
+I: este / no no / no recuerdo el nombre 
+
+E: ¿es el gas? 
+
+I: sí es el gas 
+
+E: ¿ofrece servicio a las casas?
+
+I: sí sí porque todavía no / todavía no tienen gas este 
+
+E: okay 
+
+I: entubiao 
+
+E: ¿todavía no tienen gas entubado?
+
+I: todavía no llega así entubiao
+
+E: a okay / y ¿cuánto tiempo tienen / aquí en este / en esta zona?
+
+I: en esta zona / este / construyendo estas casas / tienen más o menos como un / como unos ocho meses 
+
+E: y ¿ustedes se dedican nada más a estar haciendo los detallitos / lo que falta? 
+
+I: los detalles que hace falta ya que estén las casas 
+
+E: okay / bueno / este / cambiando un poquito el tema / con respecto a / a su familia / me decía que / tiene su familia aquí / pero también debe tener su familia allá en 
+
+I: ah en Durango sí 
+
+E: en Durango
+
+I: tengo / tengo mi carnal mayor / y aquí / aquí en / aquí en Monterrey te / tengo una carnala también 
+
+E: ¿se vino ella también a Monterrey?
+
+I: sí / se vino aquí a Monterrey / y tengo un carnal allá en Piedras Negras 
+
+E: ¿en Coahuila?
+
+I: en Coahuila 
+
+E: esparcidita la familia
+
+I: sí 
+
+E: y / y ¿se llevan bien?
+
+I: sí nos llevamos bien
+
+E: muy importante de hecho / y ¿qué hacen sus hermanos?
+
+I: bueno mi / mi hermano mayor / trabaja en el campo / semos ejidatarios ahí en Durango 
+
+E: ¿es suya la tierra?
+
+I: sí / era de mi papá y nos / después nos la heredó a nosotros 
+
+E: ¿y qué hay allá en el / ejido?
+
+I: en el ejido ahí este / pos / siembran frijol / maíz / alfalfa / cebada 
+
+E: ¡ah! qué rico / cebada <risas = “todos”/> / para la chevecita 
+
+I: <tiempo = “4:59”/> <risas = “todos”/> / sí / se / siembran todo eso / maíz / todo / nueces 
+
+E: mjm 
+
+I: este / la madera / toda clase de madera 
+
+E: madera también
+
+I: madera 
+
+E: supongo que / pino 
+
+I: pino
+
+E: cedro 
+
+I: cedro / sí
+
+E: ¿roble también?
+
+I: sí 
+
+E: ¿para qué las usan? 
+
+I: pos esas las usan para / la madera / pos hay / hay unas partes que se usa para los / la postería / los postes / uno lo usan la / para sacar triplay / para hacer las piezas / todo lo que se hace con madera 
+
+E: pos en general se usa para mucho
+
+I: para muchas cosas 
+
+E: all right / bueno eso es este / es la parte / lo que es la parte del ejido / y ¿su hermana qué / está haciendo aquí en Monterrey?
+
+I: pos mi hermana aquí se vino este / a trabajar / también aquí ella se casó 
+
+E: mjm
+
+I: tiene sus hijos // sí / se vino de allá / de Durango 
+
+E: trabaja / y toda la cosa
+
+I: sí / trabaja 
+
+E: y con respecto a / a la gente que vive con usted / su esposa / sus hijos / este / viven / en / en el mero Monterrey o en / algún municipio 
+
+I: m / no / no en mero Monterrey 
+
+E: ¿en qué parte más o menos?
+
+I: San Bernabé 
+
+E: San Bernabé / y ¿le gusta la zona?
+
+I: pos sí / orita ahí / ahí estamos viviendo / allí este / allí era / allí donde / ahí en esa zona pos eran / eran ejidos 
+
+E: eran ejidos
+
+I: eran ejidos y / y ora últimamente con / cuando se vino el / el huracán ese / el / Gilberto pues / hubo muchos damnificados aquí en Monterrey / y allí este / pos / el / el / el / el gobierno pos empezó a vender esos terrenos y / y fuimos los que / al vendernos 
+
+E: supongo que en aquel momento estaban bastante económicos los terrenos 
+
+I: sí / claro 
+
+E: debe haber habido / hubo historias de que / hubo gente que compró más de un terreno
+
+I: los que pudieron / sí
+
+E: construyeron unas casotas
+
+I: sí / pues / el que tuvo / sí y el que no pos / una casita ahí / bueno / pos para vivir 
+
+E: el terreno / tengo entendido que sí estuvo bastante económico en aquel entonces
+
+I: sí / sí pos a mí / este / a mí en ese tiempo me costó / me costó / setecientos cuarenta 
+
+E: mm
+
+I: cuando eran / miles 
+
+E: cuando eran setecientos cuarenta mil pesos <risas = “E”/>
+
+I: <tiempo = “7:51”/> sí <risas = “E”/>
+
+E: no / ¿qué eran? / siete millones algo así / ¿no?
+
+I: sí / siete millones 
+
+E: siete millones
+
+I: sí 
+
+E: que luego le quitaron tres ceros 
+
+I: sí 
+
+E: a usted le tocó vivir el Gilberto aquí en Monterrey entonces
+
+I: sí
+
+E: ¿cómo la pasó / en ese momento?
+
+I: bien porque / pues / yo / yo estaba en una construcción allá por / Chipinque 
+
+E: ¡ah! / pos en alto 
+
+I: sí / tenía yo una semana / estaba recién casado 
+
+E: mjm
+
+I: sí / estábamos recién casados / esa vez me llevé a mi esposa allá / a Chipinque / vimos todo / lo de la lluvia / para Chipinque pos / allá es un área de / de montañas / mirábanos las / la cascada del agua / / pero fuerte / el agua
+
+E: se puso feo
+
+I: se puso / ¡no! pos allá se miraba bien bonito ¿verdad? 
+
+E: pos sí 
+ 
+I: por la naturaleza que está allá / sí 
+
+E: mjm / a mí me tocó / vivir este / el Gilberto / la verdad no me acuerdo mucho / estaba chiquillo / y / lo / único que recuerdo fue que / dijeron no hay clases y todos los niños eh <risas = “todos”/> / no entendíamos por qué pero todos eh / no hay clases 
+
+I: sí es que / el / el / el río / que está aquí el río Santa Catarina iba a su / capacidad
+
+E: me ha tocado ver fotos de cómo estaba el río / los puentes / muchos se cayeron y 
+
+I: hubo muchos muertos
+
+E: una de las fotos que más recuerdo / de esa / del Gilberto / es una del / de cuando estaba el parquecito 
+
+I: sí
+
+E: de juegos
+
+I: de juegos
+
+E: de juegos mecánicos
+
+I: sí
+
+E: la / el carrusel / el techo del carrusel yéndose por el río
+
+I: sí / sí yéndose por el río
+
+E: esa foto está hermosa / bueno 
+
+I: feo / se mira feo pero muy / este / se mira feo 
+
+E: sí
+
+I: pero sí se mira bien / el agua cuando va 
+
+E: sí / mjm
+
+I: sí / pos es que / ¡no! pues / aquí hemos estado aquí en Monterrey / sí / mi esposa es de aquí de Monterrey
+
+E: mjm / sus hijos nacieron aquí
+
+I: <tiempo = “9:59”/> mis hijos nacieron aquí 
+
+E: y por ejemplo / cuando ustedes tienen / fiestas / por ejemplo orita que ya viene / ya viene navidad y todo eso / ¿se reúne toda la familia o nada más el grupito o? 
+
+I: no nos reunimos todos 
+
+E: todos
+
+I: todos / o sea / por parte de mi suegro todos / pero mi / mi familia no 
+
+E: no
+
+I: o sea / porque por lo mismo ¿verdad? 
+
+E: están muy lejos 
+
+I: muy / muy distanciados 
+
+E: pero se reúnen todos los de la fam- / de parte de sus suegros 
+
+I: sí / todos / nos reunimos ahí en mi casa ahí / todos
+
+E: mjm
+
+I: ahí todos
+
+E: y regularmente ¿qué hacen?
+
+I: pos en ese / este / nosotros hacemos ahí este / pos por / por decir ora el día veinticuatro pos / este / ahí / nos la pasamos / hacen tamales / este / platicamos / los niños este / una piñata este / así 
+
+E: lo sencillito ¿verdad?
+
+I: sí 
+
+E: bastante a gusto
+
+I: sí
+
+E: ¿los tamales los hacen ustedes o los?
+
+I: las esposas
+
+E:¿y cómo los hacen las esposas?
+
+I: pos / este / empiezan a cocer el nixtamal ¿verdad? / maíz / ¿verdad? / es / la costumbre aquí en México
+
+E: mjm
+
+I: ¿sí verdad? / este / lo cocen / y ya lo mandan / moler / al molino / lo muelen / preparan la masa / con manteca / con manteca de de / de puerco / a quitarle todo bien bien / basurita y así / preparan el guiso / la carne con / con / chile / los ingredientes que / que le echan 
+
+E: mjm
+
+I: y ya / pos en la hoja de de / de maíz / luego agarran una cuchara y embarran la / la hoja / le echan el / la cantidad de / de de guiso 
+
+E: mjm
+
+I: y ya empiezan a doblar / la pieza del tamal 
+
+E: mjm
+
+I: ya los / van acomodando en una / una vaporera / y entonces ya cuando ya / pos ya está a su capacidad / este / le echan una / una vasija de agua / por decir como de unos / di unos tres litros de agua 
+
+E: mjm
+
+I: y / y ya la ponen a / cocer / la tapan / la dejan máximo una s- / una hora y media 
+
+E: <tiempo = “12:32”/> ¿una hora y media?
+
+I: sí
+
+E: ¡ándale! / esa no me la sabía esa / creí que era menos 
+
+I: sí / no / es una hora y media / en llama bajita y todo eso / que se vayan cociendo bien / ricos
+
+E: los tamales
+
+I: los tamales
+
+E: y quedan bien ricos los tamales
+
+I: quedan bien ricos / bien sabrosos 
+
+E: ¡ay! / tengo antojo de tamales de hace un rato <risas = “I”/> / hablando de eso / tengo antojo de tamales desde hace un rato 
+
+I: sí pos / es la tradición aquí 
+
+E: ¿usted ha preparado discada?
+
+I: discada también / tengo un disco
+
+E: bien rica la discada 
+
+I: tengo un disco de esos / grandotes 
+
+E: mjm
+
+I: disco original / nada de que / es original de 
+
+E: de los buenos
+
+I: de los buenos
+
+E: son bien ricas esas cosas / y bien fácil de preparar
+
+I: sí / fácil / sí lo he preparado 
+
+E: con cervecita
+
+I: no / cerveza no 
+
+E: ¿no?
+
+I: no 
+
+E: ¿y eso?
+
+I: eso / este / cerveza no porque / nosotros asistimos a una iglesia 
+
+E: ah okay 
+
+I: y eso pos ya ya se quedó atrás / ya no / ya no / ya no hacemos lo que hacíamos antes 
+
+E: es la iglesia cristiana / ¿cuál es?
+
+I: este / igre- / iglesia / se llama / una / se llama iglesia / bu- / butista 
+
+E: bautista / ¿esa por dónde está?
+
+I: este / hay varias / este hay varias / iglesias / aquí este / se predica la palabra de dios / se pone la persona y 
+
+E: mjm
+
+I: ¿verdad? / se / este / y / y la biblia nos habla de muchas cosas 
+
+E: mjm
+
+I: y casi lo que está escrito // si uno va a la biblia / la biblia te va a dar / / por parte de dios te va a // porque antes nosotros éramos bien rebeldes 
+
+E: mjm / ustedes 
+
+I: sí 
+
+E: m
+
+I: y qué bueno yo yo doy gracias a dios ¿verdad? porque pos / dios me quitó de / de algunos lugares donde no 
+
+E: mjm 
+
+I: <tiempo = “14:58”/> no / no da provecho nada / me quitó la borrachera / cigarro / compañerismo corrupto / compañeros / 
+
+E: los vicios y todo eso 
+
+I: todo eso sí 
+
+E: supongo que 
+
+I: pero / supuestamente / dicen unos / bueno / pero este / ¡no! que tú ya / que tú / tú ya no / te juntas con nosotros porque / este / ya no tomas y que / no no no / sí sí puede uno tomar / pero dios / a dios no / no te puedes esconder 
+
+E: pos no
+
+I: ¿eh? / uno dice ¡ay me voy a esconder de mi papá! / ¡que no me vea! / ¡me voy a fumar un cigarro! / y nada / pero ¿quién te está viendo ?
+
+E: pos sí 
+
+I: ¿eh?
+
+E: el el papá no pero / allá arriba sí 
+
+I: el bueno / ése / ése te está viendo 
+
+E: sí 
+
+I: aunque te pongas abajo de / donde sea / él te está viendo 
+
+E: sí / tiene ojos en todos lados 
+
+I: en todos lados exactamente 
+
+E: y / con respecto a / a eso de / de religión y demás / ¿cuándo fue cuando la encontró? / cuando dios se acercó a usted / ¿cuándo fue?
+
+I: este / nosotros / o sea / yo / este / ya / ya empecé ora ya de / ya de / que ya mis / mis hijos ya crecieron 
+
+E: mjm
+
+I: porque el ejemplo también es / de / pos / ¿qué ejemplo le voy a dar a mis hijos? / si siempre me van a ver así / de esa manera / y pos no / orita gracias a dios / yo este a mis hijos los / e / están bien / no / no este / con respeto no no / no visten mundanos ni nada / porque orita la juventud está muy descarriada 
+
+E: sí
+
+I: ya traen aretitos por acá / acá / tatuajes acá / y todo 
+
+E: sí andan muy / muy mal algunos
+
+I: <tiempo = “17:09”/> sí / y luego este / gracias a dios pos / dios me ha dado palabras ¿verdad? para / para dicirles a ellos ¿saben qué hijos? eso está mal / no lo hagan / usted / no lo haga usted siga adelante / siga adelante
+
+E: mjm
+
+I: este / más con / con mis hijos varones ¿verdad? / pos a ellos que / les doy más / más este / pos los agarro más de empezar 
+
+E: sí / pos ellos son los que más se / son los que más se descarrían 
+
+I: sí / ¡ándele! / sí 
+
+E: hay que tener mucho cuidado con ellos
+
+I: sí / y orita pos / este / gracias a dios me han salido buenos hijos / no no 
+
+E: eso es muy importante porque luego / luego sale uno que otro rebelde 
+
+I: n’ombre
+
+E: y ni siquiera / dándoles con el ejemplo / se corrigen
+
+I: sí porque yo / yo / yo les hablo fuerte a mis hijos / no los golpeo / no lo s / este / no los golpeo / de golpes no se trata / sólo de palabras 
+
+E: mjm
+
+I: siempre doy consejos a mis hijos cuando estamos comiendo / les doy consejos 
+
+E: bueno 
+
+I: sí tanto como yo y mi esposa también / hablamos con ellos
+
+E: educarlos bien
+
+I: sí
+
+E: decirles las cosas como son para que / se eduquen 
+
+I: sí / que se eduquen 
+
+E: bueno / este / un / cambio un poquito drástico de tema de hecho / es un tema que a mí no me agrada mucho pero / hay que / hay que abordarlo / este alguna vez este ¿ha estado usted / en algún problema / o en algún peligro / que le haya puesto en peligro su vida?
+
+I: m / sí / pos varios / este / han sido varios / peligros 
+
+E: ¿podría / contarme un poco de eso / por favor?
+
+I: pos bueno pos / era cuando estaba este / joven ¿verdad? este / pos allá / allá donde viv- / allá de donde / yo soy pos casi uno anda / armado
+
+E: mjm
+
+I: allá anda uno / uno este // allá en / en esos / anda uno armado 
+
+E: mjm
+
+I: con su / pistola o navaja 
+
+E: mjm
+
+I: en una ocasión / yo anduve en un / en un / en varios ranchos / y este / pos conquistando a las / muchachas 
+
+E: mjm
+
+I: todo eso ¿verdad? / y / me / en varios ranchos sí me / una vez en un rancho me hirieron aquí / a balazos // y en esa ocasión / allí / este / como hay un / un canal de agua 
+
+E: mjm 
+
+I: y pos / ya miraba / cerquita a las personas / ya / cerquitas ya / así como de aquí al anuncio / anuncio aquel / y nomás miraba los chispazos de 
+
+E: de las armas
+
+I: <tiempo = “19:57”/> de las armas / y pos / me tuve que tirar al agua / nomás que ese canal está bien gran / está ancho / está ancho / y lleva bastante agua / y / salí / más o menos como / de allí de / de donde me tiré / salí como a unos / veinte kilómetros / y me que / me llevó la corriente
+
+E: ¡ay güey! 
+
+I: me llevó la corriente
+
+E: gracias a dios
+
+I: pues sí
+
+E: ¿y no le pegó la bala ni nada? 
+
+I: nada 
+
+E: afortunado / afortunadamente que si no / si hubiera 
+
+I: si me hubiera pegado
+
+E: hubiera sido feo 
+
+I: sí / sí cierto / orita no estuviera o / quien sabe cómo estuviera
+
+E: mjm / pues sí / igual y sí estaría bien / igual y no 
+
+I: sí igual no
+
+E: igual y no estaría 
+
+I: sí 
+
+E: es muy peligroso eso pero sí / ¿sí es tan común allá cargar armas?
+
+I: ¿mande?
+
+E: ¿es tan común allá eso de cargar un arma? 
+
+I: pos cómo no / este / como son pueblos que / pos / casi no no se mete no está mucho la / la ley ¿verdad>? para allá
+
+E: m
+
+I: pos uno este / pos para defenderse / o sea / lo que / pos hay mucho / así hay varia gente que es muy agresiva y que 
+
+E: mjm
+
+I: pos allí / sí se usa / pos sí / es más / yo aquí mando y todo esto 
+
+E: mjm
+
+I: y / pos / para pasar tú tienes que pedir permiso 
+
+E: pues sí 
+
+I: ¿verdad? 
+
+E: pues sí
+
+I: sí / y así es en / el rancho 
+
+E: entonces la policía casi no se mete / si no es que no se mete
+
+I: <risas = “todos”/> sí 
+
+E: es que no / ese tipo de lugares donde la ley no es 
+
+I: la ley no / no cuenta 
+
+E: la ley no cuenta / esos lugares son bien peligrosos / a mí me tocó estar una vez / en un lugar así pero / pos digamos que tuve / que tuve algo de suerte 
+
+I: mjm
+
+E: pero eso fue allá por / carretera Acapulco 
+
+I: mjm
+
+E: se nos ocurrió desviarnos / por / por otro lado / nunca supimos donde andábamos / pero / me acuerdo mucho por que / íbanos / íbamos un primo y yo / manejando mi primo 
+
+I: mjm 
+
+E: y rebasamos una camioneta 
+
+I: sí
+
+E: una como combi / ¡n’ombre! que al rato la combi se nos atraviesa y eran unos batos con metralletas <risas = “I”/> y nosotros estábamos con el culo en el / con el culo abajo / del asiento / ¡ya nos mataron cabrón! <risas = “I”/> / no / y resultó que eran policías / bien horrible <risas = “todos”/> 
+
+I: sí no / está horrible para allá / es que yo golpié un de ellos 
+
+E: mjm
+
+I: <tiempo = “22:40”/> pos no lo golp- / bueno lo y lo piqué / lo dejé 
+
+E: mjm
+
+I: y por eso que 
+
+E: ¡va! / afortunadamente / usted salió bien 
+
+I: sí / yo salí bien 
+
+E: y luego / luego puede pasar cada cosa 
+
+I: sí / bien cerquita 
+
+E: y esa fue una / pero le tocó varias / todas iguales / de balazos y 
+
+I: no / ya aquí en Monterrey ya / ya fue así en / golpes y a / así peleas 
+
+E: golpes un poquito más normal 
+
+I: más normal
+
+E: dentro de lo que cabe / / de lo que cabe
+
+I: sí / sí porque donde vivía mi esposa / también era una colonia muy conflictiva ahí 
+
+E: mjm / ¿dónde vivía?
+
+I: ella vivía / en una parte / se llama este // allá por el cerro de la campana
+
+E: ah ya 
+
+I: 
+
+E: es muy conflictiva esa zona 
+
+I: sí / ella vivía por allá / y / estas fechas / un mero veinticuatro de diciembre yo / pos andaba yo este / pero apenas de novio con ella
+
+E: mjm
+
+I: y un fulano ahí les / que les / quería tumbar la puerta / a golpes y todo / pos ya salí yo / pos / en ese tiempo pos / era cuando / tomaba y todo eso ¿verdad? // apenas / me había tomado una cerveza 
+
+E: mjm
+
+I: este / y una copa así de / de vino
+
+E: mjm
+
+I: y pos yo / me me / me dio mucho coraje ¿verdad? porque pues / aparte los / mis cuñados no eran / de pleito ellos 
+
+E: mjm
+
+I: y la persona se quería aprovechar / y pos yo salí ¿verdad? y / pos a retarlo y pos / nos retamos / nos agarramos a golpes / y // le tocó la de malas que / yo le saqué un ojo / le saqué un ojo pero / este en ese tiempo / nos peliamos / nos peliamos en una / en una privada 
+
+E: mjm
+
+I: <tiempo = “24:57”/> o sea que ni el ni yo / estábamos 
+
+E: ¿cómo se le saca un ojo a alguien? <risas = “E”/>
+
+I: ¿eh? <risas = “I”/> / sí / le saqué un ojo a esa persona / le di golpes / puros golpes en la cabeza ¡sapos y sapos! 
+
+E: hasta que salió el ojo 
+
+I: hasta que salió el ojo pero / andaba / la persona andaba bien drogado 
+
+E: de seguro ni la sintió 
+
+I: no <risas = “I”/> / pero sí sintió porque / gritó / ¡ay mi ojo! / ¡mi ojo! / y un chorro de sangre que se le salió / y pos yo corrí el monte
+
+E: pos sí 
+
+I: y ¡ay! / que corro <risas = “todos”/>
+
+E: pos sí ¿qué más hace uno? 
+
+I: sí / hasta que 
+
+E: ah ¿sí? / es bien peligroso 
+
+I: sí
+
+E: no pero cómo / cómo lograr que se le salga un ojo a alguien / increíble 
+
+I: increíble / a puros golpes / puros golpes
+
+E: la verdad es que // no me la puedo creer / digo / es probable que pase pero 
+
+I: y con las puras manos sin / sin usar tijeras sin usar ningún objeto ni nada 
+
+E: está bueno / y 
+
+I: <risas = “I”/>
+
+E: lo dejó traumado 
+
+I: sí bien feo cuando se le así / ¡ay! 
+
+E: sí / me lo imagino y <risas = “I”/> / no es una vista agradable
+
+A1: 
+
+E: si no / no / la verdad es que no me gustaría 	
+
+A1: 
+
+I: bueno / y con respecto a / cambiando un poquito de tema / este / ¿ha trabajado en construcción toda su vida?
+
+I: <tiempo = “26:55”/> sí 	
+
+E: ¿le gustaría a usted hacer algo más aparte de la construcción o 
+
+I: pero pues / ya orita ya / pos como quien dice pos ya / ya voy ya / de 
+
+E: ya de salida 
+
+I: ya de salida ya 
+
+E: lo mejor que puede esperar es 
+
+I: pos ya
+
+E: seguir a gusto 
+
+I: seguir a gusto / sí / ya todo
+
+E: ¿qué edad tiene?
+
+I: tengo cincuenta años 
+
+E: cincuenta años 
+
+I: sí
+
+E: y toda su vida en la construcción 
+ 
+I: sí // sí pos desde que llegué aquí a Monterrey 
+
+E: eso es de / treinta años / para acá / más o menos
+
+I: sí 
+
+E: construcción / y en todos lados
+
+I: en todos lados he trabajado 
+
+E: desde las / zonas más ricas hasta las más pobres me imagino <risas = “E”/>
+
+I: sí 
+
+E: haciendo casas para todo el mundo 
+
+I: sí / construir casas 
+
+E: un bonito oficio construir casas / bueno / a mí me gusta mucho / bueno / ¿a quién no le gusta vivir en una casa? / <risas = “E”/> de hecho / me a / me acuerdo mucho de una historia que me tocó ver en / en la tele / que era de un / una persona / que se dedicaba a la construcción de casas pero que vivía en una cueva / no sé si se la sepa
+
+I: no
+
+E: ¿no? / una persona que / que construía / pero que no le iba nada bien / el pobre señor creo que se gastaba todo el dinero en / en alcohol o algo así / que / que al final / vive en una cueva allá en el cerro de La Silla el señor / en esa cueva <risas = “I”/> / pobre bato 
+
+I: sí <risas = “I”/>
+ 
+E: también / te la buscas / se gasta todo el dinero en / en lo que no debe 
+
+I: no debe / sí 
+
+E: déjeme veo / una cosa / bueno / este ya / ya por último / este orita / le voy a hacer una pequeña / un pequeño cuestionario / para llenar unos datos nada más 
+
+I: sí
+
+E: este / ¿alguna otra cosa que quiera / decir a la / agregar a la plática?
+
+I: no 
+
+E: ¿no? 
+
+I: pos no
+
+E: nada / tranquilo 
+
+I: <tiempo = “29:25”/> 
+
+ E: bueno pues / muchas gracias de nuevo por / por ayudar 
+
+I: sí 
+
+E: déjeme sacar esto / para poner los / todos los datos que se vayan a usar son / son confidenciales / así que / no se va a usar nombre ni nada / nada más es para tener el / el / los datos 
+
+I: sí
+
+E: en el caso de que llegue a necesitarse / o algo / poder comunicarnos con usted 
+
+I: sí
+
+E: le voy a dejar este / ahí 
+
+I: <tiempo = “29:59”/> sí 
+
+E: ¿qué día es hoy?
+
+I: m / dieciocho ¿no?
+
+E: dieciséis / dieciocho / dieciocho / ¿cuál es su nombre?
+
+I: _____ ______
+
+E: _____ ______
+
+I: _________ 
+
+E: ______ / _________ con hache / ¿verdad? su edad era cincuenta ¿verdad? / cerrados
+
+I: cincuenta años
+
+E: ¿es casado?
+
+I: sí 
+
+E: e / ¿la dirección de dónde vive?
+
+I: calle Bresu
+
+E: calle / ¿cómo?
+
+I: Bresu / be / be grande 
+
+E: bre 
+
+I: calle Bresu 
+
+E: Bresu
+
+I: calle Bresu / cuatrocientos doce 
+
+E: cuatrocientos doce
+
+I: Fomerrey ciento catorce
+
+E: Fomerrey / ciento catorce / la colonia es esa / la ciudad es Monterrey 
+
+I: sí / es Monterrey
+
+E: ¿algún teléfono?
+
+I: no no me acuerdo / no no me acuerdo / es que es el celular de mi esposa / y ni lo traigo aquí <risas = “I”/>
+
+E: ¿y de su casa no tiene?
+
+I: no / no 
+
+E: bueno / usted profesa religión / este / cristiana
+
+I: sí 
+
+E: usted me dijo que era originario ¿de?
+
+I: Durango
+
+E: Durango / ¿hacía / algún oficio allá en Durango?
+
+I: <tiempo = “32:19”/> pos / nomás en la / la agria / pos sí / la 
+
+E: la siembra 
+
+I: la siembra 
+
+E: ¿ha vivido / en Durango y en Monterrey nada más? 
+
+I: sí
+
+E: ¿o en otro lugar?
+
+I: no / nomás aquí / y Durango
+
+E: ¿sus padres también son de Durango? 
+
+I: sí
+
+E: ¿abuelos / también de Durango?
+
+I: sí 
+
+E: todos okay / dice que tiene viviendo treinta años en Monterrey ¿verdad? 
+ 
+I: sí 
+
+E: ¿por qué se vino a vivir a Monterrey? //
+
+I: ¡ah! / pos me vine ¿verdad? pos / a conocer y / pos / sí me gustó
+
+E: ¿se vino para conocer?
+
+I: sí 
+
+E: bueno / ¿usted tiene alguna afición? / ¿tiene alguna afición?
+
+I: ¿cómo?
+
+E: ¿tiene alguna / afición?
+
+I: no / ¿qué?
+
+E: no sé / futbol / algo así
+
+I: no 
+
+E: no
+
+I: no esas cosas 
+
+E: ¿va al cine?
+
+I: no 
+
+E: <risas = “todos”/> ¿escucha la radio?
+
+I: no
+
+E: <tiempo = “34:25”/> ¿ve televisión?
+
+A2: buenos días
+
+I: sí
+
+A2: vengo de arriba 
+
+E: ¿cuánto más o menos al día?
+
+I: pos / será / no no sé / cuánto 
+
+E: dice que ve noticias nada más
+
+I: sí 
+
+E: ¿ve películas en / en la tele?
+
+I: no / tantas preguntas ¿por qué?
+
+E: <tiempo = “35:04”/> son preguntas / que ayudan / a com- / a comprender un poquito / a las personas y / primero es la plática y luego ya / las preguntas / este / ¿tiene videograbadora en su casa?
+
+I: no
+
+A2: ¿dónde está el chiquilín?
+
+E: DVD
+
+I: sí / anda arriba
+
+E: ¿videojuegos?
+
+I: no
+
+E: m ¿maneja Sky / cable o algo por el estilo?
+
+I: no
+
+E: ¿cuántas televisiones tiene en su casa?
+
+I: una
+
+E: ¿usted lee el periódico? 
+
+I: no
+
+E: ¿lee revistas?
+
+I: no <risas = “todos”/>
+
+E: ¿internet usa? / ¿internet usa?
+
+I: no 
+
+E: no // ¿tiene teléfono en su casa?
+
+I: <tiempo = “36:13”/> ¿mande?
+
+E: ¿tiene / tiene teléfono en su casa?
+
+I: no
+
+E: no tiene / ¿tiene celular?
+
+I: sí 
+
+E: ¿lo usa para llamadas?
+
+I: sí / quíhubole 
+
+E: ¿lo usa para alguna otra cosa aparte de llamadas?
+
+I: no / nomás para / llamadas
+
+E: nomás para llamadas / ¿usted visita museos?
+
+I: no
+
+E: no / ¿va a conciertos?
+
+I: no
+
+E: ya casi acabo // <risas = “todos”/> // ¿va al teatro?
+
+I: no
+
+E: ¿viaja?
+
+I: sí
+
+E: ¿qué tan seguido?
+
+I: no pos / muy retirado 
+
+E: ¿una vez al año / dos?
+
+I: sí 
+
+E: una vez al año
+
+I: sí
+
+E: ¿hasta dónde estudió? / ¿hasta dónde estudió?
+
+I: no / ¿cómo?
+
+E: ¿hasta dónde estudió?
+
+I: pos yo en realidad no / yo no fui / a la escuela porque pues / 
+
+E: y no / ¿no tuvo escuela?
+
+I: no 
+
+E: okay / ¿usted trabaja?
+
+I: sí 
+
+E: entonces no le pongo ni siquiera le primaria
+
+I: no 
+
+E: ¿desde cuándo trabaja? / ¿en qué año / empezó a trabajar? / ¿en qué año empezó a trabajar?
+
+I: empecé a trabajar en el / setenta y cuatro
+
+E: mil novecientos setenta y cuatro 
+
+I: sí
+
+E: ahorita trabaja en construcción / ¿este lugar cómo se llama? // ahorit- / ¿cómo se llama aquí / la constructora?
+
+I: aquí como la 
+
+E: la / la construcción
+
+I: ah la la constructora / Decasa 
+
+E: Decasa // ¿usted / produce casas?
+
+I: sí 
+
+E: <tiempo = “38:21”/> ¿cuál es su / puesto / propiamente dicho?
+
+I: es este albañil / de albañilería / albañil
+
+E: albañil / ¿desde cuándo trabaja para esta compañía me decía?
+
+I: bueno / en esta compañía tengo /unos dos años
+
+E: dos años / el año estamos a dos mil siete / enero del dos mil cuatro // ¿más o menos cuánto gana al mes? 
+
+I: ¿al mes? /pues a mí por semana me dan mil quinientos 
+
+E: son como cuatro mil / cinco mil / ¿cinco seiscientos? 
+
+I: mjm
+
+E: más o menos / muy poquillo
+
+I: mjm
+
+E: okay / ¿usted tiene prestaciones?
+
+I: no 
+
+E: no / m / okay / con respecto a su familia / ¿en su casa viven / su esposa y sus hijos / nada más?
+
+I: sí
+
+E: ¿cuántos hijos tiene?
+
+I: tengo tres 
+
+E: okay / ¿su esposa habla algún idioma aparte del español?
+
+I: no
+
+E: ¿sus hijos tampoco?
+
+I: no
+
+E: ¿su esposa estudió algo?
+
+I: m / sí
+
+E: ¿hasta dónde estudió?
+
+I: ella estudió / hasta / la secundaria
+
+E: <tiempo= “39:57”/> sí / secundaria / ¿trabaja actualmente ella?
+
+I: no
+
+E: no / ¿sus hijos / estudiaron?
+
+I: prepa 
+
+E: prepa / ¿todos?
+
+I: sí / nomás dos 
+
+E: ¿y el otro?
+
+I: el otro está chiquito 
+
+E: está chiquito / ¿trabajan sus hijos?
+
+I: mi hijo sí 
+
+E: ¿cuál trabaja?
+
+I: ¿mande?
+
+E: ¿en dónde trabaja?
+
+I: trabaja aquí en Monterrey / trabaja // trabaja en una fábrica / una fabriquita / sí / pero no recuerdo en donde 
+
+E: okay / le ponemos fábrica / ¿más o menos cuánto gana su hijo?
+
+I: gana él / setecientos
+
+E: ¿qué puesto ocupa? / más o menos
+
+I: él este / pues / creo lo tienen en unos / en / en / enrollando unos / unos papeles de cromo
+
+E: de cromo
+
+I: sí 
+
+E:¿su otro hijo no trabaja?
+
+I: no la otra / estudia / pos estudia este / estudia las // sí pos / las cosas de dios / está / estudiando en un instituto ahí
+
+E: ah okay / ya por último / con est- / con esta / con esta carta / usted nos da permiso de usar la plática que tuvimos
+
+I: ¿cómo?
+
+E: con esta carta / usted nos da permiso a nosotros / a la universidad vaya / de / de / de usar la plática que acabamos / de / de grabar / este / son dos copias / si la puede llenar
+
+I: pero / yo no 
+
+E: no / si quiere yo la lleno por usted / nada más usted la firma 
+
+I: no / no / es que yo no 
+
+E: ¿no sabe? / le pone un garabato que / que diga que es usted
+
+I: pero ¿para qué es eso? / o sea 
+
+E: es para que nosotros podamos usarlo / para que usted nos da a nosotros permiso de / de usar la plática / nada más para eso / no es para otra cosa / no crea que le vamos a pedir nada // que usted está de acuerdo // ¿m? / para que yo pueda / / pos un permiso / digo / si quiere yo la puedo llenar por usted 
+
+I: pero ese papel 
+
+E: nada más / como le digo / nada más es / usted le está dando a nosotros / a la universidad / le da permiso / de que yo / use / use la plática que acabamos de grabar 
+
+I: a 
+
+E: nada más es eso / no es otra cosa / para que yo pueda / pueda decir en esta plática / dónde hablé con esta persona / con su nombre o algo así por el estilo se puede escuchar esto / y el habla de esto y esto // es un permiso
+
+I: pero yo no se escribir
+
+E: le digo / le digo yo la puedo llenar por usted / y usted nada más me le pone un garabatito // una equis / una tacha / eso se puede hacer / por eso / por eso le digo / si usted no tiene ningún inconveniente 
+
+I: pero a ver / qué dice
+
+E: ¿quiere que se la lea? / ¿sí?
+
+I: sí
+
+E: yo / aquí va su nombre 
+
+I: mjm
+
+E: dedicado a la albañilería / eso se agregaría 
+
+I: m
+
+E: con domicilio en / ahí lo pongo / en la colonia ponemos la colonia / en el municipio de / pos ponemos / Nuevo León 
+
+I: mjm
+
+E: me permito manifestar en la forma expresa / que estoy de acuerdo en ser / ser entrevistado por parte del equipo de trabajo de la Facultad de Filosofía y Letras
+
+I: <tiempo = “44:22”/> mjm
+
+E: de la Universidad Autónoma de Nuevo León / y que mis opiniones y comentarios vertidos en la investigación que realiza esta institución educativa denominada / El Habla de Monterrey // Segunda Etapa / pueda ser utilizada libremente / ya que la Universidad Autónoma de Nuevo León es una institución educativa que no / persigue fines de lucro / y que está dedicada por entero a la investigación / y a la educación / siempre con el ánimo de ayudar a la comunidad por lo tanto expresamente renuncio a cualquier beneficio personal para que la escuela pueda presentar esta entrevista / no tengo inconveniente alguno en ser entrevistado / eso es lo que dice / entonces déjeme agarrar una pluma / mjm / ¡ah caray! 
+
+A3: ¡buenos días!
+
+I: <risas = “I”/>
+
+E: un contingente de gente / <risas = “E”/> 
+
+A3: ahorita les mandamos tres cabrones
+
+E: ¿son muchos? 
+
+A3: 
+
+I: mjm
+
+E: ahorita le ponemos una cruz si quiere puede ponerle una tachita aquí / en las dos 
+
+I: ¿aquí?
+
+E: sí / y en la otra también / ya por último / muchas gracias /¿alguna otra cosa que quiera decir?
+
+I: no / no / ya no / es todo
+
+E: bueno pos muchas gracias
+
+I: ándale / igualmente
+
+E: que pase buen día 
+ 
+ Fin de la entrevista
+

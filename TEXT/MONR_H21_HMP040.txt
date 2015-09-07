@@ -1,0 +1,2229 @@
+﻿<Trans audio_filename=”MONR_H21_HMP040.MP3” xml:lang=”español”> 
+<Datos clave_texto=”MONR_H21_HMP040” tipo_texto=”entrevista_semidirigida”> 
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México”/>
+
+<Grabacion resp_grab=”César Rodrigo Jiménez Villa” lugar=”en el área de Filosofía y Letras de la Universidad Autónoma de Nuevo León” duración= “02:45’ 29´´” fecha_grab=”2008-01-21“ sistema=”MP3”/>
+<Transcripcion resp_trans=”Anilu Murillo” fecha_trans=”2009-08-10” numero_palabras=”30291”/> 
+<Revision num_rev=”1” resp_rev=”Raquel Rodriguez de Garza” fecha_rev=”2009-10-20”/>
+<Revision num-rev=”2” resp_rev=”Etny Dominguez Zacarias” fecha_rev=”2010-07-20”/>
+<Revision num-rev=”3” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-08-10”/>
+<Revision num-rev=”4” resp_rev=”Cynthia Martínez del Ángel” fecha_rev=”2011-06-07”/> </Datos>
+<Revision num_rev=”5” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-08-20/></</Datos>
+
+
+<Hablantes>
+<Hablante id=”hab1” nombre=”Pedro Aguirre González” codigo_hab=”I” sexo=”hombre” grupo_edad=”2” edad=”48” nivel_edu=”1” estudios="secundaria incompleta" profesion="taxista" origen="Monterrey" papel="informante"/>
+<Hablante id="hab2" nombre="César Rodrigo Jiménez Villa" codigo_hab="E" sexo="hombre" grupo_edad="1" edad="_27" nivel_edu="3" estudios="Licenciatura en Diseño Gráfico, Publicidad y Mercadotecnia” profesion="diseñador gráfico" origen="Monterrey, Nuevo León" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos"/>
+</Hablantes> </Trans>
+
+
+E: primero que nada / muchas gracias por / por permitirnos / platicar con usted
+
+I: no no / no hay ningún problema 
+
+E: ahorita de hecho que el clima se / se / está mejorcito el clima / ¿verdad que sí?
+
+I: sí 
+
+E: los días que estuvieron hace / ayer todavía hacía frío / estaba bien gacho 
+
+I: estaba fresco / todavía el jueves estaba heladito 
+
+E: todavía el jueves sí / el sábado que se puso / uf <risas = ”I”/> / estaba bien frío / y ayer también 
+
+I: sí 
+
+E: llegó el frente como el / lunes o el martes ¿no?
+
+I: más o menos como el / como el martes / el martes llegó uno despación y ya el miércoles ya arreció un poquito
+
+E: sí sí / sí más o menos
+
+I: ya se vino más / más fuerte 
+
+E: si // pues a veces pasa así se pone / el clima está loco aquí en Monterrey
+
+I: muy extremoso / a veces hace calor a veces hace frío y / y cuando hace calor hace calor / y cuando hace frío pues / hace frío aquí es un / es uno de los estados yo creo que más e / más diferencias de clima que hay 
+
+E: de hecho yo tengo un amigo que / que dice / Monterrey tiene el clima más estable de todo México / digo a ¿por qué güey? pos porque siempre está de la chingada cabrón <risas = ”I”/> 
+
+I: no así me tocó una vez a mí un / un / un amigo también un camarada que / este / es cliente mío y / y lo traje para arriba y para abajo este / estaba ca- / en el mero fue / en el mes de agosto / y este // y no pos ya llegamos con un cliente y ya / se ponía la corbatita y la chingada porque estaba el calor con ganas / y luego ya / salía y se volvía a quitar la corbata dijo ora sí / ya terminé mi trabajo aquí en Monterrey dijo llévame al aeropuerto / dijo ora sí dijo / llegando allá / a Toluca porque él vivía allá en Toluca / dice / llegando allá le voy a decir a mi señora que ya me voy a portar bien porque ya más o menos me imagino el pinche infierno dijo <risas = “todos”/> / está de la chingada y dice no sé cómo lo aguantan ustedes
+
+E: estamos acostumbrados 
+
+I: sí / así es 
+
+E: los tiempos / los meses de calor son / la muerte de todas formas
+
+I: sí
+
+E: acostumbrado o no 
+
+I: sí sí sí y no no / si no no y el / frío también / mucho frío de los mil demonios 
+
+E: lo / lo bueno es que el frío dura poco 
+
+I: sí son / son / más poquito el frío aquí realmente o sea / lo más fuerte es ener- / lo que es enero y febrero / marzo a la mejor posiblemente
+
+E: fresco 
+
+I: y a veces
+
+E: a veces 
+
+I: a la mejor en este año sí porque com- / va a estar / el veintiuno muy / muy cerquitas / de semana santa / a a la mejor todavía va haber frío va a haber / este bastante / bastante frío 
+
+E: es año bisiesto ¿verdad?
+
+I: es año bisiesto este año / ahora / ora / la semana santa / ya va a ser / muy cerquita esta los días veinte / veintiuno veintidós por ahí 
+
+E: sí de seguro sí va hacer algo de frío
+
+I: sí va a estar / yo me acuerdo una semana santa que / que nos la pasamos este / con chamarras hace como unos / ¿qué será? unos / cuatro años yo creo / unos cinco
+
+E: ah sí / sí cómo no 
+
+I: semana santa y con frío / no pos está cabrón <observación_complementaria = “ difícil” /> / es como cuando / este / el veinticuatro de diciembre que hace mucha calor dices como que no / no / no va ¿verdad? porque dices tú / chingada / diciembre e e en / en short / y en camiseta de manga está cabrón ¿verdad? 
+
+E: sí / y el mero veinticinco con el solazo 
+
+I: sí 
+
+E: dices qué le pasó al clima <risas = ”todos”/> / esto no es veinticinco 
+
+I: esto no es veinticinco pero es que apenas para que te caigan bien los güisquitos y / y el tequilita pos dices / que esté haciendo fresquesito y estar ahí en la casa a toda madre y cuánto / las cubitas los
+
+E: la cervecita
+
+I: sí / a toda madre ¿verdad? 
+
+E: no / de otra forma no te / sientes a gusto
+
+I: sí / no no está de la chingada / no / es que Monterrey este ya / no se le entiende / está cabrón 
+
+E: no la verdad no se le entiende 
+
+I: no / no / es que este pinche calor ya / 
+
+E: lo bueno es que / es que es / más o menos parejo / uno se sabe cuando va a hacer calor cuando va hacer frío / más o menos 
+I: sí / sí así es 
+
+E: se siente
+
+I: se siente 
+
+E: ¿y usted a qué se dedica?
+
+I: <tiempo = “04:13”/> mmm yo / mira / yo soy mecánico de profesión ¿verdad? / yo soy mecánico de profesión pero / realmente la mecánica la / la / la trabajé poco / a orita tra / ando trabajando en un taxi / ando de taxista // pero / este / el taxi o sea el / mi profesión fue de mecánico yo estudié mecánica ¿verdad? Y / y estuve trabajando en muchas partes / de aquí / trabajé / en / Banco de México / en Servicio Panamericano y luego / mantenimiento / y luego / ya de ahí me empecé yo a / a meter más a / a andar de / policía ahí cuidando dinero que / que de mecánico <risas = ”E”/> / y me salí ya / ya después de mucho tiempo pos ahí duré muchos años trabajando ahí en Servicio Panamericano / duré quince años y / y compré unas placas / trabajando yo ahí / y ya después este / que me salí de ahí ya de / me puse a trabajar yo en / en el taxi / yo mi idea era poner un taller / pero dije no no pos ya ya no / ya perdí mucho tiempo de / de lo que era mi / mi trabajo de lo que yo había estudiado entonces 
+
+E: pero igual y / poner un taller y encargarse de / de cuidarlo y 
+
+I: de cuidarlo / exactamente / esa era mi idea / pero / no / pos ya empecé a enrolarme yo acá en el taxi / y a / trabajar bien y todo / pos ya dije no pos ya dije aquí me voy a quedar 
+
+E: ¿y le va bien con el taxi?
+
+I: y me va bien / gracias a dios / sí sí tengo / tengo bastantitos clientes ya y / y ahí la pasamos sí sí / sí te deja / no / es un trabajo muy noble que / que te sales / por decir e / orita / en la mañana / a veces que andas apurado de dinero te / te sales un ratito y / a las / después de medio día ya salen cuatrocientos quinientos pesos muy fácil ¿verdad si te pones a trabajar ¿verdad? / si te pones a relajiar pos no ¿verdad? 
+
+E: que a mí me han / me han tocado a veces que tomo un taxi / este los / los que rentan 
+
+I: ah no pos eso sí 
+
+E: tienen que juntar / los cuatrocientos / trescientos / quinientos pesos 
+
+I: sí
+
+E: para la renta / más la 
+
+I: <tiempo = “6:26”/> la gasolina / sí / más la gasolina / y ya lo que te quede / esos muchachos / por lo regular / este trabajan / ¿qué te diré? / unas / doce o / catorce horas / o sea es un / un horal de / de tiempo ¿verdad? que andan arriba del carro / y eso a veces
+
+E: echando panza
+
+I: sí / echando panza y comiendo y la chingada ahí / y eso provoca / este / que / pos sucedan accidentes a veces / porque el mismo cansancio del carro te te va venciendo ¿verdad? 
+
+E: luego por eso dicen que / el que más choca es el taxista 
+
+I: el taxista / exactamente / pero / o sea como te digo hay que agarrar los taxistas taxistas porque mira / yo por decir / yo salgo a las / seis y media 
+
+E: ¿de la mañana?
+
+I: de la mañana a trabajar / y como a las diez / me paro a / echarme un almuercito este / o voy para la casa / como ya no me gusta ir a la casa porque / después hago más tiempo y la chingada y 
+
+E: luego ya le da flojera 
+
+I: exactamente 
+
+E: salgo y regreso a la casa y ya para qué voy 
+
+I: sí / te sales y ya / entonces este / ya no es igual / entonces / mejor me / prefiero echarme unos taquitos por acá o / me paro así en un restaurantillo / unos huevitos ahí o lo que sea / para aguantar / y ya este / almuerzo / y le sigo otra vez / hasta como a las cinco / cinco y media o seis de la tarde que llego a la casa ya / ya como / y ya / ya no salgo ¿ver dad? ya me pongo a hacer otras cosas ahí en la casa que / que a barrer que a trapiar o sea <risas = ”todos”/>
+
+E: lo que haga falta <risas = ”todos”/>
+
+I: lo que haga falta / no no / no me pongo a hacer otras cosas ahí este / a veces a arreglar el carro / que le falte algo / que ande fallando / o me pongo a arreglar la camioneta que tengo / también o / o me voy a caminar / por lo regular casi siempre / pos termino / como / descanso tantito / y / y me pongo unos pants y me voy a caminar / no correr / nomás andar caminando caminando / y me aviento / de perdido / unos dos kilómetros caminando / o sea / le doy la vuelta / a 
+
+E: a la colonia 
+
+I: sí / porque / eso de andar en el carro / este / todo el día / sí te cansa 
+
+E: pues sí 
+
+I: es muy cansado 
+
+E:<tiempo = “08:56”/> a mi me ha tocado / manejar / por cuestiones de viaje / con la familia / de aquí a / de aquí al DF / no / es la muerte / son ocho oras / doce horas
+
+I: doce horas ¡n’ombre! / hasta allá
+
+E: bueno ahorita con la carretera que hay / ya no 
+
+I: ya no no / ya pos sí unas ocho / yo sí / me acuerdo cuando yo iba cuando trabajaba yo e e / en Banco de México / iba dos veces por semana / y y bien / bien traqueteado porque / este / íbamos / y recogíamos hasta / mil quinientos o / mil costales de morralla y subirlos a / a puro lomo / aquí en la / no sé si te ha tocado ver subir a sí / gente / que andan trabajando en traslado de valores así que train 
+
+E: sí sí
+
+I: que llegan a los bancos y agarran la morralla y se la echan así el cinto así y lo meten / se meten con / con todo y costales para allá para adentro y luego vienen por otro y / cargábamos hasta / mil quinientos dos mil costales de morralla / lo cargabas / te venías a Monterrey / llegabas aquí a Monterrey a descargarlo / y otro día igual o sea / esa misma morralla que recogías este / ahora a repartir a los Bancos / en diferentes Bancos 
+
+E: 
+
+I: y terminabas y / descansabas un día / y otro día pégale otra vez a México / o sea la misma rutina la misma rutina 
+
+E: ¿no te?
+
+I: no de la chingada era una / era una / era una joda ¿verdad?
+
+E: la joda pero / tanta morralla ahí / de repente dices tú / y si me la llevo <risas = “E”/>
+
+I: n’ombre / es que / ¿qué qué / qué tanto te puedas llevar o sea en un / en un costal? / oye que tú tanto dinero le digo sí / pero no no / digo o sea que / a mí me costiara cuando / venía / con el camión lleno / pero cuando venía con e / con un bille / este con billete nuevo / ¿verdad? / con los mazotes / que les llaman ahí Banco de México así los grandotes / unos mazotes llenos de / de bolsas grandes / y de / puro billete nuevo / la misma bolsa se / se abría porque / este / el / mismo filo del billete nuevo / te / te la abría la bolsa / o o se te resbalaba / y hasta te cortaba las manos el pinche billete / donde viene lleno así que viene bien / bien comprimido // digo no / eso sí costiaba pero y / eso viene / ya viene este bajo un este 
+
+E: no / y ellos ya saben quién maneja
+
+I: una relación / una ficha / y unos números este / y unos códigos que llevan le digo así que / no lo puedes no lo puedes robar nada o sea no le puedes quitar nada ¡hombre! / para cuando acuerdas viene / ya se está parando aquí la policía ¡hombre!
+
+E: sí / si se pierde un billete / de todas formas se dan cuenta 
+
+I: sí / uno porque todo sea / todo ese billete nuevo que viene ya viene / con su número de serie completo // y y este / entonces este / me dicen oye cuando estabas ahí en Banco de México / ¿y el billetes viejo? le digo no pos el billete viejo llega / cuando yo empecé ahí // este / empiezas a / te lo / ellos ahí mismo hay / personas que se dedican a / a irlo / poniendo en serie / y luego a ti te dan / de tal serie a tal serie hay que perforarlo / lo perforas / como confeti / completamente / y luego ya lo mandas a otra / a otro departamento a que lo quemen 
+
+E: o sea que no / no queda
+
+I: no quede nada 
+
+E: ¿cómo le harán ahora con el billete de plástico?
+
+I: pos debe ser en la / el mismo sistema / pos igual nomás / las maquinitas lo van haciendo confeti / lo hacen igual metiéndolo en la maquinita y / y lo van haciendo confeti / se devuelve y lo queman / ni vuelven a usar ni vuelven a reciclar / ese billete ya no sirve / nomás lo queman / lo mismo la moneda la van separando / la moneda que mucha gente lo machuca o la aplasta / o le da un martillazo o 
+
+E: o la clásica moneda que los niños hacen así ¿verdad? 
+
+I: ¡ándale! / así / que las hacen así ¡pas! / se hacen ovaladitas <risas = ”todos”/> / sí / pero no 
+
+E: la otra que se puso de moda cuando salió / el nuevo peso / que la gente le sacaba el centro y se lo ponía de collar 
+
+I: ¡ah! sí / el peso que tenía / como / era / era tipo bronce / el / el / la moneda / sí / sí me acuerdo de esa moneda / el centro era blanco ¿verdad? / y la orilla era amarilla / era la de / los diez pesos / y el peso / lo que no / lo que no / duró muy poco fueron unas monedas que sacaron ellos / de a cincuenta pesos / pero sí traían plata en el centro 
+
+E: ¿las de cincuenta / las grandotas? 
+
+I: unas grandotas que tenían plata en el centro
+E: sí
+
+I: esas las quitaron porque decían que toda la raza le estaba sacando la plata 
+
+E: y / mucha gente se la estaba guardando para coleccionarla 
+
+I: para coleccionarla exactamente
+
+E: de hecho mi hermano tiene dos / guardadas / le digo ¿cuándo las vas a usar? / no güey son plata 
+
+I: no / pero es plata muy / de muy baja / muy baja / muy bajo nivel o sea / no / no es una plata cien por ciento pura / trae níquel / trae antimonio / o sea no no 
+
+E: pues sí pero a la gente qué le importa / para ellos es plata / pues es plata
+
+I: plata / pues sí / sí no no la gente / piensa que no pero hay de plata a plata 
+
+E: la gente que no 
+
+I: es como el oro el oro el oro entre más / entre más este / más plata tenga es más suave / sí / porque un / un oro / el oro de ocho kilates es bien duro de a madre / casi fierro 
+
+E: y es más amarillo <risas = “E”/>
+
+I: y el de dos el de sí / pero ya estás hablando de un / de un este / de un oro de veinticuatro kilates / no pos ese oro está bien suavecito / te lo / hasta lo manejan 
+
+E: mjm
+
+I: hacen / hacen / hacen molduras y todo con / con ese oro / como en Guanajuato en Guanajuato hay muchas este / muchas iglesias / este / que está / que son de pura / de pura madera todo el / frente / que ahí es e / ahí está el altar / es de pura madera / este / pero / labrada ¿verdad? / y luego está recubierta con puro puro / puro puro laminado de veinticuatro kilates 
+
+E: ah sí / sí me tocó ver una vez / ir allá
+
+I: hay como unas cuatro o cinco / hay una que está allá por la mina Valenciana / esa / está laminada con / oro de veinticuatro kilates / y no te dejan tomar fotos no te dejan pasar nada de eso pero / todas / este todos los de / los pedestales de madera el / todo el frente de pura madera y todo forrado con puro oro 
+
+E: sí no es hermoso / digo y / a mí me tocó ver / que / que había unos pedacitos raspaditos / que la gente estaba 
+
+I: sí 
+
+E: para quitarle el oro 
+
+I: sí van y checan / no no no / ora ya no dejan meterte / que te pegues mucho allá a los altares nomás / ahí pues estar y / tomar fotos y todo 
+
+E: es que luego también hay mucho vándalo y mucho ladrón que / por ejemplo / lo que ha pasado allá en / se están robando / estatuas 
+
+I: ¡ah! / sí 
+
+E: de los altares 
+
+I: sí / sí / este / estatuas / este / copas de los shacerdotes / y todo eso / trafican ellos ¿verdad? 
+
+E: <tiempo = “15:57”/> luego los hacen y de todas formas 
+
+I: los relicarios y todo eso / no / eso lo venden / eso lo funden / todo ese oro sí hay / oro muy bueno que de por sí el oro de las copas es un oro de / de ocho kilates ¿verdad? de diez quilates / no sé cuánto oro le puedas sacar
+
+E: pues no 
+
+I: porque / más bien es / como chapado de / chapiados en oro del que / no se le puede llamar oro a eso / entonces / este no / mucha gente pos sí se va con la / pos sí es oro / no es oro / y no es que / es que va de oro a oro
+
+E: como la otra moneda que sacaron conmemorativa de / de cien pesos
+
+I: a la de cien 
+
+E: que trae oro y plata 
+
+I: oro y plata pero no te digo son / son / es oro y plata que / que no no / no llega / de oro y plata / más que un gramo o dos donde a ca- / a ca- 
+ 
+E: se supone que cuesta cien pesos
+
+I: sí / pos el gramo oita anda como en unos / trece o catorce pesos o / veinte pesos a lo mucho el gramo de oro / entonces este / no le van a echar más de diez pesos a una / una moneda / porque el costo de hacerla y de / de malquilarla y / y lo que lleva / el material que lleva pos no / no es para tanto 
+		
+E: por eso 
+
+I: / ojalá y las fundan 
+E: por eso a mí me tocó ver unas / monedas / de esas de cien pesos / pero hechas por joyeros / que esas sí eran de oro bueno
+
+I: sí 
+
+E: <tiempo = ”17.35”/> y de plata buena / pero obviamente no costaban <risas = ”E”/> cien pesos 
+
+I: no no / no no porque / a / a / en Banco de México tú puedes ordenar / tú puedes ordenar por decir / yo quiero una moneda de a peso / o de a cincuenta pesos / o de a cien pesos / pero quiero puro oro / o un centenario / ahí te lo venden 
+
+E: ¡ah! ¿sí? / ¿de oro?
+
+I: sí / o en el / en el Banco / en el Banco también te le pueden te / te lo pueden este / tú lo puedes ordenar oye yo quiero / quiero ordenar un centenario / en aquel tiempo / yo me acuerdo cuando había / estaba el Banco / Banco mercantil de Monterrey / y / ése / ése pasó a ser Banorte / pero / ése te vendía hasta / aretes / de con / como si fueran centenarios / pero eran aretes / este medallas / con puro centenario pero chiquitos grandotes medianos / como tú lo quisieras / anillos con un centenario / o con un peso Hidalgo / o con un / uno / de a cincuenta de Cuauhtémoc / ¿verdad? / quién sabe yo / pienso yo que sí que ora / lo han de seguir haciendo ¿verdad? 
+
+E: 
+
+I: porque pues / la gente / la gente que se dedica los / coleccionistas y todo eso / les gusta mucho / comprar y vender todo eso
+
+E: sí
+
+I: o irlo / guardando 
+
+E: yo ahí tengo / unos / cinco pesos oro / que me regalaron cuando era bebé
+
+I: ¿sí? 
+
+E: costaban bien / bueno / costaban caros pero bien poquito comparados con ahora
+
+I: ¡ah! sí 
+
+E: y si algún día llego a necesitarlo lo voy a vender <risas = “E”/>
+
+I: vámonos / no pos orita sí porque esos sí valen / ese sí es oro oro / esos los muerdes y se queda marcado / y si le muerdes y queda marcado / este / y ya pierde su valor 
+
+E: sí es lo peor
+
+I: y / la moneda / es oro oro y que es de colección / tiene que ir limpiecita y que no vaya golpiada porque / el que es coleccionista te dice no / que ya está golpiada / ya está marcada 
+
+E: te la compro pero 
+
+I: exactamente / son cosas que son / son cositas que a veces mucha gente no sabe ¿verdad? pero / uno porque estuve trabajando ahí y se dio cuenta de las cosas / yo tengo pesos esos / que me daban a mí para gastar chingada pero allá cada mes / mi papá yo me acuerdo allá en Linares / este / allá cada que quería o / a veces allá al mes / no hijo tenga / un peso / un billete de a peso / que traían el calendario azteca
+
+E: sí sí sí 
+
+I: unos rojos / tengo bastantes
+
+E: y duraban / la época en la que aguantaban un chorro ese billete de / de peso
+
+I: sí 
+
+E: y valía mucho un peso
+
+I: valía mucho un peso exactamente/ órale me daba / no / ¡olvídate! / ¡n’ombre! andaba yo encantado / yo tengo de esos billetes de a peso / de a cinco / de a diez de a / cien de a cincuenta / y así comprando yo ahí / nomás que te vendían toda la fajilla / no te vendían de a uno / quiero cien pesos de a peso / ¡órale! / ahorraba cien pesos / y órale // y ahí tengo yo billetes de esos viejos / porque sí costea tener muchos billetes de esos 
+
+E: sí / no todos los días se ve eso 
+
+I: no / ya si quiere billetes nuevos Banco de México te los hace pero / como los que te digo ¿verdad? / porque / en las casas de moneda aquí que hay por Morelos así / te dan billetes / nuevecitos / ellos los mandan pedir a Banco de México 
+
+E: luego ya te los venden carísimos
+
+I: sí / los venden más caros / uno de a veinte pesos te sale / te lo dan ahí como en unos / cien / ciento cincuenta pesos / tienen que sacarle ahí 
+
+E: pues sí 
+
+I: una buena lanita porque si no / no es negocio
+
+E: <tiempo = ”19:43”/> no / pos así es / así es la cosa / uno tiene que buscar por dónde y para qué 
+
+I: sí <risas = “E”/> / sí así / entonces este / así fue como yo anduve ahí trabajando / y me quité mi / de mi / de mi trabajo ¿verdad? / de lo que yo sí había estudiado / a mí me gustaba mucho cuando estaba chaval <observación_complementaria “ joven” /> la / la mecánica / me gustaba mucho la mecánica / sí porque trabajé mucho / mucho tiempo así en talleres mecánicos y / y / más / más atrás / cuando estaba chiquillo / le ayudaba yo a un tío mío a vender / tacos y a vender / lonches y / y a vender este / fruta y la chinga da / allá anduve yo / pero siempre me ha gustaba a mí la / la / el negocio de la venta y todo eso 
+
+E: ¿mecánico automotriz?
+
+I: y la mecánica automot- / sí en general / más que todo yo me especialicé / en lo que era sistema eléctrico / yo / cuando estaba estudiando / estaba trabajando en una / en una fábrica / donde hacían puras partes eléctricas / que estaba ahí por Félix u Gómez y Washington / que se llamaba Marino 
+
+E: ¿le molesta?
+
+I: no no / para nada / ahí hacían puras partes eléctricas y ahí estuve yo trabajando / pues viendo cómo se hacía el motor / cómo se hacía la armadura / cómo se hacían este / cómo se hacían este / los carbones / cómo se sacaba el cobre / todo eso de / estuve en el departamento de ensamble también ahí 
+
+E: o sea cómo se arma un auto desde 
+
+I: desde / pues los cables / los arneses de los cables / como lo que hacen a ora muchas / muchas maquiladoras que vienen aquí a / a a a / aquí a ponerse aquí en Nuevo León ¿verdad? / así como / este / Semens / fábricas como Semens como / varías ¿verdad? / que se dedican a hacer / los arneses para la Ford / para la / para la Nissan / para la Volkswagen / eso es lo que hacíamos nosotros ahí / fue una de las primeras / entonces / hacíamos pura parte eléctrica / lo que eran las marchas / alternadores / este / reguladores de voltaje / baterías / todo eso es lo que se hacía / carbono / todo eso / porta carbono / material de ese / y de ahí me empezó a gustar a mí la mecánica / y luego ya empecé a trabajar en una agencia / que se llamaba / la Vélez ahí en el centro / ahí por Washington y 
+
+E: todavía está ahí ¿no?
+
+I: todavía está / nomás que a ora se llama // Santa Lucia no sé cómo se llama /
+
+E: sí algo así 
+
+I: pero se llamaba Velez / por el / porque el dueño se llamaba / se apellidaba Vélez / Eduardo Vélez / era el dueño de / de esa / de esa / de esa agencia / el dueño era / le gustaba mucho la polaca <observación_complementaria = ”es una forma coloquial o despectiva de llamarle a la vida política”/> también / muy buena gente el señor / y ahí / pos como llevaban los carros de ahí de / de Servicio Panamericano ahí a // arreglar y / luego una vez un camarada / me dijo oye ¿no quieres trabajar ahí en Servicio Panamericano de mantenimiento? y que la chingada y mira que / sí le dije está bien / pos ¡órale! / sí / sobre todo lo eléctrico / está bueno le dije nomás que yo soy más eléctrico güey / yo me dedico a todo lo que sea eléctrico / no le dije está bueno / y así me pasé yo y luego ya estando allá dicen / faltó un elemento ¿cómo ves? / ¿te vas ahí a / de pistolero ahí a cuidar al del camión? / pos bueno está bueno y me / con la pist- / 
+
+E: 
+
+I: me dieron que la escopeta y todo / oye que vas otra vez porque fíjate que faltó otro / y / oye como que ya me empezó a gustar 
+
+E: <tiempo = ”23.55”/> y ¿a quién no le gusta portar un arma? <risa = ”E”/>
+
+I: / y oye / pos mejor déjame aquí con la chamba ¡hombre! / a toda madre aquí / para andar allá en la calle para arriba y para abajo le dije / sí / y ¡no! / me dieron la pistola / y luego me dieron el uniforme / oye pos cambié el overol por el uniforme chingado / y los zapatos de trabajo por / por zapatos acá de policía y / ¡no! // me decía mi señora no _____ para qué chingados / si ya te toca te toca le digo ya hay / digo / donde quiera hay riesgos / donde quiera hay / digo a mi señora pues / este / no le gustaba que yo anduviera así 
+
+E: ¿no? / y ¿nunca le pasó nada?
+
+I: no / eso no fíjate / uno / hubo una ocasión / que sí / sí la vimos muy cerquitas porque // este / ya nos estaban esperando para asaltarnos / ahí en / en Gonzalitos / y / Avenida San Jerónimo 
+
+E: ahí por mi casa <risas = ”E”/> 
+
+I: sí / ahí por donde / me acuerdo / por ahí vive / o sea / ahí donde está la alfarería Delgadillo 
+
+E: sí / sí sí 
+
+I: bueno / ése es muy amigo mío / estuvo conmigo en la / en la primaria / pero / enseguida / donde está el Serfín / ahí se llamaba / un Banco que se llamaba / Po- / Po- / Polibanca y Nova 
+
+E: sí sí sé cuál es
+
+I: Polibanca y Nova se llamaba / y luego ya / pos fue Serfín / y más adelantito / ahí por donde está el Cactus / por ahí / más adelantito está / había un Banco que se llamaba Banco del Atlántico 
+
+E: sí sí ya / hace muchos años 
+
+I: sí ya / ya no está / y nos otros el camión / ahí lo dejábamos / en medio del camellón de / de la avenida / total que en ese tiempo no había mucho tráfico ¿verdad? / podías pasar / porque nos teníamos que devolver allá al Hospital Muguerza / a dejar la raya del Hospital Muguerza / era un viernes / teníamos qué dejar la remesa ahí / oye pos no crees que ya nos estaba esperando una Caribe blanca / y / nomás que mi el otro / compañero mío / se llamaba _____ también / me dice ¡aguas! / espérate / y los chavos ¡n’ombre! / pos nomás vieron que se / que aquél se fijó y arrancaron / pero ya habían robado el Banco de atrás / ese / el que te digo / el Polibanca y Nova 
+
+E: nomás estaban esperando a ver
+
+I: sí / sí / y esto fue muy sonado porque ese / los toparon ahí en Constitución / y / entre el bol Obispado / y / el Banco que está ahí / el Banamex
+
+E: okay 
+
+I: por la lateral / y ahí / en unos condominios que están ahí ahí / ahí hay unos condominios así de ladrillos así como estos así pero de ladrillo amarillo / y el bato se metió y se dio un balazo en en / en la boca / y era / había sido un diputado / se apellidaba Montemayor / fue muy sonado eso 
+
+E: la verdad es que no me acuerdo de esa vez 
+
+I: sí / entonces / ése / fue un ex diputado que se apellidaba Montemayor / que se dio un balazo en la boca pero / él traía muchos problemas ya / económicos y / y se le hizo fácil / se encontró con dos pelados / de esos / bravos / y y / ¿qué onda? vamos a asaltar vamos a asaltar ¡órale! / otro lo agarraron casi a mediación de / de / de ahí de / del río Santa Catarina uno que / sí / sí / sí lo agarraron / no y / pero ese fue / esa fue la única vez que / que me tocó // que sí la vi cerquita / cerquitas porque sí / si yo no me fijo él no se fija al cruzar ¿verdad? / ahí me hubieran dado en toda la torre ahí 
+
+E: sí 
+
+I: sí
+
+E: pero lo bueno es que no pasó nada 
+
+I: <tiempo = “28:37”/> no no pasó nada / absolutamente nada de ahí / y de ahí para atrás nada / una volcadura que tuve acá por // por saliendo de Montemorelos / antes de llegar a Hualahuises ahí por una / una parte que le llaman La Cruz / ahí me voltié con el camión yo / nomas que esa vez / llevaba puro billete no llevaba morralla / lleva a poquito y / iba a dejar unas remesas a Linares / estaba lloviendo y / venía cerquita un trailer / ya lo que hice / sacarme tantito pero agarré tantito filo de la / de la / de la carretera / así de abajo 
+
+E: para abajo 
+
+I: para abajo / y luego estaba un / como un arrollo / y me fui para abajo / entonces me / me acosté así / no me voltié completamente nomás me acosté así de lado / pero / de ahí para el rial / no no hubo ni / ya no / más sustos ¿verdad? 
+
+E: y ¿en el taxi tampoco?
+
+I: no sí / en el taxi sí me ha pasado / bueno en el taxi / cuando de recién / agarré a unos muchachos aquí / donde está el / el Campo Militar 
+
+E: sí
+
+I: que antes hacían / no sé si te acuerdas que ahí hacían este / las e / feria / la feria de Monterrey
+
+E: sí sí sí
+
+I: ¿sí / bueno 
+
+E: me acuerdo / yo cumplo años el mismo día del 
+
+I: el veinte de noviembre 
+
+E: el quince de septiembre 
+
+I: no / de septiembre
+
+E: entonces yo decía que / que la fiesta de Monterrey era por mí no por Monterrey <risas = ”E”/>
+
+I: sí / entonces / ahí agarré dos cabrones yo // bien vestidos / o sea / muy bien bien arregladitos fíjate / en ese tiempo todavía no había ecos / eran taxis normales 
+
+E: ¿los amarillos?
+
+I: de / no no / no eran / amarillos eran este / eran taxis normales nomás traíamos una franja blanca 
+
+E: ¡ah! ya ya ya 
+
+I: ¿sí? / decía taxi / carros ecos / yo traía una / traía una Caribe / una Caribe roja modelo / ochenta y tres / modelo ochenta y tres la Caribe / entonces este / me pidieron una carrera acá para / el caballo de López Portillo acá / a la salida / no está bueno / ¿cuánto? no pos es tanto / cobro como veinticinco pesos / y se pararon en un Súper Siete y compraron unas / unas cervezas y a mí me compraron una coca y dije ¡ay! / muy bien / dijo bueno hasta aquí dijo ¡n’ombre’s que vamos más lejos nomás que ya no alcanzamos con la feria dijo / le digo ¿pos hasta dónde van? / dijo no pos vamos a la / a la Fraustro / dije ¿cuánto traen? dijo ¡n’ombre! ya nomás y / si acaso unos quince pesos / dije ¡n’ombre! está bien / está bien gacho ¡n’ombre! ahí / yo los llevo 
+
+E: como buen samaritano
+
+I: sí / oye pos no crees que llegando ahí dijo ¡n’ombre! métete por aquí para que / no vayas hasta allá / mejor métete por la brecha no pues está bien / no pos me metí por la brecha / confiando en ellos ¿verdad? / no pos ya nomas entramos a la brecha y todo bien oscuro y luego luego sacó una pistola / de la / traía así como un maletín el chavo / y sacó la pistola / y el otro acá posiblemente una navaja / le digo ¡ey! espérate güey / ¡n’ombre! ¿qué pasó? / no no no no / te va a llevar la jodida güey / dijo no no / aquí te va a llevar la chingada ya / total / párate ahí / no está bueno y me paro / ¿cuánto traes? / no / es todo lo que llevo / en ese tiempo yo trabajaba solo de noche / y llevo ochenta pesos / es todo lo que llevo / ochenta pesos / es todo lo que llevo / nada más / no pos total este / me quitaron el dinero / dijo no no pos / hasta aquí llegaste mano / nos vamos a llevar el carro le dije ¡n’ombre! llévatelo / llévate el carro / y en eso / dijo mira para que no / que sea / no somos gachos este / danos un teléfono güey / danos el numero de tu casa o de / alguna parte donde / podamos decir que / que vengan a recoger tu cuerpo güey porque orita / para que no te quedes aquí güey / sí así / así a la gacha el bato / no / pos ya me voltiaron y el / un cabrón sacó unos / calcetones / los cortó y me estaba amarrando / apenas me estaba amarrando / pero fíjate // estaba un ca- / una camioneta / tirando escombro / como que ya habían terminado de tirar escombro / y vieron la acción ya después de que me bajaron y que me estaban amarrando así / y el bato prendió las luces / de la camioneta y donde prendió los luces y vi que giraban /y ¡n’ombre! que los aviento / ¡no! cabrón / ¡n’ombre! fui y lo boté contra una / una cerca de púas y // y entonces la camioneta se movió y me fui siguiendo y siguiendo la camioneta así / iba despacito / y que me trepo a la caja / de la camioneta / le digo dale güey son asaltantes / dijo no no bájate yo no quiero problemas güey / bájate bájate / se paró el de la camioneta y dijo no no bájate bájate yo no quiero bronca / pero ya estábamos como / si acaso algunos / cien metros ya retirado la camioneta así del carro / y no pos me volví a meter hasta / hasta el monte / para salir a la colonia / yo ahí voy ahí voy / y este / todo espinado / ¡n’ombre! pero / ya cuando puse la denuncia que llegó la policía y la chinga dijo / mira nomás cómo andas / yo no sentía nada / yo no sentía dolor / yo no sentía / traía las pinches espinas aquí clavadas güey / aquí / espinotas pero grandes / este / pero / la misma / nervio la misma adrenalina chinga que traía este / el susto / el susto ¿verdad? de que no te hace sentir el dolor / no pos / ya llegamos y / y llegó la judicial y recogimos la camioneta / le quitaron el estéreo / este / se llevaron los cassettes / total ahí e / lo encueraron ahí / ¡no! está bueno dije / ya ni modo ya / ya como quiera ya la libré dije / pero esa es la única ocasión que / que me ha pasado ¿verdad? / pos sí han pasado otras cosas pero / que son / como llaman este / que te piñeas <observación_complementaria = “estafan o timan” /> / por decir ¿verdad? si tú ves / espérame tantito / oye vamos / al poco rato / oye llévame acá / oye llévame acá / está bueno / así me pasó con un cabrón / lo traje / desde las diez de la mañana hasta como las dos de la tarde / y ya me dijo ¿sabes que? nomás vamos a llegar ahí a / al Caliente que está ahí en frente de / de Cintermex / dijo y recojo mi maleta y la chingada ahí estoy en el hotel dijo y ya de ahí me llevas al aeropuerto / pos de ahí ya no volvió a salir el hijo de su pinche madre / jamás lo volví a ver / oye entró por el / el negocio del Caliente / y salió por la puerta que va a dar al hotel / y dije / y ya cuarenta minutos / si dijo que nomás iba a cobrar un boleto de una / que había ganado / una cosa que había dicho que había ganado / no dijo si aquí entró / y luego salió allá para el hotel / ya fui a preguntar a recepción oiga y / dijo sí sí salió pero ya se fue / salió por aquel lado / salió por el se fue por el restaurant 
+
+E: <tiempo = “31:09”/> pinche gente
+
+I: sí o sea / de esos / de esa gente así / me ha tocado ¿verdad? me ha tocado dos veces otro cabrón también ahí en / aquí en Cuauhtemoc y / y Colón / se metió al hotel ese que está ahí uno que se llama Sonmart / Sonmart tiene puerta por aquel lado / por la cuchilla / por donde se viene / el uno 
+
+E: sí sí sí 
+
+I: no salió para allá el güey y no me pagó / y también lo traje / un buen rato para arriba y para abajo y la chinga me dijo / no déjame recoger la maleta aquí güey para que ya me lleves a / me dejes aquí en la central ¿no? / sí le dije / está bueno / y ahí te pago / no anda vete / me chingó 
+
+E: son de esas personas que no tienen / escrúpulos
+
+I: no no son / gente que no / a eso se dedican / es / es su modus vivendi de ellos / andar chingando gente
+
+E: no tienen otra cosa que hacer
+
+I: no / no tienen otra cosa que hacer nomás que andar robando / te digo / aquí te encuentras cada cabrón que / nomás que pos ya la experiencia que te va dando el / el trabajo de andar ya varios aquí / este / pos ya más o menos vas sacando a la gente ¿verdad? / éste sí este no 
+
+E: éste puede que 
+
+I: éste puede sí ¿verdad? / exactamente / chinga madre me da mala espina el cabrón éste / y yo soy de las personas que / cuando se sube alguien / luego ama luego empiezo a hacerle plática 
+
+E: ¿por qué?
+
+I: pos eso me lo / me lo enseñó un un / un buen amigo que me dijo / tú cuando subas un cabrón / hazle plática / dijo porque / ponle que a la mejor si te va a chingar no te va a decir / lo que va a hacer / no te va a decir lo que va a hacer o no / no te va a decir que vive aquí ni te va a / dijo pero aunque sean puras mentiras dijo / puede haber algo que que / sí lo puedes relacionar y si lo puede a uno chingar / aunque sean puras mentiras alguna verdad te tiene que echar / te tiene que decir güey 
+
+E: sí como dicen la mentira la verdad se asoma 
+
+I: sí / entonces / siempre traté de hacer / y sí / y si dice quíubole / qué tal de calor / qué tal de frío y que / o / ¿cómo va el / trabajo? le digo ¡n’ombre! ahí va / ahí va jalando / no decirle ¡no! me ha ido con ganas llevo quinientos / llevo setecientos / o / está muy jodido / no le digo ai va / ai va jalando / ai va muy despacio / no está bueno y la chingada / y ya empiezo a platicar con el / ¿de dónde eres? y la chinga / ¿dónde vives? / o ¿en qué jalas? / ¿vas para la chamba o? / ¿para dónde vas? / ¿vas a ver la novia o qué? / acá para 
+
+E: a mí me encanta platicar cuando me subo a / a un taxi 
+
+I: ¿sí?
+
+E: me encanta platicar / y luego a veces uno / uno va callado y viendo para la ventana en el camino 
+
+I: sí / y hay unos que / tú les haces la plática / y dicen sí / no / sí / no / no / cabrón / no te quieren hacer plática o sea / muy // muy serios ¿verdad? / no no / le digo ¿para dónde vas? / no no / acá para el centro / ¿al jale o qué? / ¿o a ver la novia? / no no no / voy a dar la vuelta / está bueno / le tienes que sacar haz de cuenta que le estás sacando las / la las este / las palabras este / no sé a la fuerza ¿verdad?
+
+E: nunca falta alguien así / que no quiera hablar o / que le estás diciendo algo y luego luego se enoja 
+
+I: <tiempo = ”34:42”/> sí pero siempre / platico así con ellos / no yo soy esto / y yo soy otro le digo no pues / está bueno / y conozco mucha gente / sí / sí conoces mucha gente / ahí / que te cuentan a veces broncas / problemas / mujeres también / ¡no! ya mi viejo ya no le / ya no quiero a mi viejo que la chingada / que me golpea y que la madre <observación_complementaria =coloquialmente se usa como etcétera“/> / ¡n’ombre! / ¿a poco la golpea? / ¡n’ombre! / déjelo / uno también de cabrón que le dice / y ¿por qué? / ¿o qué? / y ahí empieza a platicar / hay gente que te habla de ¡no! / tengo un hijo muy malo / también me tocó la otra vez una señora que / que al Hospital Civil y que / ¡n’ombre! tengo a mi esposo bien malo / de cáncer y / y que esto y que el otro y / ni dinero / cosas muy tristonas ¿verdad? también te pasan ahí que / chingada madre pobre gente / que viene de los ranchos y viene / a / a / pasar / aquí / penalidades / a sufrirle 
+
+E: por lo menos / por lo menos este / pasan un rato 
+
+I: sí / ¡n’ombre! y así / ¡no! dijo ya tengo / esa señora yo me acuerdo que me decía que ya tenía casi un año aquí / nomás iba al rancho iba y venía / iba al rancho y venía y / sus hijas estaban aquí / pos le daban ahí para // dijo ¡n’ombre! tengo que andar aquí / en Cáritas tengo que andar en / en albergues o sea / en dependencias donde / me den la mano para el medicamento y / que no me cobren tanto y la chingad a / le digo no pos así es la pinche vida le digo a veces / a veces está bien y a veces son / son tragos amargos ¿verdad? de que / hay que saberla sortiar le digo no todo / no todo es color de rosa le dije / está cabrón
+
+E: y ahorita / hay que cuidar la chamba
+
+I: sí no no yo tengo / mi muchacho / orita ya no quiso estudiar / se salió de la prepa y se salió de aquí de la uni <observación_complementaria = “se refiere a la Univerisidad Autónoma de Nuevo León”/> / se salió de la prepa y luego se salió de la uni / ya no quiso estudiar / y se puso a trabajar en un Oxxo <observación_complementaria = “tienda de conveniencia” /> / ¡no! pinche Oxxo / lo asaltaron como cinco veces / ¡n’ombre! / orita anda trabajando en lo que yo trabajaba / ahí en Servicios Panamericanos 
+
+E: ah okay 
+
+I: pero / duró mucho tiempo sin / le digo no hijo es que necesitas estudiar cabrón porque / le digo / tú tienes toda la ventaja cabrón que / pos lo único que te pedimos es que / que estudies güey / ya que estudies entonces ya te pones a trabajar / orita no no hay necesidad que / que estudies y trabajes güey / tú no tienes necesidad de eso güey / pero porque / tu mamá trabaja y yo trabajo / mi señora es maestra / entonces este / le digo tu mamá trabaja / yo trabajo y / pos no / no digo que me va mal / sí me va bien / digo de perdido / los tres mil pesos / tres mil quinientos por semana sí me los levanto le digo / entonces este / puedo / ¿verdad? podemos darles estudios pero / échale ganas / nomás que el error es de que / por decir este / le das la libertad de que / no voy a estudiar pero también quiero trabajar porque / pos quiero sacar un carrito para llevar la novia acá o / ya con amigos o la chingada a dar la vuelta / le digo bueno yo te puedo dar tanto güey le digo / ¡no! es que güey / no pos / te estoy dando la escuela pero / aparte te doy tu / tu feria pero no no no abuses güey / entonces empiezan a sacar dinero ellos a agarrar lana a agarrar dinero a agarrar dinero / y empiezan a hallar sabor al / al trabajo / al dinero ¿verdad? / de lo que trabajan / ¡no! ¿para qué chingados estudio? / aquí está con madre / no no / no quiero estudiar 
+
+E: <tiempo = “43:43”/> hasta que empiezan a vivir solos
+
+I: hasta que no empiezan a / es lo que yo le digo mira / al rato que estés tú solo / le digo porque / no siempre vas estar mamando de la ubre mía güey / pos está cabrón / le digo y / se hace pellejo la ubre güey / ya ya después no le sale nada / ¿eh? / y al rato / yo te estoy pagando estudio pero al rato si tú vas a estar aquí / tienes que gastar de tu dinero porque yo voy a estar jodido estoy más viejón y / y no ya no voy a poder / que tú tienes que hacer tu / tu propia vida le digo / tienes que ir formándote poco a poco / y vas a empezar ¡chingada madre! / tenía razón papá / tenía razón mamá / ¡chingada madre! / no le hago / le d conozco mucha gente que / chavos que se casan van con el papá y con la mamá / oye mamá / pos préstame para el / para el recibo porque no completé / o préstame para esto para el / la leche del niño porque no / oye / cuídame el niño porque ya / no tengo para pagar la guardería 
+
+E: yo tengo un primo que / dejó la escuela / nomás que él tuvo suerte / dejó la escuela pero se / se dedicó a / a lo que él / a él le encanta o sea / climas y demás / y vive en Mérida / es lo que hace allá 
+
+I: no / eso es con madre / no ¡olvídate! 
+
+E: un negociazo / tuvo suerte
+
+I: sí
+
+E: pero 
+
+I: exactamente / tienes / bueno / si no quieres estudiar una carrera profesional ¿verdad? / le digo estudia una carrera técnica güey / ya sea mecánica / refrigeración / este / electricidad / e máquinas y herramientas / e / radio y televisión / este / computación / para que repares computadoras / orita es lo que está más o menos / hay más movimiento 
+
+E: sí de echo orita / negociazo con / que me parece muy bueno son este / reparan computadoras a domicilio 
+
+I: ¡ándale! 
+
+E: pones tu anuncio en el periódico y
+
+I: trabajan en una compañía / y aparte salen de su trabajo / y se echan sus billetitos acá / sus extras
+
+E: ganan buena lana 
+
+I: sí ganan lana yo tengo un amigo que / que juega conmigo futbol / y este / y él este / ¡n’ombre! vieras qué / qué listo es para / ese jale / él / él está encargado de de / del sistema de / de ahí de / ¿cómo le llaman? de / de informática de ahí donde trabaja ¿verdad? / y él le da mantenimiento a todas las computadoras / y termina / le digo oye fíjate que mi computadora que tengo en la casa fíjate que esto y esto / ahí voy orita / va y la arregla y la chinga / y a mí me cobra lo que es este / pero a mí ¿verdad? pero / otro cabrón le dice no / a todo le cobra cuatrocientos quinientos pesos / pero / una vez estuvo ahí en la casa con una / con la computadora que no le hallaba y no le hallaba y no le hallaba / no te miento pero se fue como hasta las doce de la noche / hasta que ya la dejó jalando 
+
+E: ¿ya jala?
+
+I: ya jala / ya está jalando / no / pusieron esto esto y esto / se metieron mal en esto y esto dije ¡ah cabrón! / le dije no / estás diciéndome / soy una papa güey / de eso no sé nada de eso / ellos son los que saben / los muchachos / no está bueno / y dijo no te voy a cobrar tanto / está bueno / pero / es lo que yo le digo a mi muchacho le digo / el otro / que esta aquí también estudiando / este / la carrera de de / ingeniero en e / ingeniero mecánico en sistemas / en sistemas computacionales no sé qué / ése ya dejó la / escuela / iba muy bien / no había dejado ni una pendiente ni nada / y de repente dijo no ya no / el segundo / el de en medio / orita está estudiando para chef 
+
+E: muy bonito
+
+I: sí / orita lleva / ya lleva un a / ya nomás le falta un año para recibirse de / de chef / ¡chingada madre! digo / a veces que yo digo / cómo no piensan bien l / lo que quieren güey o sea / porque / ese dinero que se gastó ya ya se chingó ya / ya no lo vuelves a recuperar / ni tu tiempo cabrón / porque tú ya estuvieras recibido / si hubieras dicho / ¡eh! / que voy a estudiar para chef / luego luego / yo voy a estudiar gastronomía luego luego / oh qué bueno / pero / empiezas acá y / no pos / ahora voy a estudiar esto / no le digo no pensaste no pos es que / pos este cabrón cuando empezó / dijo no yo voy a estudiar para piloto / no / hijo de tu pinche madre le digo no le digo yo / ¿cómo le vamos hacer con este güey? / fui a preguntar / no piloto privado vale / el curso vale / cincuenta mil pesos / más mil quinientos la hora vuelo / hijo de su pinche madre 
+
+E: <tiempo = “48:15”/> como cincuenta horas de vuelo 
+
+I: cincuenta horas de vuelo / hijo de tu madre / bueno le digo / pos ahí despacito güey / no dijo ¿sabes qué? / siempre no / ¿sabes qué? / me voy a meter a la uni / no pos bueno se metió a la uni y pasó el examen
+
+E: 
+
+I: dijimos / qué bueno que lo pasó / y / y para los dos años / ya no quiso nada / no / es que está / entre más más está más difícil / es normal hijo / entre más / más va / va subiendo 
+
+E: más difícil se pone 
+
+I: más difícil se va a poner güey 
+
+E: yo estudié / diseño grafico 
+
+I: ¿sí? 
+
+E: diseño grafico y publicitario / ¡n’ombre! primero era hacer puro dibujito 
+
+I: sí
+
+E: ya después era pensarle y / dices ¡ay! ¡no se me ocurre nada! <risas = ”todos”/>
+
+I: sí / no a veces que dicen este / o / o te ponen a hacer un trabajo / que tienes qué diseñar esto que tienes que diseñar lo otro / diseñar / no / no ¡hombre! / y bueno maestro pos / este / tú vete / asesorando con otros y la chingada / y ahí vam- / y ahí la vamos viendo le digo 
+
+E: sí / los maestros para eso están
+
+I: sí / oiga maestro ¿cómo le hago acá? y la chingada / chingado le digo bueno / le dije ya usted sabe le dije pero nomás que no terminar después / el otro ya / ya dejó la escuela / dijo no yo no / ¡chingada madre! / y este fue en la / a la Electrónica Monterrey y nomás un año / y este estaba estudiando eso de / Sistemas Computacionales / la carrera que tienen ahí técnica / le digo termínala güey te falta un año güey / termínala / no sí / no sí / pero no te dicen cuándo / o sea no / porque no son malos mis hijos ¿verdad? son / no / no son / no son muy contestones ni / ni nada o sea pero / sí papá está bueno / sí / sí / pos sí / pero no te dicen cuándo es el pinche coraje que le da a uno / nomás dices sí pero no dices cuándo cabrón 
+
+E: y luego y luego también / a mí me pasó / yo tengo / hace poco que me gradué diseñador / y que / que sientes vocación pero que / o que batallas o que / o que repruebas y te vas retrasando / yo conocí a un chavo de ahí de la carrera / tenía / estaba retrasado tres semestres / los padres creían que se iba a graduar el semestre siguien- / el semestre que venía / pero le faltaba otros tres / yo le decía güey / ¿qué le vas a decir a tus jefes <observación_complementaria = “forma coloquial para padres” />? 
+
+I: no / así me pasó a mí con éste / con el mayor mío / cuando en la prepa / entró a la prepa / no ya lo pasé y que la chingada / voy a estudiar / qué bueno / no / que / pos una vez este / me salió una carrera allá por la prepa dos / y lo vi en la calle al güey / en la mañana 
+
+E: en la madre 
+
+I: como a las diez de la mañana ahí echándose una coca / ¿por qué no estás en la escuela tú güey? / no es que / no vino la maestra y nos salimos antes // me quedó / la espinita <observación_complementaria = “duda” /> dije no / ¿sabes qué? yo voy a preguntar / no pierdo nada con preguntar 
+
+E: no 
+
+I: ya fui / abrió la puerta y me dijo sí dígame señor / dije oye ¿puedo pasar alla a la / ahí a la / a la dirección? / quiero checar este / a ver por qué este muchacho mío anda aquí afuera / ah dijo sí pásele / dice que no tuvo clases / no el bato no entra dijo / dijo el pinche guardia dijo / ¡n’hombre! que los batos son bien cabrones / se ponen ahí y no entran / ¡ah! está bueno / yo voy a entrar / vente güey / dices que no vino el maestro ¿verdad? / que iban a salir temprano / no pos ya / empezó a cambiar de color 
+
+E: sí
+
+I: le digo oiga / este muchacho anda afuera / en vez de estar aquí en la escuela / el el / el prefecto / nomás donde lo vio dijo / está suspendido / este muchacho está suspendido / tiene cuatro materias reprobadas / ¿cómo? / hijo de su pinche madre / ¿cómo? / oiga sí / ya le di para el segundo semestre / ya pagó / en el banco yo pagué / no sí me dijo sí han pagado pero / está suspendido mientras que no que no no no / no pase las materias que tiene pendientes / no puede pasar al / al segundo semestre / dijo y es más / él viene / de noche lo cambiamos de turno / ya perdió el turno de la mañana / y este está / lo pasaron al turno de la noche / dijo / dije oiga / qué cabrón / sí lo mandamos con pinche carro se lo damos a él para que / lo llevara él // ya me enseñó mire / esto esto y esto lo tiene reprobado / dijo no se preocupe dijo / ese señor que está al lado / dice tiene una hija / él viene y la deja dijo / en la pinche puerta la güerca <observación_complementaria = “muchacha” /> entra / nomás se va el papá y se sale / nunca ha entrado a la escuela dijo / y ahí está el señor viene a verla / a ver cómo va / ya la pescó en la maroma dijo / aquí ni / nomás se registró pagó pero / no entra / nunca ha entrado a la pinche escuela dice / y tiene / un año y medio / haciéndole así / y ellos en la creencia de que ya / está en tercer semestre que ya / que ya va a salir / dijo no si / esa güerquilla salió pior / dijo éste de perdido está suspendido / le digo sí / pero ya nomás dan las doce doce doce y media / y ahí va para la casa / llega él y luego llega mi señora de la escuela y le / ¿cómo te fue? / no bien dice / hijo de su pinche madre / no / yo me fui derecho / a dejarlo dijo ¿qué pasó? / no éste / suspendido / y ya pagamos los libros / y ya pagamos este la / otra vez el pinche banco / y el señor ahí a toda madre / y yo le doy los cincuenta pesos diarios / y va y se mete una sodita / y va y se pone a jugar una cascarita ahí afuera / afuera de la prepa / a toda madre / se aventó la prepa en cinco años ese cabrón 
+
+E: <tiempo = ”54:43”/> a mí me pasó algo parecido
+
+I: en cinco años / le echaba yo cábula y le decía / ya te ven como profe güey ya no te ven como alumno cabrón <risas = ”E”/> / ya después ya lo agarraba como / como guasa / en pláticas a veces le digo si este güey / ya entraba ahí a la / a prepa y le decían ¡ese profe! / cuál pinche profe si vengo / vengo a presentar las que tengo pendientes güey <risas =” todos” /> / y a veces / ya vas a empezar / ya vas a empezar / chingado tú / no y porque me vas a quemar <observación_complementaria = “delatar” /> / es que te la aventantes en cinco años güey 
+
+E: ya era dinosaurio 
+
+I: hijo de su pinche madre / de tener / los primeros lugares / en la secundaria eso es lo que veo / yo siempre / digo ¿cómo es / cómo se / cómo se / este / se voltean los muchachos / porque lo que / fíjate el muchacho mío tenía / primero y segundo lugar / primero y segundo lugar / en primaria también / por eso les digo yo / ustedes son como los pinches / perritos que siempre tienen en la casa / nomás adentro / y nomás ven que abren la pinche puerta y salen / de volada hechos madre / así son ustedes que / en secundaria los tienen bien ordenaditos así / con el uniforme que zapatos limpios y que / y ya acá en la prepa pos ya van con gorra y que van / en shorts y que van en tenis y que / van en guaraches y la chinga da / y se distorsionan completamente hijos de su pinche madre porque piensan que / que el mundo es suyo / ya agarran el pinche cigarro / ya están fume y fume y / y este y / acá haciendo su despapaye <observación_complementaria = “relajo” /> / y ya / hasta le / le faltan al respeto al maestro / ¡ay no! / este Gutiérrez es un méndigo / y que este y el otro son muy gachos / con Mario / no que me tocó con el otro / es una falta de respeto / los maestros 
+
+E: bueno / digo / por lo menos no les pasó lo que me pasó a mi que / en el último semestre / en el ultimo / semestre de la prepa / me valió madre / no sé que me pasó / me valió madre / y nos salíamos de la escuela pero no nada más / fuera de la escuela nos / luego ya / agarré ora sí el camino y / me corregí ese mismo semestre pero no / no la libré / tuve que llevar segundas y terceras 
+
+I: pero ¿sí terminaste la prepa? 
+
+E: sí / afortunadamente sí
+
+I: ah / y eso sí los míos terminaron la prepa / los dos han terminado la prepa muy bien 
+
+E: bueno de hecho a nosotros nos cachó la policía 
+
+I: ¿sí?
+
+E: sí / estábamos / estábamos chupando en vía pública y 
+
+I: sí no pos vas para adentro 
+
+E: nos levantaron nos metieron al bote / a unos güeyes los fueron a recoger / a mi mis jefes fueron a verme / ¡chupando en vía pública! / mira ¿sabes qué? / ahí te quedas / y yo ¿qué? / ahí te quedas 
+
+I: ahí quédate
+
+E: fueron dos días
+
+I: ¡ándele! para que sienta la piedrita que está ahí <risas = ”todos”/>
+
+E: y yo / no quiero volver ahí 
+
+I: no / no / no pos está cabrón / no digo / fíjate yo / no es por nada / pero a mis cuarenta y ocho años le digo yo a mis hijos / ni por una pinche miada <observación_complementaria = “orinada” /> le digo / ni por una pinche miada me han metido al bote <observación_complementaria = “cárcel” /> / yo no sé lo que es el pinche bote le digo / nunca jamás he sabido lo que es / una vez entré al penal de los chavos pero fui a jugar futbol y nada más / y salí güey / y salí casi encuerdo porque me quitaron el bate / me quitaron el guante me quitaron la gorra / me pedían el pinche uniforme ¡eh! déjamen el uniforme y déjame el guante y que la chingada / ¡órale! güey está bien / pero pos yo ya sabía que iba ahí / y un amigo me dijo eh güey llévate un guante viejón y / y llévate un uniforme viejito güey / porque no vayas a llevar el bueno porque / ahí te lo van a querer bajar ahí los 
+
+E: sí // y luego 
+
+I: sí / oye / orita que te vayas me dejas el uniforme / sí güey está bien / oye me dejas el guante 
+
+E: pero como quiera porque luego uno sale y / caite 
+
+I: sí / pero como cuando vas a jugar ahí futbol / este / están los vigilantes los guardias / viéndonos / y si ven que alguien que / te quiere chingar ¿qué onda? / a ver / no / no hay bronca <observación_complementaria = “problema” /> / no le digo es que me pidió la gorra y me pidió el / ah / le digo no es que se la voy a dar ahorita que termine el juego / no / está bueno / ¿tú se la vas a dar? / ¿porque tú quieres? / sí / sí se la voy a regalar 
+
+E: ¿no te está amenazando? 
+
+I: no no / nada / y así / pos ya le dejas la gorrita le dejas el guante 
+
+E: digo los mantiene el estado pero de todos modos están fregados
+
+I: sí / están jodidones / sí / les pagan una madre / les pagan / el día se los pagan parece / como a diez doce pesos diarios
+
+E: <tiempo = ”59:19”/>si 
+
+I: por trabajar ahí
+
+E: les pagan mal
+
+I: sí sí / todos los cabrones que trabajan en los ahí / o en la soldadura y todo eso / les pagan una madre ahí / bien jodidos de a madre 
+
+E: ahorita me estaba diciendo de su familia / ¿usted dónde vive?
+
+I: yo vivo / en Riveras del Río acá en Guadalupe 
+
+E: Guadalupe / y ¿está bonito para allá? 
+
+I: está más o menos / o sea / es una colonia / e / tranquila
+
+E: tranquila
+
+I: tranquilona / más a / más de aquel lado / hay una colonia que se llama Infonavit la Joya / ahí si está cabrón / ahí / pero sí la colonia mía es / es más o menos buena ¿verdad? / es de las tranquilitas de ahí de Guadalupe 
+
+E: ¿no hay / no hay desmadre <observación_complementaria = “desorden” /> / no?
+
+I: no / no no de que / pandilleros / o de que haya pandillas ahí no / hace mucho sí había muchas pandillas pero eran / por el lado de ahí de la Joya pero / como ya esa gente ya se fue / ya fue creciendo 
+
+E: sí y ahorita pasan a los niños
+
+I: a los chavalos entonces / ya / la gente que vive ahí en esas colonias ya es gente grande / ya los hijos / este / ya se casaron y se fueron a vivir a otras colonias para allá para / para Villa Juárez que / para Valle Soleado de por allá a otros / y se / se empieza a hacer la / el desmadre en esas colonias nuevas 
+
+E: sí / ahora / es que casi siempre es así / cuando hay colonia nueva empieza la / el desmadre de los chavos / pero cuando se acaban los chavos / se acaba el desmadre 
+
+I: sí / digo mayores ¿verdad? / hay orita / hay unos cabrones ahí que / unos güeros que ¡ay! cabrones / eran como la mera rechingada / eran como la mera rechingada y total que / que ya que ya crecieron ya un cabrón ya traía un taxi / y el otro ya bien ya / ese cabrón estuvo en el bote uno de ellos / ya salió del bote y ya está jalando ya / mi carrito / le digo ¡ándale! güey qué bueno 
+
+E: salen de la correccional para bien 
+
+I: sí / y a mí a hace a ca- rato cuando yo recién llegado a esa colonia / vieras cómo me chingaban el carro / estéreos // bocinas // pero / me los fui ganando / me los fui ganando porque después / pasaba por ahí / y este / oiga / pásenos ahí para / para el arbitraje / <observación_complementaria = “sirena” /> o regálenos un balón le dije ¡n’ombre! te voy a traer un balón de allá / de allá / del banco güey / y luego ahí sacaba / en el banco compraba balones y se los traía / o / o los regalaba para el / para el arbitraje / dijo oiga denos una cooperación ahí para unas camisetas o unos shorts / pos ¡órale! güey / y / y pasé yo a / así a casa por casa ahí con los vecinos le digo oye pos fíjate que aquí / son estos güeyes de aquí hombre / este / andan pidiendo una cooperación para hacer unos uniformes / se los regalamos nosotros ¡hombre! ¿qué tal? / y hablamos con ellos miren aquí están los uniformes / oye / santo remedio 
+
+E: sí / así es
+
+I: les empezamos a regalar este / unos uniformes / unos balones / y ya después / oiga don _____ / este / ¿cómo ve? / échenos la mano con unos picheos / sí / déjame voy / y jamás de los jamases / nos volvieron a robar / porque donde no nos robaban adentro de las casas siempre nos robaban en los carros / en los pinches carros / una ocasión me / me robaron a mi otra vez / y ya les hablo y la chingada / ya fui con el pinche güero / ¿qué pasó? / anoche me chingaron ¿quién sería? / anoche me chingaron el estéreo un cabrón / dijo n’ombre espérese / yo se le // yo les saco a ver quién fue / no pos // a los dos días me dijo ya sé quien fue usted no se preocupe / al tercer día / me llevó un estéreo / me llevó unas bocinas / y me llevó un / ecualizador / en aquel tiempo se usaban ecualizadores no eran / ni / eran ecualizadores / dijo tenga don _____ / no le dije este pinche estéreo no es el mío güey / no no / no / no hay pedo / dice mientras le quitamos a aquel güey el suyo / dije sí pero este no es mi estéreo / dije no ya hablamos con él / pinche güey / él se porta bien cabrón / yo pasaba para allá y / y le regalaba para las caguamas / ¡órale! cabrón / jugar y ¡órale! una o dos caguamas ahí les van 
+
+E: luego esos güeyes a veces se comportan así porque creen que nadie los quiere
+
+I: <tiempo = ”63:54”/> exactamente 
+
+E: 
+
+I: y / y aparte yo me / me quedaba con ellos a veces ahí juga- / ahí platicando ¿cómo les fue? y la chingada ¡n’ombre! / o a veces iba / al pinche campo ahí / al río Santa Catarina ahí jugaban / ¿dónde van a jugar? a orita voy y les echo porras / y / y nos íbamos dos tres vecinos vamos a echarles porra a estos güeyes / y ya les comprábamos las sodas ahí y la chingada / no a toda madre / ¡órale! cabrón / y abusados con mis chavillos güey / decía no está bueno / no no que aquí anden que aquí los cuidamos nosotros / se iban al parque mis chavos ahí a los resbaladeros mis chavos que ahí andan / no / aquí los cuidamos y la chingada / te los fuiste ganando cabrón / y fíjate / yo tengo ya viviendo / veintiocho años ahí en / Riveras del Río / está detrás de la Coca Cola / y / jamás de los jamases me han robado ya / jamás / nunca me ha faltado nada / y a veces ya / a ora ya están casados los cabrones y la chingada y pasan ¿cómo le va don _____? / y así me dicen don _____ ¿cómo está don _____? / le digo a toda madre / pero / así me los fui ganando o sea / y / y yo con la / ahí en la colonia pos yo siempre me gusta hacer / hacer / convivios y platicar / cuando yo llegué a la colonia / también así / empecé / oye no nos conocemos ni una chingada y / y a mí siempre me ha gustado el béisbol / conozco ahí vecinos con los que / ahí con unos más o menos platicando / oye vamos a hacer un pinche equipo de futbol los vecinos / oye pos un día me agarré un domingo / casa por casa oye ¿no quieres jugar futbol? / no / pos que sí / no pos que yo no / ¡n’ombre! me encontré con un pinche piloto / me encontré con un tenista / así / no dijo / me encontré con un piloto dijo ¡n’ombre! pos yo / ese pinche juego a mí no no / no me llama la atención / yo soy piloto güey entonces le digo tú eres de otro pedo <risas = ”todos”/> / de otro pinche nivel no / no está bueno le digo / pero así me fui casa por casa 
+
+ 
+E: no sabía de futbol el güey <risas = ”E”/> 
+
+I: sí / total este / oye hice un pinche equipo / hice dos equipos de fut- / de softbol / ya ganamos y no / y así / todos los domingos nos juntábamos nos poníamos ahí a jugar y la chingada / cuando terminábamos y cada quien para su casa / o nos echábamos ahí un cartoncito o dos de cerveza y / ora sí vámonos / pero en diferente casa / ora vamos a estar en la casa de / Óscar / ora vamos a estar en la casa de / de allá de Jorge / ah está bueno / pero ya nos fuimos conociendo 
+
+E: y ya se fue yendo mejor la cosa
+
+I: sí se va viendo bien / porque oye ya nomás ahí a la pinche colonia y / nomás entrar y / quíubole quíubole quíubole <observación_complementaria = “forma coloquial para preguntar qué pasó” /> no no / ¿qué es eso? / hay que estar en / convivencia / eso es lo más bonito / estar en convivencia / vivir de / vivir tranquilo / sin que / te pase nada / digo no te quitan / pos el hecho de que tú / tú tú quieras convivir con la gente o la chingada no es porque / mañana o pasado les quieras pedir algo / o quieras sacar algo de ventaja no / no le digo simplemente nomás platicar y / y convivir 
+
+E: pues sí / luego también pues / se pone muy bueno porque / luego los vecinos con carnita asada y todo es muy bueno / o o la clásica tamaliza de fin de año 
+
+I: exactamente / no / pos hacemos pachangas y / ahí oye / se acabó la temporada no que / nos otros llegamos a ser campeones ahí / después de no saber nada ¡n’ombre! había un cabrón que / es mi compadre ahora / mi compadre Joaquín ahí / ese cabrón este / cuando empezó a jugar / y lo metí a / a fildiar / oye le fue un pinche batazo / oye corrió y corrió y lo agarró / tenía corredor en tercera y en segunda le digo / tírala / pero yo le digo que la tirara para acá para home ¿verdad? / ¡tírala! / y la agarra así y la tiró ¡ya la tiré mira ya la tiré! <risas = ”todos”/> / chinga tu madre <risas = ”todos”/> / le digo ¡tírala! ¡tírala! /¡ya ya la tiré ya la tiré! / ¡no güey para acá güey! <risas = ”I”/> hijo de tu pinche madre 
+
+E: bueno al menos <risas = ”todos”/>
+
+I: hijo de tu pinche madre ¡n’ombre! <risas = ”I”/> / ¡n’hombre! / ya después lo agarrábamos de chascarrillo ¿verdad? y // y todavía hasta la fecha de esa vez / te dije que tiraras la pinche pelota / ¡ay! ya chingar pinche compadre ya no te voy a chingar / pero ahora juega muy bien el güey 
+
+E: uno se va acostumbrando / vas aprendiendo 
+
+I: sí / y / y vas agarrando cositas ahí vas / vas haciendo cosas o sea / después te / te ríes de lo que haces / te la pasas / bien tranquilo a toda madre
+
+E: <tiempo = ”68:30”/> ¿usted es sultán?
+
+I: yo le / sí bueno le voy a los Sultanes / a los Sultanes / y en el futbol le voy a las Chivas 
+
+E: a las Chivas 
+
+I: sí a las Chivas rayadas del Guadalajara 
+
+E: mi abuelo era Chiva
+
+I: sí / no yo soy Chiva / mis hijos uno es Tigre y otro Rayado / el mayor es Rayado nomás que este güey / es apasionado de más / ese güey nomás / pierden los pinches Rayados y no le hables / se mete a su recámara y no
+
+E: a llorar <risas = ”E”/>
+
+I: a llorar / ¿cómo le fue a los Rayados? / no perdieron / se encierra en la pinche recámara <risas = ”I”/> / y el de en medio / es Tigre y no ese güey / que no perdieron dice ¡ah! / perdieron / ya sé 
+
+E: ya lo sabe <risas = ”I”/>
+
+I: ese güey es Tigre pero no no / no se apasiona / le digo no te apasiones güey / tú te peleas / por el pinche equipo aquí / y te pones a agarrar a chingazos a lo mejor / y los jugadores / ya que se acaba el juego güey / y al rato los ves juntos allá en un pinche / en una disco o en un antro como le llaman ahora antes eran discos ahora son antros / y este / y / y tú aquí enojado / haciendo bilis de a madre / reventándosete la pinche bilis / ¿eh? / le digo míralos / ahí están y / y/ y Gaytán y Luisito Pérez mira / bien pedotes / y tú peliándote por el / otro güey 
+
+E: <risas = ”I”/> / sí no así es 
+
+I: es su trabajo güey
+
+E: a mí la verdad no me gusta el futbol 
+
+I: a mí no me gusta jugarlo / a mí me gusta verlo / no a mí no me gusta pinches patadas / no porque / lo ando yo buscando para darle yo también una patada y no no 
+
+E: sí / y uno se calienta y ya valió 
+
+I: una vez me puse a jugar / con la raza de allá del club / yo soy socio de ahí del Círculo Mercantil / la raza ahí / vente güey / vente a jugar / futbol / no a bueno güey no / vente porque no nos completamos güey / chingada madre / bueno está bueno / y ¡órale! / me puse a jugar / oye que me meten una pinche zancadilla y que me / una pinche falta y que me la dan / y como yo estoy impuesto a jugar béisbol / estaba mi chavo / mis dos chavalos / a la orilla de la cancha viéndome jugar / y que le grita el güerco / dice / ¡eh! árbitro / pinche falta / y yo ¡eh ampayer / ¿qué no estás viendo güey?! <risas = ”I”/> / pinche güey <risas = ”I”/> / cómo ampayer / chingada madre / es árbitro güey y en béisbol es ampayer / y luego la raza / como yo le grité al pinche árbitro / ¡eh! ampayer // y la raza ya después dice ¡ampayer! / vete a chingar tu madre / pinche mamón / ya no vuelvo a jugar con ustedes cabrones no yo / yo soy beisbolista güey / no futbolista a mí no me gusta el futbol / pero no no 
+
+E: yo / yo nomás juego futbol de portero
+
+I: de portero 
+
+E: <tiempo = ”71:45”/>sí
+
+I: no / está bien / todo / todo el deporte es bueno / namás / el golf y la chingada / a mí nomás me gusta el béisbol / el futbol me gusta verlo 
+
+E: a mí también me gusta mucho 
+
+I: el futbol americano me gusta verlo / bueno me aventé los dos pinches juegos ayer 
+
+E: de echo ya / ya viene el Súper Bowl 
+
+I: ya / ya el día seis 
+
+E: el día 
+
+I: el día seis / el tres de enero / de febrero / sí dentro de quince días / ya se chingaron a Green Bay al que yo le iba / sí / y se chingaron también a / ganaron los Patriotas 
+
+E: era Patriotas ¿contra quién? 
+
+I: Patriotas contra / Nueva York 
+
+E: Patriotas Nueva York 
+
+I: sí / Gigantes de Nueva York 
+
+E: dos semanitas ya
+
+I: no pero van a ser Patriotas 
+
+E: Patriotas está jugando muy bien esta de madre
+
+I: yo nunca pensé que fuera que fuera / que fuera a perder / los pinches Cowboys de Dallas / <risas = ”I”/> / se los chingaron 
+
+E: pero perdieron gacho 
+
+I: sí / les fue de la chingada / casi el doble les metieron 
+
+E: sí
+
+I: cuarenta y tantos a a / como a veintitantos 
+
+E: fueron cuarenta y dos a veintidós / algo así ¿no? 
+
+I: sí / pinche madre <risas = ”I”/> / chingada madre ya se los chingaron a los Vaqueros 
+
+E: que los vaqueritos ni traen <risas = ”E”/>
+
+I: sí / no le digo de la chingada / ya nos madrearon dije yo / y yo al principio los veía mal dije no / ya no me gustó a mí cuando empezó / los Patriotas a este / porque // empezaron a meter de tres puntos y de a tres puntos dije no / pinches Patriotas en una pasada se los va a meter / se los va a llevar / y así fue / tres pinches y vámonos a chingar su madre / adiós / y no estos güeyes no / no train / mucha ofensiva / y a Green Bay yo sí le veía más ofensiva que / así es el pinche juego 
+
+E: no es que la defensiva de los Patriota sí está fuerte
+
+I: no bien fuerte de a madre / sí n’ombre qué bárbaros / y no se van con la finta / y ayer lo que / lo que lo chingó al otro equipo fue // tres pases / tres pases interceptados por los Patriotas / se los chingaron 
+
+E: <tiempo = ”74:05”/> estuvieron muy bonitos esas / intersecciones 
+
+I: no / con madre / sí 
+
+E: bueno / cambiando de tema 
+
+I: a ver 
+
+E: este / referente a lo que es este / me había dicho que hace fiestas / ¿regularmente qué hacen? / en esas fiestas / más o menos
+
+I: pos hacemos así convivencias así / tipo carnes asadas / una discada / este 
+
+E: ¿usted prepara la discada?
+
+I: sí yo la preparo 
+
+E: ¿cómo la hace? / porque yo la verdad nunca me ha salido
+
+I: bueno es que / hay de discadas a discadas ¿verdad? o sea / hay disca da de puerco y de res / o hay una discada que se llama discada de tres leches 
+
+E: ¿cómo es esa?
+
+I: esa es este / de res / puerco y carnero / o borrego
+
+E: ay qué rico borrego
+
+I: no / con el borreguito está con madre
+
+E: ¿se puede hacer de venado?
+
+I: de venado también se puede nomás que ya / el venado ya trae la sal incluida porque la carne de venado es muy salada / y dura
+
+E: y muy dura como ella sola / pero bien rica
+
+I: no y / la de jabalí también es muy sabrosa 
+
+E: sí / sí sí 
+
+I: ¿sí has probado la de jabalí? / yo también la sé preparar la discada de jabalí 
+
+E: tengo / tengo la buena suerte que he comido un poco de todo 
+
+I: ¿sí? / yo la de jabalí / el jabalí macho es el que apesta más / pero esa es la / e e / la / el / el / la clave de / de / para que no huela y no te sepa el sabor así feo / amargo / de la carne de / del jabalí / es / primero cocer la carne / con bastante cebolla y ajo / que se coza bien / que hierva / hasta que suelte todo el / todo el olor / y lo vuelves a meter agua / otra vez / y lo vuelves a hervir / y luego ya lo sacas / y luego ya la / la guisas / y te queda con madre / que no es lo mismo que la de hembra / la hembra es / no huele 
+
+E: aparte es más suavecita 
+
+I: sí más suavecita / y ¡no! / sabe con madre ¡n’ombre! / ¿no has comido la carne de jabalí deshebrada?
+
+E: no 
+
+I: como en deshebrada / ¡n’ombre! / ¡olvídate! sabe riquísimo 
+
+E: no la verdad es que / no he comido mucho jabalí así es que 
+
+I: no y / la del venado el venado es muy sabroso / allá en el rancho / yo voy cada quince días al rancho / nos otros tenemos un ranchito allá por Villagran Tamaulipas / y a veces nos vamos allá a la chacería y matamos un jabalí / o matamos un venadito / o este / y ahí la hacemos / o a veces que / con la raza acá del juego / o / o la misma familia nos vamos y / compro unas dos tres cabezas de res / ya tengo un pozo / lo caliento el pozo / y pongo las cabecitas de res en barbacoa así en el pinche pozo / n’ombre / salen deshaciéndose la pinche carne
+ 
+
+E: sí sí sí 
+
+I: o el menudo de pozo / ¿tú has probado el menudo de pozo?
+
+E: sí / delicioso 
+
+I: ¡n’ombre! / queda bien sabroso
+
+E: de echo el otro día / fui a un rancho con unos amigos / y llevábamos / pero esa vez llevábamos un este / un cabrito / y lo hicieron en / lo hicieron barbacoa 
+
+I: barbacoa no 
+
+E: de pozo / nomás que este / la forma en que lo hicieron me sacó de onda porque pusieron / un / una olla
+
+I: sí
+
+E: con unas yerbas / y cebolla y tomate y papas / y toda la cosa / y pusieron la olla / y encima pusieron el cabrito
+
+I: el cabrito
+
+E: el cabrito ya envuelto y todo / y el juguito del cabrito se fue cayendo al / a la olla / y fue / caldo de cabrito con / cabrito de barbacoa / hijo de su 
+
+I: bueno hay unos que le echan así / y / o sea / y y / lo dejan un poquito destapado / y este / pero pues / cocen / que se / las yerbas / que estén hirviendo / y el mismo olor de la / de lo que está hirviendo se va penetrando a la / a la carne del cabrito / y sale el pinche cabrito con madre / no yo tengo dos hijos / y luego me los llevo a los dos para el rancho / oye vamos a hacer una discada / y vamos a hacer unos chicharroncitos / ¡órale! // y todos los sábados / por decir / este acá / como yo juego / juego todos los sábados / nos vamos allá al parque La Azteca / pero / cada sábado nos toca / a dos personas / la comida / y ya la hacemos como quiera / ahí la / la coperacha / a dos nos toca / por semana / ora / a ora les toca a usted es / y así nos vamos / ya sea la discada / este // pescado / fritos y la chingada
+
+E: <timepo = ”78:42”/>la mojarra al carbón 
+
+I: la mojarra / o / o haces este / una mariscada / no / la pinche maris- / tengo un compadre / que es vecino ahí / vieras qué sabrosa le sale la pinche mariscada / le sale / como dice uno matona de a madre / no le sale / le sale con madre / y a mí la discada me sale con madre / a mí la discada 
+
+E: ¡ah! bueno pero ¿cómo se hacía la discada de tres leches? 
+
+I: la discada de tres leches o sea / es / carne de res / carne de puerco / y carne de borrego ¿verdad? 
+
+E: okay 
+
+I: este / la coces un poquito / la coces un poquito con / cebolla y / y ajo ¿verdad? / tantito apio / este / y luego ya / se / a medio cocer nada más / así a medio cocer no no cocida cocida / sancochada por así decir 
+
+E: okay 
+
+I: media crudona / la empiezas a picar / le echas el aceite / manteca de puerco / no es aceite / manteca de puerco / que se caliente bien la manteca / avientas este / avientas la la / las tres carnes / y el juguito de / de / donde cociste / la carne / se lo avientas a / al disco ¿verdad? / ya cuando esté / medio hirviendo / se lo avientas a 
+
+E: okay okay 
+
+I: y ya lo dejas / que se coza bien ya le echas / ya que esté bien cocido todo ya que esté que ya ya / ya v[a]>a quedar / le echas su / pimienta comino y ajo / sus hojitas de laurel / este / su tomate su cebolla / todo / su chile morrón que no debe faltar el chile morrón le da un sabor con madre / se lo avientas / y / y aparte / ¿cómo te diré? / ya cuando va a estar ya cuando va a estar así cuando veas / le echas una cerveza / una cervecita / pero nomás una ¿verdad? / porque si ya le metes dos se / se amarga / nomás una cervecita una / que sea de preferencia una Bohemia / una obscura / obscurita / o una Indio / no / una media de Indio o una media de // n’ombre! vieras qué sabroso sabe 
+ 
+
+E: algún día lo haré / algún día haré una 
+
+I: n’ombre no / nos otros sí la hacemos seguido / ¡eh! güey cuando te avientas la de las tres leches / no pos a ver cuando 
+
+E: consigue la carne <risas = ”E”/>
+
+I: consigue la carne traite la carne / ¡no! está bueno / sí / y la guiso y n’ombre sabe con madre / el jabalí pos es la misma ¿verdad? / la carne de / de / de venado es / también es igual nomás como como te digo / la carne de venado es un poquito más dura / más corriosa / pero tienes que golpiarla un poquito / golpiarla un poquito / o machacarla / golpiarla / hacerla bistecarla / en bistecitos / y golpiarla / la disca / la carne / seca de venado sabe bien sabrosa / con huevito así como si fuera machacado / no ! / hijo de su pinche madre / y luego a veces / allá / la bistesiamos / la carnita así / la ponemos a secar / y luego así la ago así como deshebrada y 
+
+E: para / ¿para secar la carne cómo la haces?
+
+I: para la bisteseo o sea así pedazos cortes le das un golpe bajo de la pierna verdad la pulpa luego ya lo empiezo a bistesear ahí la la cuelgas para que no se con un mecate con un cordón de mecate y 
+
+E: nada más colgada
+
+I: o sea la bisteseo / o sea así / saco un buen pedazo / cortas / un buen pedazo / de la pierna ¿verdad? / la pulpa completa y luego ya la empiezo a bistesear / y luego la / la cuelgas ¿verdad? / en un mecate / ¿eh? / en un cordón de mecate / delgadito / y la golpeas y luego la deshebras 
+
+E: ¿nada más colgada y ya / así nada más?
+
+I: y ya / ya nomás le echas sal y ya / y ya cuando está bien sequita la deshebras así / y te la echas en un platito como botanita así con limón con con / este / rodajas de cebolla / así / n’ombre estás viendo un partidito de futbol americano / y estás agarrando ahí / n’ombre / y no tiene colesterol
+
+E: no nada / nada / yo lo que hago con la carne seca es este / ponerle / limón / y / sabe muy bien
+
+I: no yo más / yo la sal la uso mucho más en / en lo que son los / los mariscos o sea cuando hacemos una discada ya le echas para que agarre sabor con madre / y eso es / por lo regular / nosotros / mi mamá es muy buena para la cocina / mamá de echo siempre ha sido muy buena para cocinar / la familia de nosotros / por parte de nosotros / somos de / de / de mucha comida o sea / ¿cómo te diré? / de preparar comida / mi tío Arnulfo ése / siempre se dedicó a la comida / hacer comidas / y mi tío Oscar también se dedicó / él era / cocinero en un / en un pinche barco / él era cocinero en un barco / este / mamá pos siempre ha hecho comidas e / cabritos / tamales / todo eso ella / se dedicaba mucho / hacer comidas / y hacía comidas / y vendía tamales ¿no? // yo siempre me ha gustado me ha llamado mucho la atención la cocina también 
+ 
+
+E: con ese precedente de seguro le va a ir bien a su hijo en / estudiando para chef 
+
+I: sí / este cabrón sí pos / pos ojala y / y fíjate que / yo he probado otras comidas que a veces hacen en la escuela / y veces lleva ahí / y ¿quién la hizo? no pos yo la hice / cabrón / una vez hizo una discada ahí en la casa él / le digo n o pos sí tiene buen sazón pero todavía te falta güey <risas = ”todos”/> 
+
+E: todavía te falta <risas = ”E”/>
+
+I: todavía te falta güey / no no no 
+
+E: la discada requiere más experiencia que saber hacerlo
+
+I: sí / no pero / sí se avienta unas / que voy a hacer esto / que voy a hacer lo otro / ¡ah! está bueno / qué bueno le digo / pero / ojala y le guste / ya le falta un año para salir / ojala y / termine y / ¡no! es bonito es bonito 
+
+E: sí sí
+
+I: que le guste / no fíjate que sí le gusta / a él sí le gusta // y de saber / cocinar / algo / de saber / y este / mañana o pasado no vaya a batallar ¿verdad? / orita / orita están ocupando donde quiera / hay mucha / mucha demanda de chefs 
+
+E: es que la comida es uno de los negocios que casi no / casi no fallan
+
+I: casi no fallan / quién chingados se va / se va a aguantar sin comer ¿verdad? / además hay de comidas a comidas como ves / como en Monterrey ¿verdad? / hay de tacos a tacos ¿verdad? / hay unos tacos bien gachos y hay unos tacos bien sabrosos que dices tú ay hijos de su pinche madre 
+
+E: y hay unos tacos muy baratos muy buenos / y hay otros que son carísímos y 
+
+I: sí / de la chingada / sí / oye unos tacos de / esos nos otros cuando nos juntamos / ahí en la Pulga / la Pulga Río / pos vamos allá a los tacos Muerto güey 
+
+E: tacos Muerto ¿dónde quedan?
+
+I: esos están ahí en / en donde está el palacio / el panteón Dolores / ahí en Venustiano Carranza
+
+E: sí 
+
+I: <tiempo = ”1:26:03”/>a atrás de / de Venustiano Carranza por la parte de atrás donde está el panteón 
+
+E: ¿no es por donde están unos que venden unas papas? 
+
+I: ¿que venden unas / papas? / no no / ¿papa asada? 
+
+E: sí
+
+I: no no / haz de cuenta que está el panteón 
+
+E: ajá 
+
+I: este / está el panteón aquí enfrente están ellos / del panteón enfrente / sí haz de cuenta que / haz de cuenta que aquí / vas por Venustiano / yendo de aquí para allá / Venustiano / llegas a / a Washington / ahí cuenta / a la otra cuadra / para arriba 
+
+E: o sea ¿te metes por la prepa diez? 
+
+I: por la prepa diez no / no por la / por la / por donde venden flores / donde está la gasolinera 
+
+E: ¡ah! ya ya ya 
+
+I: ahí volteas / a la derecha / una cuadra y luego otra cuadra a la derecha / enfrente del panteón por eso le dicen los tacos muertos ¿verdad? / hay de cabeza de pierna o de / chicharrón / pero / te venden los / los tacos / bien doraditos así con madre / y aparte / te dan una un / platito para que tú / ¡ah! aparte te sirven cebolla así guisadita / doradita con / unos chiles toreaditos / pico de gallo y la chingada / y aparte / te dan un platito / para que tú te avientes este / una / ensalada de zanahoria que hacen ellos / aparte / tú agarras ensalada la que / tú quieras ¿verdad? / una cuchara o dos cucharas y este / y unas rajitas de melón / una rajita de sandía y la chingada / acabas y te avientas tu / tu ensaladita / tu piña tu / tu melón / tu sandía y la chingada n’ombre está con madre 
+
+E: ¿esos tacos abren en la noche o en la mañana?
+
+I: en la mañana
+
+E: ¡ah! en la mañana
+
+I: están en la mañana / están como a las / pos para la una o dos de la tarde / a la una ya se chingó / una o / a las dos / a la mejor / haiga chanza que todavía encuentres / pero muy raro
+
+E: un día de estos voy a ir a pasarme por ahí 
+
+I: sí yo / yo soy bien taquero / pero es que ya más o menos / no es que aquí en este pinche trabajo / ya más o menos uno sabe donde están los pinches tacos ¿verdad? 
+
+E: sí
+
+I: los tacos buenos 
+
+E: hay unos tacos allá por 
+
+I: ahí por donde tú vives hay unos tacos que / que están carísímos 
+
+E: ¿cuáles? 
+
+I: los que son de barbacoa los tacos Milo 
+
+E: ¡ah! esos están carísímos 
+
+I: y no están buenos los pinches tacos / no sé pero / a mí no me gustan / no / no te gustan porque están / porque / no te gusta porque están caros / le digo no güey 
+
+E: no no / están caros y están malos 
+
+I: sí están malos güey / aquí por Ruiz Cortines hay otros / de tacos Milo / pero no a la pinche gente no / no sé cómo le llama la atención esa pinche barbacoa
+
+E: allá por Venustiano Carranza pero sobre esta avenida ¿cómo se llama? la de / la que está / yo no me sé las calles / soy malísimo para las calles / está el metro y la que sigue para acá / bueno / para allá
+
+I: ¿en dónde?
+
+E: en / sobre Venustiano Carranza 
+
+I: Venustiano Carranza
+
+E: pero es la otra / la avenida que la cruza 
+
+I: ¡ah! ¿unos de barbacoa?
+
+E: sí unos de barbacoa que están ahí en la esquinita 
+
+I: ¿en la esquinita donde está la gasolinera así al lado del Oxxo? 
+
+E: sí sí sí
+
+I: ¡ah! sí 
+
+E: esos están buenísimos 
+
+I: esos están muy buenos / hay / es un señor grande él ahí es el que atiende / ahí tiene unos dos tres trabajadores / no ahí está con madre ahí
+
+E: esos tacos
+
+I: yo ahí voy pero / ah uno ahí / ir pidiendo pero de a uno / de a uno de a uno
+
+E: sí
+
+I: para que no se me enfrié
+
+E: sí no porque luego fríos no saben tan bien
+
+I: no / ¿cuántos quiere? y le digo / voy a querer como unos cinco pero / sírvame de a uno porque se me enfrían aquí los pinches tacos / a mí no me gusta estar el pinche cebo ahí / de la barbacoa / es lo que tiene / que te lo comes y luego después / después sientes en la boca el cebo / no me gusta / entonces este / calientitos / di uno por uno / voy a querer unos cinco le digo pero / este // estás ahí / écheme el otro / y écheme sesitos / y écheme ojito y écheme lengüita y la chingada ahí estás / écheme uno / uno de ojito / y écheme uno de sesitos y la chingada toda madre
+
+E: no es que la barbacoa / esa vez que la fuimos a probar por purita casualidad íbamos a la central de autobuses / pero íbamos temprano 
+
+I: sí
+
+E: entonces / tengo hambre / aquí hay unos tacos ¡órale! pos ahí / n’ombre / hijo de su / no conocía estos tacos están buenísimos 
+
+I: no esos tacos / y hay unos tacos / que están / por Simón Bolívar pero son de a vapor / que nomás sábados y domingos tienen de / de guisados / allá por Simón Bolívar / cruzas la avenida de Fleteros / los rieles / más adelantito / está un Banco Banamex y enseguidita del Banco Banamex nomás cruzas la calle / se llama tacos don _____ 
+
+E: ¡ah! sí sí sí / cómo no
+I: los tacos de barbacoa / están sabrosos y muy limpio ahí
+
+E: sí / muy buenos 
+
+I: y nomás que sábados y domingos venden este de / de guisos
+
+E: y entre semana es pura barbacha ¿no? 
+
+I: no / y entre semana es puro vapor / y nomás este / el / el los sábados y domingos es barbacoa / guisado de res guisado de puerco y / deshebrada / pero están bien sabrosos / están con madre / y bien limpios bien higiénico / no bien limpio entras al baño y está bien limpio y todo
+
+E: esos están muy buenos
+
+I: sí / tacos don _____ / yo ahí a veces llego / órale dame unos tacos de vapor / tacos grandes güey pero / están bien cargaditos de carne y / su repollito tomatito y todo limpio güey / es mejor de que / que te los estés comiendo en un pinche triciclo o la chingada güey ahí
+
+E: y luego a veces los de algunos triciclos están buenos
+
+I: están sabrosos sí pero no todos / no todos / había uno acá por donde está la / el ISSSTE / de Constitución / ése vendía de a madre / cuando / cuando lo atendía el señor / el mero dueño / ora que está la hija y luego salió otra hija y / como que ya perdió / ya no tiene tanta gente como antes 
+
+E: pues es que a veces pasa que / cambian de dueño y / cambian el sabor y ya no son igual 
+
+I: él mismo los prepara / dice la / dice la muchacha no / mi papá los prepara / y ella nomás viene a venderlos / digo pero la atención quiere decir mucho güey / la persona le digo / el cabrón que tienes orita aquí anda en una pinche camiseta en fachas y / en guaraches y / todo barbón / este / todo sucio / con el pelo largo / y tu papá siempre con pantalón negro / camisa blanca / bien peinadito / bien limpio 
+
+E: da una muy buena imagen 
+
+I: y el carrito siempre lo tenía bien limpio / le digo es como yo le digo yo si / si / si yo ando trabajando / en el pinche taxi / aquí muchos cabrones / ¿y así has subido a los taxis? / hay cabrones que te subes / que andan en chanclas / en shorts / en camisetas de resaque / todos barbones / todos sucios / y algunos que / que se dejan la barba larga no le digo / trai tu barba larga pero allá güey / aséatela pero no / la trais por anca la chingada / y no / y andan todos greñudotes la train como pinche / la greña toda dura porque no te / no te bañas cabrón / los / esos pinches cuellos de las / playeras todos negros / todos sucios / y ¡na! / una vez / ahí tenemos un cabrón / que no halamos cómo sacarlo ¿verdad? / ya tiene mucho tiempo con nosotros / pero es sucio aunque / es muy buena gente y es / y es muy / es muy honesto y es / buena onda a toda madre no / el bato / pero tú lo ves / te asusta / y anda con la pinche greña larga / negro / anda en pants / pants de felpa / en tiempo de frío y en tiempo de calor y la chingada / siempre anda en pants el güey ese / en puros pinches pants / seboso de a madre / trai la / la larga para acá / le digo rasúrate pinche / rasúrate cabrón / una vez / pásele dijo / ¿quién sigue? / dijo no no no // pinche vieja / no pinche vieja no se quiso / pero es que 
+
+E: <tiempo = 93:50”/> no das buena imagen 
+
+I: no das buena imagen güey 
+
+E: bueno yo orita ando así 
+
+I: no el chiste es que andes / digo no no es porque / no / hay gente que se arregla muy bien la barga pero digo / la barba larga la gente que es aseada / hay mucha gente / yo / a veces nos ponemos ahí en en la Pulga / y hay un abogado / que así como tú / un gordito blanco él / y trae su pelo largo así / con colita de caballo acá atrás / y barbón / con madre / pero anda bien arreglada / esa está con madre
+
+E: y le queda
+
+I: le queda / hay güeyes que no no andan limpios / hijos de su pinche madre en guaraches / todo sucios / le digo / es un pinche trabajo como cualquier otro güey / no es un trabajo como cualquier otro / un trabajo muy noble que como te digo / tú te sales y / para las doce ya trais una feriecita ahi ¡hombre! / no te tienes que esperar a que / a que llegue la semana / o que llegue la quincena para que te paguen / entonces / qué no queda nada más a nosotros que / que / que dar una buena imagen nosotros / andar / siempre / este limpios arreglados / que tu carrito siempre ande limpio / si es carrito viejo no le hace pero que ande / que ande limpio güey / que ande limpio
+
+E: pues sí
+
+I: yo no sé si te ha tocado / te subes a carros que hijos de su pinche madre están resucios / todos sucios / todos mugrosos todos llenos de mugre / los vidrios 
+
+E: los espejos medio rotos 
+
+I: rotos / así / la otra vez me subí a uno fíjate / dejé el carro en la agencia / a / este chocándolo / traía una falla / me subí a un carro / a un volkswagen / un vochito / tenía una pinche tabla atrás / en lugar de asiento / le digo qué onda / a poco me voy a sentar en una pinche tabla / ¿hasta dónde va? / le digo no / a donde voy pero en esto no me siento / le digo no ahí nos vimos / no ¿sabes qué? / déjame aquí / no / cómo voy a ir en una pinche tabla güey / uh qué delicado / le dije si tú trajeras a tu familia / a poco tú le ibas a sentar en una pinche tabla / estás pagando un servicio 
+
+E: pues sí
+
+I: tienes que / traer / el mueble más o menos bien arreglado 
+
+E: de perdido que la gente esté cómoda 
+
+I: sí / y limpio / a mí me da gusto / le digo a poco no / a mí me da mucho gusto que me digan / oiga qué limpio trae su carro lo felicito / ah gracias / a mí me gusta traerlo limpio porque / no / que / oiga qué mugroso es usted / trae el carro bien sucio / me voy a bajar / no bájeme porque huele muy feo su carro / unos se enojan porque no los dejo fumar / está bueno con gente grande / cuando es gente grande / sí le doy chance / cuando es gente grande que yo sé que / que ya no pueden dejar el pinche cigarro / pero cuando son chavalos / que van a la prepa / le digo no / apaga el cigarro güey 
+
+E: es que luego también el cigarro puede maltratar el auto por dentro / se puede quemar / los asientos
+
+I: entonces / cuando son muchachitos así / de que son de prepa o así / no les doy chanza / la verdad / oye le digo apágame el cigarro / pero si son señores grandes sí / oiga no / no hay problema / porque son gente grande que digo / esa gente grande ya no va a dejar de fumar cabrón / y se anda quemando por / fumarse un pinche cigarro 
+
+E: no yo por eso cuando me voy a subir a un taxi primero / si traigo cigarro / ¿no hay problema? / no pues que sí / lo tiro y lo apago ya 
+
+I: sí / y hay unos que sí hay problema / no ¿sabes qué? me voy a buscar otro güey 
+
+E: pues si 
+
+I: y yo digo no no no hay problema búscalo / yo sí / sí / a los muchachos sí no los dejo fumar / a la gente / a la gente / grande sí sí le doy chance de que fume / ¿por qué? porque yo siempre traigo el carro muy limpio / siempre traigo el carro limpio 
+
+E: luego el cigarro apesta
+
+I: sí 
+
+E: se apestan los autos
+
+I: sí sí / siempre / siempre traigo el aromatizante ahí / se suben al carro y dicen / oye qué bonito huele / gracias / trae muy limpio su carro ah muchas gracias / pero siempre trato y / orita llego a la casa / y este / en lo que como y la chingada / le doy una / trapiada al carro así nomás / si no anda muy sucio una limpiadita / ya me pongo mi pinche pants y mis tenis / y me voy a caminar 
+
+E: mantenerlo ya limpio / pues para qué hacerla / de tos <observación_complementaria = “ crear un problema o quejarse” />
+
+I: sí / sí porque / eso de a / andar trabajando así sucio / yo no sé pero / será porque cuando trabajé / acá en / Panamericana / en / en nos andaban / nos traían al puro pedo ahí con la / que anduviera uno bien limpio / no podías ir con los zapatos sucios porque / te quedas afuera / ¿por qué te veniste así? / no es que / bueno vaya ahí a que se los boleen / te mandaban a boleártelos 
+
+E: pos sí / es imagen / todo el mundo debe de tener cierta imagen después de todo 
+
+I: sí / es lo que te hace bañarte / que la gente te / te busque 
+
+E: y luego también / a veces no / no sé si le ha tocado pero a veces / porque / el carro está bonito / o tienes una buena platica con / con el que te lleva le dejas una lanita extra 
+
+I: <tiempo = “99:23”/> sí / si no / muchos a veces / muchos por decir ora en diciembre / que / que muchos / pones ahí una pinche caja de madera yo no pongo nada / ¿que anda cobrando el doble? / no yo no / yo nunca he cobrado el doble le digo / nomás lo que / ahí el que quiere dejar algo / entonces me dicen ya / pos agárralo o así déjalo / o ciérralo en veinte / o ciérralo en treinta / sí está bueno / pero no no no acostumbro / y tengo / mucha clientela no es por nada pero / de ahí del Centro Médico / de ahí donde / trabaja el doctor Raymundo / el esposo de / la doctora Lidia / a él yo lo llevo todos los viernes a Reynosa / todos los viernes lo llevo a Reynosa / al doctor / y / amigos de él ahí doctores / ahí todos me ocupan 
+
+E: pues sí
+
+I: todos me ocupan / oiga venga / o recójame a los niños / los llevo y ya me conocen / oiga don _____ / no vino tu papá vámonos / ya está los maestros / no va a venir el doctor me los voy a llevar / ah está bueno / pero ya te tienen confianza 
+
+E: pues sí uno se la va ganando 
+
+I: se la va uno ganando porque / pos por tu trabajo o sea / no soy un malandro / mal intencionado ni mucho menos / hubo una ocasión / ¿cuánto fue? no pues / es tanto / hay un doctor ése / es oftalmólogo / este me curó a / al mayor / a David / tenía miopía y astigmatismo y no sé qué tanto / no le quitó los lentes y lo operó / me cobró dos mil pesos / una pinche operación que vale arriba de diez mil pesos / dijo ¡n’hombre! dijo nomás / vas a pagar los estos los / los instrumentos de ahí de la operación // no te voy a cobrar nada / dos mil bolas nomás / pero ora sale y / oye llévame allá / al San José porque allá / allá consulta también o allá en / en el / allá tiene otro consultorio / no está bueno / cuando me toca / así que está ahí / y que sale / lo llevo / ¿cuánto es? no pos déjelo / pero como quiera me da / n’ombre ten / no hay problema / ai te van / en diciembre me regaló una botellita de / ¿por qué? porque / a veces me manda por los muchachos / por los güercos / ¿cuánto es? n’ombre / n’ombre usted cobre / cuando usted necesite algo órale / pos te vas ganando a la gente pero con / los que son conocidos porque si eres un cabrón mal intencionado pos no / nunca vas a llegar a nada
+
+E: sí no nomás / ahí lo importante es / si bien no ser un idiota / de perdido ser amable 
+
+I: sí exactamente / que no te vean la cara de pendejo ¿verdad pero / pero siempre / portarte bien / n’ombre / yo / nunca he tenido problemas así fuertes de / y ya tengo muchos años de vivir decentemente así / jalando / y todos me conocen ahí
+
+E: le ha ido bien en ese aspecto 
+
+I: sí
+
+E: tiene buena clientela y / y como / como me lo cuenta / ya clientes que 
+
+I: sí 
+
+E: de tal día a tal hora siempre 
+
+I: sí / tengo / un señor / que / es un joyero / artesano de allá de Guadalajara 
+
+E: mjm 
+
+I: él importa joyería / a / AFG / a la italiana así de las / joyerías esas de aquí / oro fino y todo eso / ese cabrón yo / lo agarré allí / en el Crown Plaza / me hizo la parada y / subió unas cosas / bajó sus cosas y dejó / un maletincito / se bajó y la chingada / total / me dio una tarjetita / ¡ah! está bueno / ya lo llevé / allá a la colonia Del Valle / se bajó / bajó todo y bueno gracias / y // pero total que / este / yo abro la cajuela ¿verdad? / con otro cliente / que voy viendo eso / y abrí el maletín / n’ombre traía un chingo de joyas / anillos / cadenas / unos crucifijos y la chingada / se le quedó aquí la maleta / no tenía ni nombre ni nada / porque la tarjeta me la dio / ahí donde lo dejé / dije oiga / hace rato traje un señor que / que traía / así como joyería y todo eso / y este / aquí lo dejé / si le digo mire / el detalle es esto le digo / es que aquí me / yo traigo un taxi / yo lo recogí en el Crown Plaza y / se le quedó olvidado esto / se lo vengo a entregar / o donde lo puedo localizar para llevárselo / dijo no dijo / me dio una tarjeta de él / él está en el Crown Plaza / no / llegué / en la tarde / porque llegué en la medio día / y no estaba / véngase al rato dijo / ya en la tarde para venirme a la casa volví a llegar / dijo ah / oiga aquí le habla un señor de un taxi que parece que se le olvidó algo a usted / ah sí voy para abajo / no ya se bajó ¿qué pasó señor? / no le digo es que le traigo / lo fui a buscar allá donde lo dejé le dije / me dieron su tarjeta / y lo vine a buscar aquí en la medio día pero / todavía no llegaba / y orita vine otra vez / le digo aquí está su / su maletín que dejó ahí / revíselo dijo no no / chingada madre pos / ¿qué le reviso si / si lo está trayendo es porque está completo dijo / no pero como quiera ábralo por si le falta algo / no no / dijo no güey / espérame / sí lo espero nomás déjeme / estacionar el carro le digo / dijo estaciónalo y orita vienes / no dije pos me va a dar una / una propina o algo 
+E: <tiempo = ”105:31”/> una propina o algo 
+
+I: no / me fui a estacionar // Miguel Cervantes / ¡Miguel Cervantes! / Miguel Ma / ¿cómo se llama? / Miguel // parecido a Cervantes / ahí tengo la tarjeta de él / total que // este ya me dijo n’ombre ahí vengo cada mes / cada mes vengo / dijo ¿cuál es tu teléfono? le dije no pos no traigo celular le dije / ¿le doy el teléfono de la casa? / dijo bueno yo te hablo de allá de Guadalajara cuando vaya a llegar para que vayas y me recojas al aeropuerto y la chingada / no y así / así lo traje / chingado y ya tiene como unos cuatro o cinco años que ya no viene / y ya no / ya no volvió ¿verdad? pero / lo traje bastante / bastante tiempo / este / me agarró un chingo de confianza / me dejaba / este / los / los portafolios ahí dijo no están mejor porque luego tengo que ir allá y / y antes tenía que andar bajando todo y subiendo todo que no se me quedara nada dijo contigo aquí / me agarró una pinche confianza con madre / y / y ¡n’ombre! / ya nomás / se iba / ya no le ponía ni al parquímetro / ni nada / me decía ¿cuánto va a ser? / le digo no ahí usted sabe le decía / sacaba unos billetes y me los daba // mil quinientos 
+
+E: ¡guau!
+
+I: mil pesos / mil doscientos / un día me daba setecientos / nomás un ratito y me daba / hay te va / entonces / no me dio propina ni nada pero / pero ya después oye / me daba más de lo que me ganaba 
+
+E: pos sí
+
+I: y en ese tiempo yo me ganaba / como doscientos cincuenta pesos setecientos por semana / diarios / era más lo que gastaba / y me me daba / novecientos / los mil 
+
+E: sí valía la pena estar un día con él
+
+I: sí / n’ombre andaba con madre con él / feliz / con ganas / eso es / son las satisfacciones que te quedan a veces de que / ¿qué chingados ganas con robarte un celular? / a mí me han dejado celulares ahí en el carro / y / y este / y / lo dejo prendido / me hablan lo contesto /¡ah! sí aquí lo dejó oiga / ¿dónde se lo puedo entregar? / tal parte / oiga traigo carrera o la chingada / ¿cómo ve? / se lo llevo 
+
+E: se lo llevo más tarde
+
+I: se lo llevo más tarde / o dígame más o menos / nos vemos y yo se lo entrego le digo no tenga pendiente / una vez una muchacha dijo no es que yo vivo para Guadalupe le digo yo también vivo para Guadalupe ¿dónde vive usted? no dijo pos yo vivo / ahí este por Tres Caminos / le digo bueno yo vivo en Riveras del Río / ya para las seis de la tarde ya estoy en la casa / si quiere / de aquí de pasada cuando vaya usted / hábleme y nos vemos ahí en la avenida Margarita Masa de Juárez y López Mateos y ahí se lo entrego / y sí / sí se lo entregué / ¿para que quiero yo un pinche celular?
+
+E: fíjese que / la verdad es raro porque / es raro encontrar gente que 
+
+I: sí que 
+
+E: que sea / que lo entreguen 
+
+I: yo tengo camaradas ahí que / dejaron un celular güey te lo vendo / y ¿para qué chingados lo quiero güey? / quitarle el número y ponerle otro / ponle tarjeta / pinche celular / ¿en cuánto me lo vas a dar? / en doscientos pesos / más lo que le voy a meter yo en / en que me le pongan el número y eso / son ciento cincuenta doscientos pesos nomás por la tarjeta y en lo que te ponen el número 
+
+E: no 
+
+I: más de pesos y mejor me compro uno güey 
+
+E: pos sí / la verdad 
+
+I: no no le digo / mejor regrésalo y a lo mejor te ganas una lanita con la / persona 
+
+E: a lo mejor 
+
+I: yo una vez en / regresé un Nextel / de esos Nexteles buenos / ahí en el tianguis del automóvil / ay dijo se me quedaron unas cosas en la guantera del carro que vendí dijo / y ahí dejo el Nextel / y ya salió corriendo el bato dijo ¡no! quiero que sepas / pensé que ya te habías ido / le dije aquí está el Nextel / dijo si vieras toda la pinche información que tengo en este pinche teléfono / me hubieras partido en la ma- / en la mera madre 
+
+E: sí no / mucha gente pierde la mitad de la vida cuando pierde su teléfono 
+
+I: dijo es que tengo un chingo de información / es como mi computadora dijo / mi pinche teléfono / traigo un chingo de información 
+
+E: ¡no! / hubiera perdido los clientes
+
+I: sí / y lo llevé bien cerquitas / pinche carrera fueron veinte pesos / me dio doscientos pesos / dijo ten / dijo y es poco / no traigo más / te voy a dar doscientos pesos / no dijo / es raro / es raro / que un cabrón / dijo porque si ha sido otro / se va con el pinche Nextel 
+
+E: sí / a mi me ha pasado eso / una vez a dejé un celular y nunca lo volví a recuperar 
+
+I: <tiempo = “110:40”/> no no / no te lo / no te lo dan / este / se / se / se embelecen con ellos / es mira / a ver cuánto me dan por el / no ahí te lo y la chingada / n’ombre / ¿para qué güey? 
+
+E: es que luego también / a veces / a veces entiendo porque / pues uno siempre buscar / sacar algo de dinero 
+I: sí
+
+E: y / a veces / el error de una persona puede ser un poquito más grave para otra persona 
+
+I: sí sí 
+
+E: y aunque no es decente // se puede 
+
+I: no es decente pero es de centavos o sea 
+
+E: sí
+
+I: mejor saco una lana <risas = ”I”/> 
+
+E: sí / efectivamente <risas = ”E”/>
+
+I: no es decente pero es de centavos mejor le saco una feria <risas = ”I”/> / mejor para unas cartulinas <observación_complementaria = “cervezas” /> bien heladas / no no sí está cabrón 
+
+E: no / y así es
+
+I: sí / no no / y orita 
+
+E: y no nada más con los taxis / también / en los camiones 
+
+I: sí / hace mucho aquí a a / a veces ya / a al / al honrado le dicen / pendejo / dices no fíjate que me hallé esto / y lo entregué / pendejo 
+
+E: sí pendejo / luego también / hay de cosas a cosas digo porque / es muy tentador ¿no? / la señora esa que devolvió / quince mil pesos / muy tentador / que se hubiera quedado con algo
+
+I: sí 
+
+E: uno no deja de pensar de que 
+
+I: pinche vieja pendeja 
+
+E: sí / no deja de pensar / digo / qué bueno que lo devolvió pero / nadie le iba a decir que no / nadie le iba a echar la culpa por habérselos quedado 
+
+I: no / no nadie le puede echar ahí / quién sabe pero es que no estás en el momento ¿verdad? de que / me los robo o no me los robo / los devuelvo o no los devuelvo / o ultimadamente chinga su madre / aquí me quedo con ellos 
+
+E: pues sí 
+
+I: no / ya cuando tienes un chingo de dinero a lo mejor / cambia el / te cambia a la forma de / la manera de pensar ¿verdad? / a la mejor dices tú ¡no! / un pinche celular / y lo devuelvo / a la mejor yo si / me llevo / a encontrar / quinientos mil pesos / ¡n’ombre! chinga su madre no los devuelvo / ¿quién me vio? / nadie pos 
+
+E: es que ya la verdad / esa cantidad de dinero 
+
+I: es de pensarse // y se imagina pos mejor me voy para Cancún / a toda madre así que / me voy a pasiar / sí / no 
+
+E: y luego / ese dinero estaba perdido nadie te va a decir que no 
+
+I: sí se perdió / ahí lo dejaste 
+
+E: una vez perdí mil pesos y / me dolió mucho perderlos pero alguien fue mil pesos más rico <risas = ”E”/>
+
+I: sí / no yo una vez se me perdió toda la pinche raya cuando trabajaba yo ahí en Panamericana / me rayé / me eché el pinche sobre me lo eche en la chaqueta estába haciendo frío / traía unas bolsas aquí / pero era / eché la pinche lana aquí / y no le / no lo había paga el sobre / y ya cuando / me / bajé del camión y me iba a subir al otro / ahí en / en Calzada / voy a llevar unos para la casa / ahí en el mercado San _____ // pinche sobre / pinche sobre 
+
+E: se salió
+
+I: se salió / qué gacho se siente que te roben la pinche feria / sientes una pinche impotencia / lo mismo cuando te roban de tu carro / que te cristalean el carro que te / quitan el estéreo que te quitan lo que traigas / sí / sientes un pinche coraje 
+
+E: sí cómo no 
+
+I: sientes un pinche coraje y una impotencia dices / quién chingados sería / o quién me lo sacarían o se me cayeron a mi / o quién me robaría / ¡ay! cabrón / se siente bien gacho / a veces yo a veces por eso pienso hijo de su pinche / cómo se ha de sentir ese güey que dejó aquí la lana 
+
+E: sí
+
+I: no / ¿para qué voy a hacer el pinche mal? / no pos mejor voy a / lo voy a regresar
+
+E: digo y luego / también / si uno sabe con quién porque luego / pasa la / la de la señora que / no sabía de quien era el dinero / y lo fue y lo dejó a la comandancia // ahí yo pienso / dejarle el dinero a la policía que de seguro no lo va a reportar 
+
+I: no / se lo van a chingar ellos 
+
+E: <tiempo = ”115:15”/> a quedármelo mejor yo 
+
+I: mejor / mejor yo / ahí sí / ahí sí te doy la razón ¿verdad? sí / hay / la otra vez un camarada mío también este / en el taxi que le / un maletín / el bato ese iba discutiendo con la muchacha / con la señora / y lo puso / arriba de / del Tsuru así atrás / se bajaron y la chingada / dice yo los bajé en el centro / ahí los dejé en el centro / dice / ya en la tarde vi el pinche maletín / dice que traía veinticinco o treinta mil pesos 
+
+E: ¡uy! / una lana
+
+I: dice / pero no traía / no traía ni un papel ni una dirección nada güey
+
+E: puro dinero
+
+I: sólo el pinche dinero / y chingado / dijo / no me voy a devolver ahí al pinche lugar porque no los voy a hallar güey / o al rato pasan donde los recogí dijo / yo los recogí en la avenida güey no sé a dónde chingados iban 
+
+E: digo igual y / si le pi- en carrera a su casa y dejan algo olvidado es / poquito más fácil
+
+I: sí / porque ya dices / bueno lo dejé en la casa / por decir éste / si yo lo he dejado en su casa güey / sí me regreso y se lo doy ahí / pero no / los dejé en el centro güey / hijo de su pinche madre pos ora sí qué hago 
+
+E: pues si 
+
+I: no pos ya son tuyos güey ya te los pusieron güey pos / esos son para ti / esos ya / chíngatelos güey / utilízalos bien / porque ya son tuyos güey / no hagas como el pinche policía que / como el oficial de tránsito que / roban de a madre y roban de a madre / y los ves tu todos jodidos todos / desmadrados / es que porque / tienen la pinche idea dicen no / me voy al pedo y al cabo / mañana agarro más 
+
+E: no fíjate que ahí / ahí / tengo un amigo que es policía / y / a los policías los obligan / les cobran a ellos los jefes
+
+I: ¡ah! sí tienes que pagar / o si quieres una moto te cuesta tanto / si quieres andar en patrulla te cuesta tanto 
+
+E: no y también / también los jefes dicen / aquí hay una cuota de mordida 
+
+I: de mordida / sí 
+
+E: cuando me dijo eso dije güey no mames / y te juro que yo traté de ser honrado / pero no se puede 
+
+I: no no se puede
+
+E: tienes que morder / o te chingas
+
+I: sí / sí / sí pero / bueno aparte de la cuota que / que les dan / que les piden / y aparte como quiera agarran para ellos ¿verdad?
+
+E: obviamente
+
+I: ¿sí? / entonces / ellos / agarran mucha lana / agarran mucha pinche feria / para que / no anduvieran así como andan / hay gente que sí cuida su lana ¿verdad? / o lo que / lo que roba / o lo que / agarra / de mordidas / sí lo sabe utilizar 
+
+E: sí sí 
+
+I: pero la mayoría no / andan en el pinche pedo / andan gastando aquí gastando acá / tienen dos tres cocinas y / se van a gastar la lana pos / con la querida y con la otra y / siempre / siempre los ves igual 
+
+E: siempre los ves gastando más
+
+I: sí / no sé porque / pienso yo / y digo / estos güeyes / están impuestos a que / siempre agarran lana / sin molestar su / sin molestar su pinche sueldo / no molestan su sueldo / y agarran y / y ya están con la idea de ¡no! al cabo mañana agarro más 
+
+E: o a veces agarran más de lo que ganan
+
+I: sí / mañana agarro más / mañana agarro más / y / el pedo
+
+E: sí / y luego por ejemplo / los policías de la Del Valle / allá vive puro niño rico 
+
+I: <tiempo = “119:06”/> es como el narcotráfico orita / la gente dice ¡no! que no se acaba / le digo mira güey / si la pinche policía quisiera acabar con ellos / se acaba 
+
+E: se acaba 
+
+I: le digo / hasta orita no conozco un pinche policía / raso / que esté trabajando de policía ¿verdad? / raso / que viva en la Del Valle / que viva en la Vista Hermosa / que viva en el Contry / la mayoría de los pinches policías / todos viven en San Bernabé / la Fomerrey uno / la Risca / la Independencia / viven donde está la pinche delincuencia / el ochenta por ciento te puedo decir que viven en / donde están / nadando los pinches ratas / de drogadictos / entonces ellos salen como / vestidos de policías / la forma de hablar de expresarse de ellos a veces tú lo ves / ¡no! pos qué onda / este bato me atacó / y que la chingada / pinche policía 
+
+E: más naco que uno
+
+I: oye dices tu / este güey / que hable correcto // quieres agarrar a esos cabrones esos güeyes van / van a escupir quien / quien se las distribuye / y si ellos quisieran / ellos acabaran con eso / con ese pedo güey / ese pinche vicio 
+
+E: sí pero también a los policías esos les dan su lanita 
+
+I: sí / es lo que te digo que / oye mira ¿qué onda güey? / no no está bueno / no hay pedo / yo tengo un amigo / que trabajó en el Panamericano se salió / después lo vi trabajando en el estado / y orita anda trabajando en la federal / le digo ¿qué onda Gabriel? / estabas a toda madre ahí en el estado güey / ¿para qué te venías para acá? / lo vi con una pinche camioneta Lobo <observación_complementaria = “tipo de camioneta de lujo”/> / y / dijo no es que ando jalando en la federal güey / ¡ah! cabrón esa pinche nave / es que acá está con madre / está mejor acá güey / acá está más / a toda madre // o sea ya van con la pinche idea de servirse ellos no de servir 
+
+E: pues es que / también / uno se acostumbra al dinero 
+
+I: sí / se acostumbra uno pero / chingada madre digo / ¿cuánto puedes durar? / ya te vendiste con un pinche narco / con cualquier cosita que hagas mal / te van a dar un pinche balazo en la cabeza y / y adiós Lobo y adiós familia y ya te chingaste güey / van a quedar peor/ al rato van a andar igual / van a empezar de ce / de cero güey 
+
+E: sí sí sí 
+
+I: si aquí andabas a toda madre aquí andas en una patrulla a toda madre ahí / ¿qué chingados vas hacer allá? 
+
+E: pues sí /sí de echo y así es / y en la política también 
+
+I: sí / nadie da / nada a cambio / yo tenía un amigo de que / que muchos cabrones que / ¡no! Que éste y que / le digo mira güey / todos esos güeyes que ayudan a / a los candidatos que se van a aventar / y dicen yo te voy a apoyar con un millón de pesos güey / con tres cuatro millones nomás que yo vendo tubos güey / y si tú llegas a quedar / toda la pinche tubería que necesites para / para el municipio me la vas a comprar a mi güey 
+
+E: sí 
+
+I: oye güey yo tengo una imprenta y la chingada nomás que caigas todo lo que vas a comprarme / yo te voy a apoyar güey con tanto / pero si quedas 
+
+E: sí así son
+
+I: el chiste así / así es / no no / cómo chingad as que no le digo !hombre! / chingada madre güey / si no nací ayer güey le dije / si ya todos / nadien te da nada a cambio / si no es por dinero / o por algo / un beneficio que va a tener él / dice yo te ayudo güey pero / si llegas a quedar / me vas a ayudar a mí güey 
+
+E: pues sí 
+
+I: tienes qué aportar / yo aporto / tantos millones para tu campaña okay / nomás que / si llegas a quedar / yo sé el albur que yo me estoy jugando güey / es que pos si pierdes pos ni modo / ya me chingué / pero si / si ganas 
+
+E: échame la mano
+
+I: échame la pinche mano güey / cómprame a mi todo el pinche material / yo vendo material eléctrico güey / todo el / tú me lo vas / me lo vas a comprar a mí / está bueno 
+
+E: sí así es 
+
+I: así es la pinché política güey / entonces no te embeleces con esos cabrones le dije no no / ¿a poco tú / a poco tú me vas a venir a soltar / un millón de pesos nomás por / por bonito güey / porque eres mi amigo? / no ni madre / ¿qué me vas a dar a cambio? 
+
+E: no harías eso
+
+I: no / y esos pinches policías si se propusieran acabar acaban / nomás que / realmente / están inmiscuidos ellos mismos
+
+E: toda la policía sabe donde están todos los narcos 
+
+I: no 
+
+E: y luego / y a veces no es tanto que anden metidos si no que les tienen miedo
+
+I: les tienen miedo ¿por qué? porque / empezaste ya / ¿cómo te diré? / te empezaste a inmiscuir con ellos / con ellos ya les agarraste un billete / un pesito dos pesitos / tú ya / ya eres de los míos / pos nomás que yo ya no quiero güey yo ya / ya me andan investigando / no no no ni madre güey / tú ya eres de los míos / y si te rajas // te doy un pinche balazo en la cabeza 
+
+E: como dicen hay dos formas de aquí así / o con las patas en alto o con los pies por delante 
+
+I: <tiempo = ”124:26”/> con los pies adelante / exactamente / tú dices / si / se matan entre ellos ¿verdad? y / el güey que anda mal / pos ¿qué costaba? / siendo bueno / el que anda mal mal acaba hijo
+
+E: sí 
+
+I: si andas / si uno anda bien / no hay pedo / usted no se meta con ellos / ni diga nada / no pasa nada / déjelos que se maten entre ellos / que disfruten de lana / te pones a ver orita / todos los pinches asesinatos del año pasado / de / ejecuciones / puro pinche chavalo de veintidós veintitrés veinte cuatro años / veinte cinco años 
+
+E: sí nomás eran 
+
+I: o se no era / no matan gente / de cuarenta o cincuenta años / no / matan a puros chavalos que les andan jalando / y andan en sus camionetonas y presumiendo y la chingada / sí pero ya cuando los encuentran siempre muertos / ¿por qué? / porque empezaron a hablar de más / y ya / a andar haciendo escándalo y la chingada y / y a las meras cabecillas a los meros jefes / le dicen este güey está haciendo mucho escándalo / ya anda / abriendo el hocico de más / mátalo 
+
+E: sí y ahí / se ve 
+
+I: a éste / ya no lo quiero / ya anda / anda / hablando de más / se anda exhibiendo de más / y al pinche narcotraficante no le gusta / andarse exhibiendo para nada 
+
+E: no / viven en casotas y todo pero 
+
+I: ahí 
+
+E: parecen personas decentes / y de hecho en algunos lugares por ejemplo / hay un pueblito allá en / en Guadalajara / es un pueblito ya de narcos / y el / y el alcalde obedece al narco pero / la gente quiere mucho al narco que vive ahí / porque / él les puso las escuelas / puso la luz / puso el teléfono / o sea / algunos narcos no son malos nada más / están trabajando en algo que no 
+
+I: sí / pero / deberían de legalizar la pinche / madre esa / el que la quiera consumir que la consuma y el que no no / pues en muchas partes del mundo ya / ya la legalizaron 
+
+E: sí pero dejamos un chorro de problemas 
+
+I: se hace un chingo de broncas sí 
+
+E: es importante / eh / para algunos y para otros no tanto / si la legalizas / pos tendrías impuestos de la droga 
+
+I: sí 
+
+E: se mueve mucho y hay mucha lana ahí 
+
+I: no y en muchas partes / del mundo ya / este / en los pinches bares / ya entras al baño y ya hay jeringas y hay todo para que tú solo te inyectes la pinche droga / pero es legal no no / no te pueden decir porque ya 
+
+E: no y es que luego también / a veces uno entiende en los padres por ejemplo que dicen / es que si la legalizan mi hijo se va a drogar 
+
+I: no 
+
+E: mira / si la legalizo su hijo puede drogarse / pero si usted le enseña a su hijo a no hacerlo 
+
+I: <tiempo = ”127:25”/> no lo va a hacer / exactamente / todo empieza a la casa / si tú empiezas en la casa / tú estás al pendiente de los muchachos / porque si en tu casa hay una desintegración porque tú no me hablas con tus hijos nomás llegas ¡quíhubole! / ya vine ya me voy / y ya / dame de cenar y ya te vas para la recamara y te acuestas y tú no tienes contacto con tus hijos / o no / o te vale madre lo que andan haciendo ellos / o que que llegas todos los días bien pedo bien borracho y la chingada / ahí se te hace un desmadre y / y ahí es donde empieza la pinche desintegración / no mi papá no me quiere / o / aquí me dejan y / se van solos / y la chingada / y ahí es donde empieza el pinche problema / el hacerse menos a veces / fíjate / eso es una parte aquí que / que los muchachos o / o / o de personas ya / que llego yo a verlos / que se hacen menos / ellos mismos / sí / a mí me pasó una ocasión fíjate / yo andaba jugando // eran puros doctores / eran doctores ingenieros licenciados y la chingada / y y me sirvió mucho de experiencia porque / el / el / un ingeniero / no un doctor / el doctor Molina / dijo oye güey tú / se acaba el pinche juego y nunca nos quieres acompañar para / para allá para la colonia allá para la palapa allá a la colonia Del Valle / siempre lo hacían en diferente parte ¿verdad? / le digo no / le digo no porque / qué chingados voy a andar yo ahí <risas = “E” /> / puros pinches doctores / ingenieros / abogados / ¿qué chingados voy hacer ahí? / yo soy mecánico y soy taxista y ¿qué chingados? / dijo no no güey tú como quiera vente / y en esa vez / en esa ocasión yo me acuerdo / porque / me sirvió mucho de experiencia porque / empezaron allá todos a platicar y la chingada / y les dio gusto ¡eh! este güey esta aquí chingada madre / le digo oye / a ver si no se enojan aquí los vecinos porque / oye este pinche carro parado a ver si no vine la ley y me / lo levante la grúa / ¡no no! / dijo oye güey / oye tú / ¿tú qué sabes de mecánica güey? / no pos lo que tú sabes de arquitectura güey / le pregunta el pinche doctor y dijo no pos ni madre / dijo oye / ¿tú qué sabes de / de medicina güey? / no pos lo que tu sabes de ingeniería güey / no pos ni madre / dijo no pos este güey / lo traje porque este cabrón / no quiere venir con nosotros porque dice que a qué viene que / aquí somos puros ingenieros y puros arquitectos y que puro / y que pos que es un pinche mecánico y que aquí / y la chingada / y un pinche doctor me dijo / el doctor Molina me dijo / usted nunca se sienta menos que nadie / dijo yo no sé mecánica / yo no sé soldar y tú sabes soldar le digo no pos yo sé soldar / dijo yo no sé soldar / yo no sé mecánica no sé cambiar una pinche banda / yo no sé afinar un pinche carro / este güey es arquitecto él sabe de construcciones pero no sabe cómo arreglar un pinche carro / pero usted no se sienta menos que nadie nunca dijo / aunque no sepa nada dijo usted tiene qué tener / algún don tuvo que darle dios para que usted té viviendo dijo / algún don tiene que tener dijo / y lo vamos a / ya / usted venga a platicar con nosotros y aquí a convivir con nosotros / nos vamos ir dando cuenta del don que usted tiene / a la mejor sabe cantar / sabe bailar o / o a echar chistes y a relajiar y la chingada o / o / y sí ¿verdad? / yo siempre he sido así muy / relajiento y la chingada ya // oye me / me sirvió mucho porque / me dijo no tú nunca te sientas menos que nadie dijo / y eso es lo que pasa / con mucha / mucha gente / de aquí del medio / gente / jodidona así de ¡no! yo no voy porque ahí hay puro buitres / y acá porque son esto / ¡no! de que / las personas y se van haciendo a un lado / o nos vamos haciendo a un lado 
+
+E: fíjate 
+
+I: sí / yo a veces con mi tía / con mi tía / con mi tía Lidia / ahí vamos platicando y le digo / oiga y ¿esto qué quiere decir? / explíqueme y dice no / esto es así / y acá y acá y te empieza a platicar / el doctor igual / no pos yo andaba en Mexicali y andaba / hay una parte allá muy importante y la chingada / y vas oyendo pláticas de ellos y te vas / pos / este vas / vas viendo otras cosas ¿verdad? / te van explicando otros / otros medios de / de vida en otras ciudades de donde / de otros países ¿verdad? / y y / y te sientes con ellos en la mesa como si nada / o sea / porque ellos no son de las personas que / ¡no! tú eres el chofer / ¡no! vienes con nos otros de chofer / siéntate allá / y nos otros vamos acá / ¡no !
+
+E: no no hasta te caen gordos
+
+I: El doctor Raymundo igual mi tía Lidia / yo llego y nos sentamos en la mesa los tres juntos a / a almorzar y / nunca me andan haciendo a un lado ni mucho menos / esa es la costumbre que ellos tienen / y por eso tienen yo pienso ¿verdad? / que por eso tienen porque / por lo sencillo que son ¿verdad? que no son nada de / de de / de prepotentes / extravagantes y no / su nivel es allá / su nivel es ese / y eso es lo que a mí yo aprendí esa vez / en ese equipo / que / que este / me decía no / usted nunca se sientas menos de / que nadie / todos tenemos / algo que comentar y algo que hacer dijo / a lo mejor tú sabes de / dijo ¿tú sabes soldar? / sí / sí sé soldar güey / soy bueno para la soldadura también / para la mecánica también / aquí nadie sabemos soldar dijo / nadien sabemos de mecánica / ¿entonces? / no / y de ahí para el real seguí con ellos a / a convivir / a las convivencias / y ¡órale! güey / ¡ándele! / ¿qué le cuentas? 
+
+E: no y a veces son gente muy amable / no siempre
+
+I: no / pos siempre mira es que / de todo da la mata / hay gente que / ahí en el equipo no es por nada pero / hasta en los equipos de acá de / de acá de la misma colonia siempre hay uno / o dos vecinos que / que no se juntan o que no se / no les gusta la convivencia que nomás se acaba el pinche juego y se van / se van a sus casas o / o simplemente están ahí platicando y están ellos allá muy / muy rezagados no 
+
+E: <tiempo = ”134:30”/> sí no / y no es raro la verdad / no es bonito pero no es raro 
+
+I: no no / no es raro 
+
+E: ¿qué día es hoy?
+
+I: hoy es veintiuno 
+
+E: veintiuno 
+
+I: ¡hijo le la! / el tiempo 
+
+E: pero sí / ya llevamos dos horas platicando <risas = ”todos”/> / sí está / está buena la plática 
+
+I: sí
+
+E: muchas gracias por la plática 
+I: no no / ya sabes / en lo que se pueda y 
+
+E: este ahorita / vamos a hacer una pequeña / un pequeño cuestionario nada más para / rellenar algunos huequitos /< silencio/> ¿su nombre es?
+
+I: _____ _______ ________ 
+
+E: _____ / _______ ________ / ¿qué edad tiene? 
+
+I: Trein / cuarenta y ocho años <risas = ”todos”/> / ya me iba a quitar 
+
+E: ya se iba a quitar años <risas = ”todos”/> 
+
+I: cuarenta y ocho
+
+E: cuarenta y ocho años 
+
+I: cuarenta y ocho años y pico dijo <risas = ”I”/>
+
+E: como una vez escuché a un cómico argentino / para los que estamos / este / cerca de los cuarenta y tantos / los cuarenta y kilos
+
+I: hey <risas = “E”/> cuarenta y kilos <risas = ”todos”/>
+
+E: es casado ¿verdad?
+
+I: sí / por las tres leyes
+
+E: ¿cuál es la tercera?
+
+I: por el civil / por la iglesia / y por pendejo <risas = ”todos”/>
+
+E: sí porque yo voy a terminar igual <risas = ”E”/> / este / ¿me puede repetir su dirección para anotarla?
+
+I: Península quince diecinueve
+
+E: península
+
+I: quince diecinueve
+
+E: quince diecinueve
+
+I: Riveras del Río 
+
+E: Riveras / es la colonia ¿verdad?
+
+I: sí / colonia Riveras del río 
+
+E: Riveras / del río 
+
+I: quinto sector 
+
+E: ¿eso dónde está? 
+
+I: en Guadalupe 
+
+E: 
+
+I: Garralupe
+
+E: ¿teléfono?
+
+I: ochenta y tres / sesenta y siete / treinta y dos / siete ocho 
+
+E: okay / e / ¿tiene alguna religión?
+
+I: católica 
+
+E: católica / ¿usted es originario de Monterrey? 
+
+I: de Linares Nuevo León / la tierra de las glorias <observación_complementaria = “dulce de nuez y leche quemada”/>
+
+E: qué rico por allá
+
+I: de Linares Nuevo León 
+
+E: este / ¿cuándo se vino para acá?
+
+I: yo llegué aquí a la edad de// más o menos como unos nueve años
+
+E: okay 
+
+I: treinta y nueve años más o menos 
+
+E: ¿treinta y nueve años aquí en Monterrey?
+
+I: sí 
+
+E: de Linares / ¿vivió nueve años en Linares? 
+
+I: mjm 
+
+E: ¿sus padres son de allá?
+
+I: mi mamá es de Villagrán Tamaulipas / es de un rancho que se llama rancho Santa María 
+
+E: Villagrán Tamaulipas
+
+I: así es / municipio de Villagrán / un ranchito
+
+E: ¿y su padre?
+
+I: ¿cómo?
+
+E: ¿y su padre también o 
+
+I: mi papá es de Linares 
+
+E: Linares
+
+I: mi papá es de acá de Linares / y ella de Villagrán 
+
+E: ¿sus abuelos?
+
+I: mis dos abuelos paternos son de Linares 
+
+E: los dos paternos son de Linares
+
+I: sí / y los otros han de ser de allá de / de Tamaulipas // también eran de Villagrán 
+
+E: okay / este allá donde usted vivía / en Linares / no perdón // no esta pregunta no va / es que hay algunas preguntas que te tienes que saltar por que no van / ¿tienen más de veinte años aquí en Monterrey?
+
+I: sí 
+
+E: ¿se vinieron a vivir por? / familiares o 
+
+I: sí / nos vinimos a vivir acá / por trabajo de mi padre
+
+E: es aficionado al beisbol
+
+I: beisbol 
+
+E: ¿va al cine?
+
+I: poco // no no / no mucho 
+
+E: ¿qué seria? / ¿una vez al año? 
+
+I: <tiempo = ”138:55”/>no unas / cuatro o cinco veces por año se me hace 
+
+E: ¿cuando va al cine prefiere ver películas mexicanas o extranjeras? / ¿o le da igual?
+
+I: a veces / me gustan más las extranjeras a veces verdad?
+
+E: están mejor producidas
+
+I: sí
+
+E: ¿las extranjeras las prefiere / gringas o / de algún otro país?
+
+I: no no / gringas ¿verdad?
+
+E: ¿cuándo va al cine qué tipo de películas prefiere ver? / ¿de acción / de comedia / aventura?
+
+I: pos a veces lo que busco más son de acción y de comedia 
+
+E: de acción o comedia // okay / ¿escucha el radio? / pues me imagino que sí
+
+I: sí / sí / más que todo / sí lo escucho mucho 
+
+E: mucho lo usa 
+
+I: casi todo el día / lo traigo/ más que todo en noticias 
+
+E: ¿escucha las noticias de 
+
+I: Maria Julia
+
+E: esa me cae gorda <risas = ”E”/> / yo estuve trabajando en el canal doce 
+
+I: ah ¿sí?
+
+E: sí / estuve trabajando con ella / es bien canija la desgraciada 
+
+I: ¿sí?
+
+E: sí / la que da las noticias 
+
+I: sí / se ve / se ve muy acá 
+
+E: no es / muy amable / de la pantalla para afuera / pero de la pantalla para atrás es una desgraciada 
+
+I: ¿sí? 
+
+E: uno comete un error / no sé / yo que hacía / ponía los gráficos / ponía / me faltaba un acento / lo pasaba todo / nadie se daba cuenta y de repente en el comercial decía / ¡ ¿quién fue el pendejo que no puso ese acento?! / fui yo / ¡pues fíjate cabrón que si lo vuelves a hacer ! / no está bien señora / muy déspota la señora
+
+I: ¿sí? ¡fíjate! 
+
+E: sí ¿qué estación prefiere?
+
+I: pos yo / más que todo / casi las noticias de / del treinta y cuatro ¿verdad? de / de Gregorio Ortiz del canal dos ¿verdad? 
+
+E: ¿esa cuál es?
+
+I: esa es la / la ciento setenta 
+
+E: ciento setenta / ¿AM?
+
+I: a AM / sí 
+
+E: ciento setenta / AM / noticiero
+
+I: sí / en la mañana es cuando lo digo yo
+
+E: ¿usted ve la televisión?
+
+I: sí sí sí veo televisión
+
+E: ¿más de dos horas al día o menos de dos horas al día?
+
+I: no / unas dos horas más o menos / cuando llego en la tarde / es cuando veo televisión / pos a novelear
+
+E: ¿las novelas? / ¿ve novelas?
+
+I: veo novelas
+
+E: novelas / ¿no ve nada policiaco? / ¿ni algo por el estilo?
+
+I: casi no / muy poco / a veces veo / programa así / novelas y / y programas de deportes 
+
+E: eso es lo más común
+
+I: sí / e / así de / de noticias / así / me gusta ver noticias en la tele 
+
+E: sí también / uno tiene que andar informado de que pasa en la cuidad
+
+I: sí 
+
+E: sobre todo usted que se mueve en taxi tiene qué / saber cómo están las calles
+
+I: sí / exacto 
+
+E: sí / y también ya se ha de saber / todos los recorridos que yo no me sé <risas = “E” />
+
+I: sí / no te creas / a veces se te va / ahí / ahí yo traigo un pinche tumba burros <observación_complementaria = “se refiere a un mapa pero generalmente este término se le da a los diccionarios”/> ¿verdad? / hay colonias que / no 
+
+E: sobre todo las más nuevas
+
+I: sí / las más nuevas a veces / colonias nuevas que no las conoces / o a veces te dicen / a la Raúl Caballero / pero ¿cuál Raúl Caballero / la que está en Santa Catarina la que está en San Nicolás? / le digo / ¿la que está en San Nicolás / o la que está allá en Villa Juárez? / otra Raúl Caballero cabrón / pinche madre / no
+
+E: yo por eso cuando digo que voy a mi casa digo / allá por Galerías Monterrey 
+
+I: sí 
+
+E: no batallamos
+
+I: sí / San Jerónimo 
+
+E: este / ¿ve películas en el cine / en la tele? 
+
+I: sí 
+
+E: ¿con qué frecuencia?
+
+I: te voy a decir que me aviento casi / por semana una vez por semana una película / sí los domingos me pongo a ver una película 
+
+E: son frecuencia
+
+I: sí
+
+E: ¿igual / películas extranjeras?
+
+I: sí y mexicanas / mexicanas y extranjeras veo de las dos / ahí me aviento las de Chente y las de Cantinflas <risas = ”I”/>
+
+E: sí / son buenas las de Cantinflas / pero me gusta más Tin Tan 
+
+I: Tin tan / fíjate a mí me gusta más Cantinflas 
+
+E: sí / ¿cuando ve películas extranjeras en la tele / ¿las prefieres dobladas / subtituladas o / le da igual?
+
+I: no pos me gusta mejor así a que estén subtituladas ¿verdad? 
+
+E: luego pierden un poquito de 
+
+I: sí / estás leyéndole y la chingada ahí / está cabrón pa que lea 
+
+E: otro tipo de preguntas / ¿tiene videograbadora en su casa?
+
+I: sí
+
+E: ¿tiene DVD?
+
+I: sí
+
+E: ¿consola de videojuegos?
+
+I: consola de juegos 
+
+E: pero ¿es para televisión la consola?
+
+I: sí 
+
+E: ¿la consola es de sus hijos?
+
+I: sí / tienen / el Play Station y el / que el Nintendo / n’ombre / desde que estaban chiquíllos / desde que empezaron a salir / primero el Atari / le compre el pinche Atari/ luego el y luego el Nintendo y luego el Súper Nintendo y luego el Play Station / hasta ahí le paré 
+
+E: ya ya se los compraron ellos 
+
+I: ya después ellos 
+
+E: yo ahorita quiero comprar una consola pero no tengo dinero
+
+I: ¡chin! / qué lástima <risas = ”I”/> / acaba de salir otro uno más complicado que le dicen el
+
+E: el Xbox 
+
+I: el Xbox / ese
+
+E: <tiempo = “144:13”/> ese es el que quiero comprar 
+
+I: no / es un chingo de lana
+
+E: sí / están carísimos / pero valen la pena
+
+I: no yo ya no les compro nada a ellos / ¡n’ombre! pos / cuando estaban chiquillos / hijos de su pinche madre / se levantaban con los pinches pelos así / ya estaban en el pinche Atari 
+
+E: con el Nintendo
+
+I: o el Nintendo / todavía no se peinaban ni nada y con su pinche 
+
+E: hasta que se tenían que ir a la escuela y 
+
+I: oye pero ya deja eso cabrón / me levantaba / ¿qué hubo cabrones? / ya deja eso / vámonos / y llegaban / y llegaban con el pinche juego / hijos de su pinche madre 
+
+E: 
+
+I: sí / sí pero está mejor / de que anden en la pinché calle / pero siempre pegados al pinche aparato 
+
+E: es que así es malo porque luego / luego / ocurre de que / empiezan a engordar / y no depende mucho de los programas / este / ¿usted tiene cable? / ¿ sky o MVS?
+
+I: Sky 
+
+E: ese Sky / está bien barato ahorita ¿verdad? 
+
+I: no hijo de su pinche / bien caro / ya los juegos de futbol ya no los contrato no ya
+
+E: están muy caros los juegos
+
+I: están muy caros ya 
+
+E: sí
+
+I: de echo / este / ya les / lo iba a quitar nomás que / el mayor mío dijo no dijo / no lo quites yo lo pago ¡ah! bueno / lo iba a quitar porque / no está cabrón
+
+E: este / ¿cuántas televisiones tiene en su casa?
+
+I: una / dos / tres / cuatro
+
+E: cuatro / ¿usted lee el periódico?
+
+I: sí
+
+E: ¿qué periódico lee?
+
+I: El Norte 
+
+E: ¡ah! okay / todo el mundo lee el Norte 
+
+I: sí / pos es que los otros son muy amarillistas / realmente / o compro El Norte o / o El Diario / o el Milenio pero / este lo que es el pinché Metro / El Extra / el Sol <observación_complementaria = ”periodicos de circulación en Monterrey”/>
+
+E: el Sol / son bien amarillistas 
+
+I: pinche madre / a mí / me da quien sabe qué ver que / cómo toman a la gente cuando los atropellan o que les pasa el pinche tren / o que los matan / los balacean / toman las pinches fotos así / a la gacha <observación_complementaria = ”de mala manera, sinónimo de feo, sin censura”/> ¿verdad? 
+
+E: con toda la sangre derramada 
+
+I: sí / y ¡n’ombre! no lo podía creer / cuando le digo yo / pos una vez compré el pinche Metro y / y luego me dijo una señorita / oiga ¿qué? / ¿se corto o qué? / no / es que / pinche periódico me venía escurriendo sangre de a madre <risas = “E”/> / me venía manchando el pinche pantalón / dije no / hijos de su pinche madre <risas = “E”/> / no de veras / y cómo / cómo / deben la información porque / a veces / los pinches reporteros preguntan / este / pendejadas por decir así oiga y ¿cómo se siente? / a la persona que le mataron un hijo / ¿cómo se siente oiga? / y ¿cómo se va a sentir güey? / oiga ¿qué pide / qué pide para el güey que mató a su hijo? 
+
+E: pues que lo maten 
+
+I: no güey / ¿qué quiere? / que le lleven un pastel güey / ¿qué quieres que te diga? 
+
+E: sí no no 
+
+I: o sea / pendejadas de esas o sea / y los pinches / periodiqueros / ya no tienen esa pinche / ¿cómo te diré? / esa seriedad / no ya / el pinche amarillismo de / cuando están velando a / al / a la persona / o donde vive la persona / ¡ah mataron / vea / a los pelados que mataron ayer! / y la chingada / que por lío de faldas <observación_complementaria = “se le dice así cuando la pelea o problema fue debido a una mujer”/> / o por drogas / ¡que aquí vive en esta colonia de aquí! / y van a la pinche colonia donde eran los que / que acaba de fallecer / y ahí andan / o si no ahí donde está el / este / las capillas ahí / ¡aquí están / miren / cómo lo dejaron / balaceado / y la chingada! / dice ¡vean las fotos! / y toda la gente / el pinche morbo / ¡órale! / vamos a 
+
+E: sí así es
+
+I: ¿eh? / no y cuando / le decía a un amigo mío / cómo cuando / se murió el güey el hijo de Sampayo <observación_complementaria = “conocido reportero aéreo” /> / por / por grifo <observación_complementaria = “drogadicto” /> y por loco / ¿por qué no fueron las pinches cámaras ahí al pinche velorio? / ¿por qué no lo acompañaron? / ¿por qué no lo acompañaron hasta el pantión? / ¿por qué no le preguntaron a a / a Joel Sampayo / que tu hijo? / o ¿por qué era tan grifo por qué era tan mariaguano? / a ver / ¿qué opinas? y la chingada / ¿por qué se ensañan con la gente que no / no tiene los pinches recursos para defenderse verdad? 
+
+E: es que a veces
+
+I: yo por eso no compro ese tipo de periódicos / por lo mismo que / hijos de su pinche madre / y el / el que te compra es los / que me perdonen porque cada quien pero / es el mecánico / el albañil / el carpintero / todos esos / todos esos compran ese tipo de periódicos 
+
+E: si es así / sí de hecho 
+
+I: <tiempo = “149:08”/> y no / no es porque / los soldados / y los policías matándose y la chingada 
+
+E: mugrero
+
+I: ese pinche mugrero que / estás generando la misma / tú mismo estás generando que / ese güey / en lugar de pararle / no métele más porque hay que vender a orita / antes el pinche Sol yo me acuerdo que yo vendía El Sol cuando estaba chavalo / que salía a las tres de la tarde el pinche Sol / ahí estábamos haciendo fila todos los chavalos ahí / ahí en Washington y Zaragoza donde nos daban el pinche Sol / este / teníamos que estar ahí a las dos y media porque a las tres salía / yo quiero treinta Soles y luego / te ibas hecho madre / de ahí salías corriendo / ¡no! hasta / yo vivía en la colonia Martínez aquí por donde está / Pablo de la Garza / ahí vivía yo / cuando recién llegados ahí vivíamos / y me venía hecho madre por todas las calles / ya cuando llegaba acá a la casa / ya me quedaban tres cuatro Soles / pero a horita el pinche Sol / sale a las once y media o doce del día / o sea / hay que ganarle el tiro al Extra / al de la tarde / y y / y El Sol el / el de la mañana / llegas al Súper Siete y ya está el pinche Metro y luego va a llegar el Extra <observación_complementaria = “tienda de conveniencia” /> / o ahí viene también el Extra / o sea 
+
+E: se pelean 
+
+I: se pelean / que luego luego / que lleguen los periódicos para ver qué 
+
+E: sí
+
+I: y el pinche Norte llega y ya se va 
+
+E: es que el Norte es el que más se vende 
+
+I: sí / y es un poquito más / trae un poquito más de seriedad / o sea no / no te dan / ahí no te pasan fotos tan amarillistas / no te ponen en la portada así de / bato balaceado acá / no no 
+
+E: y de perdido te ponen al bato con la sábana 
+
+I: es que / es gente que / es periódico que lee / un poquito de gente más con / poquito de de / de cultura un poquito más alta / mas acomodada / que venden más en otros países ¿no? / en otras ciudades
+
+I: sí va para México se va para / a Coahuila se va para Tamaulipas / allá lo venden mucho El Norte / es como el Reforma allá en México / igual / El Universal y todo esos / que también hay periódicos allá / también así amarillistas ¿verdad? / que son de ellos mismos ¿verdad? pero / aquí / se la bañan <observación_complementaria = “ exageran o exceden el límite” /> de a madre / eso de ir / hasta las tumbas y todo ¿verdad? / a ver / ¡miren aquí está el niño / se ahogó! / y la chingada / ¿qué se siente? / ¿cómo se va a sentir? hijo de tu pinche madre / eso es lo que me da coraje
+ 
+E: sí / bueno / vamos a seguir
+
+I: sí <risas = ”I”/>
+
+E: eh / ¿lo lee diario / lo lee unas / cinco veces a la semana?
+I: no yo por lo regular casi siempre el periódico lo / lo lo agarro por decir lo que es / viernes sábado y domingo 
+
+E: tres veces por semana 
+
+I: tres veces por semana / entre semana casi no / no lo compro / nomás lo compro viernes sábados y domingos ahí en la casa / hay más tiempo en la casa 
+
+E: ¿qué sección prefiere leer? 
+
+I: o la de deportes / me gusta mucho ver la de deportes / este / pues la Local / también la local / y la la local y la / la política ¿verdad d? 
+
+E: política 
+
+I: la / la de primer plano ¿verdad?
+
+E: ¿la Nacional?
+
+I: la Nacional 
+
+E: okay / ¿usted lee revistas?
+
+I: ¿revistas? / muy poco / no casi no / la verdad no 
+
+E: digamos que no / ¿usa internet?
+
+I: no / bueno yo no lo uso / mis muchachos sí verdad / yo no
+
+E: okay / ¿usted tiene celular?
+
+I: sí 
+
+E: ¿lo usa para llamar o recibir / o para mandar mensajitos / fotos?
+
+I: yo casi nomás para llamar y recibir 
+
+E: ¿usted visita museos?
+
+I: sí 
+
+E: ¿con que frecuencia? / más o menos
+
+I: este / pues a veces / cacada seis meses / o una vez por año
+
+E: ¿dos veces por año?
+
+I: más o menos 
+
+E: ¿usted va a conciertos?
+
+I: conciertos no 
+
+E: ¿teatro va?
+
+I: teatro sí / muchas veces
+
+E: ¿con qué frecuencia?
+
+I: voy de perdido unas dos veces por / dos meses / o sea / una vez cada dos meses 
+
+E: una vez cada dos meses
+
+I: sí / póngale unas / cinco veces por año más o menos 
+
+E: sí un más o menos
+
+I: sí me gusta ir a ver a la Nena / la Nena Delgado 
+
+E: la Nena Delgado tiene muy buen teatro
+
+I: sí / tiene buen teatro
+
+E: este / ¿usted sale 
+
+I: a huichi ban 
+
+E: A guichi ban 
+
+I: es de Linares ese güey 
+
+E: ¿usted viaja? / o ¿acostumbra viajar?
+
+I: no / muy poco fíjate / viajar viajar no / salgo de aquí al rancho / a días de campo / cada cada quince días 
+
+E: viajar viajar no
+
+I: no / viajar no / cada año si acaso / una vez por año me voy / sí me voy a campear
+
+E: vamos a hablar un poquito de sus estudios / ¿estudió la primaria?
+
+I: sí
+
+E: ¿la terminó? 
+
+I: sí / primaria / secundaria / prepa
+
+E: secundaria terminada / la prepa terminada / ¿estudió algo más?
+I: sí / la carrera técnica 
+
+E: técnica
+
+I: sí / técnica mecánica
+
+E: ¿terminada también?
+
+I: también terminada 
+
+E: estudió técnica mecánica / ¿en qué año terminó la primaria?
+
+I: ¿en qué año? / quién sabe
+
+E: ¿a poco no se acuerda?
+
+I: no la verdad / ni la secundaria me acuerdo
+
+E: ¿la estudió aquí en Monterrey?
+
+I: e / la / sí / secundaria terminada en Monterrey 
+
+E: ¿fueron públicas o privadas?
+
+I: públicas 
+
+E: ¿la preparatoria fue pública o privada?
+
+I: pública también
+
+E: ¿se acuerda en qué año la terminó? 
+
+I: prepa / la prepa / setenta y / en el setenta y seis más o menos 
+
+E: ¿aquí en Monterrey?
+
+I: sí
+
+E: ¿la técnica fue privada?
+
+I: sí / la técnica fue / privada / esa la terminé / en el ochenta 
+
+E: ¿en el ochenta cerrado? 
+
+I: sí en el ochenta 
+
+E: ¿aquí?
+
+I: sí aquí
+
+E: este / ¿usted está orita trabajando / de taxista?
+
+I: sí / la carrera técnica la terminé ahí en el Tec
+
+E: ¿en el Tec?
+
+I: sí la carrera técnica / ahí la terminé 
+
+E: ¿en qué año empezó a trabajar como taxista? / o ¿en qué año empezó a trabajar?
+
+I: de taxista / como taxista empecé / más o menos como en el noventa y / como en el noventa y dos
+
+E: es propietario de su taxi ¿verdad?
+
+I: sí
+
+E: usted da un servicio de transporte </silencio>
+
+I: aí
+
+E: y más o menos / este / tomando en cuenta / que el salario mínimo son dos mil ochocientos pesos mensuales / ¿cuántas veces más o menos gana de salarios mínimos? / más o menos 
+
+I: dos mil ochocientos mensuales / pos mira yo creo que alrededor más o menos de unos // doce mil pesos mensuales 
+
+E: gana 
+
+I: unas cinco veces yo creo ¿no?
+
+E: sí más o menos // una pregunta / algo extraña / según mi opinión / ¿cuántos focos hay en su casa?
+
+I: ¿focos? / es uno / dos tres cuatro / cinco seis siete / ocho nueve diez / once doce / trece catorce quince / dieciséis / diecisiete focos / no / diecinueve focos 
+
+E: <risas = ”E”/> / ¿en su casa viven usted y sus tres hijos? / ¿está su esposa ahí? 
+
+I: <tiempo = ”158:54”/>sí / mis dos hijos mi hija y mi esposa 
+
+E: ¿su esposa / habla algún idioma aparte del español?
+
+I: no / puro español
+
+E: ¿sus dos hijos?
+
+I: nomás uno / es el que sabe más o menos / el inglés
+
+E: ¿el menor o el mayor?
+
+I: el menor / el de / en medio 
+
+E: ¿y la hija? 
+
+I: la hija no todavía no / pero ya va a empezar a estudiar inglés
+
+E: ¿su esposa estudió algo?
+
+I: en la / Normal Superior
+
+E: Normal Superior
+
+I: sí
+
+E: su hijo el mayor estudió ¿hasta?
+
+I: a / el mayor / terminó la prepa y dejó la carrera / de / Computación 
+
+E: carrera trunca
+
+I: trunca 
+
+E: su otro hijo para / chef
+
+I: está estudiando para chef 
+
+E: ¿su hija? 
+
+I: está en la secundaria / está en la secundaria ya va para prepa 
+
+E: ya va para prepa / ¿su esposa trabaja en?
+
+I: en una escuela primaria / bueno de echo orita ya está jubilada 
+
+E: jubilada 
+
+I: sí 
+
+E: okay // ¿su hijo el mayor dónde trabaja orita?
+
+I: está en / una compañía que traslada valores que se llama Tecnoval / Compañía Tecnoval 
+
+E: ¿su otro hijo no está trabajando?
+
+I: trabaja / trabaja en un negocio de Kentucky // y luego de ahí se va / a la escuela
+
+E: ¿su hija no trabaja?
+I: no 
+
+E: ¿su esposa cuánto recibe más o menos?
+
+I: ¿mensual?
+
+E: mjm 
+
+I: fíjate que no sé / con eso de la jubilación 
+
+E: ¿su hijo / el mayor? 
+
+I: yo creo que saca / unos 
+
+E: ¿siete? / ¿qué puesto desempeña? 
+
+I: es este / es cajero / es cajero ahí
+ 
+E: ¿su otro hijo / cuánto gana más o menos?
+
+I: como cuatro mil pesos mensuales / no ni cuatro mil / unos tres mil ochocientos 
+
+E: ¿el puesto que ocupa?
+
+I: ahí está en la cocina él 
+
+E: okay // bueno pues eso es todo con respecto al cuestionario / pues muchas gracias de nuevo 
+
+I: no no hay de qué 
+
+E: ¿alguna otra cosa que quiera decir? 
+
+I: no no / ya / todo está muy bien 
+
+E: ya hablamos mucho <risas = ”i”/> / bueno / por último / este es una pequeña / un permiso que usted nos da a nosotros / para usar lo que / la plática que tuvimos 
+
+I: sí / así es
+
+E: la grabación / nomás que hay que llenarlo y firmarlo / son dos copias / llenar las dos
+
+I: a ver / orita ya me falla la vista / yo / _____ Aguirre ¿verdad? / mexicano / mayor de edad / dedicado a / le pongo aquí taxista ¿verdad
+
+E: sí
+
+I: con domicilio en / Península / número / ¿dónde se lo pongo? / ¿aquí? 
+
+E: eh / no el número es aquí abajo
+I: ah okay / quince dieciséis / en la colonia / Riveras del Río / quinto sector / municipio de / Guadalupe / Nuevo León / ¿es todo?
+
+E: e la fecha
+
+I: no / ¡ah! okay // veintiuno / veintiuno ¿verdad? 
+
+E: mjm 
+
+I: ¿y es todo?
+
+E: aquí la otra / con lo mismo // ahora sí ya es todo / bueno pues muchas gracias otra vez 
+
+I: no / está bueno
+
+E: ha sido / una de las pláticas más largas y agradables que he tenido 
+
+I: <risas = ”todos”/> ¿de veras? 
+
+E: sí la verdad
+
+I: de los más gorrosos dices 
+
+E: no no no
+
+I: el más fastidioso
+
+E: no no / para nada para nada / muy / muy / muy agradable
+
+I: no no está bien
+
+E: dos horas cuarenta y cinco
+
+I: y / y dijo mi tía / si al cabo van a ser como unos cuarenta y cinco minutos <risas = ”todos”/>
+
+E: si no / es que no nos conoce <risas = ”todos”/>
+
+I: sí / no no 
+
+E: <tiempo = ”164:45”/> bueno déjame le pongo aquí stop a esto / bueno muchas gracias
+
+ Fin de la entrevista
+
+

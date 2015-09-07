@@ -1,0 +1,235 @@
+﻿<Trans audio_filename = ”MONR_H22_HMP053.MP3” xml:lang = ”español”> 
+<Datos clave_texto = “MONR_H22_HMP053” tipo_texto = “entrevista_semidirigida”> 
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” pais= “México”/>
+
+<Grabacion resp_grab = “Benito Flores Treviño” lugar = “restaurante vips” duración = “38´27´´” fecha_grab = “2007-09-29“ sistema = “MP3”/>
+<Transcripcion resp_trans = “Dalina Flores Hilerio” fecha_trans = “2008-06-17”
+numero_palabras = “6078”/> 
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2009-03-30”/> 
+<Revision num_rev = “2” resp_rev = “Gicela López Pérez” fecha_rev = “2010-07-20”/> 
+<Revision num_rev= “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-08-11”/> 
+<Revision num_rev= “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-06-19”/> </Datos>
+<Revision num_rev= “5” resp_rev = “Dalina Flores Hilerio” fecha_rev = “2011-10-12”/> </Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Silverio Cesáreo Méndez” codigo_hab = “I” sexo = “hombre” grupo_edad = “2” edad = “39” nivel_edu = “2” estudios = “preparatoria" profesión = “mensajero" origen = “Monterrey" papel = “informante"/>
+<Hablante id= “hab2" nombre = “Benito Flores Treviño" codigo_hab = “E" sexo = “hombre" grupo_edad= “3" edad = “52" nivel_edu = “3" estudios = “Licenciatura en Banca y Finanzas y pasante de Bibliotecología” profesión = “Licenciado en Banca y Finanzas" origen = “Monterrey" papel = “entrevistador"/>
+<Hablante id = “hab3" nombre = “desconocido" codigo_hab= “A1" sexo= “mujer" grupo_edad = “desconocido" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “desconocido" origen = “desconocido" papel = “audiencia"/>
+
+<Relaciones rel_ent_inf = “desconocidos" rel_inf_aud1 = “desconocidos"
+rel_ent_aud1 = “desconocidos"/>
+</Hablantes> </Trans>
+
+
+E: sí / buenas tardes ________ / ¿cómo está?
+
+I: buenas tardes 
+
+E: este / muchas gracias por / aceptar la / esta plática / este que / nos vamos a / a iniciar / e / ¿cómo ha visto el / clima últimamente así la / las lluvias?
+
+I: pues / algo variable / de repente / eh / pos muy agradable / muy agradable / nublado / lloviendo / fresco / y de repente pos el sol abundante / picoso // y pos ya estabas acostumbrado a l / al clima fresquecito / y de repente sale el sol y / y pues / siente uno como si estuviéramos a cuarenta grados
+
+E: no pos sí se / se notan los cambios muy fuerte ¿no? / este mm / ¿a qué se dedica usted / ________? 
+
+I: bueno yo soy / chofer / de / una / empresa de maquinados / taller de tornos / y mi labor pues es e- / entregar materiales / traer la materia prima / y / pues ir al banco / hacer depósitos / sacar dinero / y las vueltas que surgen / dentro de la empresa
+
+E: ¿es mensajero?
+
+I: soy mensajero
+
+E: ok / y ¿cómo / cómo organiza el día? / si nos puede platicar
+
+I: pues el día lo organizamos // como vayan / saliendo las cosas en / la empresa / tenemos // un taller y una bodega / normalmente yo en la mañana / tengo que dar una vuelta / a primera hora / del / del taller / lo que es la planta / a la bodega / y de ahí pues surgen / las vueltas que hay que hacer durante el día
+
+E: eh // alguna / anécdota que tenga / e / así / yo me imagino que un chofer / o un mensajero / se relaciona con mucha gente / entonces / debe de tener / algunas / anécdotas / algunas cosas que / algo que recuerde así / chusco / interesante de / ¿verdad? porque / la relación con tanta gente / en su labor ¿verdad? / su / su / trabajo / debe ser interesante ¿no?
+
+I: pues / una / que se me viene a la mente de momento es e / de vez en cuando me mandan a Laredo // y pues a mí me gusta / que / mi / mi patrón no lo permite pero / yo a veces lo hago / es / darle ride a la gente / claro viendo / dependiendo / pues / como los vea / y me ha pasado / bueno una vez me pasó / una / persona que / que pues lleve y / pues uno / yo pues que la persona pues // pos no tenía tema / pero y a esta persona pues / le gustaba el tema de la política / y al final pues // el tiempo / yo la subí / una hora antes de llegar a mi destino y / y la verdad fue muy agradable su plática
+
+E: sí
+
+I: otras de ellas / que / ahí me dio como cierto // temor / venía de regreso de Laredo / y en Sabinas / un / joven me pide un ride / y lo subo // y el muchacho pues iba muy callado / iba / según él estudiando / y pues me dio mala espina / y ya me arrepentía porque / pues / quieres ir platicando / y se me hizo raro que la persona ésta / subió y / se puso a leer a leer a leer / pero no / o sea / sí necesitaba el ride // venía para / la colonia Mitras
+
+E: sí
+
+I: <tiempo = “04:11”/> y pues lo dejé cerca de / de su destino o sea / nuestro taller queda ahí / en la misma / y la / el ride / le sirvió mucho ¿vedad? 
+
+E: sí
+
+I: y esa es una de las cosas que / de momento recuerdo
+
+E: sí / y la persona esa / de / que hablaba de política / ¿qué / qué te llamó la atención de la plática? / o / ¿o en qué coincidías tú con ella? / ¿platicaban?
+
+I: no / la verdad / pos íbamos hablando / acerca del país / de las inconformidades / tanto di uno como de otro / de / la corrupción que hay en nuestro país / e / la persona ésta que / yo le di el aventón / de momento la vi como / pos una persona / que se dedica a pedir ride y / hacer favores
+
+E: ah okay 
+
+I: y no / no era así / ella / andaba cobrando dinero / iba para Laredo / y resultó que pues / pues / tenía un buen tema ¿verdad? / y sabía de política / y por eso me llamó la atención yo pensaba que era otro tipo de persona
+
+E: ahora que mencionas / lo de la política / ¿qué / estaría bueno que / que expresaras algo de / de la política / de la situación económica / este ¿qué piensas tú / qué opinas este / sobre la situación económica? por ejemplo
+
+I: eh / yo / sé de la política / muy poco / muy poco / sé / pero / mi punto de vista acerca del país ¿verdad? / que tiene que ver la política es / muchas cosas que no estoy de acuerdo / entre ellas es de que / yo no entiendo cómo una persona / un diputado / un senador / ganen demasiado dinero / cuando la gente trabajadora de / clase media / pues su aumento es muy mínimo / ellos el / mes de diciembre se dan un bono de cien mil pesos / más menos / más su salario / y / son cosas que yo no comparto de que / yo siempre he pensado / ¿cuándo va a cambiar ese país? / me comentan / ¿qué has hecho tú para que el país / cambie? / pues / yo no puedo cambiar a todos / he llegado a la conclusión que pues / pos yo voy a a hacer lo que / yo crea / que puede ayudar para cambiar esto / pero yo no puedo cambiar a todos
+
+E: sí
+
+I: pero en realidad / este / eso de / la política / no me llama tanto la atención / por cosas / como esas ¿verdad? // y / se me hace una / injusticia para / gente que trabajamos duro / y a la mejor / pienso que debemos ganar un poco más / o gente que / en realidad / pos le pagan el mínimo 
+
+E: sí
+
+I: ¿cómo le hace esa gente? / cuando ellos / ganan un / una buen / una buena feria / se me hace / injusto / son cosas que pienso que el país pueda controlar
+
+E: está bien / no no pues yo pienso que / la mayor parte de la gente / pensamos lo mismo de las injusticias que hay / pero / como dices si no / no los páramos nosotros / no / no los va a parar nadie / por eso están / porque no los paran / no los páramos / porque // a la mejor / siempre hay un valiente que dice sí / sí voy a hacer pero / requiere de constancia / como todas las cosas ¿no? / para poder / cambiar esto / pues estar pegados / y pos eso / implica sacrificios / sacrificar / otras cosas / para poder dedicar tiempo a / lograrlo / ¿tú qué crees?
+
+I: <tiempo = “08:15”/> pues / pienso que esto / se lleva mucho tiempo / no entiendo yo como / hay cosas que el país le interesan / y les da seguimiento / y cosas que de plano pos no le interesan / y vamos a seguir igual / e / uno no se puede escapar de hacienda / y los que / hasta a la cárcel va a dar / eso porque les / ahí les estás quedando a deber al / al gobierno / al país / y te siguen / y cosas que está dentro del alcance de ellos no lo hacen / es donde yo lo / no entiendo / siendo dinero / está la gente / si no les interesa / su gente / pos no hace nada por uno / para que uno / pueda tener ciertas cosas tiene uno que pedírselas al gobierno / no entiendo a nuestro país pues / tiene muchos recursos / gente trabajadora / tenemos todo / petróleo / terreno / tenemos / todo tenemos aquí en nuestro país / nada más que creo yo que mal / están muy mal organizados
+
+E: sí // les falta dirección / este / bueno / y usted ¿dónde vive? / ________
+
+I: yo vivo / en la colonia Metroplex / en el municipio de Apodaca Nuevo León / e / ahí en / pos en mi casa tengo / dieciséis años
+E: ¿y / cómo es / ahí en la colonia? / ¿su casa? / ¿cómo la describe?
+
+I: la colonia / es / de clase / vamos a decir que / media // o media baja / e / la colonia / pues orita es tranquila // hubo un tiempo que era algo difícil porque / pues yo en / su tiempo / compré ahí porque era lo que me alcanzaba / porque / era un fraccionamiento / pero ahí vendieron / las casas al por mayor / y a cualquiera le daban facilidades / para sacar esa casa / ese tipo de casa / había como seis siete tipos y / pos hay mucha gente que / que / saca casas / que no alcanza a pagar / en ese tiempo / fue en el año del / noventa y uno / yo saqué la casa que yo ocupaba / o que yo ajustaba / gracias a di- / gracias a dios en este año terminé de pagarla / y / mucha gente sacó casa y / sacaba más / sacaba una casa que no podía pagar / y como en el noventa y cuatro / por las devaluaciones / y tronó / y mucha gente abandonó sus casas / y ahí fue el conflicto / las casas se devaluaron / mucha gente dejó las casas / y llegó una invasión / pos al que fuera / al último pues / entró INFONAVIT / agarró algunas casas las vendió / y pues ya la cosa ya se regularizó ahí ya / está algo tranquilo / pero // se devaluó
+
+E: ¿era de otro nivel / cuando se compró?
+
+I: pues sí
+
+E: y por esa situación se 
+
+I: yo en mi momento pues la casa / yo / era ahí / la mía / la saqué por interés social / ya después había de / del ISSSTE/ del Infonavit / inclusive quisieron meter casas de FOMERREY que / no se logró y qué bueno / pero hubo casas de remate / cuando yo me fregué pagando / dieciséis años / que era de quince / pero pos mucha gente su casa la pagó en un año / pidió un préstamo y / compró casas de remate en setenta mil pesos y pues / es unas cosas / que yo veo injustas / creo yo que aquí / está dentro hasta el gobierno 
+
+E: sí <risas = “E”/> / hubiera estado mejor / dejarla y luego después / recuperarla y / y pagar / una cuarta parte / o menos de / de su valor
+
+I: <tiempo = “12:32”/> sí / a la mejor hubiera estado bien dejar de pagar la casa / tres cuatro años / y en esos remates pues / vuelves / y compras una casa / yo de hecho / le comenté a mi esposa cerca de mi colonia / hay un fraccionamiento que se llama Bosque Real / pues vendían los terrenos buenos y accesibles del precio / yo llegué a comentarle a mi esposa / vamos / ya no pagamos esta casa / y te compro un terreno ahí / y ya no pagamos esta casa / y no me la quitan como en tres años / y en ese lapso / se construye una casa / y mi esposa / no aceptó / que / pues después / pienso que mi / fue acertada ¿verdad? / esa decisión de mi esposa / de no aceptar porque a lo mejor lo hubiera hecho / y luego se hubiera arrepentido
+
+E: sí / sí
+
+I: sí
+
+E: sí / mejor / lo que tienes en la mano
+
+I: más vale pájaro en mano <risas = “E”/> / que ciento volando ¿verdad? 
+
+E: pues sí / e / esta bien / y ¿cómo es su casa?
+
+I: pues mi casa / es pequeña / mi casa mide / cinco por quince / e / en la parte de abajo pues / es porche / sala comedor / cocina a un lado / la parte de atrás es un patio como de / de cinco por tres / eh un medio baño en la parte de abajo / en la parte de arriba / pues son dos recámaras aproximadamente como de cuatro por tres / son algo amplias todavía esas recámaras / y un baño completo // o sea / dentro de lo que cabe / le tocó todavía una casa pos más o menos / sí porque orita ya / se puede ver / que son muy pequeñas las recámaras / o nada más se entregan / un pie de casa
+
+E: sí / sí sí para que la vayan después / agregando ahí / a como dios / les de a entender / e / no / pues esta bien / está bueno / y por ejemplo la familia / ahí / e /¿cómo celebran la / por ejemplo la cuaresma? / ¿qué / qué costumbres tienen ustedes / en la época de cuaresma?
+
+I: la verdad / que / en / mi familia / en mi hogar / que es su hogar
+
+E: gracias
+
+I: este / muy poco / muy poco / la verdad casi nada / casi nada la verdad de // mi esposa pues / no le gusta / lo que es el pescado / el marisco pero pues / de todos modos los / nos cocina mariscos / pescados // ensaladas / pero no / somos muy dados a / a guardar esos días
+
+E: sí
+
+I: normalmente / comemos carne / según lo que haiga / ¿verdad? / de repente no hay carne pero / pos / come chorizo / y a veces pollo / lo que haiga / pero normalmente / no guardamos la cuaresma
+
+E: sí / ¿y alguna receta? / una comida que / usted haga que / que diga esto me sale / 
+
+I: bueno / e / yo / me gusta cocinar / siempre me ha llamado la atención de niño / no soy muy bueno pero / al parecer tengo buena mano <risas = “E”/> // e / en mi familia / que son / por parte de mi mamá y mi papá / somos muy dados a la carne asada / y entonces me gusta asar la carne / me gusta hacer la discada / e // algunos hacen la discada / con res y puerco / pos hay varias / me gusta hacer la / las mojarras en el disco / que una receta que / que yo le puedo dar / que a mí me la dio mi esposa es / pues // un caldo de pescado / me gusta tanto / el caldo de pescado / o una mojarra /o puede ser filete / o puede ser bagre // como yo lo preparo es / de / esta manera / primero hiervo el agua / con una cucharada de / sal / pico chile tomate y cebolla lo que es un pico de gallo / se lo echo al / al agua caliente // y ya / y echo / un cuadrito / de consomate // ya cuando / ya esté hirviendo / el agua / ya echo el pescado / lo dejo unos cinco minutos / y es todo
+
+E: <tiempo = “17:18”/> listo
+
+I: y queda / bueno e / a mí me gusta mucho ese pescado / que normalmente me gusta hacerlo cuando me echo unas cervecitas con / con algún hermano / algún amigo // y soy dado ah / a guisar / cuando / tengo visitas
+
+E: ¿sí?
+
+I: sobre todo lo que es sábado y domingo a veces mi esposa / no guisa guiso yo / esa es alguna de las recetas / otra receta acá / así norteñona / pues / pongo a dorar carne / normalmente de puerco / costillita / e / vamos a decir que / de momento se me olvido el / ¡la pulpa! / pero el puerco / ¡pierna!
+
+E: 
+
+I: pierna / pierna y este pos la la / la pico en cuadritos / lo pongo a dorar / en la licuadora le echo ya / es / chile tomate y cebolla / comino / un diente de ajo / lo revuelvo / y ya que esté bien sazonadita la carne / con su salecita / su pimienta / vacío el recipiente / y pues / tiene un buen sabor / es otro de los guisados que a mí me gusta y que le gusta a mi esposa y a mis hijas / es otra de las que le puedo dar
+
+E: está bien // está bien / y / ¿tiene muchos amigos? / orita que mencionaba / que su compadre / que el amigo
+
+I: bueno / amigos / la verdad que ya con el tiempo te das cuenta que amigos / que son contados // yo he apostado más / este / en este caso por mi familia / yo puedo decir que mis amigos a lo mejor son mis hermanos / este / que es con quien más convivo / con mi mamá / mi papá / mis hermanos / pues digo gracias a dios / que / normalmente lo que es sábado y domingo / viene alguien a visitarme / como pude ser mi hermano el mayo / el que le sigue o / una hermana
+
+E: sí
+
+I: e / llegan a visitarme ya sea sábado o domingo / o mi mamá / a veces que la lleva una hermana y / pero amigos amigos / de hecho así / que vayan a visitarme no tengo / porque también yo no hago / por los amigos / e / pensé que eran amigos a / la edad de unos diecinueve años / pero / me di cuenta con el tiempo de que pues / nos frecuentamos / nada o sea yo no / pienso yo que eso no puede ser / ser amigos ¿verdad? 
+
+E: está bien / así pasa 
+
+A1: 
+
+I: no pues / si quiere otro sabor
+
+E: no / está bien/ 
+
+A1: 
+
+E: si nomás un 
+
+A1: 
+
+E: gracias / este / pues es que / hay / o sea // ¿no ha tenido buenas experiencias / con amigos?
+
+I: pues / como comentaba / este / a / una edad de / doce años a los / veinte / o hasta que te casas / crees tener varios amigos / pero / va pasando / el curso del tiempo y / te das cuenta que / pues es uno / o dos / de ese uno o dos / que yo pensaba que / pues / que en su momento éramos amigos / pues no nos frecuentamos / pos es por eso que yo / pues no / no creo / que se le pueda dar el término de amigos
+
+E: sí
+
+I: <tiempo = “21:12”/> así es como yo lo percibo 
+
+E: sí empiézale empiézale este / ________ ya ahorita este / digo vamos a seguir platicando / es que se está grabando / sí este / sí porque se va / a enfriar esto y seguimos platicando / alguna / alguna anécdota / eh / ¿ha estado usted / en peligro de muerte en alguna ocasión? / sí algún peligro / grave o // una / situación de / sea en accidente o / enfermedad o 
+
+I: yo tengo / cuarenta años de edad / y no lo había comentado / estoy por cumplirlos en el mes de octubre / y yo recuerdo como algunas tres situaciones // una de ellas / yo tenía / unos / ocho años de edad / mis padres gracias a dios / nos sacaban a pasear muy seguido a los días de campo / y un día fuimos al / río pesquería / cuando el agua era limpia / y acabábamos de llegar y / estábamos a la orilla del / del río / y yo comencé a / a checar / si / si no estaba hondo / y al lado estaban / dos hermanos míos / pos una hermana y / y donde yo estaba checando de repente el pie se me fue para abajo / me voy para abajo / y hay como un / pozo / como / una parte / más honda de / mi estatura / y comencé a / pataliar y a dar manotazos / y / por suerte / mi hermano el mayor / que estaba delante de mí / ellos estaban platicando / y no se habían dado cuenta / pero yo / estaba manotiando / y por suerte le estaba pegando en la espalda / <risas = “E”/> / sí / él yo creo molesto porque / no sabía que me estaba ahogando / me sacó de los cabellos / pos yo creo que algo molesto pero / él no sabía que yo me estaba ahogando y / gracias a dios que / que así fue / bueno esa es una de las que / yo recuerdo / y otra de ellas / tenía yo catorce años de edad / y andábamos en unos campos de futbol / y mientras mi papá jugaba futbol / yo andaba con unos amigos / jugando ¡verdad? / se está haciendo un fraccionamiento del lado del campo / y comenzamos a / a corretiarnos a tirarnos tierra / y en una que yo corro para escaparme / que me seguían / había una zanja como de metro y medio / de espaldas
+
+E: a su mecha 
+
+I: entonces / al caer pues se me fue el aire / entonces yo caigo / y / como se me fue el aire / sentí que ya no podía respirar / y sentí que me moría / recuerdo que / le dije a uno de mis amigos que / que le hablara a mi papá / pero mi papá / llegó / como a los quince minutos / y que gracias a dios me / me volvió la respiración sino / a lo mejor ya no me hubiera visto <risas = “todos”/> / pero ¿oye que qué te pasó? que ya / ya era / demasiado tarde ya / gracias a dios / y la más cercana / creo yo fue / en el año de // un veinte de noviembre / aproximadamente como en el // noventa y ocho o noventa y nueve / mi mamá tiene un terreno / tenía dos terrenos / grandes / para el lado de Escobedo / y era un veinte de noviembre / y pos fuimos a / pos a / a darle ahí / una pasadita al terreno / a limpiarlo / y / nos oscureció / y mi mamá nos preparó de comer a / era un hermano / un sobrino mi mamá y yo / y entonces / ya íbamos de cenar / pero necesitábamos una / luz / entonces yo por no agarrar la botella de coca / fui a buscar ot- / una botella / iba a buscar otra botellas / pos que no sirviera / y entonces / bueno / bueno / fui a buscar una botella / pos que no sirviera ¿verdad? / no retornable / y cuando salgo / ya para el cuartito / voy y agarro la botella / y de repente siento que / un pellizco / y pues / hago un grito / y me asomo a ver que era / era una víbora 
+
+E: a su
+
+I: era una víbora / y entonces mi mamá / me grita y me dice / ¿qué pasó? / bueno / bueno / nada porque estoy ocupado / e / una hora y media yo creo / bueno si tengo chance sí este / que me hable / pero háblale tú / que me hable más tarde / o yo le hablo en una hora // ¡órale! // y / entonces / mi mamá me dice / ¿qué / qué te pasa? / entonces / yo / para eso me asomo / y veo que es una víbora / y la víbora estaba prepara da para volver a atacar / entonces yo le grito que es una víbora / y como yo / siempre he sido muy juguetón / muy bromista / no me creyeron / ¡no estés jugando! / le dije ¿cómo voy a jugar con esto? / entonces sale mi mamá / sale mi hermano / sale mi sobrino / y ya la víbora estaba prepara da para echarse encima nuevamente / entonces a mí en vez de miedo me dio / coraje / y me dio coraje porque yo en ese tiempo / yo trabajaba un ecotaxi / el ecotaxi estaba descompuesto / y yo no tenía otra entrada de dinero / y luego me pasa eso / agarré una mitad de block / y se la tiré encima a la víbora / le pegué / ya mi mamá agarró un azadón y / y la hizo picadillo / y ya entonces inmediatamente de ahí me llevaron / a la Cruz Roja de Escobedo / allá en la Cruz Roja de Escobedo / me pusieron / que un bloqueador / agua con sal / y / me recomendaron / que me llevaran a un hospital / en el transcurso al hospital / me dio sueño / por Barragán y me dio sueño / entonces / yo le dije a mi mamá / tengo sueño / dice mi mamá ¡no te duermas! / quiero pensar yo por / las historias / que ya que te duermes ya no despiertas / y gracias a dios / de ahí / nos fuimos directo al Universitario / y ahí me / internaron / y me tuvieron quince días / internado / quince días / decían que el peligro pasaba / la observación eran veinticuatro horas / si pasaba las veinticuatro horas / estabas del otro lado / estuve quince días / en / internado / me dieron de alta / un lunes / y me dieron cita para el miércoles / me llevan el lunes a cita que yo no quería ir / entonces el miércoles / yo el lunes / el lunes / y el miércoles fui a cita pero yo no quería ir / me llevó un hermano me checó el doctor / y vio / que todavía me hacía falta más medicamento / de la herida salía agua sangre / entonces dijo / ¿quién lo dio de alta? / él necesita todavía más medicamento / y no debe ser / oral / y debe ser / por dentro / y me internaron en ese momento / y yo no quería pero / y estuve otros quince días o sea en total fueron un mes / entonces / sentí yo el / cuando yo me paraba de la cama / a ir al baño / o bañarme / sentía un ardor en la pierna / como que se me bajaba el veneno / ya de de a los quince días más / ya me dieron de alta / y me dieron pastillas para / dos tres meses / pero como a la semana / mi mamá me dijo no / ve a checar / un doctor / allá en San Nicolás / y fui con ese doctor / y me cambió totalmente / todo / el medicamento / el reposo / en el Universitario me dijeron / tómate este medicamento / absoluto reposo / y a la semana fui con ese doctor / y el doctor me dijo / quiero que camines media hora / a una hora diaria / y te vas a tomar esas pastillas / y ya en las noche / después de caminar / que te pongan sábila caliente / lo más caliente que puedas / yo le pregunté a ese doctor se llama Sergio / y le dije oiga / pero si acá me recomendaban absoluto reposo / y usted me dice que camine / dijo no / ellos están bien / pero de esa manera tú te vas a / aliviar en tres meses / o más / y conmigo en quince ya vas a andar caminando bien / y seguimos las indicaciones y / efectivamente / nueve diez días / ya no tenía nada / la herida había cerrado / yo en la mañana / pos / reposaba / en la tarde salía a caminar / y en la noche me ponía la sábila / quiero pensar / caminas / y se me inflamaba / con la sábila absorbía / y se trajo el veneno / todo lo que quedaba / una semana / diez días / se acabó / yo creo / que es la / la vez que he visto más cerca / a la muerte
+
+E: <tiempo = “32:12”/> sí / ¿y qué / qué tipo de víbora sería?
+
+I: una cascabel
+
+E: una cascabel / no 
+
+I: una cascabel con / con tres anillos / según dicen que cada uno es / un año 
+
+E: ¿sí?
+
+I: medía como un metro
+
+E: no pues realmente es que esas / no importa el tamaño sino pos es el veneno que es igual <risas = “E”/>
+
+I: sí unos dicen que por ser más pequeña / el veneno más fuerte pero dicen que no / que más grande 
+
+E: no 
+
+I: pero creo que al último es lo mismo / tuve la suerte gracias a dios de que / no / no me / puso / el veneno / en la vena // lo raro fue // me mordió / y nada más un colmillo / un solo colmillo fue el que me metió el veneno / en el empeine / fue en el pie derecho / el otro colmillo no se encontró nunca / y el colmillo yo creo era muy finito porque en la calceta nomás se veía un puntito
+
+E: ¿sí?
+
+I: no lo rompió no / un puntito // el otro colmillo quiero pensar que lo agarró la goma / quiero pensar que lo agarró la goma // pero yo me pongo a pensar que a lo mejor / con los dos colmillos a la mejor / sería más el veneno que me pudo haber
+
+E: claro
+
+I: entonces / fue algo muy  / muy duro para mí y para mi familia / y ese día pos me acompañaba mi mamá y pos / se asustó más ella / yo la verdad no me asusté / a mí me / me dio mucho coraje por la situación / a la mejor porque / nun- nunca pensé yo / podía haber morido / iba a morir / nunca pensé / y llegando al / universitario / me tocó una persona que / que no se me olvida / llegó y me preguntó / ¿qué le pasó? le digo me mordió una víbora / ¿qué víbora? / una cascabel / bueno fíjese que hace una semana vino una persona / de Villa Juárez / que la mordió una coralillo / y aquí estuvo así como usted / platicando / y como a las dos horas se murió 
+
+E: ¡hijo! <risas = “todos”/> 
+
+I: qué buena motivación 
+
+E: ¡no me ayudes compadre! / estuvo buena / este / no pos entonces son / yo pensé que / si una víbora te pica / sí te puede matar / pero no pensé que la secuela fuera / tan / tan / así / tan larga / y que / tuvieras que estar / tanto tiempo / cuidándote / sí
+
+I: yo tuve la suerte que me mordió / ese colmillo / fue / a un ladito / de una vena / me comentaba el doctor / que si hubiera entrado en la vena pos / camino
+
+E: sí pos más rápido se 
+
+I: y / y yo puedo demostrar el área de la herida / y / yo lo veo arriba / de la vena / yo lo veo / arriba de la vena / ¡gracias a dios que no! / pero sí / fue un mes / en el Universitario y / unos quince días / diez días / en mi casa / muy pesado 
+
+E: no pues sí / está muy interesante esa / esa anécdota / yo / nunca había sabido de alguien que / lo hubiera mordido una / una víbora / pero pos cada día se conoce más 
+
+E: <tiempo = “36:28”/> este / yo creo que / con esto / podemos dar por / finalizada la entrevista / sólo que / usted tenga / alguna cosa que / que quiera agregar 
+
+I: bueno / algo que a mí me apasiona mucho / lo que me apasionó mucho en / en mi época juvenil / era el futbol / me gustaba mucho jugar futbol / no me gustaba verlo ni escucharlo / ahora yo creo que por la edad me gusta más verlo / y escucharlo / jugarlo no // le voy al Cruz Azul / soy antitigre / toda la vida <risas = “E”/> / le puedo ir a cualquier equipo menos a los Tigres y eso ha sido parte de mi vida el futbol / lo cual yo / practiqué por muchos años // llanero // lo más fue jugar con la selección de / de la preparatoria / y alguna invitación una vez una / de una universidad pero / no más // no fue algo relevante / es algo que / a mí me motivó mucho el futbol / me gustó mucho / pero con el correr de los años pues // lo perdí / me gusta verlo / como le digo ahora / y escucharlo / pero ya jugarlo / no me llama la atención
+
+E: sí / muchas gracias este / estoy muy agradecido / con usted por / brindarnos la / su tiempo y esa / plática / tan interesante / le agradecemos bastante va a ser de mucha utilidad esta / esta plática
+
+I: no / el gusto es muy / el gusto es mío muchas gracias y / espero que / que pueda servir mi plática 
+
+Fin de entrevista

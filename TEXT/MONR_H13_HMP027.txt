@@ -1,0 +1,757 @@
+﻿<Trans audio_filename = ”MONR_H13_HMP027.MP3” xml:lang = ”español” >
+<Datos clave_texto= “MONR_H13_HMP001” tipo_texto = ”entrevista_semidirigida ”>
+<Corpus corpus = ”PRESEEA” subcorpus = ”ESMXMONR” ciudad = ”Monterrey” país = ”México” />
+<Grabacion resp_grab = ”Daniel Jaime Rodríguez Macías” lugar = “oficina del informante” duración= “47´50´´” fecha_grab 2007-11-13“ sistema = “MP3” />
+<Transcripcion resp_trans = “José Josimar Pulido Hernández” fecha_trans = ”2008-05-06” numero_palabras = ”1382” />
+<Revision num-rev = “1” resp_rev = ”Raquel Rodríguez de la Garza ” fecha_rev= “2009-02-27” />
+<Revision num-rev = ”2” resp_rev = “Cynthia Martínez del Ángel” fecha_rev= “2011-04-17” /> 
+<Revision num-rev = ”3” resp_rev = “Dalina Flores Hilerio” fecha_rev= “2011-10-30” /> </Datos>
+
+<Hablantes>
+<Hablante id= “hab1” nombre = “Francisco Jesús García Silva” codigo_hab = “I” sexo = “hombre” grupo_edad = “1” edad = “33” nivel_edu = “3” estudios = “licenciatura (diseño gráfico y publicidad)" profesión = “empresario" origen = “Monterrey" papel = “informante” />
+<Hablante id = “hab2" nombre = “Daniel Jaime Rodríguez Macías" codigo_hab = "E" sexo = “hombre” grupo_edad = “1" edad = “30" nivel_edu = "3" estudios = "licenciatura (Letras Españolas)" profesión = "fotógrafo y maestro de licenciatura" origen = "Monterrey" papel = "entrevistador” /> 
+<Relaciones rel_ent_inf = "desconocidos" />
+</Hablantes> </Trans>
+
+E: buenos días _________ ¿cómo estás? 
+
+I: ¿qué tal?
+
+E: este / déjame / aquí / ¿gustas un chicle?
+
+I: sí / venga / para / aflojar la quijada <risas= “I” />
+
+E: está bien / este / oye ¿y qué / qué hacen aquí? / éste es tu trabajo
+
+I: ¡mjm!
+
+E: ¿a qué te dedicas?
+
+I: es mi oficina y hacemos diseño gráfico / publicidad / m cualquier cosa relacionada con / con diseño / y diseño de cualquier tipo editorial / institucional // gráfico eh web / todo eso
+
+E: ¿libros también?
+
+I: sí libros también diseño editorial 
+
+E: este ¿y cómo es un día este para ti un día normal digamos o de trabajo al día lo que haces? 
+
+I: este / bueno el hecho de ser freelance este te / o diseñador independiente / no pertenecer a ninguna agencia / te / te da la posibilidad de trabajar con mucha flexibilidad de horarios entonces / mm / los días son muy variados / pueden empezar un día a las / ocho de la mañana y otro día a las / once de la mañana / y terminar / a las ocho de la noche o a las doce de la noche o o no terminar este pero un día normalón es / llegar a la oficina diez de la mañana más o menos este a checar mails / y / ver qué novedades hay e de hacer las llamadas que tenga que hacer y ya en algún momento ponerse a diseñar / este / hacer hacer lo que se tenga que hacer en cuanto a concepto s gráficos todo eso / y y avanzar en eso y lo que se vaya atravesando en el día muchas veces este / que oye que hay que ir a la imprenta / hay que ir para acá / hay que revisar esto / de repente hay un cambio de jugada en el / en el diseño que estás haciendo / y tienes que dejarlo entrarle a otro / y así se va / y / hasta el final del día que te digo a veces puede ser / ocho de la noche a veces puede ser / doce o una / de la mañana / del otro día / y este / y así es pero pero es depende de la cantidad de trabajo a veces es muy tranquilo a veces es es más acelerado
+
+E: <tiempo= “02:18” /> ¿y cómo le haces para diseñar? / o se a o cómo empiezas / si un cliente / no tiene ni idea de que tiene un negocio / y te dice 
+
+I: mjm 
+
+E: pos hazme un trabajo
+
+I: sí el el primer paso es ése el contacto con el cliente este t ú tú bueno te buscan la mayoría de las veces otra veces tu vas y ofreces los servicios / ya una vez de acuerdo en que hay una necesidad de de comunicación gráfica o de diseño se se plantean las posibilidades bueno qué / qué necesitamos hacer e habrá quien necesite un poster habrá lo lo que comentábamos ¿no? un libro / una revista un anuncio para revista / no sé / una cartelera etcétera / y en base a eso ora sí ya una vez detectada la necesidad de comunicación este se se genera un concepto visual y se plasma e n un gráfico esa es la forma en que se se hace / ahora ya con las herramientas pos se incluso tienes que elegir el / el programa en que vas a / a diseña r y la / según la necesidad también
+
+E: ¿son diferentes los programas?
+
+I: sí / si por ejemplo tú vas a diseñar una factura o una papelería no es lo mismo que un póster o una cartelera / muchas veces pueden coincidir las herramientas pe ro generalmente son diferentes / un libro por ejemplo se hace en Indesign que es un programa de diseño editorial en expresamente hecho para para eso y un un / anuncio de revista por ejemplo puede ser en photoshop p o ilustrador 
+
+E: ¿y una nota? / ¿en qué lo haces? 
+
+I: una nota una factura todo ese tipo de papelería ¿verdad? de negocios este en en generalmente que freehand es un es un software que usaba se está usando todavía pero ya está de salida y y y lo que sigue parece que es el Ilustrator el software y cada cada uno tiene / tienes que detectar esa necesidad y y aplicarlo en pro en pro de el producto final porque este entre entre más / adecuado sea la elección del software pues la calidad del producto al final va a ser mejor y más fácil
+
+E: o sea va a estar más actualizado
+
+I: sí y más fácil imprimir o sea / agilizas y facilitas el proceso para todas las partes del del proceso ¿ verdad?
+
+E: así es / oye ¿y has vivido en algún otra parte que no sea aquí en Monterrey? 
+
+I: no / nunca siempre en Monterrey
+
+E: ¿vives aquí en Monterrey?
+
+I: ¡mjm!
+
+E: y este ¿y cómo es e l lugar donde vives?
+
+I: el lugar ¿te refieres a geográficamente o la?
+
+E: la colonia en sí 
+
+I: ¿o socialmente? 
+
+E: o se a este digamos ¿cómo era antes cuando estabas chico?
+
+I: <tiempo “5:07” /> ¡ah! bueno e // cuando era chico el barrio en que vivía era un barrio muy tranquilo / que generalmente no no pasaba gran cosa este // mm era un vecindario muy muy / muy ameno muy agradable al menos e obviamente en las etapas en que vas viviendo había había gente más grande que yo que ya estaban e n pasando en etapas de / de broncas entre pandillas y todo eso pero la etapa en que yo vivía por ahí era muy muy tranquilo era un niño al fin de cuentas y y pues sí sigue siendo así / obviamente ya con todos los matices que ahorita tiene la sociedad ¿no? de de drogas y así
+
+E: ¿ha cambiado? 
+
+I: violencia 
+
+E: ¿mucho? 
+
+I: sí sí ha cambiado sí sí ha cambiado y a lo mejor mucho es también es perspectiva de uno porque ya lo ves como adulto también a lo mejor el cambio no es tanto pero e l el crecimiento tuyo lo hace ver más grande
+
+E: te das cuenta de las cosas 
+
+I: sí te das cuenta de más cosas que antes no te importaban tanto o que antes no veías ni siquiera te las imaginabas como quiera esa pérdida de la inocencia trae mucho trae esos cambios más marcados 
+
+E: así es este ¿y todavía te juntas con con amigos de de tu barrio?
+
+I: m no fíjate que no casi de hecho no no 
+
+E: ¿ninguno?
+
+I: no eso sí pasó algo muy extraño ahí porque mis amigos con los que me quedé ya muchos años surgieron a raíz de la preparatoria que era ya / otra etapa también en la vida no del barrio de de niño y con ellos fueron con con los que me quedé los de la prepa y luego los de la carrera de diseño también / y de los de antes no no tengo contacto casi con ninguno
+
+E: <tiempo= “7:08” /> ¿y con los de facultad y / tu trabajo? o güeno con esos amigos / sí tienes 
+
+I: sí 
+
+E: contacto 
+
+I: sí ése es mi grupo de referencia sí primaria has de cuenta los de la carrera los diseñadores o artistas / porque algunos se fueron por el lado de la artisteada y y gente también pocos pero sí algunos de la preparatoria también que tienen oficios totalmente distintos al mío pero pero con ellos son los que 
+
+E: ¿y se juntan regularmente? o
+
+I: pues sí tratamos de ser los los de prepa por ejemplo son este una vez mínimo al mes una cosa así que es poco pero está bien y los de diseño este es gente que sigo viendo muy muy constantemente 
+
+E: este / ¿y cómo es una reunión con tus amigos?
+
+I: con los ¿quién? ¿los de diseño? pues no séla típica se juntan te juntas y este no sé se hacen las chelas 
+
+E: la carnita
+
+I: sí a veces o a veces nada más la juntarse y la plática y es un humor muy particular muy / muy localoide pero muy divertido para para nosotros entonces es puro reírnos y acordarnos de cosas y también platicar de las cosas actuales de la de la carrera ¿no? / de la profesión pero básicamente eso es y ahora ya pos todos con hijos y con otras cosas van van cambiando las formas de reunirte también / antes se fumaba ahora ya no se fuma ahí en la adentro de la casa y cosas así / pero eso es básicamente / se va adaptando 
+
+E: <tiempo= “8:51” /> oye ¿y alguna anécdota de de tus reuniones que me quieras contar?
+
+I: alguna anécdota ¡hijo! no pos es que hay demasiadísimas no no no podría decirte una / bueno sí podría claro que sí pero / así al vuelo no tengo una que dijera yo ¡ah! me acuerdo de tal 
+
+E: pero así una anécdota algo importante
+
+I: sí este sí te digo hay muchas por ejemplo cuando empezaron a avisar los primeros que iban a ser papás pues / se torna una reunión muy muy emotiva y aparte // empiezas a pensar en todo lo que se viene y todo lo que va a cambiar con la llegada de un niño un nuevo un nuevo ser y la / y porque al final de cuentas lo ves como como también una parte de la del grupo de amigos ¿no? o sea no ves a los papás y al y al nuevo hijo lo lo dejas así de lado sino que lo inmediatamente empiezas a integrarlo a cómo va a ser nuestra vida social ahora con con esos nuevos seres que va a haber y que no es uno o sea son varios dos tres cuatro incluso algunos se alejan un tiempo y regresan entonces cuando te avisan de eso en alguna reunión de de alguna paternidad paternidad o así pues sí este es muy es muy emocional no sé otras pueden ser unas discusiones que hayan tenido acerca de de algo de algún tema político o social todos tenemos ideas políticas este distintas entonces cuando hay ese tipo de de reuniones que que tocamos esos temas sí se ponen / sabrosones así como 
+
+E: intensas
+
+I: <tiempo= “10:30” /> exacto bueno por un rato al menos se pone seria la cosa y y es gente que en su condición de artistas / por así decirlo porque no no sé si si sea bien aplicado / pero este son son / de alguna manera divos y les gusta tener su punto bien así férreamente obviamente algunos más otros menos pero a todo mundo nos gusta / defender nuestra opinión
+
+E: así es / este ¿y con tu familia orita vives con tus papás?
+
+I: ahorita sí
+
+E: este ¿y tienes hermanos ya casados?
+
+I: sí
+
+E: ¿y se juntan a veces a comer a cenar?
+
+I: poco pero sí / bueno poco relativamente no sé qué sea poco y qué sea mucho pero serán todos la el total de la familia será una vez al mes a lo mejor y algunos miembros que falten y otros que sí están pos cada semana pero el total total a lo mejor una vez al mes 
+
+E: y ¿igual carne asada cervezas o qué es lo que hacen?
+
+I: no no predominan / como predominan las mujeres / y la mayoría no no toman ni nada de eso es meramente comer nada especial algo así que preparar algo especial no lo que haya ahí al momento o se pide algo de comer comprar y este // y no no nada especial pero pero sí es también así muy de añoranza y de estar ahí recordando cosas y y ahora también igual con como con los amigos con los sobrinos ahora este convivir jugar con ellos verlos y estar con ellos porque es poco el tiempo que estamos es básicamente eso / y enterarnos de lo que le está pasando a cada quien porque también no pasa muy seguido entonces cuando nos vemos es oye ¿qué onda cómo vas? ¿qué te pasa o cómo cómo está esto cómo está aquello? si hay alguna bronquilla que sepamos de antes pues preguntamos 
+
+E: <tiempo= “12:32” /> así es /¿y celebran la navidad? 
+
+I: pues yo no sé si llamarlo celebración porque es algo también muy tranquilo nada especial / sí sí la fecha es especial obviamente y como tal nos juntamos y hay mucho cariño y abrazos y todo / pero no hay un algo así que // no hay un factor determinante que diga este año el festejo va a ser así va a ser asá sino que es meramente reunirnos y también con algunos días antes se planea qué / qué preparar / para come r y todos estar bien qué hermana lleva qué cosa 
+
+E: ¿pero sí la cena típica? / que el pavo / el puré
+
+I: no no no no no 
+
+A1: 
+
+I: ah okay / lo puede s / okay / ya vuelvo no me tardo nadita 
+
+E: la cena de navidad
+
+I: ¿que si era lo típico me decías?
+
+E: sí algo / algún platillo que siempre ha gan-
+
+I: no no no no / no varía año con año este puede ser / desde tamales lo / los típicos hasta cabrito el típico norteño o o alguna vez este pavo sí alguna vez por qué no pero no no hay una así tradición que que lo enmarque ni nada / puede variar / según las ganas de del que está ahí
+
+E: ¡ah! ¿sí? 
+
+I: mjm
+
+E: ¿y en cuanto a rezos y eso / si reza no acuestan al niño?
+
+I: no fíjate / no no no eso ha variado mucho / sí me acuerdo de niño / que sí / algunas veces mi papá / este comentaba eso en que / en que / este año el niño lo van a acosta r / que / mi hermana tal y mi otra hermana tal / y el otro año / tal y tal / pero eso quedó atrás hace mucho / y no ahora ya / pues no hay una / no hay un seguimiento / a lo mejor cada quien individualmente sí hace su / su este / su oración muy personal o lo que sea pero / en grupo y así no
+
+E: pero / ¿siguen poniendo pino y nacimiento? 
+
+I: <tiempo= “14:52” /> sí / sí el pino y el nacimiento siguen poniendo porque / pos eso sí es una especie de tradición / que / casi / que / de hecho no recuerdo un año que no haya habido / y ahora con los niños / chiquitos los sobrinos y todo eso pues más con más razón / para que la casa esté ahí un poco alegre en esos días / y los niños / aunque sea un apapacho de / de eso / pero sí meramente así como un / esta es la época de poner un pino / y un nacimiento iluminado porque // más allá de los rezos y todo eso las posadas y todo los nueve días antes del nacimiento no no hay nada
+
+E: ¿la cuaresma tampoco? 
+
+I: en el caso de la cuaresma se respeta mucho e l no / el no comer carne los viernes de la cuaresma y este e y y antes el miércoles de ceniza sí era bastante vaya teníamos la formalidad de ir y ponernos la ceniza / yo tengo muchos años que no que no lo hago / y en mi casa pos yo creo que varios que no tienen mucho que no lo hacen pero lo lo la tradición de no comer carne los viernes de cuaresma sí se siguen marcando como que es el / es el piquito de la tradición que no quieres perder / y sí sí lo hacemos 
+
+E: <tiempo= “16:15” /> oye y ¿antes trabajabas en alguna otra parte o siempre has sido / independiente?
+
+I: no sí trabajé mucho tiempo en algunos negocios de otra gente como diseñado r primero después como pos sí que vas aumentando de diseñado junior y luego diseñador senior y luego fui director de arte en alguna agencia también ya de ahí para acá independiente pero sí en varios en varias agencias y e imprentas y negocios 
+
+E: ¿y por qué te decidiste a a cambiar a ya independizarte?
+
+I: bueno porque m llega una etapa donde a cierta grado de experiencia es más difícil que te paguen lo que lo que tú consideras que puedas valer las agencias / generalmente contratan mucha gente joven / y y el tope de crecimiento de una agencia es muy 
+
+E: muy joven 
+
+I: es muy corto y tienes llega un punto en que ya nada más está encima de ti el dueño y dices tú pues entonces en qué momento voy a estar yo en una mejor posición entonces no / no hay ese no hay muchos escalones que brincar entonces este / con la experiencia y los contactos que vas adquiriendo en esos años // llega un punto en que / en que / es factible el el / el estar independiente y el trabajo te avala la gente te reconoce de alguna manera y y tienes los contactos adecuados y / y es muy factible que / que no te vaya mal o sea que te vaya bien que te que te vaya igual o mejor que estando en un negocio / entonces pues la apuesta es bastante atractiva si es igual o mejor pos está bien
+
+E: <tiempo= “17:51” />y sin el rigor de depender 
+
+I: sin el rigor de depender 
+
+E:  
+
+I: exacto / lo que te decía de los horarios los los este las presiones / el que no te puedas despegar un segundo del teléfono porque el cliente te buscó y no te encontró etcétera etcétera entonces acá no no es nada parecido en ése sentido
+
+E: ¿y ya tú nomás / tú manejas todo por celular y internet?
+
+I: muchas ya es vía mail ya la gente / no se complica lanza el este el mail y tú tú / eso sí lo estás checando constantemente y respondes / y vía teléfono también / celular o teléfono fijo todo eso
+
+E: mjm oye ¿alguna vez has estado en peligro de muerte?
+
+I: ¡hijo! pos ahorita que me acuerde sólo una vez / pero no sé si eso se llame peligro de muerte pero yo sentí que me iban a atropellar / muy gruesamente 
+
+E: ¿sí?
+
+I: ey
+
+E: ¿en dónde o qué?
+
+I: estaba en una calle aquí en / aquí en el centro de Monterrey y este vi la la mitad de la calle estaba bastante bastante libre y caminé hasta la mitad pero del otro lado en el otro sentido venían muchos carros y no podía pasar y cuando me di cuenta ya venían los del otro lado también entonces me no había ni banqueta ni camellón ni nada era abierta la calle entonces me me hice para adelante porque vi un camión que venía muy recio / y voltié para el otro lado y venía otro camión / muy recio del otro lado y abriéndose también bastante / y lo único que hice fue cerrar los ojos y quedarme quieto parado y sentí el aire por los dos lados así me quedé dije no / uno no era camión uno era una combi el otro sí era un camión y no no sentí o sea yo / yo ya no me hacía en este mundo o sea cuando / cuando ya cerré los ojos ¡n’ombre! 
+
+E: y dijiste adiós 
+
+I: cualquier cosa pude pasar o sea puede un día no estar aquí / y esa vez sí / esa vez / creo que es la vez que más me he sentido en peligro de morir / y ese día tuve una sensación muy extraña de que / de que me levanté todo el día estuve pensando que ese día me iba a morir / pero no estaba en peligro ni nada pues estaba así como que equis y y pensaba !ah! orita voy a subir las escaleras y me voy a caer y me voy a morir y luego ¡ah! orita que cruce la calle me voy / pero ese día fue un día muy extraño de hecho alguna vez lo comenté en terapia y no / no le encontramos mucha explicación pero es / ésas son las sucesos así marcados con la muerte que hasta orita me acuerdo a lo mejor he tenido otros y no no los recuerdo
+
+E: <tiempo= “20:24” />ahorita que mencionas terapia / ¿cuánta s terapias fueron?
+
+I: estuve un tiempo hace estuve hace ¿qué será? / como en el año dos mi l / dos mil uno / hasta el dos mil cuatro dos mil cinco / sí pos sí fui bastante tiempo y sí estuvo bien me fue bien
+
+E: a veces hace falta / platicar con alguien o  tienen problemas ¿no?
+
+I: sí sobre todo alguien que que no le intereses que no no haya sentimientos encontrados ahí de amista d o de o de algo porque con el psicólogo eso es lo que pasa que no tu vida pos realmente no él no tiene por qué decirte tú eres bueno y los demás son malos o tú eres malo y los demás son buenos o sea él nunca te va a decir algo así pos / su desinterés por tu vida creo que ayuda mucho a a entender muchas cosas / porque tú puedes hablar con un amigo pero la misma amistad te a él lo hace de alguna manera / entre comillas va apapacharte ¿no? decir ¡ah! este tú eres bien chido eres mi amigo y / y tú no tienes por qué sufrir tal o cual cosa o no sentirte así y asá pero si tú lo sientes pos lo sientes y y que ésta es la mejor manera de ayudar así es una terapia en países así muy muy avanzados culturalmente la gente se terapea todo el tiempo y creo que es bueno / a mí me ayudó no del todo creo que todavía tengo algunos  ahí algunas materias pero pero sí me ayudó mucho
+
+E: pero ¿sí la recomendarías? 
+
+I: sí yo siempre a quien veo así en mal estado lejos de apapacharlo o de decirle no vas a ver / te vas a aliviar de chiflarlo de alguna manera le hace bien una terapia porque sí / sí es muy es muy reconfortante sentirte bien de verdad / no nada más por encimita 
+
+E: <tiempo= “22:21” /> oye ¿alguna anécdota importante algún cambio que te haya pasado que digas de aquí fue un parteaguas en tu vida
+
+I: este ¡híjole! pues a ver // me acuerdo mucho <risas= “I” /> de de un examen de mercadotecnia // yo yo primero estudié dos semestres de agronomía y de alguna manera fue un fracaso porque no / no pude continuar / yo me lo achacaba a mi a mi falta de capacidad este entonces salí de de agronomía y me dediqué a trabajar un tiempo y después mi papá me me ofreció que que volviera a estudiar que él me ayudaba con con la carrera y todo eso y entré a diseño y el primer tetra este yo iba mal en en mercadotecnia / era mercadotecnia uno y yo yo iba estaba quedando mal tenía que sacar / en el último eran cuatro / cuatro exámenes mensuales / y se promediaban al final y ahí se veía si si pasabas o no y yo necesitaba sacar cien <observación_complementaria= “gente que se encontraba en el lugar de la entrevista estaba platicando/> en el el último examen para poderla / pasar con setenta / verdad mi promedio / apenas si si sacaba cien / apenas era el pase setenta / y me y era un trabajo en equipo para colmo me junté con lo peor creo que de la clase y no no habíamos hecho nada dos días antes o un día antes del examen y yo ya daba por tronada esa materia y me daba mucha pena con mi papá y conmigo conmigo mismo porque pos que me salgo / me salgo de de allá porque no pude con la carrera y me vengo para acá y voy a empezar el primer tetra y a fallar con ese tipo de cosas / total me / me concentré / dejé de lado el equipo y y me puse yo a hacer la chamba y empecé a entender muchas cosas leyendo un libro y y según lo que nos había dicho el maestro que necesitábamos hacer el proyecto que necesitábamos desarrollar / y estuve toda la noche y y / hice u n un resumen este lo redacté bien según yo en ese tiempo ¿verdad? y lo y lo teclié a máquina porque en aquel tiempo no había computadora y este total hicimos una / al otro día en la mañanita le hicimos un empaque muy bonito y lo lo presentamos / y y sacamos cien / sacamos cien y pasé / y y de alguna manera son cosas que te / que te que te dicen como que no importa la gente que o sea no hay excusas pues o sea la gente que está alrededor tuyo si le importa no la mayoría de ellos no siguieron la carrera / la mayoría de mi equipo / si acaso uno y y en base y a pesar de todo y todo sa- / salió y salimos adelante y de ahí para allá nunca tuve / estuve en riesgo de reprobar alguna materia o algo / o sea como que me di confianza / de la capacidad que tenía para hacer las cosas / de que era bueno para / para el tema de mercadotecnia y todo eso / y es fecha de que así hago con mis / mis trabajos que presento y / y generalmente gustan mucho / pues ese fue un así como / un parteaguas sobre todo en lo profesional de decir no no o sea yo muchas veces / tendía de que este si necesito cien / no pos ya ni para qué 
+
+E: mjm
+
+I: ajá exactamente / y ese día no / no bajé los brazos y y salió y desde desde entonces hago eso / o sea no no me dejo tan fácil de ¡ah! no pos ya está perdido ese cliente / al cliente lo peleas más lo buscas más y le ofreces más cosas que los demás entonces muy probablemente caigan con contigo / esa es una en lo profesional es una anécdota que me me acuerdo mucho / ya hace de eso no sé de siete como quince años / sí hace un montón / estaba empezando la carrera 
+
+E: <tiempo= “26:17” /> así es bueno aparte sería aparte de eso este no dejar las cosas al último ¿no?
+
+I: eso / es otra enseñanza muy gruesa también el no 
+
+E: de estudiante 
+
+I: sí exacto sí sí sí ahí fue/ también novatada pero / pero es / parte de lo mismo 
+
+E: este bueno pues aparte te voy a hacer un cuestionario
+
+I: mjm
+
+E: ya para terminar 
+
+I: okay 
+
+E: ¿cuál es tu nombre completo?
+
+I: _________ _____ / ______ _____
+
+E: e / ¿qué edad tienes?
+
+I: treinta y tres
+
+E: ¿estado civil?
+
+I: soltero
+
+E: ¿dirección?
+
+I: e / Ocampo ciento cuatro poniente / Santa Catarina
+
+E: ¿qué colonia? 
+
+I: centro
+
+E: ¿teléfono?
+
+I: es ochenta y tres ochenta y ocho cinco cero cuatro
+
+E: ¿religión? católica o? 
+
+I: pues / no no / no puedo así como que hacer/ 
+
+E: ¿ateo?
+
+I: no no soy ateo / yo creo que sí hay algo al que / en qué creer pero / no no podría decirme católico porque no / no sigo las / cosas  soy bautizado por la iglesia católica pero no sigo las condiciones que pone la iglesia ni nada de eso
+
+E: eres creyente pero no practicante
+
+I: e algo así / exactamente
+
+E: no has vivido en ningún otro lugar ¿verdad?
+
+I: no nunca he vivido en otro lugar que / no sea de México 
+
+E: ¿tu papá de dónde es?
+
+I: ¿mi papá? es de Monterrey
+
+E: ¿tú mamá?
+
+I: mi mamá e s de Tamaulipas / Ciudad Victoria Tamaulipas
+
+E: ¿tu abuelo paterno?
+
+I: mi abuelo paterno era de Nuevo León
+
+E: ¿e tu abuela paterna?
+
+I: mi abuela / también / de Nuevo León
+
+E: ¿tu abuelo materno?
+
+I: tamaulipeco
+
+E: ¿tu abuela materna?
+
+I: también tamaulipeca 
+
+E: <tiempo= “28:52” /> ¿tienes algún hobbie / un pasatiempo? 
+
+I: m pues hobbie 
+
+E: ir a los juegos / futbol 
+
+I: no me gusta el futbol americano / sí me gusta seguirlo así / con estadísticas y todo eso
+
+E: ¿pero no / no lo practicas?
+
+I: no / lo jugué alguna vez pero no / a estas alturas ya no / ya no me dan las rodillas para nada <risas= “I” />
+
+E: e ¿vas al cine?
+
+I: m ¡híjole! / es que tengo un chorro de no ir pero / antes de este tiempo sí iba muy seguido / o sea / sí / puede ser que sí / puedo decirte que sí 
+
+E: por ejemplo ¿una ves al año?
+
+I: no sí sí sí 
+
+E: este ¿o una vez al mes / a veces?
+
+I: sí sí sí
+
+E: ¿y qué prefieres / mexicanas / extranjeras / o te da igual?
+
+I: ¿las películas?
+
+E: sí
+
+I: ¿o la novia? <risas= “E” /> este no no tengo preferencia en ese sentido / me da igual / mientras sea buena la película 
+
+E: ¿si son extranjeras de qué este norteamericanas / o europeas?
+
+I: no me gustan / si son extranjeras me gusta mucho las italianas
+
+E: italianas
+
+I: sí / yo creo que / las películas favoritas / son italianas 
+
+E: ¿cuáles son las que has visto //
+
+I: e no Postino / Cinema Paradiso / y hay otra por ahí que se me está olvidando // hay una que se llama el Bouye no sé sí sea italiana o creo que sí es italiana que es así medio / corte erótico me gustó mucho 
+
+E: este ¿qué tipo de películas / de acción o / prefieres drama / qué prefieres?
+
+I: yo prefiero las de las / acción y comedia porque son / son / como más / no echarle más drama a la vida / pero hay dramas muy buenos / pero acción y comedia sí 
+
+E: ¿para relajarte?
+
+I: i 
+
+E: ¿escuchas radio?
+
+I: m no / debería pero no
+
+E: ¿televisión / ves?
+
+I: ¡mjm!
+
+E: e ¿más de una hora al día o una hora al día?
+
+I: m / por ahí promedio una hora hora y media / una hora 
+
+E: ¿y qué tipo de programas ves?
+
+I: ¡ah! pues / documenta les / series / m noticias / básicamente / deportes también
+
+E: ¿telenovelas / concursos?
+
+I: no / no no eso no 
+
+E: este ¿con que frecuencia ves / películas en la tele / poco / mucho?
+
+I: poco / las / que programa la televisión poco
+
+E: igual ¿mexicanas o extranjeras?
+
+I: sí no / indistinto 
+
+E: este ¿y te gustan que sean dobladas o / con subtítulos?
+
+I: no / subtituladas
+
+E: ¿tienes / videograbadora?
+
+I: no
+
+E: ¿DVD? 
+
+I: ¿DVD?
+
+E: e ¿consola de videojuegos?
+
+I: no 
+
+E: ¿cuántas teles hay en tu casa?
+
+I: a tres 
+
+E: <tiempo= “32:35” /> ¿lees el periódico?
+
+I: m no todos los días pero sí sí / sí lo trato de / de menos dos veces a la semana
+
+E: ¿qué periódico lees?
+
+I: el Norte
+
+E: ¿y qué secciones?
+
+I: local / internacional / deportiva
+
+E: ¿cultural / la policíaca?
+
+I: pos la local tiene algo de nota policíaca / y cultural poco la verdad
+
+E: ¿revistas / lees?
+
+I: revistas no no soy muy afecto a las revistas / no
+
+E: ¿e usas el internet?
+
+I: sí / mucho 
+
+E: ¿en el trabajo lo usas? / ¿en la casa también?
+
+I: Sí en todos lados
+
+E: ¿tienes computadora?
+
+I: sí
+
+E: ¿cuántas?
+
+I: una
+
+E: este ¿y el internet lo usas / para enviar correos / buscar información / hacer tareas/ 
+
+I: básicamente 
+
+E: chatear?
+
+I: sí / bueno estar conectados con / con amigos y todo eso / y otra es este tener información de de / a lo que me dedico / y aparte comunicarme con clientes y todo eso 
+
+E: y ¿hablas con voz video por internet?
+
+I: no no / texto
+
+E: ¿a diario lo usas el internet?
+
+I: ¿perdón?
+
+E: ¿a diario lo usas?
+
+I: sí eso casi que ni / ni los domingos / me lo evito 
+
+E: ¿e l celular que tanto lo usas mucho?
+
+I: meramente para hablar y sí / sí lo uso
+
+E: ¿hablar y recibir llamar / mandar mensajes y recibir?
+
+I: sí mensajes de texto pero son mínimo la / cantidad contra las llamadas / pero nada / nada que no sean esas dos cosas
+
+E: ¿e visitas museos?
+
+I: sí / se puede decir que sí
+
+E: e ¿qué tánto? / ¿una vez por semana / una vez al mes?
+
+I: no a lo mejor / una vez al mes 
+
+E: e / ¿asistes a conciertos?
+
+I: sí 
+
+E: ¿una vez al mes / dos veces al año?
+
+I: dos veces al año a la mejor //
+
+E: ¿el teatro?
+
+I: teatro casi no / la verdad / no
+
+E: ¿e viajes por placer?
+
+I: una vez al año / a veces / do s y cuando me fue muy bien 
+
+E: ¿cuál es el título de tu carrera?
+
+I: es / licenciado en diseño gráfico / y publicidad
+
+E: ¿nada más hiciste la licenciatura / o estudiaste alguna maestría? 
+
+I: no / nada más hasta ese nivel me quedé 
+
+E: ¿desde hace cuánto trabajas? / ¿desde qué año?
+
+I: por decir un año / cinco / dos mil cinco
+
+E: e ¿tiene nombre tu negocio?
+
+I: yo / yo este / García Gráfico Creativo / es como el sí es como el nombre del negocio / el nombre comercial pues / de mi negocio que soy yo
+
+E: diseño y publicidad
+
+I: mjm
+
+E: ¿y desde que trabajas eres diseñador o desde hace cuánto?
+
+I: e sí siempre he sido diseñador / o sea 
+
+E: ¿desde 
+
+I: sí / me he dedicado a eso 
+
+E: no sé si puedas decirme más o menos cuánto ganas / de acuerdo a la siguiente tabla / el salario mínimo son dos mil ochocientos mensuales 
+
+I: ajá
+
+E: y tengo entre dos y tres / cuatro y seis / cinco y diez / o más de diez
+
+I: m / yo creo que / se puede marcar / ¿cuál es la / anterior a / más de diez?
+
+E: cinco y diez
+
+I: entre cinco y diez / puedes marcar
+
+E: e ¿te dan prestaciones? / seguro / vacaciones y todo eso?
+
+I: m no / no
+
+E: ¿cuántos focos hay en tu casa?
+
+I: ¡ay canijo! <observación_complementaria = “ expresión de asombro “ /> / unos treinta / treinta y cinco 
+
+E: ¿en tu casa quiénes viven contigo?
+
+I: m papá / mamá / y dos hermanos
+
+E: ¿varones?
+
+I: no / un hermano y una hermana
+
+E: ¿manejan algún idioma / ellos / aparte del español?
+
+I: m no
+
+E: ¿tu papá hasta qué grado cursó?
+
+I: yo creo que tercero de secundaria / tercero de secundaria / sí 
+
+E: ¿tu mamá?
+
+I: mi mamá m no sé si hasta después de secundaria hizo una carrera de comercio / este no recuerdo el título de la carrera pero era un especie de comercio / y yo / yo estoy seguro que es antes de la prepa y después de secundaria / nada más hasta ahí 
+
+E: ¿hasta la prepa crees que /?
+
+I: no no creo / no creo
+
+E: ¿e y tu hermano?
+
+I: mi hermano es técnico en artes plásticas
+
+E: ¿y tu hermana?
+
+I: mi hermana es licenciada en ciencias de la comunicación 
+
+E: ¿tu papá trabaja?
+
+I: sí
+
+E: ¿en dónde trabaja?
+
+I: tiene un negocio que es / una cafetería
+
+E: ¿tu mamá?
+
+I: mi mamá no / está dedicada al hogar
+
+E: ¿tu hermano?
+
+I: sí / trabaja
+
+E: ¿en dónde?
+
+I: en San Marco / en una parte de educación que se llama San Marco
+
+E: ¿y tu hermana?
+
+I: mi hermana tiene un negocio propio / un estudio fotográfico
+
+E: este / ¿tu papá más o menos cuánto gana / de acuerdo a la tabla que te di?
+
+I: no pues más de diez / no tengo el dato así exacto pero debe de andar por ahí
+
+E: ¿tu hermano?
+
+I: mi hermano debe de andar en los / cuatro salarios mínimos 
+
+E: ¿y tu hermana?
+
+I: ¡híjole! la verdad no / no tengo el dato pero serán unos ¿qué? / tres o cuatro / unos tres / cuatro salarios mínimos 
+
+E: e tu hermano / tu papá aporta para la manutención de la casa ¿verdad?
+
+I: sí / sí 
+
+E: ¿y no sabes / qué porcentaje sería?
+
+I: no la verdad ni idea / ¿el porcentaje de lo que aporta? 
+
+E: ey
+
+I: pues / casi el cien por ciento 
+
+E: ¿y tus hermanos aportan algo? / tu hermano y tu hermana 
+
+I: yo creo que la mínima / una mínima parte / algún / 2 por ciento cada uno
+
+E: este del cuestionario yo creo / que es todo necesito que me firmes
+
+I: mjm
+
+E: nada más una hojita que me puedas firmar
+
+I: ¡claro! 
+
+E: <tiempo= “40:34” /> o si quieres contarme algo algo que te / nazca que te acuerdes ¡mira esto! / pasó 
+
+I: m no no / no / no sé / sería de ¿de qué? / recordar de algo pero 
+
+E: oye / y e / ¿tú cocinas?
+
+I: m sí / sí sí 
+
+E: ¿me podrías da r / una receta así sencilla?
+
+I: sí / como ¿de cualquier cosa?
+
+E: o sea algo que digas / esta es mi especialidad
+
+I: bueno / me gusta / es que hay dos cosas que me gustan mucho no sé / por cuál irme porque / ninguna de las dos es propia o algo que yo haya inventado 
+
+E: o las dos 
+
+I: ¿cómo?
+
+E: o me dices las dos 
+
+I: a ver / me gusta mucho preparar chilaquiles / con pollo
+
+E: ¿pero cómo? 
+
+I: e 
+
+E: ¿cómo lo preparas?
+
+I: primero hay que hacer salsa / verde / ocho tomates / o siete / verdes / le pones / ajo cebolla / sal / todo lo coces / y lo pones en la licuadora ya una vez cocido / lo licuas / pones cilantro / bien lavado / en la licuadora pero ése sí crudo / lo / así / lo mueles / después este cortas / unas / siete ocho tortillas / depende para cuántas personas sea / eso como para dos / unas ocho tortillas / siete / las cortas ya sea en / en tiritas o en <risas= “I” /> en triangulitos / las doras / que queden así muy crujientes / y para eso ya tienes pollo cocido y desmenuzado / entonces este agregas el pollo a la a la tortilla / que se vuelva a dorar ahí un poquito más / que no quede tan blanco así cocido nada más sino que se dore un poquito ahí con las tortillas / este agregas la salsa / y ya / y entonces / por otro la do tienes / queso panela molido / bueno ¿cómo se dice? / rallado / y este / y crema / crema vegetal ¿no? / o / no no vegetal no 
+
+E: como la Norteñita
+
+I: sí ¡ándale! / crema así /como la Norteñita has de cuenta / y ya al plato de chilaquiles / con todo lo que ya tenía / le pones queso y crema / salen muy buenos / esa es una / y la otra es una salsa de / de / espagueti que yo mismo hago y está muy buena / la / salsa / uno mismo hace / se le pone bueno sofríes cebolla / con ajo / y. después puedes ponerle unos / doscientos trescientos gramos de carne / molida / y una lata de tomates ya pelados y / creo que son cocidos / sí / pones una lata de tomates / cubitos de consomate o no sé cómo se llama / y unas hojitas de albacar fresca / o secas pero de preferencia frescas / y ya / se / coce bien todo eso y luego coces la pasta aparte y nada más / pones arriba la / la salsa y parmesano / y queda / bien rica / ésas son mis recetas favoritas y que me salen bien / hago más cosas pero ya / son más así como que / un día pueden salir bien y otro ya no tanto <risas= “I” />
+
+E: yo hace mucho este sacaba recetas / para alguna salsa / de pastas / este pero ahí sí era de / tomate crudo / se me hace es la mismo nada más que con el tomate crudo / y necesitas quitarle / la semilla 
+
+I: claro
+
+E: para que no tenga tanto líquido 
+
+I: ajá
+
+E: y este y yo no me fijé en ese paso <risas= “I” /> <entre_risas/> y me tardé como / seis horas 
+
+I: en que se secara / sí
+
+E: ya después utilicé puré de tomate 
+
+I: sí / acá / echas tomates tomate / de hecho vienen enteros creo yo pero no sé de qué manera vienen ya preparados para eso / pero no trae ningún tipo de condimento la lata o sea no es / no es salsa preparada pues
+
+E: sí pueden ser extracto de tomate
+
+I: mjm / exacto / y otra que me sale muy buena y me acordé por lo que dijiste que te tardaste fue este es un pay de limón / este con galletas Marías y todo eso / está muy buena pero la primera vez que lo hice / al a la mezcla / le puse limón con todo y semillas <risas= “E”> entonces / estaba comiendo y tenía que 
+
+E: bien crujiente 
+
+I: sí / era horrible porque aparte se amargó que no quedó muy buena / pero esa fue la única vez que me pasó y después de eso me han dicho que está muy bueno
+
+E: ¿y ése cómo / es la preparación?
+
+I: son como ocho limones / exprimidos / sin semilla <risas= “E” /> un una lata de / leche Carnation <observación_complementaria = “marca de leche evaporada” /> / Clavel / leche condesada / no / leche evaporada / y otra de leche condensada / yo le agrego un / una barra de queso crema Philadelphia / para que espese más / y esas / cuatro cosas el limón las / las dos leches y el / y el queso filadelfia lo lo mezclas en la licuadora / y ya después sólo vas poniendo capa de galleta / capa de mezcla / capa de galleta / hasta el final / y al final hay quien le raya cáscara de limón encima para que le quite un poco lo dulce / porque es extremadamente dulce / pero puede uno hacerlo también / y queda muy rico / y lo metes al refri un ratito para que se 
+
+E: se espese
+
+I: sí / ya con / el hecho del limón con las leches como que se / como que se coagula ¿no? / no sé cómo pero / pero sí espesa muy bien queda como así como nievecita / queda muy bueno / yo _________ _____ ______ _____ / mexicano / ¿aquí? 
+
+E: 
+
+I: ¿son crucecitas o qué?
+
+E: 
+
+I: ¿eh?
+
+E: no / llenarlo con tu nombre y este 
+
+I: pero por ejemplo aquí / ¿después de mexicano / un espacio o no?
+
+E: no / no eso es de 
+
+I: ah okay okay okay nada más donde están las rayas /
+
+E: aquí puedes tachar que está
+
+I: mjm
+
+E: poner 
+
+I: mjm // ¿ésta también?
+
+E: sí / por favor // es que nos piden / las dos originales /  como quiera / te quedas la copia
+
+I: mjm
+
+E: bueno pues eso / ya sería todo
+
+I: ya está
+
+E: muchas gracias por haber participado
+
+I: no / a ti 
+
+ Fin de la entrevista
+

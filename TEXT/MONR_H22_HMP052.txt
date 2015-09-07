@@ -1,0 +1,1986 @@
+﻿<Trans audio_filename = ”MONR_H22_HMP052.MP3” xml:lang = ”español”> 
+<Datos clave_texto = ”MONR_H22_HMP052” tipo_texto = ”entrevista_semidirigida”> 
+<Corpus corpus = ”PRESEEA” subcorpus = ”ESMXMONR” ciudad = ”Monterrey” país = ”México”/>
+
+<Grabacion resp_grab = ”Juan Eduardo Castro Aguilar” lugar = ”habitación del sobrino del informante” duración = “104´39´´” fecha_grab = ”2007-08-21“ sistema = ”MP3”/>
+<Transcripcion resp_trans = ”Mayra Janeth Reyna Mora” fecha_trans = ”2007-12-21” numero_palabras = ”18202”/> 
+<Revision num_rev = ”1” resp_rev = ”Raquel Rodríguez de Garza” fecha_rev=”2008-08-15”/>
+<Revision num_rev=”2” resp_rev = ”Mayra Silva Almanza” fecha_rev = ”2010-07-20”/> 
+<Revision num_rev=”3” resp_rev = ”Cynthia Martínez del Ángel” fecha_rev = ”2011-06-19”/> < / Datos>
+<Revision num_rev=”4” resp_rev = ”Dalina Flores Hilerio” fecha_rev = ”2011-10-07”/> < / Datos>
+
+<Hablantes>
+<Hablante id = ”hab1” nombre = ”José Jaime Cavazos Viteri” codigo_hab = ”I” sexo = ”hombre” grupo_edad = ”2” edad = ”49” nivel_edu = ”2” estudios = "secundaria" profesión = "mecánico" origen = "Monterrey" papel = "informante"/>
+<Hablante id = "hab2" nombre = "Juan Eduardo Castro Aguilar" codigo_hab = "E" sexo = "hombre" grupo_edad = "1" edad = "23" nivel_edu = "2" estudios = "estudiante de licenciatura en trabajo social” profesión = "estudiante" origen = "Monterrey" papel = "entrevistador"/>
+
+<Relaciones rel_ent_inf = "conocidos"/>
+< / Hablantes> < / Trans>
+
+
+E: a / bueno no mire / lo que pasa es que / es para un trabajo de investigación de / de la universidad / básicamente lo que busca es / explorar / pues las tradiciones de la gente de Monterrey / o sea la que está viviendo orita en Monterrey / las costumbres / qué hace para trabajar  / qué hace con sus ratos libres / en qué cree / cómo se vive / de todo ese tipo de cosas / entonces básicamente / este no es como / como una entrevista de pregunta respuesta más bien es / ir más o menos platicando de / de / cómo lleva su vida y de / ese tipo de cosas y / ¿qué tal la lluviecita de ahora?
+
+I: estuvo bien pero 
+
+E: estuvo sabrosa ¿verdad? / pero de volada 
+
+I: mañana vamos a ver 
+
+E: ¿usted cree?
+
+I: no mucho como el Gilberto
+
+E: m 
+
+I: si no cambia de / de rumbo el // el huracán / no creo que haya problema 
+
+E: mjm / que ahorita ya está en Campeche ¿verdad?
+
+I: sí // sí pos supuestamente va a entrar por el / por Veracruz 
+
+E: mjm 
+
+I: si entra por Veracruz va a atacar principalmente lo que es Puebla / México / Querétaro / San Luis Potosí // toda esa área se va ir derechito hasta el / hacia el / hacia el Pacífico 
+
+E: ah / entonces no va / ¿aquí qué nos va a llegar?
+
+I: casi nada lluvia nada más 
+
+E: pero ya ve que aquí con cualquier cosita se inunda Monterrey / bueno mire / este / vamos a empezar / ¡ah! primero / si no tiene ningún problema / voy a grabar la / la conversación para / este / que no senos vaya a escapar por ahí ningún dato / ya namás le voy a pedir pos igual / unos datos así bien generales // Jaim- / ____ _____ ________ ______ ¿verdad?
+
+I: sí 
+
+E: ¿qué edad tiene oiga?
+
+I: <tiempo = ”02:00”/> cuarenta y nueve 
+ 
+E: ¿estado civil?
+
+I: divorciado
+
+E: ¿cuál es la dirección de aquí oiga? 
+
+I: es e / Avenida / Avenida San Ángel
+
+E: mjm
+
+I: cuarenta y cuatro / veinticuatro sur // no / cuarenta y cuatro veinticuatro / nada más
+
+E: cuarenta y cuatro veinticuatro // doy el teléfono de aquí ¿verdad?
+
+I: sí
+
+E: ¿practica usted alguna religión don _____? 
+
+I: no
+
+E: ¿no? 
+
+I: no // religión no tengo
+
+E: religión no / pero sí buen / bueno yo he sabido que es una persona muy espiritual usted / de alguna manera ¿no?
+
+I: ¡no! / no si hablamos de cosas espirituales / tenemos / para rato 
+
+E: para rato / ya me imagino sí / sí sí / sí he sabido por ahí que este / que es una persona bastante bastante / centrada en lo espiritual y todo ese tipo de cosas / pero bueno mire podemos comenzar por ejemplo // ¿cómo es un día normal para usted? / un día entre semana // ¿qué hace?
+
+I: bueno a veces no hago nada
+
+E: ajá 
+
+I: a veces voy me paseo / veo a mis amigos a mis familiares / así 
+
+E: ajá // ¿tien- / tiene familiares usted aquí en Monterrey? 
+
+I: sí
+
+E: ¿usted es de aquí de Monterrey? 
+
+I: sí
+
+E: ¿siempre ha vivido aquí?
+
+I: no
+
+E: ¿no? / ¿dónde ha vivido antes? 
+
+I: Sabinas Coahuila / Piedras Negras 
+
+E: mjm
+
+I: Torreón Coahuila
+
+E: mjm
+
+I: Pedro de las Colonias / San Luis Potosí
+
+E: mjm / un chorro de lugares! / ¿cuánto tiempo tiene viviendo aquí en Monterrey?
+
+I: ¿de que regresé? 
+
+E: mjm
+
+I: tengo seis años
+
+E: seis años 
+
+I: ora en septiembre cumplo seis años exactamente // el / nueve de septiembre cumplo / seis años 
+
+E: y de todos esos lugares ¿dónde le gustó más?
+
+I: me gusta más el campo / en San Luis
+
+E: <tiempo = ”04:06”/> ¿sí? / y ¿dónde vivía allá en San Luis Potosí?
+
+I: en las afueras / primero viví en el centro de San Luis Potosí 
+
+E: ajá 
+
+I: después ya viví en las afueras / lo que es e / Villa del Pozo / la salida / la salida que había en aquel entonces para México enfrente de la Torre Industrial 
+
+E: ajá 
+
+I: el / La Lomita de Jarán / saliendo hacia / hacia Torreón / no a / hacia Zacatecas perdón 
+
+E: ajá // y bien tranquilo allá 
+
+I: muy diferente el / el clima / la gente / el ambiente 
+
+E: ¿y a qué se dedicaba usted allá?
+
+I: era / mecánico de una / de una fundición / daba mantenimiento general // desarmaba las máquinas / las armaba / las lubricaba / ayudaba en la fundición / entregaba el materia l / hacía cobranzas / en fin 
+
+E: ¿y por qué se vino para acá?
+
+I: e / llega un momento en que / tú estás lejos de tu familia
+
+E: mjm
+
+I: y / no falta quien le falte / qué le falte de fam / a uno de sus familia / familiares
+
+E: mjm
+
+I: se te muere o equis no te avisan
+
+E: mjm
+
+I: entonces dices tú / okay / un día se me mueren mis padres / no me van a avisar / ni siquiera lo voy a alcanzar a ver / o uno de mis hermanos // entonces le dije al ingeniero ¿sabe qué? mejor me voy ingeniero / hasta aquí / no / que el trabajo y que esto y que lo otro / no no no / ahí lo veo le dije // ¡ah! / bastante trabajar aquí // por un día o dos días que yo falte en una fundición no se va a parar el trabajo le dije el trabajo tiene que seguir ¿verdad? / ahí tiene su chofer / ese chofer también le ha ido a hacer cobranzas // yo nomás pedía dos tres días para ver a mis familiares 
+
+E: mjm // ¿todos viven aquí en Monterrey?
+
+I: nada más tenemos una hermana que vive en / Saltillo
+
+E: mjm / ah bueno cerca de aquí
+
+I: pero todos los demás son de aquí
+
+E: ¿su papá vive aquí verdad?
+
+I: en la Independencia
+
+E: mjm / y luego le / ¿le costó trabajo adaptarse / de aquí / después de que se regresó de allá?
+
+I: sinceramente no // no yo me adapto inmediatamente al lugar donde yo me encuentre
+
+E: <tiempo = “06:03”/> ajá 
+
+I: aunque estoy / de / un ambiente tranquilo como estoy en un ambiente pachanguero y / soy el mismo me cambio / cambio / hay una transformación dentro de uno o sea / tienes que aclimatarte a dónde estás viviendo
+
+E: claro 
+
+I: así puedes / así puedo convivir con gente muy humilde // como puedo convivir con gente de dinero
+
+E: mjm 
+
+I: ya es / ya es / natural o sea te / conforme pasa tu / los años / tu vida // te vas dando cuenta cómo puedes relacionarte con otras personas / qué tipo de habla tienes que utilizar 
+
+E: sí
+
+I: entonces / se hace un cambio con básica no tienes que estudiarle ni nada no ya ya / ya lo vas / ya está formado 
+
+E: no y cuanto y más que ha vivido en tantos lugares 
+
+I: mjm
+
+E: ¿y allá vivía con su familia / con su esposa o algo así?
+
+I: tuve una / concubina le podemos llamar 
+
+E: ajá
+
+I: nada más que me tuvo miedo / y se me vino para acá
+
+E: ah ¿sí? / ¡válgame! 
+
+I: precisamente a base de mi estudio 
+
+E: mjm
+
+I: que orita hablaste algo de espiritualidad 
+
+E: ajá
+
+I: m / yo no le tengo miedo a los fantasmas / si vienen y abren la puerta y oyes pasos ahí / oye yo los saludo / aunque no me estén mirando 
+
+E: mjm
+
+I: los saludo y ellos se van y / oye pos mi mujer / qué onda con eso está loco o qué?
+
+E: a 
+
+I: ¿me entiendes? / o sea / por una parte pos tuvo miedo / no esté ya se me está volviendo loco no me vaya a hacer algo 
+
+E: m / caray / ¿y le gustaba su trabajo allá?
+
+I: sí 
+
+E: ¿sí? / básicamente / ahorita / hace algo similar ¿no? // aquí // por su cuenta
+
+I: por mi cuenta orita sí // por mi cuenta orita sí / pero hace / digamos hace medio año hace un año yo trabajaba / yo trabajaba en una sastrería
+
+E: ajá
+
+I: yo manejaba la sastrería // aparte de / de / checaba la ropa cómo se / le quedaba así como hombre o la mujer oye y el vestido agárrale / la blusa / súbele / súbele el tiro bájale la bastilla / en fin / hacía todo ese tipo de cositas / trabajé / tres años ahí
+
+E: <tiempo = ”08:11”/> ¿usted sabe hacer trajes?
+
+I: no / reparación
+
+E: la reparación
+
+I: la reparación 
+
+E: aquí / usted trabajó / ¿tres años? // ¿y se salió / de ahí? 
+
+I: estaba cansado de tanto encierro // trabajé tres años de mecánico en otra parte // y / ya no me gustaba el encierro entonces / quería salirme // cuando empecé acá empecé de mecánico después dije oye sabes qué vamos a componer esto que sigue / vamos a darle a ver qué 
+
+E: ajá
+
+I: hacer un cambio / un cambio diferente a lo que hagas // y no /// aprendí algo bueno / aprendí rop- / cómo // cómo arreglar vestidos cómo arreglar blusas / pantalones / en fin
+
+E: mjm / y luego / yo una vez vine y creo que usted estaba arreglando una máquina de coser o algo así 
+
+I: soy mecánico en máquinas de coser 
+
+E: este / ¿estudió para eso usted o cómo?
+
+I: sinceramente cuando yo trabajaba Piedras  / no / trabajaba / cuando trabajaba en / Sabinas Coahuila yo haciendo dos turnos // entonces ya estaba harto ya quería salirme no hallaba cómo 
+
+E: ajá 
+
+I: y unos me decían oye / hay maquiladoras en / Piedras Negras ¿por qué no vas? // a la mejor te ofrecen un buen trabajo / y le pedí ayuda a dios / dios mío tú sabes que no sé de máquinas / conozco las refacciones mas no soy mecánico / ayúdame // necesito salirme de aquí tú sabes que necesito salirme 
+
+E: ajá
+
+I: hoy llego a Piedras Negras / nada más veo dos tres catálogos / sabía / sabía algo del inglés / y / nada más este tiempo y este otro y este otro / el tiempo de siempre / con eso me hicieron la prueba y la pasé // mecánico de la noche a la mañana 
+
+E: sin saber nada 
+
+I: y ahí estuve trabajando un año // hubo cambio de personal / corrieron a mucha gente / pos ahí yo era de los más nuevos
+
+E: mjm
+
+I: pos también salí // y me acordé de / de / unos de mis ex patrones que trabajaba / con el patrón que yo trabajé hace muchos años aquí / él se fue a / San Luis Potosí
+
+E: <tiempo = “10:06”/> mjm 
+
+I: le dije yo pos ponga una fundición pos vamos a ver qué / yo sé / yo sé que dios no me abandona
+
+E: mjm
+
+I: oye y ¿dónde? / ¿conoces las máquinas? no pero ya sabe que com- / que me gusta desarmar y armar <risa = “I”/> / y así / fue como empecé con ellos 
+
+E: y luego ¿cómo fue que le despertó después la pasión por las máquinas de coser?
+
+I: cuando desde que regresé de Estados Unidos
+
+E: ¡ah! ¿estuvo en Estados Unidos? / ¿en dónde me dijo?
+
+I: en Houston 
+
+E: ¿cuánto tiempo estuvo allá?
+
+I: doce años 
+
+E: ¡doce año s! / ¿y qué tal la vida de allá?
+
+I: no me gusta
+
+E: ¿no? / ¿qué tiene / qué tiene la vida de allá?
+
+I: m / allá la gente se cuida / se cuida mucho de uno a otra persona / qué es lo / que es lo que hace el vecino / allá nomás están como las viejitas asomándose por la ventana a ver qué estás haciendo o a ver qué haces / quién entra y quién sale 
+
+E: ajá
+
+I: pues no / no me gusta // aparte no traía papeles / pos tienes que estar / más escondido que 
+
+E: claro
+
+I: que 
+
+E: ¿paseando o qué?
+
+I: tienes que ir a la tienda de aquí a Walmart por decir o / o de aquí a / al HEB / tienes que irte en carro así que / tienes que llevar tu carro
+
+E: ¿no camina nadie o qué? 
+
+I: no / capaz que te ven caminando y / en ciertas colonias oye / te reportan y luego llega patrulla o te andan checando
+
+E: cómo cree
+
+I: así es como vive uno allá // si no tienes carro mejor ni te muevas 
+
+E: a ver entonces / para ubicarme
+
+I: mjm
+
+E: vivió primero // allá en San Luis Potosí / y luego se vino a Monterrey
+
+I: me vine a Monterrey // y de aquí me fui a Estados Unidos
+
+E: ajá // y luego se regresó para acá 
+
+I: mjm
+
+E: y pues / pero duró doce años / duró bastantito tiempo
+
+I: sí pero diez años estuve encerrado
+
+E: ah ¿de veras? 
+
+I: sí 
+
+E: y ¿por qué? si no es indiscreción
+
+I: me acusaron de querer matar a un policía 
+
+E: ¡ah!
+
+I: fue cuando perdí el ojo
+
+E: ajá 
+
+I: de un balazo que me dieron en la espalda // fueron dos balazos que me dieron de / también / el mismo policía // no me mata pos qué es lo que / qué es lo que te queda y no / me quiso / quiso matar a mi otro compañero y yo lo / yo defendí a mi compañero por eso le disparé 
+
+E: 
+
+I: así es la ley en Estados Unidos 
+
+E: <tiempo = ”12:18”/> no / y luego siendo inmigrante
+
+I: siendo inmigrante / no sabiendo inglés // porque yo no sabía inglés // entonces ¿cómo te defiendes? / ¿cómo hablas? / ¿cómo te / te puedes desenvolver? tú no / no puedes hacer nada / es muy difícil 
+
+E: y ¿cómo fue su // no me / no me imagino cómo pudo haber sido su vida en prisión 
+
+I: lo mismo como te dije hace un momento // tú estás capacitado para acoplarte en el ambiente donde te encuentres al momento // yo lo único que hice fue dios mío / ya estoy aquí metí las patas // yo estaba en el lugar equivocado / en el momento equivocado yo no voy a poder hacer nada / ayúdame a soportar // el tiempo en prisión // en tus manos pongo mi vida le dije / tú sabes // y así fue como me la pasé / así como estamos platicando orita / haz de cuenta que estoy encerrado / estamos platicando así como estoy platicando contigo 
+
+E: ¿dejó amigos allá?
+
+I: sí / bastantes 
+
+E: y y // vaya ver si me explico con la pregunta pero // cómo / ¿hay / hay alguna difere- // tiene amigos usted aquí en Monterrey / actualmente? 
+
+I: pos // será unos tres o cuatro nada más 
+
+E: ajá 
+
+I: no más
+
+E: y cómo por ejemplo ¿cómo crece una amistad / estando en en / en prisión?
+
+I: primero el respeto // dentro de las prisiones es diferente a acá afuera / allá en prisión tienes que respetar a los demás / no hacer preguntas / no // no burlarte de los demás 
+
+E: mjm
+
+I: tienes que aprender a vivir dentro de una / de una prisión 
+E: mjm
+
+I: hay muchas cosas que aquí te / te me quedo mirando y ¡e! / no pasa nada
+
+E: ajá
+
+I: pero allá / te me quedo mirando y ¿quíhubo qué miras? y vienen / los golpes o / equis // entonces es / es muy diferente vivir dentro de una prisión a vivir acá afuera 
+
+E: <tiempo = ”14:07”/> mjm
+
+I: allá te hablan de capa muchas veces / se siente cuando la persona se abre de capa es que / están diciendo las verdades
+
+E: mjm 
+
+I: entonces / de la forma como vas / como vas / relacionándote con ellos tú vas haciendo amistades / yo todos o / entras en la cárcel allá y automáticamente con quién corres / corres con el corres con el Valle / con Houston / San Alto / Dallas / México / con quién / con cuál / pandilla / podemos llamarle vas a correr
+
+E: ¿se dividen así como por pandillas?
+
+I: mjm allá le llaman clikas 
+
+E: ajá
+
+I: le dije yo no corro con ninguna le dije yo vine solo / me voy a ir solo
+
+E: ajá 
+
+I: yo vine afectado de mi cuerpo // quiero // quiero hacer mi tiempo nada más 
+
+E: ajá
+
+I: no te voy a perjudicar / si algo tú están planiando y lo están platicando enfrente de mí // a mí / me va a entrar por una oreja y me va a salir por el otra yo no voy a saber nada // y / fue una de las formas como me hice amigos 
+
+E: 
+
+I: tuve pleitos pero tuve amigos
+
+E: mjm / entonces por / ¿los primeros dos años / vivió / libre y luego ya los últimos / y ya saliendo se vino para acá?
+
+I: mjm / pues / no tanto que me vine sino que me aventaron 
+
+E: ah bueno pos sí <risa = “I”/> / o sea que ¿usted sí se hubiera quedado más tiempo? 
+
+I: sí
+
+E: ¿sí? // ¿allá estuvo trabajan / antes de entrar este / estuvo trabajando? 
+
+I: por falta de papeles no pude conseguir buenos trabajos / trabajas de / mese ro / de cantinero / de lavaplatos // ayudante de / carpintero / en fin / ayudante de pintor pero nada más 
+
+E: mjm
+
+I: y trabajos pequeños no no / no creas que largos / no había oportunidad de estar mucho tiempo en // en un lugar // por eso lo / es / por eso es difícil trabajar allá // no idioma / no papeles / ¿qué vas a hacer?
+
+E: ¿y no tenía ningún familiar allá?
+
+I: <tiempo = “16:05”/> sí tuve una vez mandé pedir que me dieran una dirección de / dos tres familiares y no me los quisieron mandar 
+
+E: de plano / ¿y cuando regresó aquí llegó a vivir aquí directamente?
+
+I: ¡oh! sí
+
+E: ¿sí? // el señor ¿es su hermano verdad?
+
+I: sí / hermano mío
+
+E: mjm // ¿y con quién / es con él con que tiene la relación más estrecha? 
+
+I: pos orita sí 
+
+E: mjm
+
+I: sí se puede decir que sí 
+
+E: ¿sí? / mjm // y luego ¿tiene planes ahorita de irse otra vez a algún otro lado? 
+
+I: por el momento no
+
+E: ¿no? 
+
+I: no / ya no / no tengo / ya no tengo su edad / para andar corriendo // para andar conociendo y / hacer y deshacer o sea en aquella época me / me daba igual dejar el trabajo ahí porque la estaba trabajando en el otro lado / o sea yo no perdía / no perdía mi tiempo / ni cuando andaba trabajando en centros nocturnos de aquella época / muchos le llamaban // los padrotes / padrote es cuando manejas una o dos tres muchachas que te están manteniendo 
+
+E: mjm
+
+I: a mí nunca me gustó que me mantuvieran 
+
+E: mjm
+
+I: si quieres vivir conmigo vente conmigo pero no / no quieras exclusividad yo estoy contigo con aquella y con la otra le dije // no que / okay / tú por tu lado y yo por el mío mira oye no te preocupes // si vamos a tomar algo tú paga lo / si quieres tú paga lo tuyo o si quieres yo lo pago le dije / pero no quiero que tú me pagues nada // y así / agarramos unas borracheras pero sabrosas <risa = “E”/> / no no / esto no es nada / las borracheras que agarramos orita // no es na da / allá eran cuatro o seis botellas y luego / y ahi vamos por la calle cayéndonos y // haciendo chistes y bromas y luego vamo / vamos a comer y / en fin / era la vida diaria mía de antes // que si me oyeran mi cuñada mi mis / mis / sobrinos mis hermanos / mi hermano me llegó a ver bien borracho
+
+E: ¿sí? 
+
+I: pero no de ahí / no / no alcanzó a ver el núcleo cómo era yo en aquel ambiente 
+
+E: mjm
+
+I: o sea / yo ¿verdad? soy un borracho acá / y al día siguiente acá soy una persona respetable / que ni en cuenta lo que yo hice ayer // es tan drástico el cambio que doy 
+
+E: <tiempo = “18:16”/> y luego ¿qué pasó o sea cuándo fue que de repente dijo ya / hasta aquí / esta vida ya?
+
+I: te vas cansando // te cansas / te cansas todos los días / todos los días es lo mismo / trabajas // estas trabajando o estás tomando y luego sales de co- / sales de trabajar y sigues y síguele tomando y / ya no sabes qué pasó en tu / en tu / corto tiempo de descanso // y al día siguiente lo mismo y lo mismo lo mismo y lo mismo y empiezan los pleitos // allá había pleitos todos los días todos los días me agarraba a golpes / por gusto por lo que quieras por defenderme / no porque tú me dijeras ¿sabes qué? ves y golpea / a Alejandro por ejemplo / no lo hacía // pero pos ya si alguien viniera y te atacara a ti o me atacara a mí
+
+E: mjm
+
+I: yo le tengo miedo a mi otro yo / a mi yo interno // mi yo interno / no lo puedo gobernar // no sé cómo es // pero no lo puedo gobernar // si estoy medio tomado no sé por qué / mi disco se borra // queda en blanco / y cuando vuelve a trabajar // mira ¿qué pasó aquí? // ¿quién lo hizo? // alguien me decía / tú lo hicistes / no lo creas te sientes co / después sí me di cuenta lo que / lo que realmente hacía 
+
+E: mjm // de plano // y luego por ejemplo aquí ahorita ¿cómo son las / las festividades por ejemplo navidad // año nuevo? / ¿qué hacen en navidad?
+
+I: para mí se me hace un poco triste no hay / no hay tanta / no hay tanta unión // como me hubiera gustado verla 
+
+E: mjm 
+
+I: una hermana por / Apodaca / la otra / en Santa Catarina / el otro en Escobedo / mi hermano y yo aquí / mi otra hermana en Saltillo 
+
+E: ¿usted se queda aquí?
+
+I: ¿eh?
+
+E: ¿usted se queda aquí en / en esta casa?
+
+I: casi / casi por lo regular
+
+E: <tiempo = ”20:06”/> y ¿qué hacen aquí en navidad?
+
+I: hay veces quenada 
+
+E: de plano
+
+I: de plano 
+
+E: ¿no rezan el rosario o?
+
+I: no me gusta rezar los rosarios 
+
+E: ajá
+
+I: como te digo no tengo religión o sea 
+
+E: mjm
+
+I: ¿para qué / para qué ser hipócrita? vamos
+
+E: mjm
+
+I: una palabra / así / derecha / ¿para qué ser hipócrita? / ¿a quién le estás rezando? // ¿le estás rezando a un santo / le estás rezando a un / a una virgen? / ¿o le estás rezando realmente directamente a dios? // ¿a quién le rezas? // crees en los santos / crees en las vírgenes / bueno // mis respetos
+
+E: mjm
+
+I: pero ¿crees que realmente hay un solamente un ser supremo? / si hubo un hijo que vino a enseñarnos / a mostrarnos al padre // pues ya estás hablando de otro idioma no 
+
+E: y por ejemplo ese tipo de / de festividades / año nuevo o / cualquiera / ¿cuál es la que más / disfruta usted o la que se le hace más bonita o no sé? 
+
+I: la que más se disfruta es difícil eso // es / son / son cosas tristes / lo que es / día de las madres día del padre // navidad y fin de año
+
+E: mjm
+
+I: la madre pos la perdí / la perdí / yo la perdí / porque la perdimos / mis hermanos y yo / yo la perdí cuando yo tenía tres años / iba a cumplir tres años
+
+E: ándele
+
+I: el menor quedó de dos meses // la mayor tenía ocho / o iba a cumplir ocho // entonces / pos siempre se añora a la mamá
+
+E: mjm
+
+I: el papá lo acabamos de perder hace cuatro años
+
+E: mjm
+
+I: entonces pos es / triste 
+
+E: mjm
+
+I: hay muchas cosas que / tú / en tu cerebro están guardadas las cosas / y te llegan // no sabes por qué pero te llegan / simplemente me / hace com- / no ha / hace un mes / me dijeron mira / tengo una foto de tu mamá // ¡ah canijo! se me quisieron rodar las lágrimas luego luego
+
+E: <tiempo = “22:11”/> mjm
+
+I: o sea es / ese tipo de / toquecitos que me llegan a // todavía me llega / me llega en el alma / no la llegué a conocer no / no / no hubo oportunidad de que ella me enseñara // lo que era la vida cómo / cómo era ella / platicar con ella / en fin / yo no la / la llegué a disfrutar nada yo // yo creo que ni mis hermanos / aún teniendo seis siete años / no los disfrutas // el padre / el padre pos lo vine a disfrutar ya realmente ora que regresé
+
+E: mjm
+
+I: le doy gracias a dios por haberlo visto de perdido un año después de que regresé // ¿qué más puedo decirte? 
+
+E: su cumpleaños / por ejemplo 
+
+I: me la / me la / me gusta pasarla mejor solo / irme a los antros 
+
+E: ajá
+
+I: la navidad también
+
+E: ah ¿de veras? 
+
+I: el año nuevo también / yo prefiero // irme a divertir // a / de alguna manera sacar lo que traigo dentro // 
+
+E: mjm
+
+I: el último cumpleaños el año pasado / que / me la pasé aquí 
+
+E: ¿cuándo cumple años? / perdón
+
+I: el veinticinco de noviembre // me fui a tomar al centro / amanecí / y llegué aquí // y mejor tenía dos botellas y / saqué una y le dije a un tío le dije ten tío / brindamos / no sabía que mi tío estaba enfermo 
+
+E: mjm
+
+I: me dijeron no está enfermo tu tío no puede tomar / a no pos no le ofrezco le dije / entonces yo me la voy a tomar <risa = “E”/> // tomé como hasta la una / a la una empecé como a hablar medio mocho ya cuando ya no puedes dije // ya / hasta aquí // guardé la botella le dije a mi tío ¿sabe qué tío? mejor otro día lo veo / yo ya me voy a dormir / yo y estoy / ando bien tomado // vine y me acosté ya tan campante // pero disfruté a mi manera // escuché música / lloré y / no no un montón de cosas 
+
+E: <tiempo = “24:10”/> ¿qué música le gusta?
+
+I: romántica por lo regular
+
+E: ah / ¿cómo qué artistas o grupos?
+
+I: todo lo que es música // música romántica / de // José José / Julio Iglesias
+
+E: mjm
+
+I: este / música de los tríos / Los Panchos Los Tecolines / Los Tres Ases // hay hay / hay muchos muchos artistas
+
+E: mjm
+
+I: no los traigo orita en la mente / me gusta la música instrumental
+
+E: ajá
+
+I: tanto el piano / como guitarra
+
+E: ajá
+
+I: me encanta / la pongo / la pongo ahorita y me voy en un viaje con la música de / del piano // simplemente / bueno ¿ya supiste lo de la pirámide?
+
+E: ajá
+
+I: ¿lo has intentado alguna vez tú?
+
+E: no / yo / yo la verdad no tengo ni idea de 
+
+I: 
+
+E: ah / más bien como que los jóvenes ahora no somos tan // nos falta / yo creo que todavía nos falta mucho de ese lado de la espiritualidad 
+
+I: ese tipo de cosas se han manejado // así como se manejan orita en tu época / también en mi época de juventud / es rara la persona que sabe / respecto a las pirámides // qué puedes hacer con ellas / para qué sirven / igual en lo espiritual // ¿por qué la gente se ha ido aparatando de las / de las iglesias? / ¿por qué dejan de ir? / ¿qué / qué causa / esa // ese show de las iglesias?
+
+E: mjm
+
+I: para mí lo está causando que / de vez en cuando / te toca / agarras una biblia y te pones a leer y dices / ah canijo lo que me sé en la biblia / lo que me enseñan en la iglesia no es lo que dice la biblia 
+
+E: mjm 
+
+I: y luego tratas de hacer preguntas // entonces empieza a cuestionar y no te hayan respuestas // tú dices no / esta iglesia no es para mí
+
+E: <tiempo = ”26:02”/> mjm 
+
+I: déjame buscar otra
+
+E: ¿ha pertenecido usted a alguna iglesia?
+
+I: ¿eh?
+
+E: ¿ha pertenecido a alguna?
+
+I: sí
+
+E: ¿cómo cuál?
+
+I: primero la católica 
+
+E: ajá
+
+I: después la pentecostés / la evangelista / la / la / los testigos de Jehová // la última fue los testigos de Jehová 
+
+E: ajá // ¿y ninguna llenó sus expectativas?
+
+I: la / lo que es el pentecostés y la evangelista casi van de la mano 
+
+E: mjm
+
+I: hablan mucho de los milagros
+
+E: mjm 
+
+I: yo creo en los milagros 
+
+E: mjm
+
+I: porque yo los he vivido / en carne propia
+
+E: ¡ah! ¿sí? / ¿y cómo / de qué manera? si no es indiscreción
+
+I: i / para empezar / dios me ha hablado / cuatro veces
+
+E: mjm
+
+I: o es él / o son sus ángeles // me han prevenido // me han advertido // me han calmado // y me han consolado / en esas cuatro veces que me han hablado en toda mi vida // la última // recibo el balazo me llevan al hospital / soy encerrado / un día despierto estoy llore y llore y llore y llore / fueron enfermeras / compañeros que hablaban español a hablar conmigo para tratar de calmarme saber qué traía 
+
+E: mjm
+
+I: de repente escucho / escuché una voz dentro de mí que me dijo / hijo mío / ¿para qué lloras si sabes que vas a volver a ver? // y me entró una calma una paz como no te imaginas 
+
+E: mjm
+
+I: si eso no es dios hablando no / sé cómo se pueda llamarle 
+
+E: claro // y aparte de esa vez / entonces / ¿sí considera que usted estaba en peligro de muerte?
+
+I: sí // sí sí / una vez / iba aquí a Sabinas / me enojé con mi mujer esa vez // Sabinas Coahuila // hacia / agarras la carretera hacia / Ciudad Anou / Anáhuac Nuevo León / tienes que / está / tienes que pasar la Presa San Martín 
+
+E: mjm
+
+I: un día me pelié con ella y como a estas horas me salí y ahí voy caminando por la carretera con / con mi ropa
+
+E: <tiempo = ”28:03”/> mjm
+
+I: no pasa ni un carr- / no pasa ni un carro para que me den un aventón 
+
+E: mjm
+
+I: me quedo sentado en / medio de la carretera a ve / ¡a ver! si pasaba alguien / pos no me quedo dormido / bien dormido que me quedé / nomás me acuerdo que me dijeron levántate y salta / no lo / no nomás lo / no me / no me dijeron dos veces // cayendo a tierra / estaba yo cayendo a tierra cuando pasó una troca / mi ropa quedó regada por un montón de metros 
+
+E: ¿eso fue cuando dice usted que lo previnieron?
+
+I: no ese es un aviso / ese es un aviso // para que tengas cuidado / están / te están / te están salvando / cuando me previnieron la primera vez estaba mucho más chico todavía
+
+E: ajá
+
+I: tengo una novia necesito dinero para // un día voy a / cierta casa / y estoy buscando dinero // y lo encuentro / cuando lo encuentro me dicen no lo hagas / no es bueno / y lo escuché digo en / mi cerebro igual
+
+E: mjm
+
+I: igual como estamos hablando igual como me han habla / hablado o advertido // y yo lo hice // ah cómo me arrepentí muchos años de haber hecho eso // ¿por qué? porque dañé a otras personas // por cuánto tiempo no sé / pero sé que las dañé
+
+E: y y / por ejemplo con esto de las pirámides ¿cuándo fue que surgió su / su interés?
+
+I: buscando tesoros en San Luis Potosí // me platicaron haz de cuenta me dijeron ¿sabes qué? el viejito fulano de tal <observación_complementaria = “ Nombre que se le asigna a una persona de la cual se desconoce o no quiere decirse su verdadero nombre”/> tiene / que vivía en tal parte / ¿te acuerdas? sí sí me acuerdo / estaba sentado así / y así y así y así // bueno ya murió // ese señor decía que / yo vivía aquí / estaba la carretera / o sea pasabas la ca- / la antigua carretera
+
+E: mjm
+
+I: la de Zacatecas // decían que a quince a dieciséis metros para allá o para acá / de la antigua carretera / habían enterrado un tesoro // pos nunca lo pudieron sacar cuando / cuando los hijos le hicieron caso al viejito de que / de llevarlo / el viejito ya no veía ya no s- / ya no sabía nada // fíjate lo / se muere el viejito y / oye yo le empiezo a buscar / agarro un / agarré una / un / una barra / una barra para picar el 
+
+E: <tiempo = ”30:24”/> mjm
+
+I: y a mover piedras // moví aquí moví allá y moví allá 
+
+E: ¿cuántos años tenía usted?
+
+I: tenía veintisiete / veintiséis años / sí más o menos // que empiezo a buscar / no / al tercer día que me empiezan a despertar / haz de cuenta este es mi cuarto / y la puerta / tenía su chapa pero yo tenía la barra / atravesada / quién se podían meter acá tenía rejas / en el otro cuarto tenía rejas // nadie se podía meter // que me empiezan a despertar y despertaba y agarraba el machete / allá siempre a un lado mío / y así / me estaban asuste y asuste y asuste y asuste todos los días / a la misma hora // y un día me dice / me dice un niño un vecino / y / la mamá de él me dice oiga don _____ / ¿qué pasó? / qué pasó? mi hijo / fueron a despertarme / ¿quién es el viejito que acaba de salir? / ¡ay! // si me acabo de despertar / si me acabo de despertar mi hijo cómo va a ser posible / sí // mire salió por aquí dijo doña Mari sí es cierto / salió por el portón / le dije Mari por el portón no cabe ni el niño // don _____ lo acabo de ver don _____! no va / cómo va a decir que soy mentirosa venga para acá mire / me traje al niño y a la / al niño y a la mamá 
+
+E: mjm
+
+I: traté de forzar la / el portón para que pasara el niño / pásale // no quepo don _____ entonces ¿cómo cupo el viejito? / ¡sí! / dijo ¡mire / se perdió ahí en una nopalera enfrente! que quién sabe qué // y tanto que me estaba pasando yo le preguntaba a dios / ayúdame con qué / de qué forma / de qué manera / cómo puedo hacerlo / estoy parado en una carretera iba a ir a México / y vuelvo por saber la pregunta ya se pasó como dos meses de estar haciéndome la pregunta todos los días // y le / no sé si la hice de una forma diferente // o con sentimiento / pero él me / él me dijo / con una pirámide que me volteo // quién me habló
+
+E: <tiempo = ”32:16”/> las pirámides
+
+I: las pirámides son / tumbas de mayas egipcios / aztecas / lo que tú quieras ¿me entiendes?
+
+E: mjm
+
+I: es lo que sabemos de la escuela / llego a la central de autobús- / llegó el camión / llegué a la central de autobuses // compré el boleto para México dije ¡ah! voy a comprar un Norte a ver qué está pasando en Monterrey // arriba del periódico El Norte vi un librito / El poder de la Energía Piramidal // ya no compré el periódico compré el libro
+
+E: ajá
+
+I: me acaban de decir que con la pirámide / no tengo / media hora que me dijeron llego a la central y / veo el librito // no son coincidencias
+
+E: mjm
+
+I: llegando a México / ya en México la pirámide / yo la pirámide supe que era / conservador de alimentos // te puedes cargar de energía // te puede curar cierto tipo de dolo res // en fin / todo ese tipo de cositas // dije bueno pero ¿en qué me puede ayudar a mí? / entonces ya me la / llegué / le dije al ingeniero / oiga me puede dar / regalar varilla para hacer una pirámide? / sí ¡hombre! cómo no // nomás que me quiero hacer una pirámide pero no sé qué medidas // bueno dime / dame los ángulos y dime / más o menos de / de cuánto de base y yo te saco la suma // dijo ven dentro de una o dos horas al rato ti hablo // ya me puse yo a trabajar allá y al ratito me / me / mandó hablar / mira / éste es / ésta es la fórmula multiplicas esto por esto / más esto / y de ahí te va a dar el resultado para que te hagas la pirámide 
+
+E: mjm
+
+I: no esta bueno // y me hago la primer pirámide // ese día tuvimos vaciada / estar vaciando todo / nos tocó ese día / fundir / fierro
+
+E: mjm
+
+I: no pos bien cansados todos // no / nos hicimos la pirámide y / no duró ni dos minutos // no sé qué tiene esta cosa pero ya se me quitó lo cansado 
+
+E: <tiempo = ”34:09”/> ¿usted la hizo?
+
+I: ei // y luego se metió otro y se metió otro y / y yo la primera que probé dije y bueno ¿para qué me sirve la pirámide? / me la llevé a la casa / a la bodega donde yo vivía / y viajé // lo primero que vi dentro de la pirámide es / tenía todo oscuro / ahí no tenía luz // estaba todo oscuro / y alcancé a ver figuras / miles y miles y miles de figuras // girando // alrededor mío
+
+E: mjm
+
+I: después supe que se podía viajar / se puede / aprender a preguntar y / se puede aprender a ver // por medio de la pirámide
+
+E: a preguntar / y a ver 
+
+I: mjm 
+
+E: ¿ver qué?
+
+I: ver lo que no / lo que está invisible a mis ojos // ver tu aura si eres bueno o eres malo // ver qué intenciones tienes // o qué intenciones llevas hacia otras personas / eso es lo que puedes aprender con la pirámide
+
+E: entonces / y aparte no usa / a parte de vaya / de la experiencia que usted ha tenido también ha l / ha leído y ha investigado sobre esas cosas
+
+I: en / Estados Unidos yo supe que se podía viajar // y / supuestamente las pirámides se usaron para / los iniciados en la masonería // los masones 
+
+E: mjm
+
+I: el sarcófago / que supuestamente está ahí / que lo robaron / el sarcófago siempre permaneció / supuestamente siempre permaneció vacío / nunca tuvo ningún cuerpo // era para los iniciados / ahí los preparaban // los metían varios días y él tenía que despegar / tenía que preguntar / tenía que ponerse en contacto con los ángeles // ya no con dios porque la biblia misma te dice / el que ve a dios / morirá / nadie puede ver / puede ver a dios directamente // solamente Jesucristo que estaba capacitado porque él / él venía de donde / estaba dios / él trabajó junto con dios cuando se creó todo // entonces el ser humano no está capacitado para verlo // y ahí fue donde entendí que podías viajar por medio de la pirámide 
+
+E: <tiempo = “36:24”/> mjm // ¿tiene algo // es algo similar a lo de los viajes astrales / o algo así?
+
+I: es un viaje astral
+
+E: ah ¿sí?
+
+I: es un viaje astral viajar / todo lo que te dije orita // nada más que aquel día no les enseñé a viajar // porque po- / hay un problema / el poder / el poder viajar / no cualquiera puede hacerlo a la primera 
+
+E: mjm
+
+I: no puedes / y no sé si orita / hay otras formas de prepararte para que puedas viajar 
+
+E: mjm
+
+I: pero el que lo hace / direc- / luego luego con la pirámide / lo haces en ese momento sí está canijo // todo se hace con permiso / tienes que pedir permiso porque tienes que ir protegido / a dónde vas ir / qué hay en la / en el / en el / espacio tiempo de / del viaje astral // ¿qué eres cuando viajas? / eres espíritu / entonces / automáticamente con lo que te vas a topar es con otros espíritus // tienes que protegerte / tu cuerpo está solo // va unido / cuando tú te despegas de él / tu espíritu se despega de tu cuerpo / queda unido nada más por el cordón de plata // entonces / puede venir otro / otro espíritu y se puede adueñar de ti
+
+E: ¿de verdad? 
+
+I: sí // otra / tu puedes abrir una puerta que / no debes abrir // ¿y cómo te voy a regresa r? 
+
+E: mjm
+
+I: ya tuve una experiencia fuerte con una sobrina
+
+E: ¿qué pasó? si no es indiscreción
+
+I: andábamos con los viajes / platicando así entre / entre la familia 
+
+E: mjm
+
+I: oiga tío enséñeme / y enséñeme // okay siéntate / ¿qué sientes? / no siento que me estoy moviendo tío / me siento en paz pero siento como que estoy girando / como que me / como que / estoy flotando 
+
+E: <tiempo = “38:10”/> mjm
+
+I: okay / y a todos les había dicho y le dije a ella / vas a preguntarle a dios / si te da permiso de viajar orita / si te dice que sí me dices que sí // si te dice que no abre los ojos // dice que preguntó / ¡y me dijo que le dijo que sí! / siendo que dios / después supe que le dijo no es tiempo // cuando tú te sientas para viajar automáticamente haz de cuenta que se apaga la luz se pone todo oscuro / si dios te da permiso de salir / esa oscuridad se empieza a abrir / se empieza como a nublar / a clarear // entonces ya te puedes meter / pero cuando hay mi les de globitos de colores / infinidad de / de globos de colores // n o te metas / no es tiempo // no te / no te puedo asegurar que te voy a regresar // te vas a meter en una // en una dimensión que es // no estás preparado // simplemente la // la dimensión de don / donde te estoy permitiendo ir // yo estoy preparado por eso necesitas ir escuchando lo que te voy a ir platicando / vamos vamos / yo te voy guiando 
+
+E: ajá
+
+I: pero si no me haces caso / si tú quieres hacer lo que tú quieres / no sé cómo es tu persona / no sé si haces caso o no haces caso / así como mi sobrina / me sacó de balance // tardé como un minuto en regresarla 
+
+E: o sea al decirle que sí / 
+
+I: le dije métete / no hay problema / métete / pos nomás le dije métete que // estaba / estaba bien tranquila // estaba tranquila / concentrada // nomás le dije métete ¡ah! / pos no te miraba a ti / estaba / estaba viendo ¡allá! / la luz estaba a lo lejos / estaba encendida / y grite y grite y grite y grite y grite y grite y grite / y no se movía nada más grite y grite y con los ojos / desorbitados 
+
+E: <tiempo = “40:13”/> mjm
+
+I: Claudia / se llama Claudia // no tengo / te juro / por dios / que venía en el autobús / y todavía se me paraban los pelos así mira // dije donde no la hubiera podido regresar / ¿qué hubiera hecho?
+
+E: ¿qué le pasa a su cuerpo / por ejemplo si no regresa?
+
+I: te puedes quedar / te puedes quedar como vegetal o se puede meter un espíritu malo 
+
+E: mjm
+
+I: ¡ya viste la puerta / la otra dimensión! // ¡cómo se te ocurre! / si te dicen ¡no es no! / no es tiempo / ahorita no / otro día / en otro momento / ¿no puedes entender el no? // y ese día que estábamos tomando no le quise enseñar precisamente porque estábamos tomando no sé hasta dónde quieran ustedes 
+
+E: claro 
+
+I: / hasta dónde cre- / crean ustedes que pueden // experimentar // nada más / lo intenté para que se hicieran a la idea // se te pude quitar lo tomado adentro de la pirámide // pero el viajar / tomado / nunca / no <risa = “I”/>
+
+E: ¿no es bueno? / ¿hay riesgos? 
+
+I: sí // y riesgos que no puedes controlar // y menos la persona que está viajando
+
+E: ¿y debe ser de algún material la pirámide?
+
+I: aquí está la pirámide // ya la hice / aquí está la pirámide // aquí me siento cuando no cuando / está lloviendo afuera o / no quiero salir / nomás me siento busco el norte cierro mis ojos
+
+E: cruza la piernas 
+
+I: este / es el triángulo es una carga 
+
+E: y por ejemplo entonces ¿cuál sería la diferencia de aquí / y el / el? 
+
+I: hay / hay hay / hay mucha / mucha mucha diferencia / de esta forma // estás en una / por / para ciertas personas un poquito más obesas / estás en una / en una / posición // un poco / ¿cómo le podemos llamar? o sea / no todos se pueden / se pueden sentar así
+
+E: <tiempo = “42:19”/> mjm
+
+I: ¿sí me explico?
+
+E: claro
+
+I: si estás en la pirámide te sientas así / te recargas / y la energía se está moviendo // como siempre hay movimiento hay energía en movimiento dentro de la pirámide / te la pasa de aquí a allá // te rela- / aparte de que te relajas / si hay alguna enfermedad que se esté desarrollando en tu cuerpo // se para la enfermedad / y empieza a componer lo que está descompuesto // esa es / la ventaja de tener la pirámide 
+
+E: mjm
+
+I: hay personas que están enfermas no se pueden mover de la cama / pon la pirámide adentro de la cama / arriba de la cama 
+
+E: ¿cuánto / cuánto pesa?
+
+I: puedes hacerla de plástico / a / puedes hacerla de madera
+
+E: la que usted tiene ¿es de qué?
+
+I: m / de / de pura varílla gruesa / lisa / de / pero gruesa / puedes hacerla de varilla de la delgadita de un cuarto / más / más liviana 
+
+E: entonces usted 
+
+I: ah // nada / esta está pesadita pero la otra no pesa nada // y la puedes transportar a donde tú quieras / estoy tratando de / de / esa es una de mis ideas para / para después / hacerme una pirámide desarmable pero bien hecha / presentable // y un día pues he estado pensando sentarme en la / sentarme en la Macroplaza
+
+E: así nada más
+
+I: sí así nada más la armo / la dirijo al norte me siento en una silla ahí tranquilito / me pongo a leer / y que la persona que me pregunte oye y eso ¿para qué te sirve o qué? / porque / tienen que llegar personas curiosas 
+
+E: <tiempo = “44:05”/> claro / como yo 
+
+I: siéntate / ¿quieres probar? siéntate // pero no te mando viajar en este momento nomás siente la energía / disfrútala / es la energía de dios // disfruta la energía / todo lo que tienes que hacer 
+
+E: qué interesante 
+
+I: eso / esa es una de mis metas 
+
+E: mjm
+
+I: aparte de / quiero / empezar a comprar y vender carros seguir como mecánico / la otra opción / pos ya sería la tercera / es hacer pirámides y venderlas
+
+E: mjm
+
+I: pero enseñarles a las personas / cómo deben de trabajarla
+
+E: mjm
+
+I: no es un juego
+
+E: claro
+
+I: te va a servir para el resto de tu vida / para ti y a otras personas // inclusive te puedo dar un número de / de internet donde te puedes meter // te puedes contactar hay unas personas en Oaxaca que están trabajando con las pirámides y están curando el cáncer y hasta el sida 
+
+E: ajá
+
+I: por medio de la pirámide // yo
+
+E: y de plano / y 
+
+I: yo cuando estuve en Estados Unidos encerrado 
+
+E: ajá
+
+I: supuestamente / entre comillas / supuestamente yo / tuve como un sueño / o lo vi // donde un periódico desplegado toda una página completa / donde en Alemania / están usando pirámides para curar a personas están curando el cáncer // y venía en inglés y todo me puse a leerlo / busqué en / quien me lo tradujera mejor / y lo mismo que yo / que yo había leído // por qué no utilizar la pirámides para ayudar a las personas necesitadas
+
+E: mjm
+
+I: ya no / como te digo ya no la uses para viajar / ya no lo uses para ver / ya no la uses para / hacer muchas cosas
+
+E: mjm
+
+I: úsala / utilízala para que / para sanar // si dios / me dijo un día de la pirámide es porque yo tenía / en aquella época yo quería encontrar tesoros // para ayudar a las personas // si tengo pirámides también ayudo a las personas 
+
+E: mjm 
+
+I: <tiempo = ”46:02”/> es un tesoro / saca el tesoro desde el cielo donde el hollín y la pol- / y las polillas no corrompen // entonces ayuda / no importa si gastas un poquito él te va a dar más / de ese poquito que  gastastes  / y vas a seguir sobreviviendo vas seguir ayudando y enseñando // si pones una semilla que a germinar / y esa semilla da frutos / ya es ganancia
+
+E: claro / ¿y aquí en Monterrey no conoce gente que comparta ese gusto? 
+
+I: no 
+
+E: ¿no?
+
+I: porque les he enseñado / y lo han probado / lo han sentido / y aún así no
+
+E: no se animan
+
+I: no // muchos dicen que la pirámide es por / por parte del diablo / por parte del diablo y yo digo que no
+
+E: mjm
+
+I: yo ya pelié contra ellos // un día me los topé de frente 
+
+E: ¿cómo / cómo cómo?
+
+I: el espíritu // me habla una amiga / me dice que está espantada en su casa / ya me había platicado que tenía problemas porque / un amigo que ella había tenido / ese amigo la / sabía parte de magia negra / al saber parte de magia negra la empezó a trabajar // y ésta escuchaba voces le / le daba órdenes y ella / y ella las acataba / entonces ella / ese día me dijo que / tenía / tenía miedo tenía miedo tenía miedo bueno / ¿miedo de qué? no sé algo siento en mi casa / yo / siento algo malo 
+
+E: mjm
+
+I: yo le había recomendado a ella un libro en aquella época un libro de metafísica cuatro en uno / le dije abre el libro en tal página hay una oración // lee esa oración deja ver cómo te puedo ayudar // cuando pasa eso / yo acabo de salir del hospital de un balazo que me dieron // eso fue en los noventas 
+
+E: ¿a usted le han disparado / cuántas veces?
+
+I: me han / disparado / dos / bueno disparado disparado // una dos // tres veces // una vez / dos veces me han pegado / o sea en dos ocasiones diferentes me han / me han balaceado
+
+E: <tiempo = ”48:11”/> mjm
+
+I: y tenía no tenía / una semana que acababa de salir yo del hospital
+
+E: mjm
+
+I: entonces // ya tenía yo la / tenía una pirámide / más grande que esta / donde yo vivía
+
+E: mjm
+
+I: le digo deja ver cómo te puedo ayudar / cuando le digo deja ver cómo te puedo ayudar // ya no estoy en apart- / ya no estoy en un apartamento estoy arriba de una casa en un ático
+
+E: mjm
+
+I: entonces cuando / no sé qué me da / voy y trato de abrir la puerta que está en el ático // y la puerta veo que se abre este / que se empieza a abrir pero yo di un paso para atrás y ahí sale el demonio /// por abajo barba / cuernos / lo que tú quiera s / ojos de fuego // entonces / yo di un paso atrás y / le empiezo a pedir a dios y a los ángeles y arcángeles y y / todo lo que tú quieras / todo lo que se me venía a la mente // de repente / de tantos pasos que di para atrás // o me iluminé yo / o alguien que estaba atrás de mí / me iluminó todo / una luz blanquísima / y vi que / que / vi que el diablo se asombró aquí no te quieren en nombre de Jesucristo en nombre de dios en nombre de su hijo no te quieren le dije aquí respeta y / desaparece él y desaparezco yo ya no estoy ya n- / ya no estoy en el ático / ya estoy en el departamento otra vez // pero todavía tengo el teléfono en la mano // y aquélla está rezando le digo / oye Gloria ¿qué pasó? // pos que estaba ahí / y ¿cómo te sientes? / bien / no te preocupes lo que estaba ahí ya no está // pero ¿qué era? / después platicamos // déjame dormir que ando muy cansado // eso fue mi experiencia contra / 
+
+E: sí es interesante // y sí más o menos tiene por ejemplo dice que tiene planes de / comprar coches / y venderlos
+
+I: <tiempo = “50:06”/> sí // sí es una / una de mis / ideas es comprar un carro / ponerle el signo de pesos 
+
+E: mjm
+
+I: hacerme la tarjeta de presentación de mecánico
+
+E: mjm
+
+I: y empezar a repartir volantes // voy a repartir volantes / este / el carro o la camioneta que traiga pos  trai  signo de pesos no falta quien me hable por teléfono la vendo voy y compro otro y así / sucesivamente
+
+E: mjm
+
+I: ganar / dos tres mil cuatro mil cinco mil pesos por cada carro y pos / a nadie le hace daño // y no
+
+E: perdón / y por ejemplo si hace las / las pirámides ¿ya tiene más o menos pensado / cómo podría empezar a promoverlas y todo eso?
+
+I: la pongo como te dije
+
+E: mjm
+
+I: si encuentras tú // a una persona // yo puedo / yo puedo mover la energía // la / la energía que yo muevo yo digamos que es la energía de dios / no es mi energía / yo mi energía siempre le pido a dios para ayudar a los demás
+
+E: mjm
+
+I: si yo a ti te con / te / te puedo convencer de que la energía mía // ya que sientas que te ayudo / es la misma que te da la pirámide // de seguro que tú vas a querer comprobar / si la pirámide es cierto // entonces ya no me vas a necesitar a mí / tú vas a tener tu propia / tu propia pirámide para poderte cargar de energía // para poderte componer // ¿no lo harías? / ¿no te comprarías una pirámide?
+
+E: claro
+
+I: esa es la forma de promoverla precisamente // y una parte precisamente donde // donde quiero yo promover la / las pirámides es en / San Luis 
+
+E: mjm
+
+I: y en ayudé a dos tres personas / les enseñé a dos tres personas cómo mover la energía // les enseñé que se puede / ayudar a los demás // a varios les quité el dolor de cabeza / a otros les quité / la cruda / a otros les quité dolor de estómago / en fin 
+
+E: nomás imaginar que puede ayudar a otras personas // ¿ha ido al corredor del arte? ahí le funcionaría muy bien eso
+
+I: <tiempo = ”52:08”/> no / ¿dónde?
+
+E: está en el Barrio Antiguo // va mucha gente / es / e m / hay expresiones cultura les gente / tocando tambores / y cosas así / aparte van / e / pos hay gente que se interesa mucho por la parte espiritual / desde / cosas como el yoga el hare krisna / y cosas muy así / yo creo que ahí sería un muy buen lugar / si un día se decide
+
+I: un día vamos 
+
+E: sí dígame y nos vamos los tres / hay / un montononón de cosas muy interesantes / yo el otro día quería comprarme unos cuernos de alce <risa = “I”/> / me gustaron mucho pero me dijeron estás loco ¿para qué quieres eso? 
+
+I: lo principal para meterte / para meterte en cierto tipo de cosas es que te gusten / que te llame la atención / que te llame / porque también todo todo todo tiene / tiene sus reglas
+
+E: mjm
+
+I: si no tienes alguien quien te encamine te puedes ir por otro lado / y en vez de agarrar el camino bueno te / te puedes desviar
+
+E: mjm
+
+I: porque tienes que tener / tienes que tener mucho cuidado cuando hablas de lo que hablas / principalmente espiritualmente para no dañar a terceras personas
+
+E: claro 
+
+I: todos buscamos a dios de una manera o de otra // yo lo busqué a mi manera / mi manera es / pos / siempre / no siempre han sido peritas dulces conmigo en mi vida
+
+E: mjm
+
+I: de repente hoy estoy en la cárcel me da igua l / ora me / acababa de salir de la cárcel y al / al día siguiente ya iba para allá ya nomás pagaba la multa y me dejaban salir a mí // en Sabinas Coahuila al último los que me ag- / el único policía que me podía agarrar era un viejito / ningún otro / me agarraba / no me pescaban // ya sabían lo que les iba a pasar // por eso te digo / yo me tengo miedo 
+
+E: mjm
+
+I: mi yo interior // el / del lado malo / el de / que te defiende o / que defiende 
+
+E: mjm
+
+I: le tengo miedo 
+
+E: ¿nunca tuvo hijos?
+
+I: no // no dios no me dio hijos en esta vida / pos no me ha dado // todavía 
+
+E: claro / claro
+
+I: todavía puede ser / tal vez sí tal vez no / a lo mejor me quedo solo 
+
+E: <tiempo = “54:15”/> ¿cuánto tiempo duró casado?
+
+I: con / la mujer que yo tuve que me casé / duré tres años y luego me separé de ella era muy celosa / muy celosa / eran unos celos posesivos 
+
+E: mjm
+
+I: no podías abrazar a tu prima no / menos darle un / beso en el cachete cuando no cuando alguien llega y el / beso
+
+E: ah claro
+
+I: ¡_____! / ¡_____! y que quién sabe qué / no ¡olvídate! aquélla se ponía súper celosa era una leona // entonces / ya cuando llegamos al punto de los golpes le dije no ¿sabes qué? tú por tu lado y yo por el mío / aquí terminamos 
+
+E: mjm
+
+I: ora que regresé / después de treinta años de separados // no / treinta no / veintisiete años // me volví a juntar con ella
+
+E: mjm
+
+I: ora que regresé aquí a Monterrey 
+
+E: mjm
+
+I: oye pos siguió igual // al principio muy mansita y luego empezaron los / problemas de antes / ¿por qué llegas tarde? y ¿por qué haces esto? y e- // y no / ¡olvídate! / y yo era / yo estaba trabajando de mecánico de máquinas de coser / ¿a quién le reparo máquinas de coser?
+
+E: a las mujeres 
+
+I: un noventa por ciento son mujeres
+
+E: son mujeres / sí 
+
+I: entonces ¿qué haces? // ¡sí / vas a acostarte con ellas! / y que quién sabe qué / híjole! / no / olvídate 
+
+E: ¿y después de que volvió / cuánto tiempo duró con ella? 
+
+I: dos años // hice que / tronara ahí un día / se me enojó / aunque te enojes córreme // le dije el día que me corras yo me voy / ya parecía que me iba a venir que / me decía que era un cobarde que era esto que era lo otro que no aguantaba que el matrimonio / hasta que hice que me / que tronara y / que me corrieran y me vine // me tronó un día / fin de año / un año nuevo // me quiso golpiar y que me volteo y que la cojo // no la golpié nada más me / di la vuelta como un y la agarré y la solté se me echaron encima los cuñados y / todos le dije ¡hey! / la estoy sosteniendo les dije / el primero que me toque / no se la va a acabar todos los que están aquí juntos les dije // agárrenla / yo no quiero problemas // yo me quiero ir tranquilo y me voy a ir tranquilo 
+
+E: <tiempo = “56:27”/> mjm
+
+I: me salí agarré el / carro de sitio / vivía allá en la colonia Topo Chico
+
+E: mjm
+
+I: y a los quince minutos ya estaba yo en la casa // y éste no se va / le dije córreme mi hija no hay ningún problema / nada nada ni tú ni yo le dije es puro cuadro yo junto contigo yo contigo le dije / para mí no es vida // hasta aquí le dije / tú haces lo que tú quieras y // se fue ella / se salió // mientras que / salió ella y yo empecé a agarrar mis cosas / tas tas tas bajé todo lo que / lo que aparentemente era mío // agarré un carro de sitio y me vine / me vine acá con mi hermano // al día siguiente aquí estaba muy mansita / ya se quería llevar mis cosas
+
+E: ah
+
+I: le dice mi hermano no espérate que venga mi hermano // se esperó / llegué yo / hablamos / no perdóname / que voy a cambiar / que ya no va a ser así / que va a ser asá / le dije no mi hija de la / no me vas a decir de la noche a la mañana que vas a / que vas a cambiar / no cambiastes en seis años // no me digas que / para mañana vas a ser otra // no / síguele tu camino le dije yo ya no // mira ya tengo yo mis chivitas aquí // tú síguele allá / cuando te vi / te vi enferma / te vi decaída / tu hijo se acababa de matar se / se ahorcó // se ahorcó el hijo de ella // y te vi / súper acabada / acaba da acabada acabada // ya para cuando yo me vine / que la dejé nombre olvídate ya era una / yo la dejé completamente diferente 
+
+E: mjm
+
+I: por eso no // ya no regresé con ella 
+
+E: ¿así ya de plano? 
+
+I: si así eres así vas a seguir siendo siempre
+
+E: <tiempo = ”58:15”/> sí claro
+
+I: no puedo cambiarte / tú un día quieres cambiar / tú vas a cambiar por ti misma // porque es tu decisión cambiar // porque sabes que si no cambias / te daño / o dañas // equis // el cambio tú mismo // simplemente / los diez años que me dieron de cárcel / tuve tiempo de meditar / de conocer la biblia de conocer / conocer más a dios // yo a dios lo conocí acá afuera
+
+E: mjm
+
+I: allá lo acabé / lo acabé de conocer // los de las religiones que más se me acercaban eran / como te dije lo que es / la evangelista // llámesele como se le llame / pentecostés / los testigos de / no / los testigos de Jehová no es / muy diferente // e / evangelistas / testigos de Jehová / los 
+
+E: los pentecosteses 
+
+I: los pentecosteses / evangelistas / adventistas / todos esos creen / en / creen / en // no creen en santos / pero sí creen en milagros 
+
+E: mjm
+
+I: pero también tienen / tienen una cosa / que no llevan la religión como debe de se r / dejan que pasen muchas cosas dentro de la misma religión 
+
+E: mjm
+
+I: saben que fulano se está acostando con mangana <observación_complementaria = “Nombre que se el asigna a alguien de quien se desconoce o no quiere decirse su verdadero nombre”/> / que aquél hace / el despapaye <observación_complementaria = “desorden”/> / que además está sabiendo de / unos siguen robando / o algo equis equis equis <observción_complementaria = “quiere decir que le da igual, no le importa”/>
+
+E: mjm
+
+I: entonces no llevan la religión como debe de ser / la misma biblia te dice que si ves que alguien es así / córtalo / apártalo
+
+E: mjm 
+
+I: entonces // pos no / me aparté de ellos / y luego seguí con / los testigos de Jehová // lleva n más la religión / a como dios la pide
+
+E: muy estrictos ¿no? 
+
+I: sí // pero / es bonito vivir como viven ellos
+
+E: ajá
+
+I: el único problema de ellos es que no creen en milagros 
+
+E: no / y por lo que me ha contado su vida entera ha sido 
+
+I: <tiempo = ”60:14”/> cuando me dieron el balazo en el noventa // matan a una persona / entonces yo / cuando volteo así / y veo que me están apuntando ahí yo me tiro al suelo // me disparan la bala entra por la parte de acá atrás // un recorrido así / y baja la bala / quedó pegada al corazón y ahí está // me llevan al hospital // me meten a la / al TAC / a la / máquina esa grande / me dice el doctor va a estar tres semanas aquí mira // e / se rompió tanto su / se rompió tanto el pulmón / cuando entró la bala se rompió el pulmón cinco pulgadas / se quebró dos costillas / bajó la bala está pegada al corazón / se va a mover la bala / tengo que esperar si no en seis semanas tengo que operarte / ¿qué crees que le dije yo al doctor? // ni te imaginas ¿verdad?
+
+E: no 
+
+I: le dije me voy a ir siete días / casi no me salía voz // y no entiendo por qué le dije yo me voy a ir siete días / le dije me voy a ir siete días doctor // ¿qué? / se regresó para oírme porque no me salía voz / le dije me voy a ir siete días // ¡ah! estás loco no sabes ni lo que dices / ¿qué tiene que hacer? / ah no lo primero / me llevan / cuando llego a / urgencias / mi cuerpo está como / si fuera un pez fuera del agua / salte y salte y salte y salte // no lo podía / no me podía calmar todo el cuerpo / no sé si has visto una persona que esté / cuando lo / lo atropellan a uno ¿no empieza uno a temblar?
+
+ E: sí
+
+I: lo mismo me pasaba a mí en / pero yo en la plancha // dijo el doctor / no te cuento dame / no te / no te / no te cuento dame / dame el / teléfono de tus familiares / hizo que le diera el teléfono de aquí de Monterrey // ya se iba a ir le dije ¡hey! // se voltea le digo / ¿qué tien- / qué tengo que hacer para que me / para que me atiendan? / cálmate / pónganme algo caliente en los pies / ¿por qué le dije póngame algo caliente en los pies? no sé // se me quedó mirando le dije sí / póngame algo caliente en los pies / nada más los puros pies le dije // le dio la / orden a una / enfermera / trajeron una colcha bien caliente y me la pusieron en los pies / me los cubrieron / ya se fue a hablar por teléfono / cuando regresó / de / de hablar por teléfono / yo estaba bien tranquilo / bien sereno y nomás se me quedaba mirando / le dije ¿qué no me va a atender? // dijo sí / fue cuando / me pasaron allá / a la máquina aquella // regresó y / me / dijo oye tengo que hacer esto / hágalo / me abrió aquí / me puso / me puso una manguera // para que drenara la sangre se me hincharon los pulmones // y ahí fue cuando le dije / él me dijo tres semanas yo le dije me voy a ir siete días // ¿cómo se lo dije? no sé / ya van dos cosas que le digo / a él ya / ponme algo caliente en los pies / segundo // me voy a ir siete días // tercero / ya cuando paso a cuidados intensivos que me sacan de / de / de la plancha / del / quirófano // yo me acuerdo que sueño / y que sueño / yo tengo mi pulmón aquí en mi mano no lo sé pero sí me estoy mirando a mí / yo estoy viendo mi pulmón // le digo dios mío yo no tengo con qué cerrarlo estoy viendo la abertura // está roto le digo dios mío no tengo con qué cerrarlo señor / solamente tú tienes // entonces esta mano desaparece / y cuando vuelve a aparecer 
+
+E: <tiempo = ”63:47”/> 
+
+I: lo cosí / y ya no me acuerdo de nada // en la mañana llega la enfermera me saca radiografías // al ratito llega // al ratito llega el doctor otra vez con la máquina de radiografía le digo doctor déjeme dormir // nada más necesito descansar el pulmón ya está cerrado / no no no que salieron mal las radiografías echen / sáquenmelas / me sacaron las radiografías / y al ratito me / otra vez / que cómo sabía yo que el pulmón estaba cerrado // no quería decirle cómo // le expliqué lo mismo / las mismas palabras que te digo / que te dije a ti // al tercer día yo estoy cambiadito ya para salirme del hospital / ya me había quitado la manguera // ya me había vestido ya me quería ir // no me dejaba la enfermera ni el / policía que estaba en la puerta / no hasta que no venga tu doctor todavía no te dan de alta // pos ábrele ya me quiero ir / llegó el doctor y me vio de arriba a abajo ¿y tú? // ya me voy doctor / ya estoy bien <risa = “I”/> / tú me dijiste siete días orita te me quitas la ropa / ¡órale! / me quitó los zapatos / pantalones y / me dejó encuerado con la bata de dor- / con la bata del hospital / a los siete días me dejó salir // y por eso / si esos / milagros / si esos milagros / que han aparecido conmigo // no se le llaman milagros no sé cómo les puedas llamar
+
+E: claro // no pues / qué interesante de verdad 
+
+I: ¿otra cosa que quieras platicar?
+
+E: e / no bueno pues básicamente / ¿cocina usted?
+
+I: sí 
+
+E: ¿sí? / ¿qué le gusta cocinar?
+
+I: ¡ah! a mí me gusta / lo que / son / lo que es el cortadillo // cortadillo ranchero
+
+E: mjm
+
+I: con las salsas pos / yo me sé cualquier tipo de salsa 
+
+E: mjm
+
+I: ¿qué otra cosa?
+
+E: ¿su especialidad son / cuál es?
+
+I: no no / especialidad no no tengo / nomás me pongo a hacerlo y ya // siempre hago mi pico de gallo lo / luego lo revuelvo con lo que le vaya a echar o / por ejemplo mi carne yo le / le meto el pico / el pico de gallo que hago // y me pongo a cocinar / me pongo ahí a mi manera o sea / es diferente dice / dice mi hermano // _____ tú cocinas igual que papá / lo mismo que haces / es lo mismo que hacía papá // y siempre / a escondidas / siempre ando agarrando salchichas <risa = “todos”/>
+
+E: <tiempo = “66:14”/> no / pues está bien / este / le voy a hacer ahora unas preguntas / un poquito ya más / apuradas / porque ya nos vamos a ir un poquillo más // más rápido / este / entonces ¿usted nació aquí / en Monterrey?
+
+I: Monterrey Nuevo León 
+
+E: entonces me dijo a ver / en primer lugar dónde / después de Monterrey estuvo en un lugar en donde vivió ¿en dónde fue?
+
+I: Sabinas Coahuila
+
+E: mjm // de por ahí / ¿por cuánto tiempo me dijo? 
+
+I: fueron como / dos años más o menos
+
+E: mjm // ¿y luego? 
+
+I: me vine otra vez a Monterrey / y entonces / me volví a ir
+
+E: ¿fue cuando se fue a?
+
+I: Sabinas otra vez 
+
+E: mjm // ¿cuánto tiempo duró aquí en Monterrey?
+
+I: como / dos años / dos tres años 
+
+E: y luego Sabinas // y ¿cuánto tiempo duró allá?
+
+I: como el año duré más o menos
+
+E: ¿y luego?
+
+I: San Pedro de las Colonias / Coahuila 
+
+E: ¿allá cuánto duró?
+
+I: algún medio año más o menos 
+
+E: ¿después?
+
+I: me vine otra vez a Monterrey
+
+E: mjm // ¿y duró cuánto tiempo aquí?
+
+I: unos / unos ocho o nueve años más o menos 
+
+E: mjm / ¿y luego se fue a / Estados Unidos?
+
+I: no no / después ya no // me volví a ir a Sabinas Coahuila
+
+E: mjm // y ¿cuánto tiempo duró allá?
+
+I: <tiempo = “68:15”/> como un año
+
+E: mjm // ¿y después?
+
+I: me fui a Piedras Negras a trabajar de mecánico 
+
+E: mjm 
+
+I: duré un año ahí
+
+E: mjm
+
+I: y después me fui a / San Luis Potosí
+
+E: mjm / y ¿duró cuánto tiempo?
+
+I: tres años y medio
+
+E: mjm // ¿y después?
+
+I: me regresé acá a Monterrey
+
+E: mjm
+
+I: duré un año // y luego me fui a Estados Unidos 
+
+E: a Houston ¿verdad?
+
+I: sí 
+
+E: ¿y ahí duró?
+
+I: pos se pude decir / ponle dos años ahí 
+
+E: ¿dos?
+
+I: dos años // porque ya después que entré en la cárcel pos ya / me / te cambiaban de una // de algún lugar a otro 
+
+E: mjm 
+
+I: ya por el estado de Texas 
+
+E: mjm // ¿de dónde e / era su papá?
+
+I: de aquí de Monterrey 
+
+E: mjm // ¿y su mamá?
+
+I: también
+
+E: su abuelo paterno ¿sabe de dónde era?
+
+I: de aquí de Monterrey
+
+E: ¿su abuela materna?
+
+I: también / m / los abuelos paternos eran de Allende 
+
+E: mjm // 
+
+I: mjm // sí 
+
+E: entonces / ahorita después de su regreso ¿cuánto tiempo lleva viviendo en Monterrey? / seis años me dijo
+
+I: <tiempo = ”70:05”/> seis años 
+
+E: ¿algún pasatiempo que tenga / o afición?
+
+I: mi hobby es leer // cosas espirituales
+
+E: mjm 
+
+I: y tratar de enseñar a los demás
+
+E: mjm
+
+I: lo que yo voy aprendiendo
+
+E: mjm / ¿asiste usted al cine?
+
+I: me gustan las películas al cine casi no voy
+
+E: ¿no va? / cuando ve películas / en el cine ¿de qué / nacionalidad las prefiere / mexicanas o extranjeras?
+
+I: extranjeras 
+
+E: ¿y de qué nacionalidad prefiere las películas extranjeras?
+
+I: ¿cómo?
+
+E: ¿de qué nacionalidad prefiere las películas extranjeras?
+
+I: la mayoría buenas buenas / pues // hay / hay de todo sea / ahorita / la mayoría son ameri- / son norteamericanas 
+
+E: mjm
+
+I: se puede decir / un noventa por ciento son norteamericanas / las europeas / hay unas muy buenas 
+
+E: mjm // ¿y qué tipo de películas le gustan / acción / aventura s?
+
+I: me gusta la ficción me gusta las aventuras y me gusta la / e / de acción 
+
+E: mjm / ¿suspenso / y terror / y esas cosas
+
+I: sí // precisamente una de las cosas que ha / han salido películas sobre el fin del mundo // o las grandes catástrofes que van / que van a haber 
+
+E: mjm
+
+I: <tiempo = “72:00”/> yo ya vi un / en un sueño yo ya vi / yo ya vi que / aquí en Monterrey vamos a alcanzar una catástrofe fuerte / por parte de Estados Unidos / por atacar a Estados Unidos 
+
+E: ¿no naturales?
+
+I: no // Estados Unidos / lo va a derrotar / los van a derrotar los orientales // y va a haber / mucha hambre y mucha tristeza // principalmente en las fronteras van a haber / yo conocí cárceles // pero las cárceles que yo / que yo vi en mi sueño / van a ser mucho más grandes // no va a ser fácil la vida para las personas // de tu edad // si no están preparados para lo que viene // espiritualmente
+
+E: mjm
+
+I: al rato // va a estar muy difícil / orita la vida de los muchachos / me da tristeza ver cómo llevan / cómo los van preparando para el futuro
+
+E: mjm
+
+I: yo lo veo muy mal // simplemente por ejemplo orita // las pandillas así en la calle / ¿por qué son los muchachos así? / o / ¿por qué se comportan? / ¿qué buscan? / ¿qué desean? // ¿cuáles son sus ideales? / no tienen ideales // no tienen ya control sobre los / los padres sobre los hijos // si / tú fueras mi hijo tienes / cinco o seis años y te acostumbro a que te duermas a las / doce una de la mañana ya estoy mal
+
+E: claro
+
+I: tu horario norma l / es a las nueve de la maña / de la noche y ya duérmete mi hijo // nos vemos al otro día // que es como a mí me / me educaron en aquella época 
+
+E: mjm
+
+I: pero orita ya no / todos los muchachos a las dos tres de la mañana andan en la calle
+
+E: mjm
+
+I: ¿qué esperas de un / de los / de / qué esperas tú de la juventud que está acostumbrada / a ese tipo de vida?
+E: sí
+
+I: es el caos
+
+E: sí
+
+I: es el caos y ahí lo estás viendo tú / así los ves afuera cómo se pelean / cómo se / echan / cómo se maltratan / cómo roban / en fin // si eso no lo controlan orita // cuando venga el caos / va a estar más difícil // van a ser carne de cañón / son los que van ir por delante para ser // y el problema es que las personas que quieren vivir tranquilas 
+
+E: <tiempo = ”74:24”/> mjm
+
+I: va a ser difícil vivir al lado de ellos
+
+E: mjm
+
+I: ¿por qué se te va a ser difícil? / si tú eres una persona tranquila // ¿cómo te vas a defender tú de ellos?
+
+E: pos sí
+
+I: tienes que hacerte la pregunta un día
+
+E: cla ro 
+
+I: y el único que te puede dar la respuesta eres tú mismo // hay una parte en la biblia donde dice que / dios da la chispa de la vida // dentro de ti desde el día en que naces y dice cuando mueres / dice que cuando mueres // el espíritu vuelve a quien lo dio / y el cuerpo / va al polvo / se vuelve polvo / de donde salió // entonces esa chispa de la vida tienes que / que buscarla un día y está dentro de ti no está lejos / ahí no necesitamos gritarle // para que lo escuche / debe estar / dentro de uno
+
+E: mjm
+
+I: si sabe lo que nos está pasando / sabe lo que deseas / sabe lo que necesitas // por eso tienes que saber que ella está ahí // para po- / para poderte comunicar un día // conmigo se ha presentado cuando más desesperado estoy // por tanto tocarle la puerta / es cuando me ha hablado // por eso tienen ustedes / la juventud de orita tienen que prepararse para ese tipo de situaciones / e / el ir a los antros / es un desfogue 
+
+E: mjm
+
+I: ¿qué buscas? / ¿por qué lo haces? // yo tengo respuestas // pero ¿tú la tendrás? // ¿por qué eres como eres? / ¿por qué eres / de la forma que eres? / ¿por qué vas a esos lugares? / ¿qué es lo que / tratas de encontrar ahí? 
+
+E: mjm
+
+I: todos buscamos algo
+
+E: claro
+
+I: pero no sabemos empujarlo a / cierto / a / no sabemos empujar la pregunta / para qué nos puede ayudar / yo lo he visto con mi maletín / un maletín que me regaló mi padre 
+
+E: <tiempo = ”76:16”/> mjm
+
+I: y ahí lo tengo // voy a / voy a reparar una máquina de coser quiero que sepas que / toda la mitad / esta pared está / está caída / está derrumbada / pongo bloques aquí en // ¿sí?
+
+E: mjm
+
+I: cantera // y aquí están trabajando las mujeres / ninguna levanta la cabeza para ver mejor //// así es // me he visto perseguido / me he visto con los pies / ¿te acuerdas tú / o has visto tú los niños cuando andan descalzos aquí en la colonia cómo se les ponen los pies?
+
+E: sí sí
+
+I: como mapas en los pies / así ya me vi yo // y gente me ha ayudado me ha dado de comer / me ha dado vestido / me ha dado cobijo // protegiéndome de las personas que me están persiguiendo / por mi forma de pensar 
+
+E: y si dentro de todo eso // de ese espacio por ejemplo / no sé / cuestiones de política y esas cosas ¿usted / es partidario de algo? / no sé
+
+I: soy partidario // de la no violencia
+
+E: mjm
+
+I: del no abuso 
+
+E: mjm
+
+I: ¿qué puedes pensar del gobierno que tú lo estás / viendo de acá de afuera // estás bien / tú estás viendo una película donde estás viendo que están robando a ojos vistos / y no puedes hacer nada // porque como dicen muchos / si no hay alguien quien hable al principio siempre sigue / o / también está / que si le hablas al principio y si empiezas a gritar / a vociferar  / esto o lo otro / un día te van a desaparecer 
+
+E: mjm
+
+I: <tiempo = ”78:00”/> si no te desaparece el gobierno mismo gobierno te manda desaparecer con / ahorita lo que está pegando / que está de moda los zetas lo mataron porque andaba en drogas // y dime // ¿a quién le importó? // yo de eso / puedo enseñar cómo / puedo enseñar que cómo te puedes defender espiritualmente // que es mucho mejor que andar hablando
+
+E: claro
+
+I: el que mete la pata un día tiene que pagar // de una manera o de otra tiene que pagar // dios no es el dios vengativo que nos habla la biblia / es otro dios más grande / y más amoroso
+
+E: mjm
+
+I: que el que sacó a Israel de Egipto
+
+E: mjm
+
+I: el dios que vino a promover Jesucristo es un dios completamente / amor
+
+E: mjm
+
+I: entonces // si nos protegemos / y un día llegamos a / a / a tener comunicación con ese dios // tu vida va a ser más llevadera // te va a proteger cuando estés en peligro / te va a hablar  cuando no / cuando tienes que irte por otro lado / te va diciendo no vayas por ahí ahí hay peligro vente por acá // en fin / de muchas maneras te va a hablar // por eso es / la urgencia de que / la juventud / sepa que existe un dios y que ese dios te puede ayudar // en tus desventuras 
+
+E: es lo que le decía por ejemplo antes era una persona más espiritual y luego de repente // como que el estilo de vida tan acelerado de / escuela / y el trabajo 
+
+I: te / te va alejando no te deja // la vida diaria la vida cotidiana
+
+E: sí / de / por ejemplo de repente esto que estoy haciendo ahorita para mí es como un lujo / de repente tener un espacio para platicar / tranquilo así digo // ¿cuándo? / o sea en mi vida / bueno / ¿escucha el radio? 
+
+I: sí
+
+E: <tiempo = ”80:00”/> ¿sí? // ¿más o menos como // ahí este / qué tanto escuchará? / ¿mucho más de dos horas o poco?
+
+I: no / poco // aquí no hay / aquí no hay espacio / para escuchar radio
+
+E: ¿qué tipo de música le gusta? / bueno aparte ya me dijo la romántica ¿verdad?
+
+I: lo que es romántica / romántica en inglés / los blues // que es la / que es la romántica en / español 
+
+E: ¿y tiene alguna estación preferida?
+
+I: no la tengo en la mente orita no me acuerdo 
+
+E: ¿no se acuerda?
+
+I: no 
+
+E: y / ¿su programa que escucha en la radio / o sólo música? // 
+
+I: hay programas
+
+E: mjm // ¿cómo de qué tipo? / ¿noticieros / radionovelas?
+
+I: bueno lo / los noticieros por lo regular para saber no vaya a haber un familiar por ahí que de repente / le haya pasado algo 
+
+E: sí 
+
+I: nada más / para saber si viene / por ejemplo orita estamos al pendiente de que va a llegar un huracán / o no va a llegar // ora / tres cuatro con la pequeña lluvia que / orita senos vino // e / pero más más más es para escuchar música / música del recuerdo
+
+E: mjm
+
+I: yo me quedé pescado de los años / sesentas o setentas
+
+E: mjm
+
+I: ochentas todavía
+
+E: ¿ve usted televisión?
+
+I: sí 
+
+E: ¿con qué frecuencia ve la televisión? 
+
+I: todos los días 
+
+E: ¿todo el día?
+
+I: no / no / no todo el día / todos los días
+
+E: ¿más de una hora al día o / menos de una hora?
+
+I: no / más de una hora
+
+E: mjm // ¿qué tipo de programas ve en televisión?
+
+I: pues / por decir así veo / el programa de Héroes 
+
+E: mjm // ¿que serían? / ¿series?
+
+I: sí son series // habla sobre personas que tienen poderes / y que / unos están para ayudar  / unos están destruyendo / en fin / precisamente ayer estaba un programa de esos
+
+E: <tiempo = ”82:02”/> ¿que otro tipo ve?
+
+I: otro el / está la / la que de los fantasmas 
+
+E: ¡ah! ésta / en inglés se llama Ghost Whisperer pero no me acuerdo cómo se llama en español
+
+I: bueno esa / también en inglés / también la 
+
+E: ¿la de / Almas Perdidas? 
+
+I: Almas Perdidas / esa también la veo 
+
+E: ¿qué otra cosa ve?
+
+I: ¡ah! / veo la / la del Dr. House 
+
+E: mjm 
+
+I: de medicina
+
+E: básicamente ve más series
+
+I: sí 
+
+E: ¿sí?
+
+I: pos porque no lo hay en una / en una sola serie no lo / no lo hay / los hacen en series
+
+E: sí 
+
+I: las películas pos casi / en televisión casi no porque / es demasiado comercial el que están metiendo / es más comercial que la 
+
+E: sí / dura como tres horas / luego // este / ¿noticias ve en televisión?
+
+I: sí
+
+E: ¿programas de comedia?
+
+I: ¿mande?
+
+E: ¿de comedia?
+
+I: no no me gustan 
+
+E: ¿deportivo?
+
+I: m / nada más cuando hay / deportivo / nada más cuando hay box
+
+E: mjm / ¿futbol y eso no? 
+
+I: no casi no
+
+E: mire qué / que extraño casi a toda la gente en Monterrey le gusta el futbol / a mí me gusta el futbol / m / ¿telenovelas ve?
+
+I: no
+
+E: ¿Reality shows?
+
+I: tampoco me gustan
+
+E: ¿concursos? // ¿de / programas de análisis y de entrevistas o así?
+
+I: no / me gusta programas así por decir de Jaime Maussan donde está hablando de ovnis / de extraterrestres // cosas que vienen para el futuro 
+
+E: mjm / como documentales y cosas así
+
+I: exactamente
+
+E: ¿policíacos o de investigación forense?
+
+I: e / sí veo la / la de huesos / ¿cómo se llama ésa?
+
+E: Bones 
+
+I: ¿eh?
+
+E: Bones 
+
+I: Bones // veo esa veo la / la de / la de Miami 
+
+E: CSI Miami ¿verdad?
+
+I: <tiempo = “84:00”/> ajá / también
+
+E: sí le gustan muchas series muy buenas / entonces películas ve poco en la tele 
+
+I: en la televisión sí // por lo regularmente mejor las series
+
+E: mjm / ¿de qué nacionalidad le gustaban las películas en la televisión?
+
+I: americanas
+
+E: mjm // ¿y le gustan las dobla das o / con subtítulos?
+
+I: con subtítulos
+
+E: mjm
+
+I: oír el inglés estar / estar leyendo lo que dicen / que muchas veces no es / lo que están hablando no es lo que está escrito
+
+E: <risa = “E”/> sí son mentiras / la verdad // a continua / digo este / ¿usted cuenta con videograbadora?
+
+I: sí 
+
+E: ¿DVD?
+
+I: con DVD es lo que tengo yo
+
+E: mjm // ¿consola para videojuegos?
+
+I: no // lo único que te atrae eso es / te quita el tiempo / y automáticamente / lo que / estábamos platicando hace rato / qué / qué educación le estás dando a tus hijos
+
+E: sí
+
+I: lo estás enseñando a matar / hay programas que los / que les enseñan a que los papás son unos burros / en las caricaturas simplemente lo ven / pos / los niños / lo que ven / es la imagen de ellos / es lo que les gusta / y es lo que ven todos los días en sus casas / yo aquí lo veo todos los días // el dinero a un niño / pos ya / ustedes son culpables o no // por lo visto no saben educar niños les dije // hay que saber cómo educar un niño para que / no que lo tengas con / con / con lujos / no / enséñenle cosas de bonitas / hay otras cosas hermosas que puedes hace r / puedes hacer juegos / puedes hacer // pláticas / contarles cuentos / enseñarles / cómo / cómo puedes vivir más tranquilo // pero si lo / si lo atiborras / con / con juegos de / de guerra / lo único que le vas a enseñar un día va a ser a matar
+
+E: <tiempo = ”86:11”/> la violencia genera violencia // e / ¿cuenta usted con clable o sky o multivisión o algo?
+
+I: no 
+
+E: ¿cuántos televisores hay en su casa?
+
+I: cuatro
+
+E: ¿lee usted el periódico?
+
+I: m / no 
+
+E: m / ¿lee usted revistas?
+
+I: tampoco 
+
+E: ¿usa usted Internet?
+
+I: quisiera / quisiera aprenderlo / voy / pero tengo que aprenderlo lo voy a necesitar 
+
+E: mjm / pero / ¿actualmente usted no lo usa?
+
+I: no 
+
+E: ¿tiene teléfono? bueno / sí cuenta con teléfono dijo ahorita ¿verdad?
+
+I: sí 
+
+E: ¿tiene teléfono celular?
+
+I: sí 
+
+E: ¿cuáles son los usos que le da usted al / al celular? // ¿hace llama das / recibe y hace llama das / recibe y hace muchas llamadas / y muchos mensajes?
+
+I: hago / hago y recibo llamadas y / mando mensajes
+
+E: mjm / ¿lo usa para tomar fotografías o algo así / el celular?
+
+I: no 
+
+E: ¿no? / ¿visita museos?
+
+I: no
+
+E: ¿ac- / acude usted a conciertos? 
+
+I: no
+
+E: ¿asiste usted al teatro?
+
+I: no
+
+E: ¿suele viajar por placer?
+
+I: sí 
+
+E: ¿con qué frecuencia? ¿una vez al año? ¿dos veces al año? ¿tres veces al año? ¿tres o más veces al año?
+
+I: <tiempo = “88:09”/> no pos estuve encerrado / sin moverme de aquí / estuve seis años sin viajar
+
+E: mjm
+
+I: voy a cumplir un año y medio / desaparecido
+
+E: <risa = “E”/> ¿le ponemos / alguna vez al año?
+
+I: sí 
+
+E: ¿estudió primaria?
+
+I: primaria y secundaria
+
+E: mjm // primaria / ¿la terminó? 
+
+I: sí / secundaria también
+
+E: ¿fue pública o privada?
+
+I: pública 
+
+E: más o menos / ¿en qué año terminó? si recuerda
+
+I: terminé en el setenta y uno 
+
+E: ¿en dónde? / ¿aquí en Monterrey?
+
+I: aquí en Monterrey 
+
+E: secundaria ¿también la terminó?
+
+I: sí
+
+E: ¿fue pública o privada?
+
+I: pública
+
+E: esa ¿en qué año la terminó?
+
+I: la primaria la terminé en el sesenta y ocho
+ 
+E: mjm
+
+I: la secundaria la terminé en el setenta y uno / y porque / reprobé un año
+
+E: ¿de primaria o de / secundaria?
+
+I: secundaria
+
+E: y ya después de ahí ¿ya no tuvo ningún otro estudio?
+
+I: no / no tengo estudios
+
+E: mjm // entonces me dice que actualmente no está trabajando ¿verdad?
+
+I: no 
+
+E: y ¿tiene alguna pensión o algo?
+
+I: no
+
+E: ¿cómo se sostiene ahora? / si no es indiscreción 
+
+I: ahora / el dinero que ahorré con mi trabajo 
+
+E: mjm / el último trabajo que tuvo usted ¿cuál fue que me había dicho? / así estable
+
+I: <tiempo = ”90:11”/> e / estuve trabajando en una sastrería reparando ropa // dos años / exactamente ahí
+
+E: ¿en qué año fue más o menos?
+
+I: fue / en el dos mil / empecé en el dos mil / a finales del dos mil cuatro y / terminé en el dos mil siete
+
+E: mjm / ¿reparaba verdad?
+
+I: sí / reparaba / reparaba ropa y de vez en cuando reparaba una máquina 
+
+E: mjm // y luego esas que repara esas máquinas que yo he visto ¿es / es para amigos o así?
+
+I: pos me han traído dos tres máquinas de / de vecinos en / dos ocasiones 
+
+E: o kay / ¿cuando estaba trabajando ahí cuánto ganaba? / más o menos / ¿menos del mínimo / más del mínimo?
+
+I: más del mínimo / ponle / mil / doscientos / por semana
+
+E: mjm // el mínimo es / son ¿qué? / tres mil 
+
+I: no / son trescien- / cuatrocientos / por mes / por semana 
+
+E: por semana
+
+I: mil seiscientos por mes
+
+E: ¿por qué?
+
+I: si el mínimo está en cuatrocientos / cuatrocientos cincuenta aproximadamente
+
+E: a / lo que pasa es que hay un mínimo para / de profesión y un mínimo de / técnicos 
+
+I: simplemente en muchos trabajos te pagan setecientos por semana / y supuestamente es un buen sueldo / para mí no 
+
+E: ¿cuántos focos hay en su casa? // aproximadamente
+
+I: uno dos tres cuatro cinco // seis siete ocho nueve diez once / once focos
+
+E: once focos / ¿su hermano sabe qué último grado cursó / de educación?
+
+I: <tiempo = ”92:18”/> preparatoria // no terminó la preparatoria 
+
+E: es chofer ¿verdad? el señor de l
+
+I: ah sí 
+
+E: ¿Luisa e Iván qué vendrían siendo de usted?
+
+I: nietos sobrinos 
+
+E: muy bien // pues ya eso es básicamente todo ya nada más le voy a pedir // un favor / me repite el domicilio de aquí por favor
+
+I: es Avenida San Ángel // cuarenta y cuatro / veinticuatro / Colonia San Ángel Sur 
+
+E: mire le voy a leer / no sé si quiera leer usted esta carta // nada más / si está de acuerdo con lo que ahí dice / me hace favor de firmarla // aquí / este proyecto es bien interesante porque de hecho empezó hace vein- / la primer etapa empezó hace veinte años / que se entrevistaron a algunas personas / entonces se quiere reanudar ahora y van a hacer una onda como comparativa a ver qué tanto ha cambiado la gente de Monterrey desde hace veinte años atrás a orita // y / por ejemplo se llevaron una sorpresa muy // no sé / desagradable porque incluso gente que dio antes / o sea que aceptó participarantes ahora ya no quiso / por la inseguridad de que no / ya / no ya no quiero / ya son más desconfiaditos
+
+I: <tiempo = “94:59”/> e / no es / no es desconfiar es que tienes / miedo 
+
+E: mjm
+
+I: a expresar tus ideas
+
+E: mjm
+
+I: tus ideales // muchas veces / aunque yo / si yo veo que están mal yo me voy a amachar <observación_complementaria = “terquedad o insistencia”/> en lo mío
+
+E: mjm
+
+I: te voy a explicar mil maneras / diferentes / cómo es algo // por ejemplo / estábamos hablando orita de lo / de la educación de los niños 
+
+E: mjm / mjm
+
+I: okay / a los niños les puedes dar / les puedes dar todo / pero ¿por qué tienen todo? / si también tienes que buscarles los por qué 
+
+E: claro 
+
+I: y ahorita / tú los / dos niños // a esos niños les falta papá / ¿qué están buscando ellos? / ¿por qué piden? / ¿por qué piden? / y ¿por qué piden? / ¿por qué? / porque es una forma de pedir están buscando / hazme caso / yo existo // yo necesito // entonces / su / forma de ser o su rebeldía es pedir y pedir y pedir y pedir
+
+E: mjm
+
+I: dámelo / y dámelo / y a ver cómo le haces pero dámelo // el / dejarlos / despiertos hasta tales horas / el / el consentirlos de todo de / de todo en absoluto / brinca / juega / haz lo que quieras / eres un niño / está mal // tienes que ponerte / al nivel también del niño / y saber por qué es así / y hay que buscar la manera de cómo educarlos / para que / para que ellos puedan sobrevivir después // al rato no los vas a poder detener / cuando quieras detenerlos / se van a sentir suficientemente / mm / ¿cómo podemos llamarle? / autosuficientes / ya no / al rato los vas a ver en la calle // ahora / la nueva ley que / una / la nueva ley que entró / de / no les puedes pegar a tus hijos / no les puedes gritar / no les puedes hacer muchas cosas
+
+E: mjm
+
+I: entonces si a tus hijos no los detuviste en cierta época / menos vas a poder cuando sean grandes / cuando sean adolescentes // un adolescente ya es cien por ciento seguro de lo que él hace / y / ¡no / pero es un niño / cómo lo vas a meter a la cárcel! / quiero que sepas que son los más peligrosos / porque no miden / consecuencias 
+
+E: claro 
+
+I: y lo hacen a sabiendas de que están haciendo mal / pos no miden consecuencias / entonces ¿a quién van a dañar? // primero se dañan ellos mismos y después van a / van a dañar a terceros / entonces las / las personas que hablan así / francas // es / pos es difícil muchas veces / rompes con la monotonía / de lo que has vivido
+
+E: sí
+
+I: y es difícil volver a aceptar 
+
+E: claro
+
+I: que te vuelvan a entrevistar // a mí me da igual / a mí si me hablas y me / me invitan a que fuera a allá a hablar / si me hagan preguntas también se lo voy a decir / así como estoy hablando contigo no tengo / no tengo nada que taparme
+
+E: claro / entonces ¿ahorita ya no tiene planes de irse de Monterrey?
+
+I: no
+
+E: <tiempo = “98:02”/> ¿no?
+
+I: no ya no // cuando / recién llegué / de Estados Unidos / tenía pensado regresarme a Estados Unidos
+
+E: ajá
+
+I: pero vi a mi padre cansado / lo vi viejo
+
+E: mjm
+
+I: dije si me voy / ya no lo vuelvo a ver
+
+E: mjm
+
+I: cuando llegué lo primero que vi ya mi tía ya no vivía / la hermana de papá
+
+E: mjm
+
+I: entonces // te pone a pen- / a / pensar / y a meditar un poco bueno a ¿dónde vas? / ¿qué vas a hacer? / fíjate lo que estás haciendo / ¿para qué te vas? // ir y / vengarte allá de / el que te ayudó / que te abandonó / el que esto / o lo otro / no / ya déjaselo a dios / ya estuvo bueno / ya sufristes diez años perdiste / una parte muy importante de ti // pero ya tuve la promesa de que voy a volver a tenerlo // que es mi ojo / entonces / ¿para qué buscar // lo que no he perdido? / es más grande / es más grande el tesoro que tengo orita de poder ayudar a otras personas / el poder agarrar más conocimiento y poder compartirlo / es más grande que ir allá a reclamar lo que se me quedó // porque si voy / llevo el riesgo de que / me agarra migración / o me agarra policía / en migración / yo estoy deportado de por vida / si me agarran me van a meter muchos años a la cárcel 
+
+E: mjm
+
+I: y gratis / si me agarra la policía igual / me faltaban quince a / quince años / me sentenciaron a quince y nada más hice diez
+
+E: mjm
+
+I: pos haría quince años más de cárcel // ahorita ya no creo que pueda sobrevivir / sobrevivir dentro de una cárcel / a lo mejor sí / porque estoy preparado
+
+E: mjm
+
+I: pero / para qué tentar al destino 
+
+E: claro
+
+I: si dios ya me dio la libertad / me dejó que me dejaran libre sin haberme pasado nada // yo estuve en una cárcel donde en menos de tres meses mataron a cuarenta y dos personas 
+
+E: ¿en riñas?
+
+I: en riñas / entonces salí bien librado / le doy gracias a dios porque salí librado / no me tocaron ni un pelo // le doy gracias a él // entonces / vive tranquilo / vive tranquilo y trata de ayudar a quien puedas ayudar / no vas a ayudar a toda la gente pero sí va a haber unos cuantos escogidos 
+
+E: <tiempo = “100:14”/> sí / hacer la diferencia con alguno
+
+I: mjm 
+
+E: ¿se está atendiendo ahorita usted su ojo o algo así?
+
+I: la bala que te digo aquí está // eso fue un año antes de que me pasara lo del ojo // tengo una bala hecha garras aquí
+
+E: mjm
+
+I: una bala que me / una bala expansiva que me dispararon cuando caí me / me dieron la del / del remate
+
+E: mjm
+
+I: era para que me hubiera hecho garras todo el / lo que es todo el pecho y / fue / ¿cómo? / ¿cómo? / cuando / me dan el balazo en el / pecho y la espalda y está / y está la bala ahí pegada en mi hombro / ¿de qué forma cómo / cómo corrió la bala? quién sabe / solamente / dios
+
+E: y por ejemplo qué / hay de / ¿de su ojo tiene / hay alguna propuesta que le pueden hacer alguna cirugía o algo así?
+
+I: no / no lo hay / no se puede / está perdido el ojo 
+
+E: m
+
+I: lo que traigo es / plástico / la prótesis
+
+E: mjm 
+
+I: traigo prótesis / la promesa es / la que me dieron / la que me dio / lo que / según me dio dios / es una promesa para después / yo voy a volver a ver / ¿para qué lloro? // si yo un día dije adentro de la cárcel / ¿para qué te quejas ¡hombre!? // mírame a mí yo perdí un lente / pero no perdí la cámara // todavía puedo / todavía dios está conmigo 
+
+E: y está viendo que / bueno perdón que me meta en eso lo que pasa es que yo estoy en prácticas en destellos de luz / no sé si haya escuchado hablar de destellos de luz / otorga cirugías de tratamientos visuales / de especialidad / a personas que no puedan financiar / y hay un apartado donde / e / adaptan prótesis y dan las prótesis etcétera etcétera / ¿usted está yendo a / adaptación / o ya es?
+
+I: sí fui / precisamente / ora que voy a tener dinero de la / de la herencia que me dejó mi padre tengo que ir a ponerme otra prótesis 
+
+E: <tiempo = “102:01”/> ¿más grande? / ¿o cómo?
+
+I: n o / que la / que la hagan bien / que la hagan bien y que quede el ojo en el centro
+
+E: mjm
+
+I: quiero esperarme acabando de operar el ojo / quiero que me pongan una prótesis bien 
+
+E: ah pos digo cualquier cosa que usted llegue a ocupar en destellos de luz ahí atienden muy bien y no cobran nada / bueno / te hacen una evaluación y ya el paciente decide cuánto es lo que puede / el único requisito que te piden es que no tenga seguro social / y que / que no estés en las posibilidades de pagar completa / la cirugía o la prótesis
+
+I: no pos si me hacen un estudio van a ver que sí puedo <risa = “I”/>
+
+E: ah por lo de la herencia 
+
+I: por lo de la herencia
+
+E: ah pos le digo / no igual y ya después o algo / cualquier cosa le digo ahí lo atienden muy bien / ahí / son trabajadores / yo soy trabajador // hay trabajadores sociales ahí que hacen los estudios socioeconómicos / y ya / y no le cobran absolutamente nada y lo atienden los mejores doctores / de Monterrey // oftalmólogos todos 
+
+I: probablemente
+
+E: sí / se lo recomiendo 
+
+I: pedirte a ti ayuda 
+
+E: sí algún día que lo ocupe / este dígame / yo tengo el teléfono y tengo los contactos y ahí / en verdad lo atienden muy bien / yo tuve / este la / fue muy grato trabajar con toda esa gente porque // no / la gente que va ahí llega muy muy // bueno hay de todo pero por ejemplo / a mí los casos que me llegaban es que llegaba gente muy muy humilde / entonces de repente que los atendían en el hospital / Muguerza / con todas las comodidades y toda la atención pos en la vida / la gente está maravillada 
+
+I: les / les das un / les das una vuelta a la vida de que hay una esperanza 
+
+E: ajá / exactamente
+
+I: simplemente / yo conocí a muchas personas que les faltaba un ojo y no tenían prótesis / nada más la pura vista de que te ven que te falta un ojo ¡ay no! / hazte para allá
+
+E: sí / no de hecho a mí me tocó / antes / orita ya no sé porque no he hecho prácticas / pero antes de salirme había una niña / que le pusieron no tenía su ojito / y le pusieron prótesis / y estaba yendo a / a la adaptación / a adaptación a terapia // y estaba / y estaba muy tristecita / entonces le preguntamos ¿qué te pasa? / ¿por qué estás triste? / dice / es que / estaba muy triste porque no quería que le quitaran la prótesis / porque al día siguiente era el festival del día de las madres / iba a bailar / y quería que su mamá la viera con los dos ojitos / entonces el doctor dijo no / tráigamela pasado mañana / y le hacen la / pero / ese tipo de cosas que / y no / o sea a veces por ejemplo que tienen / andas bien / o la gente que no / ves que no valora / es impresionante // pero bueno / ¿qué más? / mejor lo dejamos <risa = “E”/> para otra charla / muchas gracias / ahi estamos platicando después / este / yo luego le informo cómo nos fue / con la investigación 
+
+ Fin de la entrevista
+
+

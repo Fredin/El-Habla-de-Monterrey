@@ -1,0 +1,2395 @@
+﻿<Trans audio_filename = “MONR_M23_HMP072.MP3” xml:lang = “español”>
+<Datos clave_texto = “MONR_M23_HMP072” tipo_texto = “entrevista_semidirigida”>
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” país = “México”/>
+
+<Grabacion resp_grab = “Florencia Romo Gutiérrez” lugar = “comedor de la casa del informante” duración= “01:26’44´´” fecha_grab = “2007-10-07“ sistema = “MP3”/>
+<Transcripcion resp_trans = “Raquel Rodríguez de Garza” fecha_trans = “2008-01-22”numero_palabras = “19740”/>
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2008-01-22”/>
+<Revision num_rev = “2”> res_rev = “Blanca Alicia Rojas Leija” fecha_rev = “2010-07-08”
+<Revision num_rev = “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-07-23”/>< / Datos>
+<Revision num_rev = “4” resp_rev = “Dalina Flores Hilerio” fecha_rev = “2011-12-03”/>< / Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Gina Adriana Martínez Cavazos” código_hab = “I” sexo = “mujer” grupo_edad = “2” edad = “42” nivel_edu = “3” estudios = “Licenciada en Ciencias de la Comunicación" profesión = “ama de casa" origen = “San Nicolás de los Garza" papel = “informante" / >
+<Hablante id = “hab2" nombre = “Florencia Romo Gutiérrez" código_hab = “E" sexo = “mujer" grupo_edad = “2" edad = “51" nivel_edu = “2" estudios = “Pasante de Licenciatura en Letras Hispánicas” profesión = “comerciante" origen = “Monterrey" papel = “entrevistador" / >
+<Hablante id = “hab3" nombre = “Daniela" código_hab = “A1" sexo = “mujer" grupo_edad = “ninguno" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “ninguna" origen = “desconocido" papel = “audiencia" / >
+<Hablante id = “hab4" nombre = “desconocido" código_hab = “A2" sexo = “hombre" grupo_edad = “ninguno" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “ninguna" origen = “desconocido" papel = “audiencia" / >
+<Hablante id = “hab5" nombre = “desconocido" código_hab = “A3" sexo = “mujer" grupo_edad = “ninguno" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “estudiante" origen = “desconocido" papel = “audiencia" / >
+<Hablante id = “hab6" nombre = “desconocido" código_hab = “A4" sexo = “hombre" grupo_edad = “desconocido" edad = “3" nivel_edu = “licenciatura" estudios = “desconocido” profesión = “comerciante" origen = “desconocido" papel = “audiencia" / >
+<Hablante id = “hab7" nombre = “desconocido" código_hab = “A5" sexo = “hombre" grupo_edad = “desconocido" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “comerciante" origen = “desconocido" papel = “audiencia" / >
+<Hablante id = “hab8" nombre = “desconocido" código_hab = “A6" sexo = “mujer" grupo_edad = “desconocido" edad = “desconocido" nivel_edu = “desconocido" estudios = “desconocido” profesión = “comerciante" origen = “desconocido" papel = “audiencia" / >
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1 = “familiares"
+rel_ent_aud1 = “desconocidos" rel_inf_aud2 = “familiares" rel_ent_aud2 = “desconocidos" rel_inf_aud3 = “familiares"
+rel_ent_aud3 = “desconocidos" rel_inf_aud4 = “familiares" rel_ent_aud4 = “desconocidos"rel_inf_aud5 = “familiares"
+rel_ent_aud5 = “desconocidos" rel_inf_aud6 = “familiares" rel_ent_aud6 = “desconocidos" / >
+< / Hablantes>< / Trans>
+
+
+E: buenas tardes
+
+I: ¿cómo estás?
+
+E: hola mucho gusto soy Florencia Romo
+
+I: pásale
+
+E: para servirte
+
+I: déjame prender la luz porque ya se vio muy oscuro aquí / los niños anduvieron jugando y dejaron todo regado / 
+
+E: ¿aquí?
+
+I: aquí en la sala
+
+E: gracias 
+
+I: pásale / si gustas tomar asiento
+
+E: sí gracias buenas noches / ¿cómo te llamas?
+
+A1: _______
+
+E: hola _______
+
+A1: ¡mira!
+
+E: mira está el que / clima bien raro ¿verdad? 
+
+I: mi hijita llévate esas chanclas para allá para la recámara por favor / Ludvica bájate de ahí por favor
+
+E: ____ no / ¿no nos podemos ir a un lugar este / por favor nada más para poner la grabadora?
+
+I: ¡ah! 
+
+E: sí 
+
+I: sí / ahora esa quieres aquí en la mesa 
+
+E: sí por favor / gracias 
+
+A1: me lo prestas
+
+E: no te la puedo prestar mami porque
+
+I: ¡Ludvica / te vas por allá con papi por favor!
+
+E: porque si te la presto / ya este se me borra
+
+I: Ludvica / Ludvica por favor hazte para allá mi amor / porque me voy a ocupar yo te habla tu papá / te habla tu papá / mi amor / te habla papi / te habla papi 
+
+A2: ¡lu! 
+
+A1: mande 
+
+E: mira ____ / este / bueno en primer lugar muchas gracias / por aceptar platicar de nuevo con nosotros 
+
+I: de nada
+
+E: que / ya no te acordabas pero mira esta es la hojita que te comentaba por teléfono / la que me dieron para buscarlos 
+
+I: ajá
+
+E: ¿dónde estás? / aquí estás / tenías veintiún años 
+
+I: fíjate / veintiún años
+
+E:<tiempo = “2:39”/> ¿cuántos años tienes ahorita?
+
+I: tengo / lo doble / cuarenta y dos / fíjate
+
+E: fíjate / sí entonces este / porque el proyecto inició hace como veinticinco años / y básicamente es lo mismo es nada más volver a platicar de nuevo con las personas para saber cómo somos en Monterrey 
+
+I: ¿y tú la hiciste / tu personalmente? o fue alguien 
+
+E: no / no yo no / yo no te la hice / yo haz de cuenta que ahorita lo que estoy haciendo es / ya terminé mi carrera / estoy haciendo el servicio social / y estoy nada más este / yendo / a platicar con las personas 
+
+I: ah
+
+E: no sé si tú estudiaste me dijiste que en la UR
+
+I: yo estudié comunicación en la Universidad Regiomontana
+
+E: porque Elizabeth también estudió en la UR
+
+I: pero / fíjate que yo de / de Liz y yo / me / me desconecté mucho o se / o sea / ya / a raíz de que / de / ella y yo nos juntábamos con unas / a / con unas amigas / vecinas de ella 
+
+E: ajá
+
+I: yo con quien tenía amistad más era con ellas / y a / a Elizabeth la veía pos porque / también era amiga de ellas pero / casi / a ella no / no este no / no tenía mucha / mucho contacto 
+
+E: no / no sé
+
+I: nos llevábamos bien y todo pero no / casi no la veía a ella 
+
+E: te digo que la / la señora Ignacia te / ¿tu mamá se llama Hortensia?
+
+I: sí
+
+E: ah pos fue
+
+I: sí pos yo creo la / me conoce por mi mamá
+
+E: entonces yo me imagino que algún muchacho que vivía por aquí / le encargaron igual que a mí / que fuera a platicar con las personas 
+
+I: a lo mejor 
+
+E: para conocer costumbres / y le fueron recomendando pues ve acá ve allá / pero la hacías en una grabadora grande
+
+I: sí
+
+E: no con una chiquita / era una grabadora como las que había
+
+I: sí / pos en aquel entonces
+
+E: sí / pero / le
+
+I: porque no / no / pos es que pasa uno tantas cosas que no sabes / de estudiante 
+
+E: ¡ándale! / que ya no / se / se les olvida porque / Elizabeth no se acordaba / la señora Ignacia tampoco / y le digo mira aquí está 
+
+I: ¿estás est- / tú estudiaste filo / Filosofía y Letras?
+
+E: sí / yo estudié ahí en / en la Facultad de Filosofía y Letras Letras Hispánicas / y terminé el semestre pasado
+
+I: ah
+
+E: me acabo de recibir 
+
+I: que bien 
+
+E: yo entre ya muy grande / hacer la prepa y todo
+
+I: ah
+
+E: porque mis hijos ya están 
+
+I: pero pos nunca es tarde
+
+E: no / nunca es tarde / nunca es tarde 
+
+I: mjm
+
+E: ¿y tú apenas estabas entonces recibiendo aquí?
+
+I: no / yo me recibí / es que yo también haz de cuenta que trunqué mi carrera y luego después seguí después 
+
+E: ah
+
+I: o sea dejé / dejé de estudiar y luego hasta después me recibí 
+
+E: ¿y por qué? / ¿por qué dejaste de estudiar?
+
+I: no / pos por / cosas / o sea / de repente / ahí hubo / aquí hubo unos problemillas en la casa de que mis papás se separaron y todo y / y todo eso comoquiera / o sea te afecta
+
+E: ¿sí? 
+
+I: sí nos afectó en lo emocional mucho y / y luego ya después / gracias a dios seguí mi carrera / y ya la terminé y todo
+
+E: lograste terminarla
+
+I: sí 
+
+E: yo creo que esto fue ha
+
+I: pero de soltera / o sea 
+
+E: ha de haber sido ya ¿todavía no te casabas?
+
+I: no / todavía no me casaba
+
+E: ¡ándale! / oye / este no sé si me quisieras comentar / bueno tú ya no vives aquí ¿verdad?
+
+I: no / ya no
+
+E: ¿dónde vives?
+
+I:<tiempo = “5:27”/> yo vivo / este / en San Nicolás / allá por / Hacienda Los Morales 
+
+E: no la conozco 
+
+I: no sabe / está ¿qué te diré? / ¿cómo te podría decir que es? / es como rumbo a La Fe / como / como
+
+E: ¿por Guadalupe?
+
+I: no / está pegadito / es en los límites de Guadalupe y del / de San Nicolás / ya casi para entrar a Apodaca
+
+E: ¡ah! okay / no
+
+I: ¿no conoces?
+
+E: no para allá no conozco 
+
+I: estoy / haz de cuenta que la colonia donde yo vivo está entre López Mateos / entre la Avenida López Mateos que / se convierte Félix U. Gómez en lo que es Mateos
+
+E: sí
+
+I: y este / y lo que es / Félix Galván / que que antes era Félix Galván ahora le llaman Rómulo Garza 
+
+E: ah sí
+
+I: avenida Rómulo Garza / entonces haz de cuenta que estoy ahí en / pos qué nombre te pue- / ¿sabes acá a la avenida Conductores?
+
+E: sí
+
+I: bueno pos haz de cuenta que yo vivo ahí pegadito a / Avenida Conductores en / en la colonia qué está ahí por donde está / en una / fábrica que se llama Arnecom / se hacen arneses para carro 
+
+E: ajá
+
+I: así haz de cuenta que a espaldas 
+
+E: no te fuiste al otro extremo
+
+I: sí / sí me fui bien lejos / que por allá ni conocía yo 
+
+E: mjm
+
+I: no hace tres años que me fui a / a vivir allá / no conocía absolutamente nada por ese rumbo / de San Nicolás conocía para allá para donde está la aven- / la Uni
+
+E: sí
+
+I: nada más 
+
+E:<tiempo = “6:50”/> ¿y qué tal cómo es allá tu barrio?
+
+I: no / muy bien / muy tranquilo estoy muy a gusto / está / estamos muy contentos allá / de echo San Nicolás está bonito y para allá sí está muy bonito 
+
+E: ¿sí? / ¿cómo es tu / tu colonia?
+
+I: muy tranquila 
+
+E: ¿sí? / ¿no tienen problemas?
+
+I: nada / nada de eso ni / así de problemas así de que / de que / muchachos así que anden / de vaguillos o / vándalos o algo nada de eso / todo muy tranquilo 
+
+E: ¿y antes de vivir en esa colonia vivías en otra?
+
+I: vivía en Jardines de Anáhuac / también ahí en / en San Nicolás 
+
+E: ¡ah! / sí / también está allá para
+
+I: pero para lado de Diego / Diego Berlanga 
+
+E: sí / para allá
+
+I: o sea para / ese rumbo se le ubica mejor 
+
+E: sí 
+
+I: en ese pedacito ahí viví también / como / dos años / en ese / en esa colonia / luego ya de ahí nos fuimos a esta casa que es de un amigo de mi esposo / ahí esto / ahí estoy rentando 
+
+E: ah okay 
+
+I: mjm / sí todavía no compro casa 
+
+E: pero o sea ahí estás 
+
+I: sí / ahí estamos muy bien
+
+E: o sea / tranquilito y a gusto 
+
+I: sí 
+
+E: qué bueno / muy bien / ¿qué me / me / me comentabas? que habías estudiado
+
+I: ¿yo? / comunicación 
+
+E: ¿y sí / sí ejerciste tu carrera?
+
+I: mira casi / no / casi prácticamente no he ejercido más que nada nos / me / yo me he dedicado mucho / acá al negocio de lo de mi / familia / y / pos ahora mi esposo también tiene / negocio de lo mismo / tiene una óptica 
+
+E: ah ¿sí? / qué interesante 
+
+I: ópticas
+
+E: ¿y qué / qué es lo que haces tú ahí en la óptica?
+
+I: orita yo ya no estoy trabajando / yo estuve / ayudándole ya casi / como nueve años a mi papá ahí en el negocio de él / él tenía una distribuidora de artículos ópticos
+
+E: ajá
+
+I: y / luego / y a / y también le estuve ayudando a / a mi esposo / en el negocio de la óptica y tenemos laboratorio de óptica
+
+E: ah
+
+I: pero ya hace como / ¿qué será? <observación_complementaria = “niña hablando y gritando”/> / como tres años y medio dejé de trabajar / y hace poquito / trabajé como cinco meses en una agencia de mercadotecnia / pero yo orita no puedo porque mira / ella / es la más chiquita
+
+E: ¡ah!
+
+I: y yo / tenía una muchacha / una señora / que / me ayudaba mucho con mis niñas y todo / me me cuidó a la niña ésta desde que estaba de meses 
+
+E: sí
+
+I: pero se me fue para Villa de Juárez / le dieron casa para allá y se me fue bien lejos 
+
+E: no
+
+I: y vivía bien cerquitita y ya 
+
+E: ya no 
+
+I: ya no pudo ella trabajar / o sea / hace cinco meses que me salí haz de cuenta que / que ahí la que me les echaba el ojo era una vecina / y nada más estaba yo como que me / medio tiempo trabajando
+
+E: sí
+
+I: en / proyectos así de / mercadotecnia de / entrevistas y todo eso 
+
+E: mjm 
+
+I: pero / no / no tengo chanza haz de cuenta que yo me veía muy presionada y / y cada rato estaba con el celular hablándoles a los niños y
+
+E: sí sí
+
+I: hasta que yo dije no pos / ya mejor / lo dejo por la paz porque / no puedo yo haz de cuenta / ausentarme / a / ausentarme yo mucho / de la casa o sea / y ahí sí a veces me requerían de que estuviera / a cierta hora en cierto lugar
+
+E: sí 
+
+I: y / sí me presionaba mucho por ese lado 
+
+E: pero cuando / cuando estabas en / en lo de la óptica yo no conozco nada ¿sí me / sí me podrías describir / qué es lo que hacen en una óptica? o sea
+
+I: digo bueno mira yo / ahí en la distribuidora más que nada yo / manejaba lo que era el / este / checar todo lo que es lo contable / para mandárselo al contador o sea todo lo / los papeles para / para mandarle al contador / también / este / los pagos a los proveedores / a cobranza / este / yo / prácticamente era lo que hacía / y de repente sí me tocaba atender algún cliente 
+
+E:<tiempo = “10:19”/> mjm
+
+I: pero / era casi de mayoreo / ahí el menudeo / el / había otra persona que era la que atendía a la gente de menudeo / las que iban a comprar lentes / o pupilentes / y los que / venían acá que eran de ópticas o / oftalmólogos este / pos a veces yo los / me tocaba atenderlos cuando no / no había quien ahí / al frente / pero haz de cuenta que ahí en la / en el negocio era / e
+
+A2: _______ no me quiere dar una paleta _______ 
+
+I: otra estaba / otra de mis hermanas / un hermano mío que falleció hace tres años / y este m / que mi papá / y en el ot- / y mi papá tiene orita otro negocio también otro distribuidor / ya no tiene esa donde yo estaba / se acaba de quitar el año pasado / y ya nada más se quedó como óca 
+
+E: mjm
+
+I: pero tiene otro distribuidora que la maneja mi otra hermana 
+
+E: entonces tú ahí lo que hacías era llevar todo lo que era
+
+A1: mami
+
+I: yo más que nada era llevar todo lo que / era haz de cuenta que un asistente administrativo 
+
+A1: ¡mami me quieren hacer algo! 
+
+I: y era la asistente de mi hermano que era / que de / de gerente / él era el gerente 
+
+A1: me quieren hacer algo 
+
+I: mi amor / estoy ocupada con / con la señorita / váyase para allá / ¿tú estás casada / Florencia?
+
+E:<tiempo = “11:36”/> sí / sí estoy casada 
+
+I: ¿sí? / ¿tienes hijos y todo? 	
+
+E: tengo tres hijos ya / ya grandes 
+
+I: ya grandes / ¡mira! / ¡cómo te animaste / a seguir estudiando! / ¡qué guapa!
+
+E: pues / todo el día estaba yo sola / ya mis hijas haz de cuenta que se habían casado y / perdón no / este / todavía no se me casaban / pero ya se habían ido a trabajar
+
+I: mjm
+
+E: y me quedaba prácticamente estaba sola todo el día y dije bueno pos voy a hacer la carrera 
+
+I: qué bien fíjate / muy bien muy bueno / es mucho muy bueno 
+
+E: pero / 
+
+I: qué bueno / qué bueno porque / este uno se siente más útil y / y / y ¿cómo se llama? no / no / no te debes de / de subestimar / que puedes hacer otras cosas y / a veces uno dice no / pos yo ya me casé ya tengo mis hijos / o ya / mis hijos ya crecieron ya / te quieres ir a enclaustrar a la casa o vas a estar ahí / y no 
+
+E: no
+
+I: pude ser mu- / puede ser útil en muchas / en muchas cosas 
+
+E: sí / o te desespera aunque no te creas
+
+I: te puedes desarrollar en muchos aspectos también / uno a veces no se po- / no se explota lo que / a la mejor tú puedes / este / ser útil / no sabes a veces ni en qué / ni en qué te puedes explotar porque no lo / no lo tratas de / explo- no te tratas de / de buscar qué 
+
+E: sí
+
+I: en qué puedes / tú / ser habilidosa o no sé
+
+E: pues eso es todo porque mira / somos egresados de letras y ya ves que los egresados de letras batallamos mucho para conseguir trabajo / y luego te quieren pagar bien poquito / y pos ya ves orita la situación económica está bien difícil 
+
+I: sí / cómo no 
+
+E: no están contratando 
+
+I: mjm
+
+E: este / y oye pos / por todos lados está / no sé / en / ayer en la mañana precisamente estaba checando que iban a subir la luz 
+
+A1: ¡hola!
+
+E: ¡hola! ¿cómo estás?
+
+I: según esto el presidente estaba diciendo que no / que ya no / no iba a haber este aumentos ni a la luz ni al gas ni / a quien sabe qué y / nomás / o sea puras mentiras
+
+E: sí / ya no 
+
+A1: ¡hola! 
+
+A2: mirra 
+
+E: <tiempo = “13:20”/> hola / mi amor esta / esta no la / no la / no / no la podemos agarrar porque si la agarramos / se nos borra / y luego tengo que hablar otra vez con tu mami / cuando termine te la presto / ¿sí?
+
+I: váyanse para allá mi vida 
+
+E: sí ¡hombre! ya ves que siempre / pues te comentan de que no va a haber aumentos y / yo con eso ya ando orita cuidando toda mi luz y / te digo espero conseguir un trabajito por ahí para 
+
+I: primero dios 
+
+A2: son de _______ _______
+
+E: mjm
+
+I: ojalá que se pueda 
+
+E: sí
+
+I: que se te conceda pronto
+
+E: pos sí / porque pos si no vamos a andar / este / todos / no sé qué tanto tiempo ahí medio a la deriva o / o esperando a ver / pos de donde viene el / el ranazo ¿ verdad?
+
+I: así es 
+
+E: y este / ahorita que me decías este / de que los / de que los presidentes prometen y prometen ¿tú cómo ves eso o sea cómo / cómo / cómo sientes / esta situación que estamos viviendo si / si antes ya la habías vivido / o si sientes que ahorita se ha reproducido un poco?
+
+I: pues / lo que pasa es que / o yo / o sea ya tengo / yo / de que me acuerdo que tengo uso de razón que soy una persona así ya / adulta / pos yo me / me he dado cuenta de que siempre / hasta orita sigue siendo igual pero cada vez se pone más crítica la situación para la gente / porque / los presidentes siguen igual prometiendo y no cumpliendo / y la gente / sigue aguantando / y no se defiende o no trata de hacer algo porque pos también a veces ¿qué puedes hacer? / si quieres / quieres vivir en un país en donde no haya violencia y no te quieres levantar a / a protestar y / la gente a veces dice no / pues ya / no me queda otra más / más que / como dicen / vulgarmente / apechugar 
+
+E: sí
+
+I: pero / pero por u / por / estar viviendo en un clima / de paz / entre comillas 
+
+E: pos ya ves aquí 
+
+I: pero la gente / cada vez / puede má- / puede menos pagar / los / los / gastos que / a / de a fuerza que son lo que es luz / agua / y ya / si / ahí / medio comer porque hay gente que / nomás medio come 
+
+E: sí
+
+I: <tiempo = “15:22”/> con los sueldos / tan bajísimos / y los / incrementos que cada vez / más y más 
+
+E: sí ya ves que dicen que van a aumentar también la gasolina a partir de / de enero 
+
+I: sí / pero pos / ahí a veces nomás este / pasan las cosas en la televisión / los anuncios de que no siempre no se va a hacer eso a la mera hora sí se hacen
+
+E: sí
+
+I: y que el presidente no está de acuerdo pero entonces quién lo está subiendo 
+
+E: exactamente / pues orita que comentabas de que por vivir en un / en un clima / clima de / de paz / pos ya ves orita como quiera / la ciudad / no sé cómo la veas tú ¿verdad? / pero con tantas cosas que han pasado últimamente 
+
+I: ya se aplacó un poc- / un poquito / a como había estado ya ves que se desató una ola de violencia horrible y que mataban / gente a diario
+
+A1: adivina que 
+
+A3: hola tía 
+
+A1: adivina que / tengo un perrito
+
+I: ¿cómo estás mi vida?
+
+A3: ¡hola!
+
+I: es mi sobrina
+
+E: mucho gusto
+
+I: está un poquito / pues o sea / como que / se ha tranquilizado tantito / pero / m / yo sé que esto nada más es así como que temporal 
+
+E: sí no / pues / yo también así pienso que otra vez / y nada más como que / se va a desatar este y / de repente
+
+I: desgraciadamente
+
+E: sí / no sé este / si tú te sientas segura en la calle por ejemplo 
+
+I: no ya / igual que antes no / antes como que / yo / siempre concebí Monterrey / como que una ciudad / donde podías andar a veces hasta de noche y / mientras anduvieras tú / tranquilo un lugar donde no fuera / pos / donde no te / no te buscaras problemas / podías andar más o menos tranquila 
+
+E: mjm
+
+I: pero / ahorita ya no / ya ves que orita / hasta de día y / a cualquier ho- / a cualquier hora te pueden / te puede pasar algo puedes / recibir una agresión / de algún tipo y
+
+E: sí
+
+I: pues ya / no puedes andar igual 
+
+E: no
+
+I: igual con los hijos uno ya está / nomás este pidiéndole mucho a dios que / pos que l / que los proteja / también / dondequiera que vayan 
+
+E: sí / sí está
+
+I: no está uno tranquila 
+
+E: no ya no / yo / yo tampoco yo ya / ya no puedo dormir tranquila 
+
+I: ya no / con todas las cosas que pasan y con / tanta cosa de drogas y / ya / tiene uno tanto miedo / nomás dios / pos / yo tengo mucha confianza en dios y yo / es a quien / encomiendo a mis hijos 
+
+E: pues sí ya no nos queda de otra 
+
+I: y a mi esposo
+
+E: sí / ahora de que nunca te ha pasado / algo que estés así en peligro de muerte 
+
+I: gracias a dios no
+
+E: ¿no?
+
+I: o sea / que alguien / que / por agresiones de alguien no / nunca / bendito sea dios jamás me han asaltado / jamás he recibido una agresión así / de algún extraño que me / sí me han robado por ejemplo / de / dos ocasiones recibí / este / o sea tuve robos en mis / en mi carro / de que me robaron un estéreo / pero / así una agresión física / a alguien de familia o / o a mí / no 
+
+E:<tiempo = “18:31”/>¿y alguna persona de / de tu familia que haya estado en peligro de muerte?
+
+I: pero / por algo así / también por una agresión o algo / no 
+
+E: o sea no / no / no necesariamente por una agresión / una enfermedad
+
+I: una enfermedad / pos / sí o sea / yo / este / hay / ha habido / dos tres personas que / que / hay uno que / hay un / primo que falleció hace poco / porque se enfermó de cáncer / de repente / le vino un cáncer muy / muy fuerte / y este / en el / creo que en el hígado / y murió / muy joven y dejó / su esposa muy joven / y un niño chiquito de cinco años / y este / una tía también que se / que le dio cáncer también en / en uno de sus senos / que orita est- / gracias a dios la libró / y está bien / mi hermano falleció hace tres años en un accidente de / de avioneta / porque mi hermano era piloto 
+
+E: ¿cómo? / y cómo ¿cómo fue fue ese accidente?
+
+I: el papá de esta niña que vino ahorita / a saludarme / la jovencita 
+
+E: ah sí / de la jovencita 
+
+I: sí / él este / es él / el de la fotografía él era piloto aviador 
+
+E: estaba muy joven 
+
+I: bien lindo / era una persona tan / buena / este / pos él le gustaba mucho volar él nunca quiso dejar de volar y le decíamos porque / cuatro / o cinco amigos de él se le mu- / se le murieron también de la misma manera / y él era excelente piloto pero pues / tú sabes cuando dios dispone algo 
+
+E: sí
+
+I: hace tres años / va a ser ahora el / catorce de diciembre tres años 
+
+E: ¡fíjate!
+
+I: su fallecimiento / de treinta y ocho años / él me / él / yo le ganaba nomás con un año / y éramos bien unidos / a mí me afectó mucho su muerte / a todos ¿verdad? pero a mí me afectó muchísimo también / porque / como éramos 
+
+A2: ¡mami no me quiere!
+
+I: pos más o menos de la misma edad / convivíamos mucho / éramos / nos gustaba la misma música / teníamos los mismos amistades y todo 
+
+A2: ¡no me quiere dar! 
+
+I: allá dile a tu papá váyanse para allá
+
+E: no te preocupes están chiquitos / este / ¿y él / trabajaba para una línea / aérea?
+
+I: él / no / él este 
+
+E: ¿una línea comercial? 
+
+I: no / él este / hacía vuelos así particular / él / era uno de los que estaba también ahí en el negocio / haz de cuenta que repartía su tiempo de / en / ratos él trabajaba en el negocio / y él era el que coordinaba lo del laboratorio allá arriba / arriba de donde estaba la óptica y la / y / lo que era la venta de mayoreo y menudeo / teníamos un laboratorio / y él era el que coordinaba el laboratorio óptico
+
+E: mjm
+
+I: y yo también est- / y estab- / estaba / pegado al laboratorio / la oficinita donde yo estaba donde yo llevaba todo lo de la / lo / lo que / se le mandaba al contador y todo / la oficinita que yo tenía / donde hacía yo mis cosas / y nos sentábamos los dos haz de cuenta que él en / él en un escritorio y yo en otro / y era de un carácter / bien a todo dar / a todo mundo le caía bien / porque era muy / muy alegre muy bromista 
+
+E: mjm
+
+I: tenía / te digo que / tenía treinta y ocho años cuando falleció / dejó tres hijos / una niña que acababa de hacerle sus quince años / la que vino ahorita
+
+E: sí
+
+I: un niño de catorce / y una niña / que acababa de cumplir trece / / en ese / en aquel entonces / hace tres años / fue un golpe muy tremendo
+
+E: ¡cómo no!
+
+I: para mis papás / para todos 
+
+E: cómo no
+
+I: <tiempo = “22:01”/> decía mi mamá que / que todo se / se podían recuperar menos de la muerte de un hijo / la madre de un hijo no 
+
+E: no / no
+
+I: yo / yo digo / yo no sé lo que sea ¿verdad? pero / yo / no pensaba / no sabía yo qué tanto podía doler la muerte de un hermano / pero / pos es que un hermano como él también era una cosa muy especial / o sea a todos mis hermanos los quiero mucho
+
+E: sí 
+
+I: pero / si alguien era especial / y era / lindo / como persona era él / sí / era muy desprendido con / lo que era el aspecto así de / de / de de
+
+E: económico
+
+I: económico / él no te podía ver que tú de repente necesitabas algo porque sacaba el billete y te lo daba / y a veces él / a la mejor no traía así / suficiente / y te lo daba / decía no no / yo a ver cómo le hago al rato / tú agárralo 
+
+E: ¡fíjate!
+
+I: y era bien lindo / era muy bueno / no y ps / pero era / muy bueno él / se quitaba la camisa por dártela lo / con los amigos también / si con / los amigos era imagínate con uno de su sangre / más
+
+E: pos más / no y pos para ti también era / dices que estabas muy / muy pegada con él 
+
+I: sí / estaba muy pegada con él / no yo / estuve como un año / muy deprimida / todo lo que fue el primer año / fue una cosa muy dura para mí 
+
+E: cómo / no ya me imagino 
+
+I: hasta mis hijos / se me hace que hasta mis hijos / este / se afectaron de verme / como estaba yo
+
+E: sí 
+
+I: todo ese primer año / de / cuando murió él 
+
+E: y / ¿y comoquiera no sé si sigan reuniendo todos aquí en tu casa?
+
+I: sí / sí / con mi mamá le / ayuda mucho a mi / a mi cuñada y / ella / va po- / tres veces a la semana va por los niños / por ella / a la preparatoria / y por los otros que están en la secundaria / todos / los muchachos también ya entraron a la prepa pero / ella ya va a salir de la prepa y los otros acaban de entrar 
+
+E: ah y los gastos se vienen pesados 
+
+I: sí / y se vienen / tres veces a la semana comen aquí con mi mamá / y luego después la lleva al trabajo a ella porque ya acaba de entrar a trabajar a / a un / lugar que es de / ventas por teléfono
+
+E: ah sí
+
+I: por aquí por / Lázaro Cárdenas
+
+E: ajá
+
+I: pero sí mi mamá / pues / como que / ha / o sea que como que mi mamá piensa / qué / qué manera yo puedo / honrar la memoria de mi hijo / pos ayudándoles también a / a mis nietos a / a hacer sus cosas a salir adelante 
+
+E: claro
+
+I: y a mi / a mi / nuera ¿verdad?
+
+E: claro 
+
+I: es de la manera que ella le puede ayudar 
+
+E: <tiempo = “24:34”/> ¿y se siguen reuniendo igual en navidad / ustedes?
+
+I: sí / sí / pos es que no se pierda ese / ese este / pos esa costumbre / porque / siempre lo hacíamos cuando él / él vivía 
+
+E: mjm
+
+I: este / y / y ahorita se sigue haciendo / ellos van un rato con sus otros abuelos / y se vienen para acá 
+
+E: ¿y cómo festejan ustedes aquí la navidad?
+
+I: pos en familia más que nada o sea / antes desde chiquitos / nos juntábamos / con / que la abuelita / que el abuelito / y se venían todos los tíos con los hijos 
+
+E: sí
+
+I: ahorita estam- / ya todos estamos muy grandes ya los / los tíos / ya se juntan allá con sus hijos y sus yernos y sus nietos ya / a veces / decimos oye nos hablamos oye qué onda? / pero ya de / no sé ustedes este / ahora en esta navidad pues también ya jalan / también mis sobrinitos con / con sus / con sus este / suegros / y ya no es lo mismo / ya no se puede / ya que ahora ya todos familia / más tranquilo 
+
+E: ¿cuántos hermanos son aquí cuántos son?
+
+I: somos / pos mi hermano / mi hermano y yo éramos los únicos que estába- / estamos casados / los otros / mi hermano / el que le sigue / ya está / también grande / tiene / treinta y nueve años / pero no se ha casado / tiene seis años con la novia / pero andan / que / que sí que no al rat- / al rato yo creo que ya / se van a casar ellos / y ya las otras / mi hermana / este / la que le sigue tiene treinta y / seis / ella es madre soltera 
+
+E: ajá 
+
+I: tiene / una niña / y este / y la más chica tiene veinti- / siete años 
+
+E: ¿y todos?
+
+I: sí / sí pos aquí estamos
+
+E: ¿y cómo / sí / sí me podrías platicar cómo festejan ustedes aquí la navidad?
+
+I: mira nosotros / este e / hacemos una pequeña / una pequeña meditación / porque nosotros / este vamos a / a la iglesia cristiana / de aquí del Castillo del Rey
+
+E: sí
+
+I: este / nos congregamos ahí / y / hacemos este / una oración para darle gracias a dios por / pos porque él vino una vez vino a nacer / y este / y por él estamos aquí 
+
+E: mjm
+
+I: ¿verdad? / con una misión / y este más que nada pos nos enfocamos en eso / antes que / regalos y todo eso sí compramos regalos porque los niños pues siempre 
+
+E: claro
+
+I: piden su regalito de navidad
+
+E: claro
+
+I: tratamos / casi / de regalarles a los niños por ejemplo / mi / mi hermana le regala a mis hijos y a / y a los hijos de mi hermano / mi hermano en vida pos / le regalaba también a todos a los sobrinos / aparte de sus hijos le regalab- / ahorita pues ya no se le / ya no puede mi cuñada hacer eso / que pos ya se le vin- / vinie- / se le vino toda la responsabilidad a ella de / de todo ¿verdad? ya no tiene la / a su / a su parejita que era el que / le / el apoyo / moral el apoyo
+
+E: pues sí cómo no / todo
+
+I: económico moral y todo ahora ella / pos tiene que / solventar todo / ella solita / entonces pos ya / hasta / yo nosotros / sabemos muy bien / cómo le vamos a decir ¡ay! / tú no / no me regalaste /  / nos seguimos regalando / un detallito chiquito aunque se / aunque sea a los niño a los / muchachos
+
+E: sí 
+
+I: y este / pos sí / siempre hay regalos en el árbol / siempre hay un arbolete aquí / bien bonito mi mamá / hace / bastante comida de diferente y yo le ayudo también o yo traigo / hacemos que pastel o postre / siempre casi / casi hay / pavo 
+
+E: ¡ah! sí
+
+I: este / el espagueti que / no falte porque aquí a todos nos encanta la pasta / este / se hace / tamales a mi mamá le gusta hacerlos ella misma
+
+E: sí
+
+I: o sea por / sabe muy bien hacer / los tamales
+
+E: los tamales 
+
+I: los hace bien ricos le quedan muy bien / entonces ella / procura ella / hacer una / buena cantidad para esa fecha / y al día siguiente pos ¡olvídate! / recalentado y / de lo que queda 
+
+E: ay
+
+I: tortas de pavo y / tamales y / no falta o sea
+
+E: ¡qué rico!
+
+I: bien rico / ensaladita también no falte / de esa / que va con zanahoria y / demás 
+
+E:<tiempo = “28:42”/> ¿y tú qué es lo que preparas cuando / cuando / cuando vienes aquí a festejar la navidad?
+
+I: pues / yo le / aquí / le traigo yo / o nos cooperamos y / compro yo pavo / ella compra un pavo y yo otro / y / yo le ayudo a hacer el espagueti / todo lo ga / los gastos nos los repartimos porque / que no sea nada más que mi mamá / compre todo
+
+E: eso
+
+I: mi amor sácalo / se va a enojar tu abuela 
+
+E: y / ¿sí me podrías dar una receta de / la del espagueti si lo puedes preparar? / digo perdón si lo / si lo sabes preparar 
+
+I: sí / claro que sí / el espagueti / bueno pos pongo a cocer la pasta con / con / ajito con un / una / un trozo de cebolla / y / se le sala un poquito pero / no mucho / y ya cuando ya está / el / al dente / de que no esté ni muy aguada ni / ni / y ya se haya cocido / este se saca / y se escurre y se enjuaga / en / se pone a escurrir / y este / y luego ya después a eso le / le puedes / o sea / si es a / es el espagueti amarillo / le / le pones este / el / queso ese que para untar pero el que viene a granel / el amarillo / que lo venden acá lo pides en salchichonería o / lo encuentras en supermercados 
+
+E: ¡ah! / sí / ¿es co / el cuadro?
+
+I: no no no / este / es el fundido / pero que m / pero que lo / lo / pides así a granel / en vasijitas 
+
+E: ¿como para los nachos? 
+
+I: ¡ándale! ese 
+
+E: ah okay 
+
+I: ese / te compras / una cantidad así más o menos como lo que venden en / un / un / ¿qué será? / medio litro 
+
+E: ¿medio? 
+
+I: ajá / pero pos depende de la cantidad que vayas a hacer / pero ese también se revuelve con crema / crema de leche / y le pones este / le puedes poner / e / chile jalapeño / en el vinagrito 
+
+E: sí
+
+I: y este / y lo revuelves / y también le / para / para que quede así con más sabor le puedes / le pues poner poquito de / de sazonador ese que es para la sopa de / Knorr Suiza
+
+E: ah sí Knorr Suiza
+
+I: y este / y también le puedes poner pimiento rojo / y le da muy buen sabor / el pimiento 
+
+E: pero ¿el pimiento rojo se lo vas a licuar con / con
+
+I: sí licuado con todo lo que te digo / con el queso / con la crema / con el / si no quieres que quede muy picoso no le pongas mucho jalapeño 
+
+E: mjm
+
+I: <tiempo = “31:02”> le pones más pimiento / pimiento rojo / y el sazonador de / del Knorr Suiza / entonces este ya todo eso mezclado / pos ya te / te da un / lo que es el sabor para el / para la pasta / la / la salsa para la pasta bien rico que queda 
+
+E: pero ya el / el espagueti
+
+I: eso se lo incorporas al espagueti acá lo / primero el espagueti lo puedes acitronar / para que quede más rico / con un poquito de mantequilla
+
+E: qué rico 
+
+I: entonces ya que ya se vea / acitronado así un poquito con mantequilla ya le / le / le incorporas / lo que es la / el queso y todo eso que se / que se / se le / puso ¿verdad?
+
+E: ajá
+
+I: se le agregó / y ya nada más que / ya se / está listo para / servirlo 
+
+E: no fíjate que yo nunca lo / nunca lo había prepa / o sea ni se me había ocurrido prepararlo / con esa este / quesito como los nachos 
+
+I: sí
+
+E: yo le pongo rebanadas de queso amarillo y se las / echo a la licuadora 
+
+I: ajá
+
+E: pero no así con eso ha de quedar 
+
+I: sí 
+
+E: muy rico y es más práctico
+
+I: eso nada más lo licuas muy bien 
+
+E: ¡qué rico!
+
+I: sí te queda bien rico 
+
+E: ¿y otra / otras festividades que ustedes tengan?
+
+I: pues en / año nuevo / nada más que ya cuando también / ya crece la familia y ya / por ejemplo mi hermana / la que es soltera / pos se se / se quiere salir con las amigas / ya no es tanto de que en familia / pero sí nos juntamos el / sí estamos un rato aquí / pos hacemos / diferente / a veces / se nos ocurre de que / ándale otra vez pavo / pero lo que sí / es que nos gusta / hacer menudo / ese día
+
+E: ay sí / qué rico 
+
+I: podemos hacer carne asada / o equis / este cualquier comida así nada más con que nos juntemos un rato / y a veces ya las muchachas se salen a / a dar la vuelta ¿verdad? 
+
+E: sí
+
+I: se / y ahora / ahora / con eso que se usa que los antros y eso / pos se van un rato al antro 
+
+E: sí ¿verdad? 
+
+I: que van y reciben el año pero nosotros / después de que cenamos / nos vamos este / o cenamos ya tarde / y nos vamos primero a la iglesia porque en la iglesia a hay una / reunión muy bonita donde / se / se celebra / la / o sea se hace lo que es / ce- la celebración de fin de año 
+
+E: ajá
+
+I: y la recibida de año nuevo / y
+
+E: <tiempo = “33:05”/> y / ¿cómo ese esa celebración?
+
+I: ¡ay! está bien bonito y se pone la iglesia llenísima / pos este hay cantos / y luego al último / cuando ya / ya va a entrar el año / a todos nos dan una vela 
+
+E: mjm
+
+I: y todos la vamos encendiendo / se va encendiendo de una por una hasta que ya de repente se ve el / se ve iluminada toda la iglesia 
+
+E: ándale
+
+I: bien bonito que se ve y apagan todas las luces 
+
+E: nada más quedan las puras lucecitas de las velitas 
+
+I: exactamente / es como / simbolizando de que / primero / una persona le llevó la palabra de dios a otra y luego otro y se fue haciendo cada vez más gente y de repente ves ya toda iluminada la / la iglesia 
+
+E: fíjate 
+
+I: se em- / y luego ya después la luz ya estaba en todos / la luz de dios 
+
+E: ajá
+
+I: pero bien bonito que se ve 
+
+E: hola qué tal
+
+I: es mi hijo / el más grande 
+
+A4: buenas tardes 
+
+I: ¿qué necesitas? / ¿vas a ir a la tienda? / sí agárralo
+
+A4: sí gracias
+
+E: este / ¡ay no! / la / se me fue la onda de qué / ah es que me / me estabas platicando de lo de la
+
+I: sí / de lo de la celebración de la / iglesia
+
+E: de lo de la celebración / ¿y de / y desde / desde que eres niña / este / perteneces a esa / esa iglesia?
+
+I: bueno / a / ahí / ahí exactamente no / de niña mi mamá nos llevaba / a una iglesia bautista que está allá por / por Gonzalitos
+
+E: ajá
+
+I: luego ya después de mi / antes de que yo me casara / empecé a ir / con mi nov- / con mi / esposo ahora
+
+E: sí 
+
+I: siendo novios / íbamos ahí / a esa iglesia
+
+E: ¿la que está por
+
+I: aquí por Lázaro Cárdenas / que primero empezó acá en Brisas en un / en un local / y luego después / se hizo un / e / compraron un terreno / a lado de Soriana / de Soriana la que está / donde está el McDonald’s y
+
+E: a sí sí 
+
+I: bueno / ahí / estaba bien feo antes / y a raíz de que se hizo la iglesia / arreglaron bien bonito y luego pusieron / una cancha / y luego pues se / puso la Soriana
+
+E: sí es cierto 
+
+I: después McDonald’s / y después ya se hizo área comercial ahí 
+
+E: sí
+
+I: pero primero ahí haz de cuenta que hasta daba miedo / cuando / se fueron a poner primero ahí de que / de que se encontró ese terreno / y luego después se puso una carpa mientras estaban haciendo la construcción de la iglesia 
+
+E: ajá
+
+I: pero / pos sí / fue de mucha bendición para ahí / lo que es el barrio porque estaba horrible ahí / ahí daba miedo
+
+E: <tiempo = “35:30”/> porque / está / está cerquita Más Palomas ¿verdad?
+
+I: no / no yo te estoy diciendo aquí sobre Lázaro Cárdenas
+
+E: ¡ah! / sobre Lázaro Cárdenas 
+
+I: sobre Lázaro 
+
+E: sí acá está otra Soriana 
+
+I: donde está la Soriana / que está enfrente de 
+
+E: de Home Depot entonces / no es que es / esa área sí es bien peligrosa 
+
+I: te acuerdas que antes estaba bien peligroso no / antes estaba horrible / porque había nomás como una barda ahí
+
+E: sí / exactamente
+
+I: y de / y estaba todo lleno de pintas así de graffiti 
+
+E: ándale
+
+I: y antes estaba / oscuro no había ni luz mercurial por ahí
+
+E: no / y había mucho pandillero y mucho robos yo recuerdo ahí 
+
+I: exacto / ahí sí estaba bien feo
+
+E: y que ahí fabrican macetas y / y todo y todas esas cosas
+
+I: sí / pero antes no sé si te acuerdas no estaba la Soriana no estaba el Elektra no estaba ahí McDonald’s 
+
+E: nada había ahí
+
+I: no / antes de que se hiciera el McDonald’s había unas canchas ahí / por / pero eso las pusieron despuesito de que se puso la iglesia que ya la habían / empezado a construir y todo / de primero nomás estaba una carpototota que donde / donde ahí nos congregábamos toda la iglesia 
+
+E: fíjate / no / y no no / no me he fijado no / no la he / no la he visto yo nunca
+
+I: ¿qué pasó mi amor? / ¿qué pasó chiquito qué te pasó?
+
+A2: me pegué 
+
+I: ¡ay! / ¿con qué te pegaste?
+
+A2: mi pierna mi rodilla
+
+I: ve allá con papi
+
+E: pobrecito / y algo que tú recuerdes algunas cosas bueno en realidad todo no es tan triste
+
+I: ajá
+
+E: algo así alguna anécdota / de cuando estabas chiquita / o ya ves que siem- / o no / o no precisamente chiquita de repente te pasan cosas / este / en cualquier etapa de tu / de tu vida
+
+I: ajá
+
+E: m que tú recuerdes y que te hayan / no sé que no se te haya olvidado nunca
+
+I: pues ¿qué te diré? no / pos hay tanta cosa que te pueda decir / en realidad nosotros siempre / est- / pos siempre habíamos vivido una / vida así bonita / nomás lo más duro / pos lo / lo que nos pasó así bien duro fue lo de la muerte de mi hermano ¿verdad?
+
+E: sí ya me imagino 
+
+I: eso fue lo que / a nosotros así como que nos / sacudió horrible porque siempre nuestra vida había sido una vida / que / que dices tú oye pos gracias a dios no / no no nos ha pasado nunca nada 
+
+E: sí
+
+I: ni enfermedades / ni / muerte / cercana de así muy querido / sí se te mueren / sí se me había muerto / que mis abuelitos mis tíos pero dices tú bueno pues ya / hasta cierto / punto ya él su / se muere una persona de / cincuenta y tantos sesenta años dices pos ya vivió
+
+E: claro
+
+I: pero mi hermano / con sus hijos / todavía muy chicos / y de repente así de / de / lo había visto un día en la noche y luego a mediodía ya estaba muerto mi hermano 
+
+E: no / qué pesado
+
+I: entonces pos es / no / o sea / son cosas que te sacuden horrible / y durante / mi vida no pues / yo puedo decir que mi vida / ha sido feliz / hasta cierto punto / sí / de repente uno tiene sus altos y sus bajos en lo económico
+
+E: claro 
+
+I: este / pero eso no / es una cosa / que pueda decir ¡ay! / o sea / / creo que ahorita en la actualidad / a todo mundo le pasa / o a casi la mayoría 
+
+E: sí / sí
+
+I: son / privilegiados los que pueden decir / no yo nunca tengo problemas económicos 
+
+E: sí / sí
+
+I: ya son privilegiados / porque orita / de repente está uno bien / y de repente / tienes tus problemas / de repente no te va bien y es un / son rachas
+
+E: sí 
+
+I: pero / cosas / es eso / se puede sobrellevar ¿verdad?
+
+E: mjm
+
+I: y más con la ayuda / de dios / uno que / se toma de la mano de dios y dices tú pos / no me queda / de otra más que / clamar a / a dios ¿verdad? 
+
+E: sí
+
+I: porque / para que siempre esté ahí en medio de / de todo 
+
+E: sí / que como comentabas ahorita pos que se / paró / no sé ¿verdad? un poquito la violencia / yo no sabía / fíjate me estaba comentando una hija de una / amiga yo nada más tengo una soltera la más chiquita tiene vein / veintiocho años que habían puesto / no s- / no sé si habían dinamitado / no recuerdo qué / un / los / los / este / ¿cómo se llaman? los viaductos / o gaseoductos / no sé 
+
+I: mjm
+
+E: este y que se los había / adjudicado no sé qué movimiento no sé si alguien de / de Oaxaca / hace tres semanas eso / entonces ella me dice ¿cómo es posible que no te hayas enterado? le digo / no me / de veras yo no me enteré 
+
+I: fíjate que ahorita me lo estás diciendo yo tampoco sabía 
+
+E: yo no sabía / no de veras
+
+I: fíjate que yo no había escuchado eso 
+
+E: no ni yo digo mira yo dejé / de prender la tele 
+
+I:<tiempo = “39:59”/>y sí veo el noticiero / pero ya ves que / antes / como / la / la / tenía a la niñ / a los dos niños en la primaria / y la chiquita pos no estaba de kínder / me quedaba yo / toda / casi / todo el rato del noticiero / este / viéndolo / como quien dice veía casi todas las noticias ahora / despacho a la de kinder y luego / lle / perdón despacho al / al de secundaria / y luego después le sigo con el / con la de la primaria / arreglarla y a darle de desayunar y a llevarla y luego y / regreso y / arreglar la / la que está en el kínder 
+
+E: pero ahora / ¿y luego qué más haces?
+
+I: y luego / a arregl- / a / atender a mi esposo porque se va / al negocio / o si no / yo lo llevo po- / traemos orita nada más un carro / si me quiero quedar con el carro porque lo voy a usar / este / lo tengo que / llevar 
+
+E: ajá
+
+I: pues ya me tengo que arreglar yo también para llevarlo
+
+E: claro
+
+I: y ya para cuando regreso / pos ya casi no alcanzo a hacer nada allá en la casa porque / tengo que ir por la niña al kínder / pos si ya va a salir / y luego después a los otros / y ando a la carrera después haciendo el quehacer y haciendo la comida cuando / cuando los niños ya llegan de la escuela 
+
+E: ya me imagino
+
+I: ya no / ya no / ya n / ni alcanzo a hacer quehacer en la mañana 
+
+E: no / es que ya / como que el tiempo ya no rinde ¿verdad?
+
+I: no / no
+
+E: y ahorita ya vienen este / los tiempos en los que se tiene uno que organizar porque ya ves que estaba muy bonito el / el clima / y dicen que se / que se va a descomponer 
+
+I: sí / no ya cuando ya empieza el / de que el / el otoño ya / dices tú no ya ahora sí a / a programarte mejor para la lavada / y que no se te vaya a mojar la ropa y / que se te sequen los uniformes así todo eso ¡ay!
+
+E: y aprovechar los días de sol porque ya ves que aquí otro tiempo 
+
+I: la lava / lavas / a como de lugar porque si no después ya / se te acumula / todo el
+
+E: la ropa 
+
+I: cerro de ropa <risas = “todos”/>
+
+E: ¡n’ombre! y para que la saques / mira ¿cómo ves si / si vamos a / llenando el cuestionario para no quitarte tiempo? / este / n / no te voy a preguntar el nombre / porque / a aquí lo tengo ya 
+
+I: mjm
+
+E: ¿es el mismo verdad? / ¿sí está correcto ____?
+
+I: sí ____ _______ 
+
+E: a ver
+ 
+I: ________ _______
+
+E: de una / de una vez / ____
+
+I: _______ / ________ _______ / ahora de Félix 
+
+E: ya ves / antes / antes a / antes nada más eras _______ / ¿estamos a qué? / siete ¿verdad? 
+
+I: estamos / sí 
+
+E: ¿a siete?
+
+I: a siete / de octubre 
+
+E: ¿cuál es tu edad ahorita ____?
+
+I: cuarenta y dos
+
+E: ¿estás casada?
+
+I: sí
+
+E: ¿cuál es tu domicilio?
+
+I: es / calle / Huelva con ache / ache u e / ele / uve a / Huelva / número seiscientos doce / en la colonia Costa / del Sol / en San Nicolás 
+
+E: ¿tienes teléfono ahí ____?
+
+I: sí / orita / lo tengo / cortado porque se me / se me juntó dos pagos bien fuertes y / pagué nada más la mitad y dije ahi que se espere tantito / 
+
+E: no co / como / yo también digo por exceso de pago 
+
+I: sí
+
+E: te lo cortan / ¿no has checado lo de / bueno no sé si todavía esté / yo dejé de tener esos problemas / pero cuando contraté Telmex Precisa / que ya son cien llamadas / y yo no puedo hacer ni una llamada más / y pago doscientos pesos de de / de / teléfono 
+
+I: sí / no lo que pasa es que fíjate que yo acabo de comprar esta línea / pero justamente cuando la compré fue cuando se me / haz de cuenta que / me la distribuyeron en tres pagos 
+
+E: ¡ah!
+
+I: <tiempo = “43:39”/> entonces el último pago / que tenía que hacer se me juntó ahora con los días en que / tienes que pagar que colegiaturas y que los libros y que los uniformes y todo y luego se le descompuso el carro a mi esposo / y / se me juntó todo en ese / en ese mismo
+
+E: sí
+
+I: entonces / se me hizo muy pesado ya nada más pagué una / se me juntaron después el siguiente mes / el último pago de la línea / y el / ¿cómo se llama? / y / pos todos los demás gastos / y luego ya lo del / lo del / lo del resto que ten / o sea / se juntaron los dos pagos últimos que tenía de la línea 
+
+E: mjm
+
+I: con renta y todo entonces / pues ya / haz de cuenta que dije yo no nomás voy a pagar la mitad y ya este / el otro mes pago / ahora en estos días ya / pago quinientos y ya nomás los otros quinientos que es lo que me falta pagar nomás / ya se me había juntado dos / dos mil pesos pero oye se me juntó junto con / todo lo demás 
+
+E: no y échale el recibo de gas 
+
+I: y recibo de gas y recibo de luz / y luego mi esposo pos haz de cuenta que tiene otra casa porque pos con el negocio es págale renta también de / de la / del local / y paga el teléfono del local y paga la luz / y / todo lo que tiene que pagar cuando / ps cuando tienes negocio es
+
+E: sí 
+
+I: y inversión inversión
+
+E: es como dices tú como otra casa / es que se / este / se duplica todo 
+
+I: y que todo / tienes otros hijos aparte allá <risa = “I”/>
+
+E: sí <risa = “E”/> / tienes dos familias / pero ¿cuál es el teléfono de ahí?
+
+I: es el ochenta y tres / veinte / seis dos / cinco y uno
+
+E: ¿tu religión?
+
+I: es cristiana 
+
+E: ¿tú eres aquí / de aquí ____ / naciste en Monterrey?
+
+I: no / nací en Ciudad Mante Tamaulipas / pero residente de toda la vida aquí / desde que tenía como tres años 
+
+E: ¿y nada más viviste / en / a en / en el Mante / y ya después te
+
+I: tres años vivimos en el Mante y luego ya nos vinimos para acá para Monterrey 
+
+E: okay / ¿de dónde era tu papá?
+
+I: mi papá nació en son / San Luis Potosí / pero también desde niño se vino para acá
+
+E: ¿también para acá para Monterrey?
+
+I: mjm
+
+E: ¿y tu mamá?
+
+I: mi mamá es / de Montemorelos Nuevo León 
+
+E: ay qué bonito es 
+
+I: pero también desde que tenía tres años <risa = “I”/> se la trajeron para acá
+
+E: pues ya todos son regios 
+
+I: pos sí
+
+E: a mí me gusta mucho Montemorelos / de hecho ha / hace mucho que no voy / ¿ustedes ya no van para allá para Montemorelos?
+
+I: sí / mi mamá / pos / me gusta mucho ir para allá para la carretera / y aparte mi mamá pos tiene familiares que viven para allá para aquel lado / por Allende Montemorelos / todos esos lugares / y va mucho para allá
+
+E: qué padre 
+
+I: y es un lugar donde ahí nosotros / quisiéramos comprar un terrenito pero
+
+E: pero es que toda esa zona es carísima
+
+I: sí / muy cara / mi mamá acaba de vender / una propiedad que teníamos aquí en / ¿cómo se llama? / / aquí adelantito
+
+E: ¿el Yerbaniz? 
+
+I: por ahí
+
+E: mjm 
+
+I: tenía una propiedad y hasta tenía alberca y todo y la vendió / porque nunca íbamos 
+
+E: fíjate y nosotros que nos pelamos por ir / por los nietos
+
+I: y cuando estába- / y cuando estábamos más chicos mi papá tenía / también una casa / con alberquita ahí / una casita chiquita que construyó 
+
+E: mjm
+
+I: en un terreno / donde tenía naranjos y todo / pos nunca queríamos ir nadie ya que / como / empezamo- / empezó lo de la adolescencia de / los tres hijos / grandes / na- / cada quien quería jalar para su lado y no / no quiero / y no quiero / no queremos ir / no queremos ir / entonces / mi papá se enojó dijo no pos ya voy a venderlos porque ya no me quieren seguir 
+
+E: ¿y lo vendieron ahí? <risa = “E”/>
+
+I: estaba / orita ya nos arrepentimos / de que lo haya vendido 
+
+E: sí / las gorditas ahí
+
+I: andarían ahí / como loquillas con
+
+E: en la alberca
+
+I: la alberca 
+
+E:<tiempo = “47:24”/> ¿sí recuerdas de donde era tu abuelo / paterno?
+
+I: mi abuelo paterno también era de allá de ciudad / San Luis Potosí / mi amor / váyanse para allá por favor porque estoy ocupada
+
+E: ya vamos a terminar mami / ya no me voy a tardar nada
+
+A1: me la prestas
+
+E: ¿cuál? / pero / e / esa no puedo pero sí te la enseño / ¿sí? / 
+
+A7: ¡hola que tal!
+
+E: ¿cómo está señora mucho gusto yo soy Florencia / soy vecina suya de Residencial La Hacienda
+
+A5: qué bien con permiso 
+
+E: pase señora no me traje ni los lentes / pero ya parece que / ¡ay! muchas gracias / ¡ay mírala! 
+
+A5: ¿qué sacrificadas están? 
+
+I: es que / es que nos vinimos para acá primero con / nos íbamos a sentar allá pero ella necesitaba para 
+
+E: y yo / pensaba que / no prendía / sí está / este / ¿de dónde era tu abuela paterna?
+
+I: mi abuelita paterna / pues me parece también era de ahí creo que / de La Paz / San Luis Potosí / de una / de un poblado que está también ahí al lado de Matehuala o algo así 
+
+E: ¿sí recuerdas de dónde era tu abuelo materno?
+
+I: mi abuelo materno sí e / ¿mi abuelita nació mami / en dónde?
+
+A5: en / Allende
+
+I: en Allende Nuevo León 
+
+E: Allende / no / todos de la zona citrícola 
+
+I: mjm
+
+E: ¿y tu abuelita?
+
+I: también
+
+E: ¿también de por ahí?
+
+I: sí de Allende 
+
+E: ¿dices cuánto tiempo est- / residiendo aquí en Monterrey? / ¿más de cuarenta?
+
+I: más de cuarenta / bueno
+
+E: ¿entre veintiuno y cuarenta verdad? 
+
+I: tengo entre veintiuno y cuarenta pos ya casi los cuarenta 
+
+E: sí / ¿por qué se vinieron a vivir acá / cuan / después de que vivieron en el / en el Mante?
+
+I: por / es que mi papá se fue del Mante / por cuestiones de trabajo / porque el los aquí / aquí se conocieron / y aquí vivían ellos 
+
+E: ¡ah! / okay 
+
+I: se casaron / se casaron aquí / se fueron para allá / por cuestiones de trabajo de mi papá 
+
+E: ¡ah! / y luego ya regresaron
+
+I: fue una cuestión tem- / temporal el ir a residir a / a Mante 
+
+E: m / por eso  nomás por muy 
+
+I: sí 
+
+E: poquito tiempo
+
+I: nació mi hermano / el tercero / mi hermano el que falleció vino y nació aquí / fíjate / nací yo en Mante / y luego después / mi mamá estaba embarazada y viviendo en Ciudad Mante / nació mi hermano aquí / el segundo el que falleció 
+
+E: sí
+
+I: y luego después como seguían viviendo allá / cuando se volvió a embarazar mi mamá / al tercer año <risas = “todos”/> / los tres seguiditos / pos nació mi hermano allá / pero ya / como quiera al poco tiempo se vinieron para acá
+
+E: ya para  definitivamente / radicar aquí
+
+I: sí / dejó mi papá de trabajar allá con el señor con el que estaba trabajando y se vino para acá
+
+E: tienen toda la vida aquí
+
+I: toda la vida 
+
+E: bueno esta es / ¿tienes alguna / afición o pasatiempo ____?
+
+I: pues / m / me gusta / leer 
+
+E: eso yo / quedé pero ¡bien harta! / de leer
+
+I: pero a veces ya no le queda a uno tiempo a veces con los niños 
+
+E: no
+
+I: ya con los niños no / no tengo tiempo 
+
+E: m ya no / es que ya te vas dedicando como que a los hijos y / tienes un ratito / y el ratito / pos no sé cómo te organices pero / ya por lo general ya no hay tiempo para la lectura 
+
+I: no
+
+E: / no sé en tu caso 
+
+I: a veces llego con cuando hasta en la noche ya comienzo a dormir a los niños a veces ya bien tarde pero ya hasta / también me vence el sueño / antes me quedaba asta las / dos tres de la mañana cuando estaba joven 
+
+E: sí 
+
+I: pero ya no son las mismas energías también ¿no?
+
+E: ya termina uno bien cansada
+
+I: ya lo que quieres es descansar 
+
+E: de todo el día / mjm 
+
+I: leo un ratito y me duermo / sí <risa = “I”/>
+
+E: como que te arrullas
+
+I: sí
+
+E:<tiempo = “51:18”/> ¿vas al cine? 
+
+I: sí de vez en cuando / ya no tan seguido antes era muy cinera / ora ya no
+
+E: ¿más o menos cuántos / con qué frecuencia vas al cine? / ¿una vez al mes? / ¿una vez al año?
+
+I: no / será unas / pos orita yo creo que ya unas cuatro veces al año nomás / antes iba / cada semana 
+
+E: ¿y luego por qué ya no vas?
+
+I: no / pos cuando estaba soltera era de que / hasta tres veces por semana me iba al cine 
+
+E: ¿con quién te ibas? / ¿con los amigos? 
+
+I: con mis amigas / con mi / marido / cuando éramos novios / era / pos eran nuestras salidas
+
+E: ¿tenías muchas amigas?
+
+I: tenía muchas amigas / sí / iba con mis amigas
+
+E: ¿y las sigues frecuentando o ya no?
+
+I: ahorita / pos lo que pasa es que mis amigas se me fueron / con las que más me juntaba se me fueron a vivir a otras partes 
+
+E: m
+
+I: y sí nos / sí / me vienen a visitar y todo / nos juntamos / cuando vienen nos juntamos / pero ya no / pos es una vez al año / cuando vienen / una vez cada dos años 
+
+E: ¿y so / son muchas las / las amigas que tienes? 
+
+I: m / amigas amigas / son contadas con la mano / porque sí tuve / amigas así con las que / tú decías bueno pos te juntas ahí en bola / pero amigas / así verdaderas amigas de que / desde niñas unas / eran unas / tres o cuatro 
+
+E: y las sigues viendo
+
+I: sí nos seguimos hablando y todo
+
+E: ¡qué padre! qué bonito / ¿y sí se juntan cuando / dices cuan / cuando vienen? 
+
+I: sí / sí cuando vienen sí / procuro verlas / el tiempo que vayan a estar aquí / nos este / nos programamos para / hacer / para hacer / alguna actividad / una o dos tres actividades las que se puedan / claro ella tiene conviv- / tiene / tiene que convivir con su familia también 
+
+E: 
+
+I: o con otras gentes pero / sí procuro / verlas / lo más que se pueda / el tiempo que están aquí en Monterrey 
+
+E: qué bueno / qué bueno que todavía tien / tienes amigos / como dices tú aunque sean pocos pero / pero buenos / ¿verdad?
+
+I: así es 
+
+E: ¿las / películas / este / las / las / en el cine / de qué nacionalidad las / prefieres? / ¿mexicanas / extranjeras / o mexicanas y extranjeras?
+
+I: pos casi por lo regular / sí sí no soy / partidaria nomás así de que / películas extranjeras / cuando hay una buena película / que es mexicana la veo porqu- / pero casi por lo regular ve uno películas americanas 
+
+E: sí / a veces / y ahora / hay 
+
+I: ahorita ya / ya hay apertura de / para el cine mexicano así en / en cartelera 
+
+E: mjm
+
+I: y son puras películas que se pueden considerar buenas 
+
+E: sí
+
+I: entonces cuando hay alguna película buena también / veo / que sea / que sea mexicana pos / no le hago el feo / al contrario / la veo
+
+E: ¿alguna película mexicana que recuerdes / que hayas visto?
+
+I: m / e déjame / pensar ahorita que se me venga a la mente
+
+E: yo creo 
+
+I: he visto varias películas que son cristianas también pero no en el / ah pero vi una en el cine / pero no me acuerdo del nombre 
+
+E: ¿de qué se trataba?
+
+I: una película que era cristiana / ¡híjole! / me acuerdo que estuvo muy buena pero no recuerdo el nombre 
+
+E:<tiempo = “54:27”/>¿ni de qué se trataba más o menos la película?
+
+I: es que eran varios temas / pos mira una de las que también me gustó fue la de / ¿cómo se llama? / la de ésta Salma <observación_complementaria = “actriz mexicana”/> / la de ésta / de Frida 
+
+E: no la vi
+
+I: ¿no la vista?
+
+E: no / ¿estuvo buena?
+
+I: pos / estuvo más o menos bien / estuvo buena / pero sí he visto otras que son mejores que esta 
+
+E: sí
+
+I: la de Veintiún gramos / este / que decían que veintiún gramos pesaba el alma / de las personas 
+
+E: ¡ah! ¿sí? / esa yo no la vi / ¿y esa / y esa de qué se trataba? 
+
+I: ay! ¿cómo te diré? / no me acuerdo bien de la película <risa = “I”/> esa / hace rato que ya la vi 
+
+E: no no no te / no te preocupes / entonces te gustan las mexicanas y las extranjeras
+
+I: sí 
+
+E: e / ¿qué tipo de / de películas ves? / hay de acción / aventuras / bélicas
+
+I: pues me gusta ver de acción / me gusta de comedia 
+
+E: ajá
+
+I: y / algunas si / si hay una / buena temática / de drama / pues de romance también / se puede dar / de / suspenso y terror no 
+
+E: ¿esas no te gustan?
+
+I: sí / sí me gustaban cuando estaba más jovencita pero orita ya no acostumbro ver eso porque / por los niños porque casi siempre vamos en familia al cine 
+
+E: ajá
+
+I: entonces / orita ya poco puedo por los niños / y antes iba nada más con mi esposo 
+
+E: sí
+
+I: no / porque no tengo quien me los cuide 
+
+E: mjm
+
+I: en las noches así de repente que se m / sí se me antoja ver una / película / pero pos no no se puede / no se puede orita porque no tengo con quien dejar a los / pequeños 
+
+E: sí / y no llevártelos a asustarlos ahí 
+
+I: no de repente no / no soy ya muy del gusto de eso / yo creo que antes porque estaba jovencilla y me gustaban las películas de terror y todo eso pero ora ya no 
+
+E: éramos masoquistas a mí me gustaba aterrorizada <risa = “todos”/> / ahorita ya con el terror te digo ya 
+
+I: a mis hijos sí les gusta ver los programas esos que pasan de / de / ¿cómo se llama? / ese de Trece miedos y lo de la / Lo que la gente cuenta 
+
+E: ¡ay! no sí
+
+I: no no me gusta que los vean / nada más que ellos están uy sí sí está bien padre 
+
+E: ¿y luego en la noche / cómo te va con ellos? 
+
+I: no / le da miedo / a la niña era la que era muy miedosa la de ocho
+
+E: sí
+
+I: la que tiene orita ocho / y que no podía dormir y no podía dormir y ahora no ora / como si nada <risas = “E”/>lo que vea / le digo no no me gusta que veas eso 
+
+E: ay / oye ____ / ¿escuchas el / la / la radio?
+
+I: casi no fíjate 
+
+E: no
+
+I: antes sí la / escuchaba me gustaba / escuchar / a veces oigo Estereo Hits pero ya muy esporádicamente 
+
+E: ah bueno entonces vamos a ponerle que sí 
+
+I: Estereo Hits / este / me gusta escuchar a una amiga mía que vive / que también ella vivía aquí de soltera / Adriana Díaz 
+
+E: yo la he escuchado a Adriana
+
+I: Adriana Díaz / una güera muy güera muy guapa que también / ha estado en / en televisión 
+
+E: ¡ah! / ¿también vivía por aquí?
+
+I: ella estaba conmigo en la UR
+
+E: ¡ah! / a lo mejor orita checamos y la traigo entre la lista 
+
+I: a la mejor sí 
+
+E: fíjate 
+
+I: mejor / a la mejor hasta le hicieron a ella también la entrevista 
+
+E: también la entrevista este / ¿y qué / qué tipo de / de estación prefieres escuchar ese / ese tiempo / 
+
+I: pues romántica / me / me gusta / romántica en español y romántica en inglés
+
+E:<tiempo = “57:49”/> en inglés / ¿cuál es tu estación preferida?
+
+I: este / pues Estereo Hits / Estereo Hits y también me gusta la / noventa y uno punto siete 
+
+E: ¿qué tipo de / de / de programas te gusta escuchar en la radio ____?
+
+I: pues ese de / ese de / de que te digo de Adriana pues es de / de / de / temáticas / en general o sea / cultura general 
+
+E: sí sí 
+
+I: se puede decir porque Adriana / aborda de cualquier tema 
+
+E: sí
+
+I: también salud / de / espirit- / espiritual / temas así de / de / que / son de interés así de / en general para la gente 
+
+E: ¿y ella qué estudió comunicación también? 
+
+I: ella no / ella / m / no me acuerdo e / ella hubiera sido muy buena comunicóloga fíjate porque tiene mucha facilidad así / pos supongo que ha de haber tomado un curso ya después para / para poder / de locución / pero ella / no sé pero / me parece que estudió lo mismo que tú estudiaste 
+
+E: ¿Letras?
+
+I: si no me equivoco / sí se me hace que ha de haber estudiado / Filosofía y Letras 
+
+E: bueno ¿ves la / la televisión?
+
+I: sí 
+
+E: sí ¿con qué frecuencia? mira / mucho es más de una hora al día / ¿poco?
+
+I: sí / no sí / sí veo mucho la televisión <risas = “I”/> / por mis niños porque / a veces me siento con ellos y / veo pos programas que son / como para / pa pa / que lo puede ver todos ¿verdad?
+
+E: sí para toda la familia
+
+I: toda la familia / y en la noche sí veo una novela 
+
+E: ¿cuál novela es?
+
+I: la que pasan en la noche la nuev- / de nueve y media a diez y media / la de Pasión 
+
+E: yo no / mira yo no veo las / las novelas 
+
+I: es que me gusta mucho las telenovelas de época / y esa es de época 
+
+E: ¿cómo? / ¿qué / qué es telenovela de época
+
+I: telenovela de / el año / del / del siglo / diecinueve o no sé que están en época / antigua 
+
+E: ¡ah qué pa / a mí / a mí eso sí me gusta verla pero esa no
+
+I: sí / y a mí me gusta mucho como actúa éste Colunga está mucho muy guapo también
+
+E: ándale ¿y esa / y esa / desde cuándo la están pasando
+
+I: no tiene poquito pero está muy interesante 
+
+E: no / yo escucho a mi / a mi nieta / que llega este a la casa se queda ahí a dormir / y de repente está toda nerviosa porque / ella quiere ver la / esa mentada Bety la Fea o
+
+I: no ya no está
+
+E: no / pero cuando / cuando estaba
+
+I: ay esa también la veía yo porque / estaba muy así como de comedia 
+
+E: a 
+
+I: era novela / romántica pero también / tenía mucho de comedia 
+
+E: sí / no mi nieta estaba picadísima con la novela
+
+I: ¡ay! medio mundo 
+
+E: sí
+
+I: medio mundo con esa novela 
+
+E: sí / no no / no la vi pero fíjate ¿en qué / en qué canal dices que está la de
+
+I: en / Televisa / en / Televisa / México 
+
+E: ¿la que estás viendo ahorita?
+
+I: sí el canal dos de México 
+
+E: ¿y de / y la pasan todos los días? 
+
+I: todos los días de lunes a viernes 
+
+E: ¿a la
+
+I: de nueve y media a diez y media
+
+E: la voy a / la voy a
+
+I: está muy buena ¿eh? / te la recomiendo <risas = “I”/> digo si no tienes algo mejor que hacer a esa hora 
+
+E: pues mira de perdido me tomo un ratito / o sea / y si es así una novela que sea del siglo diecinueve
+
+I: ay está bien padre / está muy / muy bonita 
+
+E: bueno entonces de la / de la televisión ves las / las telenovelas
+
+I: una nada más 
+
+E: sí
+
+I: no creas que me echo toda la / todas las / la barra de telenovelas porque no / me gusta ver el noticiero 
+
+E: ajá
+
+I: me gusta ver este / algún / programa cómico / de concursos también me gusta ver ese de / que salen / que epa / que / empata parejas la muchacha 
+
+E: ah sí sí sí 
+
+I: es en la tarde / ese está muy / muy divertido
+
+E: ¿y científicos?
+
+I: este también me gusta mucho lo que es este / de / Discovery Channel 
+
+E: ah sí
+
+I: los documentales culturales y / todo eso 
+
+E:<tiempo = “61:34”/>¿con qué frecuencia ves las películas en la televisión?
+
+I: pues mira de repente / mi esposo le gusta mucho llevar películas para ver en el DVD
+
+E: ah okay 
+
+I: que yo casi siempre me quedo dormida <risas = “todos”/> / antes me echaba la película y luego todavía le quería seguir con la otra / pero ya / como dicen los años no pasan en balde 
+
+E: no
+
+I: ya uno ya anda cansada y / me levanto seis / a las seis de la mañana para despachar al niño / y ya no es lo mismo
+
+E: no ya no 
+
+I: ya y / nunca me / yo soy de las que nunca me dormí / me dormí temprano / yo es arriba de las doce de la noche que me duermo 
+
+E: mjm
+
+I: nunca más temprano / aunque quiera 
+
+E: sí
+
+I: no puedo / porque por una cosa o por otra / llegó ya las doce / y ya no me dormí temprano 
+
+E: no / y ya desvelarte ya te
+
+I: entonces no / haz de cuenta que a veces me dice mi viejo / vente mami vente / aquí acuéstate / y vamos a ver la película / ya deja de estar haciendo lo que estás haciendo y ven / a veces me pongo a lavar los trastes para que no se me junten para el día siguiente 
+
+E: sí
+
+I: y me dice que deja aventado todo / vente / a ver / la televisión aquí conmigo / ah me echo un regaderazo rápido y ya / voy y me acuesto / y / oye pos como que me relaja el / baño y ya me quedo bien dormida <risas = “todos”/>
+
+E: ya / no alcanzas a ver 
+
+I: ¡n’ombre! me dice / tú / te quedaste luego luego dormida ¡qué bárbara! / no ya no alcanzo a ver
+
+E: no no ya / ya para / a esas horas ya termina uno muerta / lo que quieres es camita / ¿con qué frecuencia las ves / las / películas pero las de la / las que pasan en la tele?
+
+I: pos ¿qué te diré? / alguna / una o dos veces al mes yo creo 
+
+E: ajá
+
+I: de las que pasan en la tele / ya casi no porque / como te digo ya / los programas con los que / con / con los que me siento así con mis hijos / es / no son películas es / ese programa de concursos / a veces me / me / me echo un rato el de La oreja 
+E: ah sí
+
+I: por ver lo / que están diciendo de los artistas 
+
+E: sí 
+
+I: y luego ya después es hora de / que / ya los niños / mételos a bañar 
+
+E: sí
+
+I: y hacerles de cenar y / y a / y luego ya la novela 
+
+E: sí 
+
+I: en ese ratito pos que preparar uniformes y que / a ver qué / qué está sucio qué está limpio / y / y si hay algo que se me olvidó que no lavé / me pongo a lavar en ese ratito 
+
+E: sí / es que vivimos muy / muy correteadas
+
+I: y luego ya / ya llega mi marido le doy de cenar y / ya / a dormirse 
+
+E: se acabó el día / se nos pasa / a mí se me van como agua / ya / ya no hay tiempo / / pero de esas / de esas pocas / películas que llegas a ver ¿o de plano no ves ninguna? 
+
+I: sí / a veces / ¿sabes cuándo a veces / veo alguna / alguna película? las que pasan / a veces en la / en la mañana / cuando a veces está así una buena / y que mi marido se llevó el carro y ahí me quedé ahí en la casa / y que no 
+
+E: mjm
+
+I: este / que / tuve un ratito así para mí 
+
+E: mjm
+
+I: me quedo viendo alguna de las películas que pasan en el veintidós / que 
+
+E: son mexicanas
+
+I: son casi siempre / películas mexicanas / es la que me llama la atención / esa
+
+E: yo el semana / el domingo pasado vi una de / Cantinflas / y la vi pero estuvo / como no las / veo en la casa / haz de cuenta que estaba buscando una de Cantinflas porque tenía mucho de no verlas 
+
+I: son las que veo a veces / las de / las mexicanas que pasan en el veintidós temprano
+
+E: sí / esas está rebuenas 
+
+I: e 
+
+E: <tiempo = “64:47”/> bueno / ¿en / tu casa tienes videograbadora?
+
+I: sí 
+
+E: DVD 
+
+I: sí 
+
+E: ¿consola para videojuegos?
+
+I: m / sí pero ya / orita se le descompuso al niño y ya no la está usando 
+
+E: ya no ¿videojuegos para televisión?
+
+I: no
+
+E: los portátiles esos chiquitos
+
+I: sí uno mjm
+
+E: ¿tienes cable?
+
+I: no orita ya no 
+
+E: ¿cuántas televisiones tienen en tu casa?
+
+I: dos
+
+E: dos / ¿lees el periódico?
+
+I: sí
+
+E: ay / aunque sea ya nada más para / amargarnos un ratito
+
+I: El Norte
+
+E: El Norte / este / ¿lo lees con qué frecuencia? / ¿diario / frecuentemente?
+
+I: pues frecuentemente se puede decir
+
+E: ¿cinco veces por semana?
+
+I: pues puede ser que a veces menos porque / no lo recibo pero / me gusta comprarlo / y / es que / es hasta a veces
+
+E: no 
+
+I: mira ¿sabes qué? dos veces por semana se puede decir que
+
+E: sí 
+
+I: que lo leo / sí lo leo 
+
+E: ¿qué secciones del periódico / son las que / las que lees?
+
+I: pos me gusta leerlo todo menos / la deportiva / como que no me llama mucho la / la atención / este / la
+
+E: ¿la policiaca?
+
+I: sí / pos casi siempre / cuando agarro el periódico lo / me gusta echármelo todo <risas = “I”/>
+
+E: ¿revistas ____?
+
+I: sí / sí me gustan las de moda y todo eso 
+
+E: ¿las de consejos para el hogar?
+
+I: mjm 
+
+E: ¿de cultura?
+
+I: sí cultura general la / la polí- / la política no mucho 
+
+E: ¿qué dices? ya estas decepcionada 
+
+I: u / sí 
+
+E: ¿cómo / cómo ves ahorita / orita que estamos con / con esto de la / de la / de la política / ¿cómo ves eso? / todo este / este / bueno ya no está tan latente el / el problema de las elecciones 
+
+I: no no yo / mira y / en mí ya no hay credibilidad para la / para los / políticos / o sea antes como que sí tenía / hasta cierto punto confianza orita ya no / ya como que ya / dice uno ¡ay! pura mentira ya el que te pongan / ya no hayas n / ya / no le crees 
+
+E: ¿no?
+
+I: por ejemplo a veces / orita me pongo a pensar / ¿qué hubiera pasado si éste / señor
+
+E: Andrés Manuel 
+
+I: Andrés Manuel hubiera sido o sea porque yo voté por Andrés Manuel 
+
+E: yo también 
+
+I: yo no tenía confianza en este señor 
+
+E: en Calderón <observación_complementaria = “Presidente de México”/> / yo tampoco
+
+I: y digo / quisiera creer que si hubiera ganado / este Andrés Manuel / estarían las cosas mejor / pero / quiero que sepas que lo dudo más que creerlo 
+
+E: sí 
+
+I: porque pienso que ya todos <risas = “I”/> son iguales que los / todos son iguales de rateros como dicen 
+
+E: sí
+
+I: y que nadie quiere ayudar al pueblo más / al contrario quieren fregarlo
+
+E: mjm
+
+I: eso es lo que yo pienso 	
+
+E: sí
+
+I: desgraciadamente 
+
+E: no y eso es lo que pensamos todos
+
+I: quisiera creer / que Andrés Manuel es bueno / que a la mejor él nos / hubiera podido ayudar / pero pos / orita ya cómo lo podemos saber 
+
+E: quien sabe esperamos
+
+I: esperarnos a / ver <risas = “todos”/> si el / próximo sexenio 
+
+E: oye a ver cómo nos va / o sea va / vamos a ver cómo / cómo aguantamos
+
+I: a ver si estamos vivos 
+
+E: pos sí / lo primero / y a ver qué pasa 
+
+I: antes de estar haciendo planes / a ver orita con tanta cosa que se ha pasado también como de que el / de que dicen que ya / está tan contaminado ya el ambiente y / que el / el / deshielo en los polos y todo eso / da miedo ya
+
+E: sí
+
+I: dice uno quién sabe qué nos espera ya en un futuro a lo mejor no vamos a vivir mucho tiempo ya en este mundo porque / no lo estamos acabando 
+
+E: sí cierto
+
+I: con tanta cosa que está pasando y uno piensa en sus hijos también dices tú / ¿qué mundo le estamos dejando a nuestros hijos?
+
+E:<tiempo = “68:26”/> sí / porque bueno nosotros este / siempre estuvimos ate / atemorizadas / no sé tú porque tú eres mucho más joven que yo / yo tengo cincuenta y uno / pero a mí me tocó vivir una infancia que / es lo que / les estaba comentando a mis hijas / no sé si así la vivieron todos los niños pero / yo / nosotros escuchábamos mucho lo que / que una guerra nuclear / y que estados Unidos contra Rusia / como que toda esa / esa / esa / no sé / psicosis / estuvo muy latente durante toda mi infancia 
+
+I: mjm
+
+E: este porque ya ves que había esa / esa / esa guerra / que era una
+
+I: siempre / era
+
+E: siempre / siempre estaba como que un peligro latente / pero cuando finalmente no pasa nada / y ahorita / yo sí me pongo a reflexionar en eso que tú dices porque digo / pos tengo mis nietos / están chiquitos / o sea ¿hasta cuándo? / ¿qué / qué les estamos dejando verdad? / si / si es así com- / como tú comentas pues / por / tú por tus hijos / yo por mis nietos 
+
+I: sí
+
+E: por mis hijas / por las que no se han casado / pero
+
+I: pero yo sólo oí dije ¡híjole! pos / hasta ganas le dan decirle uno a los hijos ¿saben qué? / ustedes no mejor no se casen porque quién sabe qué nos espere
+
+E: a sus hijos
+
+I: quién sabe qué les vaya a esperar / a los hijos de ellos 
+
+E: sí cierto
+
+I: si orita para nosotros está / ya estamos viviendo algo bien difícil / pero dice / yo a veces a / le digo / le comento esas inquietudes que / que tengo yo / en mi mente a mi mamá y / mi mamá es muy pegada a dios
+
+E: mjm
+
+I: y me dice mi mamá / hay que tener confianza en dios / o sea / no te pongas a pensar ¡ay! Ma- / el día de mañana qué ira a pasar 
+
+E: sí
+
+I: tú / ponteen sus manos / y pídele a dios / no dejes de estar orando no dejes de estar en contacto con él / y él se va a encargar del día de mañana / dice porque cada día / trae su propio / su propio afán / entonces dice ¿para qué te vas estar afanando por el día de mañana que todavía no / no estás viviendo? 
+
+E: sí / sí cierto
+
+I: primero afánat- / o sea / afánate y preocúpate por el día / que estás viviendo ahorita 
+
+E: así es
+
+I: ya mañana 
+
+E: sí
+
+I: encomiéndate a dios para que el día de mañana te vaya bien ¿verdad? / no te estés afanando 
+
+E: no / y preocupándonos porque ya son muchas preocupaciones 
+
+I: así es
+
+E: ¿tienes un / este internet ____?
+
+I: internet / ahorita no porque no tengo computadora en la casa / pero sí / sí he / he tenido
+
+E: bueno / y este ¿dónde / dónde lo usabas / en tu casa / en el trabajo?
+
+I: en / la casa y en el trabajo 
+
+E: ¿tienes computadora en tu casa orita? 
+
+I: orita no
+
+E: ¿no?
+
+I: estoy orita / por comprar una 
+
+E: ¿sí?
+
+I: yo creo que el mes que viene ya / primero dios ya voy a tener mi computadora 
+
+E: me estaban / yo est- / yo tengo una laptop y está muy viejita y me estaban diciendo que te las están financiando en Prodigy / y con ciento treinta pesos mensuales 
+
+I: mjm / sí / pos este / mira / quería yo sacar una así en Prodigy / pero le estoy pensando porque mi / mis niñas son muy tremendas entonces digo yo / no / hay un señor que / las está vendiendo / pos viejitas como dices tú
+
+E: mjm
+
+I: y nada más / yo más que nada las quiero para / para ellas 
+
+E: ¡ah! 
+
+I: y no quiero invertir orita en una
+
+E: no no / no / no no
+
+I: muy buena porque me / se la van a echar
+
+E: sí
+
+I: entonces por eso digo no / mejor ya que ya estén más grandecitas / unos añitos más ahora sí les compro una así buena 
+
+E: ya que la sepan cuidar
+
+I: que la sepan cuidar porque orita no saben cuidar 
+
+E: no
+
+I: orita / quieren agarrar todo / pos ya ves orita / ve un aparato y ¡ay! / y la novedad 
+
+E: sí / sí porque es la novedad / y ese aparato / ya todos esos aparatos a nosotros nos daban miedo / y ellos como que ya se les hace muy / no sé / como que ya / nacen con la tecnología 
+
+I: ya que se les quite la novedad de / de tener ahí / también la / la computadora pos ya / se les da
+
+E: sí 
+
+I: es lo que tra- / yo era la que traía una laptop pero yo no sé las dejaba en donde fuera / la usaba en la oficina / y la usaba en la casa pero / no se las dejaba así / yo la que quiero tener es la que es así de casa ¿verdad?
+
+E: sí
+
+I: una viejita pero para que la use el niño / para que la usen ellas / y el niño pos para que empiece a hacer sus tareas también ahí y todo
+
+E: sí pos ya ves que orita ya es casi / todos 
+
+I: y ya se quiere meter a internet o tener programa de ese de música 
+
+E: mjm
+
+I: <tiempo = “72:29”/>para quemar música bajarla del internet y todo eso entonces
+
+E: sí 
+
+I: ahi que se vaya familiarizando pero con algo que no me vaya a doler mucho <risas = “todos”/> / porque / se lo eche luego luego 
+
+E: n’ombre tan caros que están 
+
+I: sí 
+
+E:¿para qué usabas el internet ____?
+
+I: pues para enviar correos 
+
+E: o sea
+
+I: para buscar información
+
+E: nada más aquí / hay una frecuencia / ¿diario / una vez a la semana / o una vez al mes? / enviabas correos / ¿con qué frecuencia?
+
+I: m / una vez por semana / buscar información / este / casi a diario 
+
+E: ¿hacías tareas?
+
+I: no / no para
+
+E: ¿para hablar por escrito / por el chat?
+
+I: no / casi no / no chateo yo 
+
+E: ¿con voz o con video?
+
+I: es más que nada para / para inform- / para buscar información 
+
+E: información 
+
+I: y este
+
+E: y para enviar correos
+
+I: y para enviar correos
+
+E: bueno tienes teléfono fijo / sí / ¿tienes celular?
+
+I: sí 
+
+E: bueno / ¿cuáles son los usos que le das al celular? / ¿sólo recibes llamadas / o recibes y haces llamadas?
+
+I: recibo y hago llamadas 
+
+E: y no / este / luego viene otra opción / recibo y hago muchas llamadas / envío y / y recibo mensajes
+
+I: sí 
+
+E: recibo y hago muchas llamadas / y envío y recibo mensajes y tomo fotos / recibo y hago muchas llamadas envío y recibo mensajes tomo fotos / video / y bajo música y / y uso el internet / ¿es este?
+
+I: m / es más que nada la cuatro / porque / orita / antes sí / ¡uy! le tomaba mil fotos pero ese el celular que traía de fotograf- / que para de cámara y todo me l / se me perdió 
+
+E: ¡ah! sí
+
+I: y traía bastantes fotografías 
+
+E: ay qué lástima
+
+I: fue lo que más me dolió / traía de mis hijas / y de mi mamá y de / mis sobrinos 
+
+E: ¿y no sabes dónde lo dejaste?
+
+I: me lo perdió la niña chiquita 
+
+E: ¿no te pasaría como / con mi / como mi hija / que / venía manejando
+
+I: a mí se me hace que eso fue lo que pasó / en el carro
+
+E: sí 
+
+I: a lo mejor la niña lo aventó por la ventana 
+
+E: fíjate / así / a / a / a mi hija así le / le / le sucedió / dice que / que la nieta la / porque tengo dos nietos que le decía mami yo te quiero decir algo / oye no me digas nada espérate a que lleguemos con tu abuelita / mami yo te quiero porque venían peliando y los había callado a los dos / pues llegamos a la casa / y entonces ahí / ¿y mi celular? / y luego dice la niña mami yo te quería decir algo que Paquito lo / te lo aventó por la ventana no ¿dónde? / en Lázaro Cárdenas y también traía todas sus fotos / y digo mi hijita las hubieras amparado en un disco / luego luego bájalas / dice no mami las perdí todas 
+
+I: no / sí / yo era lo que quería hacer meterlas a la computadora / no / pos nomás me quedé con las ganas <risas = “todos”/> nunca las metí y se me perdió / se me perdieron todos los teléfonos que tenía ingresados ahí en el directorio / de / de teléfono / y todas las fotos que tenía pero de meses atrás / tenía no sé / qué tantas fotos yo creo que como cien
+
+E: ¡qué bárbara!
+
+I: y todas / fotos así que yo misma también me había tomado <risas = “I”/>
+
+E: no sí ¡n’ombre! porque hasta posamos <risas = “todos”/> ya ahí / te ves el / ojo y todo / no
+
+I: ¡n’ombre! no
+
+E: bueno aquí / otra pregunta de / ¿visitas museos?
+
+I: no / últimamente ya tengo mucho que no 
+
+E: ¿a los conciertos asistes?
+
+I: sí de vez en cuando 
+
+E: ¿es una vez / por semana / una vez por mes / dos veces al año
+
+I: no / se pude decir que una vez por año / a / uno que esté bueno voy / porque orita también ya sale bien caro ya
+
+E: todo
+
+I: mil / pesos o mil doscientos si vas a un buen concierto de / de algún artista así que te guste 
+
+E: sí / y que no te toque allá un gayola porque / e / donde está más más / más a
+
+I: no porque yo si voy / voy a uno donde esté así / que lo pueda ver de cerca / hace poquito / fui a / bueno / no es cierto no tan poquito / estaba haciendo frío todavía / fui a ver a Chayanne / pero me los regalaron 
+
+E: ¡ah! ¿sí?
+
+I: y me tocó así verlo / cerca 
+
+E: y tan guapo el hombre ese 
+
+I: ¡ay! sí pos por eso haz de cuenta <risas = “E”/>que me dijeron no Chayanne y que te vamos a regalar los boletos <risas = “I”/> ¡yo voy! / dije yo voy 
+
+E: y te tocó
+
+I: y Chayanne es el que m / me encanta es uno de los artistas que más me gustan 
+
+E: ¡ay! / tiene unas canciones preciosas
+
+I: y ora quería ver / que a lo mejor también / se logra que me regalen los boletos / a ver a éste / Miguel Bosé
+
+E: ¿va a venir?
+
+I: va a vinir / va a venir ahora en estos días / en este mes 
+
+E: ¿con esto con / con lo? 
+
+I: el quince 
+
+E: ¿del Fórum o qué?
+
+I: ó veinte / algo así / no
+
+E: ¿no? / ¿es aparte?
+
+I: no se va a presentar en Auditorio Coca Cola / es donde / a veces me pueden regalar boletos ahí en el / en el Coca Cola
+
+E: <tiempo = “76:37”/> a qué padre / yo ahí fui a ver a Maná / hace / hace tiempo / bueno vamos a seguir con este / no vas al teatro
+
+I: sí suelo
+
+E: ¡ah! / ¿al teatro sí?
+
+I: sí voy al teatro pero / no / también es / ya mmm / esporádicamente / creo que
+
+E: ¿qué / una vez al año?
+
+I: ponle que una vez al año / a veces dos pero / no orita últimamente no
+
+E: ¿de vacaciones sí sales?
+
+I: ya tengo / como / ¿qué será? / como dos años que no voy de vacaciones / también 
+
+E: pero sí / ¿con qué frecuencia salías?
+
+I: pos por lo regular una vez al año
+
+E: ¿una vez al año? 
+
+I: pero orita hace / fui e / el año pasado sí fui una racha bien dura / ahí a mi esposo y a mí / por eso no salimos también 
+
+E: sí se vienen rachas 
+
+I: sí / vino / el año pasado muy duro en / lo económico / y / por eso no salimos / pero orita ya vamos / mejor / mucho mejor gracias a dios 
+
+A1: mira mira
+
+E: mira que bonito mami / bueno mira esto ya ya / ya vamos a terminar / es nada más de lo / de los estudios / espérate mi amor ay aquí lo ponemos <risas = “todos”/>
+
+I: vete para allá
+
+E: es que ella tiene tentación / este / primaria / cursaste los seis grados ¿verdad? ____
+
+I: sí 
+
+E: ¿en una escuela pública o privada?
+
+I: fue pública / en la Torres Bodet
+
+E: ¿no recuerdas la fecha en que la terminaste?
+
+I: ay pos ¿qué te diré? / yo creo que la terminé ¿qué? / ¿en el setenta y uno?
+
+E: siete uno
+
+I: pienso yo que fue en el setenta y uno
+
+E: la secundaria fueron tres años también ¿verdad?
+
+I: mjm
+
+E: ¿en / escuela pública? 
+
+I: sí / también en la Torres Bodet
+
+E: fuiste de las afortunadas / yo quise meter ahí a mis hijas y nunca pude / ellas estuvieron en el acá en la / en la primavera / en la 
+
+I: en la cincuenta
+
+E: en la cincuenta / sí entonces ¿terminarías este en el qué? / siete uno ¿en el qué? siete cuatro
+
+I: en el setenta y cuatro yo creo
+
+E: ¿y luego tú hiciste qué? / ¿preparatoria?
+
+I: sí / en la Universidad Regiomontana
+
+E: ¿fueron tres años?
+
+I: pos yo creo que fueron tres 
+
+E: esta ya es privada ¿verdad?
+
+I: sí 
+
+E: ¿hasta el setenta y siete más o menos?
+
+I: mjm
+
+E: y / ¿luego tienes qué?
+
+I: carrera / la carrera profesional
+
+E: ¿cuántos años fueron?
+
+I: cinco años
+
+E: ¿también privada?
+
+I: mjm / pero ahí sí fue donde te digo que 
+
+E: que la / la interrumpiste
+
+I: sí fue interrumpida 
+
+E: ¿en qué año la / la terminaste ya?
+
+I: creo que / fue en el noventa / en el noventa porque / me salí / no entré luego luego de la carre / terminé cuando terminé la / prepa / ente / entré luego luego 
+
+E: ah okay 
+
+I: luego ya después / porque estuve trabajando 
+
+E: ah
+
+I: entonces ya después que me metí a la carrera / también me volví a salir al tiempo / por eso hasta el noventa y / noventa creo que la terminé
+
+E: ¿y en la UR?
+
+I: en la UR 
+
+E: ¿no tienes maestrías / doctorados?
+
+I: no 
+
+E: ¿estás trabajando actualmente?
+
+I: no
+
+E: <tiempo = “80:08”/>¿eres desempleada?
+
+I: pues sí / estoy desempleada por por gusto porque / ahí en donde estaba la agencia de mercadotecnia / me estaban dando el puesto de / para estar en el / en / la encargada de recu / del departamento de Recursos Humanos 
+
+E: sí 
+
+I: y / no yo le dije que no podía porque me quería desde en la mañana / desde las nueve de la mañana / hasta las siete de la noche 
+
+E: cómo le hacías con los niños
+
+I: olvídate / ¿cómo le hacía? / no tengo quien me / atienda a los niños en la casa ni / ni la casa ni / todo el quehacer 
+
+E: no / es que necias una / una / buena persona / una señora / de confianza
+
+I: una persona que me echara la mano pero no / orita no se puede / para meter a cualquier gente que no conozca / olvídate 
+
+E: no ya ves tantas cosas que han pasado / ya / ya te da miedo / bueno / m / ¿cuándo trabajabas en la / en la óptica qué puesto desempeñabas?
+
+I: asistente administrativo 
+
+E: ¿desde cuándo empezaste a elaborar ahí?
+
+I: desde el que / noventa y / cinco 
+
+E: noventa y cinco / ¿qué / de cuáles / de las siguientes actividades / se realizan en / en el trabajo / se produce algo / se vende algo? / se da servicio ¿verdad? / en la óptica 
+I: m / se da un servicio / y también se / pos es que son las tres / porque / se fabrican / lentes
+
+E: mjm
+
+I: en el laboratorio 
+
+E: ajá
+
+I: y luego se venden / o sea / se fabrican lo que es las micas 
+
+E: ah okay 
+
+I: y luego se montan sobre las armazones y se venden / de acuerdo a la receta que te hayan
+
+E: al / a la que te haya dado el médico / ¿y tú nunca nunca este / participaste haciendo las micas y todo eso / que te hayas enseñado?
+
+I: no / yo ese tipo de trabajo no / no lo sé hacer 
+
+E: ¿no?
+
+I: mi esposo sí 
+
+E: ¡ah!
+
+I: porque él / él tenía laboratorio también acá / el laboratorio de nosotros 
+
+E: mjm 
+
+I: no yo lo / a lo más que te puedo / ayudar es / a que / a / ajustarte los lentes o ponérteles el tornillo / hacerle la limpieza de / una buena limpieza / pero de ahí no / no no te sé decir
+
+E: orita me dices el nombre de la óptica sabes que yo ya van dos lentes que me gradúo 
+
+I: lo que se te ofrezca
+
+E: sí 
+
+I: mi esposo / va y les hace el / el / examen a domicilio / ahí por la / por la casa tenemos muchos clientes así que / que nos compran / mi esposo da muy buenos precios / no da caro ni nada
+
+E: yo necesito hacerme otra graduación porque salí de la escuela y salí ciega o sea ya / estos van a ser / van a ser los los el el / los tercer / lentes
+
+I: lo que se te ofrezca si quieres te / te pude hacer el examen / y te trae también / este armazones para que las veas / o si quieres ir a la óptica nomás te pones de acuerdo con él 
+
+E: sí / y ahí tengo una / una armazón que me gusta mucho 
+
+I: mjm
+
+E: por que / batallé mucho porque / los tengo que usar bifocales 
+
+I: mjm
+
+E: y el / este / y estos / con / los lentes anteriores y estos los agarraron los niños / y los pasaron por la pared / y me los tallaron 
+
+I: ¡ah!
+
+E: y aparte de ese talloncito yo siento que yo no veo bien 
+
+I: tienes una armazón en buenas condiciones 
+
+E: y está muy buena 
+
+I: ya nada más le puedes / poner 
+
+E: sí hasta que me vuelvan a hacer el es / el estudio 
+
+I: ¿qué / qué tipo de mica estás usando? ¿progresivo? / el que es para ver / lejos cerca y a me / ya / distancia intermedia 
+
+E: sí / sí porque yo era pa / para manejar 
+
+I: es buenísimo 
+
+E: sí para manejar haz de cuenta que con los mismos lentes / y para el pizarrón 
+
+I: para todo 
+
+E: para todo el mismo lente 
+
+I: para la computadora 
+
+E: para todo
+
+I: sí pos es el progresivo el que puedes ver a todas las distancias 
+
+E: ¡ándale! entonces sí / sí me / sí me interesa
+
+I: sí porque tienes tu / armazón en buen estado nomás con las puras micas 
+
+E:<tiempo = “83:59”/> mira / m aquí esta esta pregunta es / con respecto a la / a tu ingreso mínimo / pero no / ahorita no lo / no lo
+
+I: no / pos yo
+
+E: no hay ¿verdad?
+
+I: personalmente no tengo orita ingresos
+
+E: este ¿cuántos focos tienes en tu casa? / un aproximado
+
+I: puede ser que unos quince yo creo 
+
+E: ¿y quiénes viven con usted?
+
+I: pos yo vivo con mi esposo y mis hijos 
+
+E: esposo / ¿tu esposo / habla / aparte del / español otro idioma? 
+
+I: pues / sabe / ¿qué te diré? un / sesenta por ciento de inglés yo creo / setenta
+
+E: y / tus hijos pero ¿ninguno trabaja?
+
+I: no / están chiquitos
+
+E: okay / mira / de acuerdo / a este sa- / ellos están / tomando como salario mínimo dos mil ochocientos pesos mensuales / conforme a este ingreso / ¿en qué rango podíamos ubicar / a tu esposo? / en / ¿con un salario mínimo / de dos mil ochocientos mensuales / o entre dos y tres veces el salario mínimo / entre cuatro y seis veces el salario mínimo / entre cinco y diez veces el salario mínimo?
+
+I: no pos se me hace que / ¿qué será? / híjole / pos nunca me he puesto a ver eso pero se me hace que es / ha de ser / m / se me hace que ha de ser entre / esto ¿no?
+
+E: ¿entre ocho y diez veces?
+
+I: entre cinco y diez
+
+E: entre cinco y diez veces / el salario mínimo 
+
+I: debe ser ese / sí 
+
+E: okay / ¿qué / cuál es el último grado cursado de tu esposo? 
+
+I: e él es profesionista también 
+
+E: no es / este es / este es / aquí está él / es entre / cinco / y diez veces el salario / ¿cuál es el último grado cursado de de / de tu esposo? 
+
+I: es el / él / él este / es ingeniero químico / él terminó su carrera de / ingeniería química 
+
+E: ¿y trabaja es / su carrera?
+
+I: no / él no ejerce eso está / tiene el negocio porque / mi esposo estudió optometría 
+
+E: ah / es propietario ¿verdad?
+
+I: sí 
+
+E: y pues el puest- / puesto que ocupa pues es el dueño / pos yo creo que es todo ____ ¿algo más que que / que me / que me quieras comentar / algo más que quieras platicar?
+
+I: pues no sé qué / qué más necesites / o algo que
+
+E: no algo / lo que / si / si tú quieres comentar algo más 
+
+I: m / en realidad / pues no 
+
+E: ¿ya no? / bueno muchísimas gracias por todo 
+
+I: no al contrario lo que se te ofrezca
+
+E: ya voy a apagar la grabadora muchas gracias 
+
+ Fin de la entrevista
+
+

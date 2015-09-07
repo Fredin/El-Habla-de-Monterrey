@@ -1,0 +1,1678 @@
+﻿<Trans audio_filename=”MONR_M13_HMP036.MP3” xml:lang=”español”> 
+<Datos clave_texto=”MONR_M13_HMP036” tipo_texto=”entrevista_semidirigida”> 
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México”/>
+
+<Grabación resp_grab=”Susana Maribel Aguirre Ortega” lugar=”Coordinación de la Licenciatura en Ciencias del Lenguaje de la Facultad de Filosofía y Letras de la Universidad Autónoma de Nuevo León” duracion=”01:09’26’’”
+fecha_grab=”2007-03-02“ sistema=”MP3”/>
+<Transcripcion resp_trans=”Raquel Rodríguez de Garza” fecha_trans=”2007-08-27” numero_palabras=”14146”/> 
+<Revisión num_rev=”1” resp_rev=”Raquel Rodríguez Garza” fecha_rev=”2007-08-27”/>
+<Revisión num_rev=”2” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-09-16”/>
+<Revisión num_rev=”3” resp_rev=”Cynthia Martínez Del Ángel” fecha_rev=”2011-06-04”/> </Datos>
+<Revision num_rev=”4” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-08-14/></</Datos>
+
+
+<Hablantes>
+<Hablante id=”hab1” nombre=”Elsa Yaneth Carranza Mercado” codigo_hab=”I” sexo=”mujer” grupo_edad=”1” edad=”34” nivel_edu=”3”	estudios_=”Maestría en Ciencias” profesion=”maestra” origen=”Monterrey” papel=”informante”/>
+<Hablante id=”hab2” nombre=”Susana Maribel Aguirre Ortega” codigo_hab=”E”
+Sexo=”mujer” grupo_edad=”1” edad=”26” nivel_edu=”3” estudios=”Maestría en Ciencias con especialidad en Lengua y Literatura” profesion=”estudiante y empleada” origen=”Monterrey” papel=”entrevistador”/>
+<Hablante id=”hab2” nombre=”Marcela Solar Fraire” codigo_hab=”A1”
+Sexo=”mujer” grupo_edad=”1” edad=”27” nivel_edu=”2” estudios=”licenciatura incompleta” profesion=”estudiante y empleada” origen=”Monclova, Coah.” papel=”audiencia”/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="desconocidos"
+rel_ent_aud1="conocidos"/>
+</Hablantes> </Trans>
+
+
+I: ¡ay! / ¡hola! / pásenle 
+
+E: ¿no está muy ocupada? 
+
+I: no no pásenle / pásenle 
+
+E: gracias 
+
+I: pásame esa bolsita si quieres Marce / / ajá
+
+E: aquí tiene 
+
+I: gracias 
+
+E: de nada 
+
+I: a ver / ¿me van a grabar? 
+
+E: sí / es que mire
+
+I: qué pena 
+
+E: no no es que no sé si / esta es la continuación del Habla de Monterrey que se hizo / hace ya tiempo de mil novecientos ochenta y cinco / ochenta y seis
+
+I: sí 
+
+E: entonces se quiere contrastar / cómo / pues cómo hablamos los de aquí los de Monterrey / y ahora con nuevas problemáticas ¿verdad? que nos 
+
+I: ajá
+
+E: que nos acontecen
+
+I: sí 
+
+E: ¿cómo ve? / primero que nada / pues muchas gracias por haber aceptado que
+
+I: no no / ni qué agradecer 
+
+E: que le haga esta 
+
+I: mjm
+
+E: esta entrevista / ¿y cómo / si me puede decir usted / cómo empieza un día normal / de labores?
+
+I: ¿para mí?
+
+E: mjm 
+
+I: a ver bueno pue s / entro al / a trabajar a las / ocho y media / e / tengo una / una carga de / de / de clases / mm / cada hora y media / cambio de / de / de 
+
+E: grupo / Mjm
+
+I: y a las / a las / de diez a doce / esto y / en / en equipo técnico / no estoy frente a grupo / a las doce retomo el / curso de francés / una hora y media / y ya empieza otra / otro curso de francés / termino a las tres de la tarde / pero luego luego me tengo que venir acá a acá a Filosofía y Letras / y sigue la / la / el trabajo
+
+E: también ¿también dando francés o no?
+
+I: bueno / aquí estoy con cuestiones administrativas 
+
+E: ah
+
+I: sobre la / la / nueva licenciatura en enseñanza del enseñanza del francés / que es que es la que se iniciaría en / en agosto / va a va a iniciar ya
+
+E: ¡ay! ya muy rápido
+
+I: ya / entonces entonces / mm / bueno digo después de las tres / vengo para / para la cafetería cafetería a tomar el / la comida / y / inmediatamente después aquí / a las / ¡ah! y se supone que aquí tengo tengo que estar que estar a las tres y media de la tarde / y salgo a la s / seis y media / pero / es un decir que me voy a las seis y media porque me dan las ocho / las nueve/ nueve y media
+
+E: ¿y aquí a qué hora cierran?
+
+I: pues / en la / facultad / el / el edificio / me parece que cierra a las nueve y media / no / miento / a las diez / porque las clases / terminan / algunas terminan hasta hasta a las diez de la noche 
+
+E: muy tarde 
+
+I: el turno nocturno / sí exactamente 
+
+E: entonces usted usted tiene / todo el día / muy saturado
+
+I: <tiempo = “2:40”/> pues sí / este / pero esto / digamos que / básicamente está básicamente está / desde / este semestre / este mes de febrero empecé con esa / con esta / con este horario de trabajo porque / anteriormente / yo salía salía a las tres de la tarde / y a mi casa
+
+E: sí
+
+I: entonces entonces / ya era / otro tipo de trabajo / en casa 
+
+E: mjm
+
+I: pero ahora e / a partir de este de este semestre / como me / me piden que / que me encargue me encargue de la coordinación de la licenciatura en la enseñanza del francés / este / me asignan esas tres horas diarias por la tarde y / yo acepté pues / por eso / pero te digo son tres horas / tre- / este / tres horas justificadas pero en realidad se van hasta seis horas
+
+I: ocho 
+
+A1: sí 
+
+E: sí / y también también / así com-
+ 
+I: depende / depende también
+
+E: así como hay / pues un comité muy extenso en / inglés / ¿también lo hay en el francés?
+
+I: pues ahorita somos / e / hemos estado trabajando / de doce a quince profesores de francés / tanto en clases / como el trabajo que / para / planiar todo / de / este lo que te digo de la licenciatura / y estamos estamos trabajando desde octubre de dos mil cinco más o menos 
+
+E: sí
+
+I: ya en enero nos sentamos formalmente / este / los / doce trece / pero es- / tá fluctuando entre doce y quince profesores de francés / pues somos poquitos porque porque en realidad en inglés sí es bastante 
+
+E: mucho ¿verdad?
+
+I: pero / bueno esperamos que también en / en francés tengamos este / e / la misma / correr con la misma suerte del inglés / y que / y que / encontremos a la / las personas este / pues con una / formación / y preparación que en que en realidad aquí es lo que / lo que nos va a exigir va a exigir ¿verdad? 
+
+E: ajá / ¿y usted usted cree que aquí en Monterrey / así / como el inglés que es que es muy / ya indis- / indispensable verdad / para manejarlo / el francés también está a la par / del inglés?
+
+I: pues ahorita no / no no tanto / sí les / sí está cobrando mucha fuerza / está retomando mucha / mucha / ¿qué te di / cómo / cómo decirte? mucha / está ganando mucho campo 
+
+E: mjm
+
+I: a raíz de la / de la / de las inversiones de las empresas / hay mucha empres- / hay / aquí hay muchas empresas / francesas / canadienses / sobre todo / también también hay suizas hay / este / compañías de Bélgica / entonces entonces / de de / de / países franco hablantes 
+
+E: sí
+
+I: <tiempo = “4:5/”/> entonces entonces este / por eso te digo / que está que está retomándose / la fuerza / en el francés / e / lo / lo curioso es que / Monterrey siendo una ciudad industrial / básicamente / o bueno aquí hay / empresas de / todo el mundo
+
+E: mjm
+
+I: to / el extranjero / este / no ha / no había esta / esta / licenciatura en enseñanza del francés / solamente inglés / y / e / te digo curioso porque / nos damos cuenta / e / digo me / me he me he dado cuenta / que / esta licenciatura en inglés y en francés existe en existe en / México / en la ciudad de México en / Guadalajara en / Puebla en / en el sur me parece que es que e este / si mal no recuerdo es / Chiapas
+
+E: mjm
+
+I: y ahora está / surgiendo en / Nuevo León con nosotros y / no recuerdo si es Sinaloa o Sonora / no te voy a mentir pero es una de esas de esas dos 
+
+E: sí son muchas de las universidades que ya 
+
+I: ya / que ya está 
+
+E: tienen esa licenciatura
+
+I: ajá / estas licenciatura / digo estos / esta s / estados que me / que te menciono / ya tienen / años con su licenciatura en enseñanza en el francés / no es / de l / año pasado o sea son / seis siete ocho años / y nosotros estam- / ha / hasta este año se / ¡vaya! se / se realiza este sueño este / se co / se concreta este proyecto 
+
+E: pues es un logro / también
+
+I: sí claro / claro sí
+
+E: ¿en otras Universidades o en otras instituciones así como el Tec / no la hay? 
+
+I: no no existe 
+
+E: entonces 
+
+I: sería la única en Nuevo León 
+
+E: innovador 
+
+I: sí / en Nuevo León sería la única / lo manejamos como la única en el norte pero nos dimos cuenta que Sonora o Sinaloa es la que también 
+
+E: ya lo manejaban
+
+I: empezó en / en agosto / del año pasado / el dos mil seis / y / entonces entonces ahora dijimos no es la única en el norte / la única en Nuevo León / porque / igual y a la mejor surge Tamaulipas / o surge / Chihuahua no sabemos / porque sí te digo está tomando mucha fuerza 
+
+E: no y aparte / este pos para / practicar el idioma pues está también / relativamente cerca Canadá
+
+I: Canadá / exacto
+
+E: ¿verdad? no / no necesariamente se tiene que ir 
+
+I: a / a / a Europa
+
+E: aunque también también es importante verdad / ir a / buscar / así como la cuna
+
+I: mjm
+
+E: como quiera aquí quiera aquí también también hay oportunidades para poder / pues aplicar / o manejar bien el idioma ¿no?
+
+I: exactamente / y nosotros como profesores de francés / recibimos becas para estancias / de un mes / e / tres cuatro semanas
+
+E: ¿intercambios?
+
+I: <tiempo = “/:06”/> sí / este / pos no intercambios sino nos vamos / nos / nos beca el gobierno de Canadá / de la provincia de Canadá / y m / y vamos este profesores de todo América latina / digamos
+
+E: mjm
+
+I: nos reunimos en Canadá / e este / compartimos experiencias / vivencias / este compartimos / pues en materiales / de cursos es / bien inriq- / enriquecedor es / esas / esos cursos para profesores de plantel / te digo / que no necesariamente tenemos que ir a Francia sino / nos vemos en Quebec 
+
+E: sí
+
+I: y / cada año cada año se va un profesor de nosotros / a mí me tocó vivir este / esta beca / de de / disfrutar esta beca en el dos mil
+
+E: mjm 
+
+I: este / pero ya la mayoría de mis compañeros este / llevamos como un orden ¿no? / por antigüedad / le toca a él toca a él / por antigüedad sigue ella / entonces respetamos y / bueno que / ahorita te digo es / es algo muy / muy bonito el hecho de que / nos / nos / brinden las becas y que podamos participar en esa / en esos este / sin tener que / bueno a ver si t- / te ganas la beca o sea / te la dan / porque saben que estamos que estamos trabajando en el francés
+
+E: apoyándolo ¿no?
+
+I: apoyando la lengua / la cultura francesa y / y que / no importa que / que no vayas a Francia sino vas a Quebec 
+
+E: mjm / me imagino que cuando usted ha viajado ha conocido muchos lugares 
+
+I: sí / exactamente 
+
+E: por ejemplo ¿qué lugares ha / conocido? 
+
+I: pue s / bueno en Quebec / te digo / estuvimos / en Montreal / estuvimos en Toronto / e / por parte de la misma Universidad que nos llevó 
+
+E: ajá
+
+I: y / la / en / en los viajes a Francia / he estado en / en Marsella en Niza Mónaco / este / en la mañana por l- / por cierto en la mañana llevé unas fotos y compartí con mis alumnos / este / en Lyon he estado / en Vichy dos veces / en / París / e / ¡vaya! / básicamente ha sido Francia porque
+
+E: ajá
+
+I: e / como es un mes / son / tres semanas de curso y una de paseo / yo como profesora de francés / claro que me / o sea / estoy en Francia / quiero / no sé conocer lo máximo / lo / o sea lo más que pueda de Francia 
+
+E: mjm 
+
+I: Sí este / intenté ir a / Bélgica no se pudo / este y / me gustaría conocer otros países / pero bueno / principalmente / mi / mi destino es / es Francia ¿no? 
+
+E: ajá / y / ¿de todos esos lugares que ha visitado cuál le ha gustado más y por qué?
+
+I: ¿qué lugar me ha gustado más y por qué? 
+
+E: mjm
+
+I: <tiempo = “9:34”/> es difícil porque cada lugar tiene / tiene 
+
+E: lo suyo 
+
+I: tiene algo / sí / tan especial / y / bueno por ejemplo / yo creo que / sí p/ he visitado muchas ciudades / este / estoy entre / Marsella / que es el sur / de Francia y / y París / París pues / la capital y / nunca terminas de conocer la ciudad y / cada vez que vuelves yo he estado cuatro veces en París / gracias a dios
+
+E: ajá
+
+I: he tenido esta oportunidad / y / te digo las cuatro veces / siempre termino con que / no / y no visité esto / y no visité aquello y no conocí el museo de no sé quién y el panteón de no sé qué y / a la próxima ve / bueno / yo yo lo tomo como / es pretexto para regresar 
+
+E: sí / sí / conocer cada vez más
+
+I: claro
+
+E: y / ¿cómo ve / la ciudad bueno es / como muy muy difícil decir / a comparación de Monterrey / estamos hablando de un primer mundo y aquí
+
+I: claro
+
+E: pues acá / muy apenas ¿no?
+
+I: mjm
+
+E: a como estamos / e / a co- / ¿cómo es la gente allá / có- cómo es?
+
+I: bueno pues / volviendo a / al comentario es / son culturas muy diferentes 
+
+E: mjm
+
+I: somos culturas muy diferentes este / con muchas similitudes pero / yo creo que / hay muchas diferencias / el / los espacios también / Francia es una / París es una / es un / es una ciudad este / de calles angostas estrechas entonces este / de repente se / se / se complica un poco la / la circulación el / la tran- / el transportarte / de un lugar a otro / este pero bueno por eso / el metro es allá / así como que / ¡guau! 
+
+E: indispensable 
+
+I: sí
+
+E: y ahorita apenas nosotros lo están <risas = “E”/> 
+
+I: nosotros estamos en pañales / exactamente o sea
+
+E: lo estamos haciendo <risas = “E”/> 
+
+I: dices / ¡ay! 
+
+E: y con la 
+
+I: son ya 
+
+E: y con la 
+
+I: y nosotros tenemos / coches y coches y coches y camiones / allá / los camio- / los / o sea la gente tiene / su vehículo / eh para una o dos personas / y aquí / tenemos para camionetas y camionetas y / y / y entre más grande el coche / este mejor
+
+E: sí
+
+I: allá no / allá no te puedes dar ese lujo / es solamente para moverte tú / inclusive / a la gente anda e n / bicicleta / y en motoneta y en / cosas de esas de <risas = “I”/> / de nada más me voy a transportar yo ¿verdad?
+
+E: sí
+
+I: <tiempo = “11:40”/> porque / es / es este / no te puedes dar ese lujo / los espacios son diferentes 
+
+E: no y aparte me imagino que ahí ya tienen una cultura en cuestión de preservar el / el medio ambiente
+
+I: bueno aparte / también 
+
+E: ahorita cómo estamos ¿verdad? que ya está / incrementándose la / pues
+
+I: la contaminación 
+
+E: la contaminación y 
+
+I: es es / es un problema muy grave 
+
+E: entonces no sé qué piensa usted de eso de / nosotros si tenemos la / la cultura en cuestión de / pues / cuidar el medio ambiente
+
+I: mjm
+
+E: y ahorita con los problemas climáticos / eh / se pronostica que este año va a ser muy caluroso también / y muchos ciclones / entonces / no sé qué / qué 
+
+I: eh tienes mucha razón / yo en el dos mil / e / volviendo a la / a la / al viaje que hice en / a Quebec / me sorprendió / me sorprendió / el la / cómo te bombardean / en la Universidad / en el restauran / en el cine / donde estés / en la calle / te bombardean / con / el reciclaje / y aquí va el vidrio / aquí va el cartón / aquí van los / este / ¿cómo se llama? / sí la / la / la comida / eh la 
+
+E: cómo los plásticos también 
+
+I: pues / es que es vidrio cartón y lo otro es este / lo / lo que se / lo que se / pudre 
+
+E: mm / como / como 
+
+I: la comida / la comida o sea hay que separarla / y aquí / oye aquí / todo va / en el mismo lugar / entonces / allá
+
+E: y los desperdicios y todo 
+
+I: y me parece que con esa campaña tienen / ya tienen desde hace un buen / o sea para mí fue novedad en do / en el dos mil / hace seis años / pero / ya / ya existía esa campaña de / de cuida el ambiente recicla recicla recicla este / muy bonito / es / bueno también / te digo Quebec es algo / Canadá es un país muy organizado muy / muy este mm / de repente te sientes muy en Estados Unidos pero / tiene <risas = “I”/> / cosas muy / muy / diferentes a Estados Unidos que / también conozco Estados Unidos 
+
+E: ajá
+
+I: pero este / Canadá es / es este / es un país muy / muy organizado por al / por algo tiene los primeros lugares en / pues en educación / y en muchas / en muchas otras cosas
+
+E: <tiempo = “13:46”/> sí / de / y / ¿qué piensa usted también de / la gente que viene / en cuestión del trabajo / a / aquí? / pues / no tenemos tantas oportunidades / eh / pues para desarrollarnos ¿no? / a veces uno hay que innovar / e / en lugar de esperar las propuestas / uno mismo proponer / ir a las instituciones proponer no nada más buscar un trabajo así de que / se solicitan / uno moverse también / pero / quizá esa / modo de pensar es / la gente que tiene una licenciatura o o / que ya está un poquito más preparada / como la / a comparación de la gente del sur que viene aquí a Monterrey que lo ve como plataforma para buscar / pues / mayores oportuna / oportunidades ¿verdad? / y se quedan aquí y dicen que / y pues en Monterrey / tienen un poquito de oportunidad / usted qué piensa de esa gente que viene aquí a / del sur principalmente a Monterrey para buscar
+
+I: pues lo que pasa es que 
+
+E: la oportunidad
+
+I: yo / en / en mi / ¿cómo te diré? / en mi experiencia / personal / familiar / porque pos ahora sí que voy a / voy a / voy a hablar de un / un / un tanto de mi familia / eh / mis padres vienen de Zacatecas / mi / mi / mi mamá e / viene a estudiar aquí / y aquí se conocen / mi padre viene a / viene / que se viene también de Zacatecas porque / pues allá viven de la siembra y entonces este / si no llueve no hay / trabajo / o sea algo muy difícil 
+
+E: sí
+
+I: es algo / es algo que / e / bueno es un problema / este que nos / que nos / repercute a todos / pero yo creo que / es donde hace falta / poner mano el gobierno o sea / si el gobierno no / no nos / no nos este / ayuda / e / pues la gente sale a buscar otras oportunidades a lo más / a la ciudad más cercana que tiene 
+
+E: mjm
+
+I: entonces / eso pasó con mis padres llegan aquí de Zacatecas y / y bueno ya / se casan aquí / nacemos aquí pero bueno / mi fami / mis raíces vienen de / de / de / de gente que viene / buscando oportunidades de trabajo porque / en su estado / no las hay / no las había / o tal vez las había pero / para / cierto 
+
+E: nivel
+
+I: nivel entonces mi / mis padres son / gente humilde / e vienen a / a Monterrey y y / bueno mi padre empieza a trabajar y mi madre fue mi mae- / fue / es maestra / y bueno / un tanto / por ella es que nosotros también / este / nos / nos preparamos / no dejamos e la escuela el / e l / el / la preparación / siempre y / y / y te digo bueno / esta gente que viene de San Luis pues está en la misma situación y / pues / están buscando una oportunidad / una mejor oportunidad de vida entonces / están en su derecho / están en su derecho y / este / desafortunadamente bueno ya / uno / uno de repente se / sé de / de gente que / pues abusa de esta gente que viene 
+
+E: sí
+
+I: con esa necesidad y con esa problemática y / pero / ¿qué puedes hacer? este / está así como que el / el / el problema nada más este pasándose de manos a / de una mano a otra y / y sigue 
+
+E: ¿y usted cree que eso es debido a que / estamos viviendo en una crisis?
+
+I: pero siempre hemos estado en crisis yo pienso 
+
+E: ¿usted cree que sí?
+
+I: desde que soy niña / desde que recuerdo siempre me han dicho México está en crisis México está en crisis entonces / siento que / seguimos en la misma crisis de hace / cincuenta años sesen- sesenta / no sé / no sé / este pero // pausa / de que la hay la hay / desde hace cuánto no lo sé y cuánto va a durar tampoco lo sé pero / sí es una / es un problema
+
+E: un problema / ¿y la gente que se va para Estados Unidos a trabajar?
+
+I: bueno / la gente que va para Estados Unidos / este / conozco mucha gente / e / amigos / vecinos / conocidos / este / familiares que / que van / buscando también / una mejor oportunidad de vida / pero / ¿qué puedo decirte? / no sé / los respeto y también los admiro porque no / no ha de ser nada / sencillo estar en un país donde / la mayoría no habla / el idioma y / se enfrentan / muchas problemáticas 
+
+E: ¿y la gente que se va para allá usted cree que / se / arraigan un poquito más la cultura o se empieza a perder?
+
+I: m / pues hay las / mm / yo pienso que hay hay hay este / los dos tipos / lo / la gente que / que busca / a los / a los e / mexicanos que / que viven cerca de él y / y siguen / se siguen / reuniendo frecuentando / claro que influye el estar en otro país y con otra gente / porque no solamente son mexi- / no solamente hay mexicanos / hay salvadoreños hay / este / venezolanos / este / hondureños / que al final de cuentas es una mezcla allá y / y yo creo que es difícil / aunque ellos traten de / de / de / conservar sus costumbres / sus sus / sus creencias / no es nad- / no / no ha de ser nada sencillo nada fácil 
+
+E: y / a raíz de que bueno / Monterrey / de / entre todo Mont / de todo este / México / pues ha sido una de las metrópolis más importantes del país / eh / ora / también / la carga negativa es de que / los índices de / pues de delincuencia / narcotráfico está cada día pues más / más presente
+
+I: a la orden del día 
+
+E: ¿usted cree / todavía que / Monterrey es una / e / pues ciudad segura? / o 
+
+I: no / no / definitivamente no es una ciudad segura / este / hemos visto de de / unos / años para acá / a la fecha / cuántas / cuántos asesinatos este / cuánta / cuánta maldad / cuánta / cuánto problema este / eh es algo muy / muy triste porque / aquí en donde estoy yo en francés / me / me ha tocado conocer / mucha / mucha gente / que profesionistas que / bueno de repente surge la pregunta / ¿por qué estudias por qué estudias francés? / entonces / pues cada vez me s / me / e e / la primera vez me sorprendí pero ahora digo / claro están en su / en su / en su derecho de buscar una mejor oportunidad de vida / y la ma- / me he dado cuenta que muchos / están estudiando francés / porque / e / no la gr- / no la mayoría pero sí es bastante gente / porque / quieren / principalmente está / Canadá 
+
+E: sí
+
+I: Quebec / ofreciendo / la / la residencia / y la ciudadanía / pero para eso tienes que tener una profesión / y hablar / un porcentaje de / del idioma francés / entonces / cada semestre me doy cuenta que es / más la gente / más / más / más / ya hay grupos / ya hay reuniones de grupos / de los / que están aplicando / para irse a Quebec / se reúnen aquí / cada mes / se reúnen en un Vips 
+
+E: mjm
+
+I: los hijos de los / de de los / sí ¿vedad? verdad de las personas que están aplicando para irse / los niños / están conviviendo con los demás niños / porque / cuando / logren su objetivo de obtener la residencia y / de irse a Canadá / va a ser su familia / entonces de aquí se están preparando fíjate desde aquí se están preparando eso es sorprendente / se están preparando para estar / porque saben que allá no va a haber papás no va a haber hermanos no va a haber tíos 
+
+E: no
+
+I: pero va a haber otra gente que está pensando igual que ellos salir de este / de esta ciudad / que cada vez es más / difícil / a mí me dijo una / una / alumna / ¡ay! maestra / pero tú que hablas bien francés / que tienes una profesión / que tienes una maestría que / tienes una experiencia / ¿por qué no te vas? / aquí es / es / es horrible ya vivir en Monterrey / y / y de repente sí yo me quedé / oye tiene razón / tiene razón o sea ya en la noche / salir / pues sí te da miedo
+
+E: <tiempo = “21:32”/> sí 
+
+I: o sea una / pu- / tú puedes ir tranquilamente / o venir tranquilamente y pos no sabes qué / quien venga en el otro coche o / qué / balacera se vaya a atravesar en el camino / entonces sí sí es una / es una ciudad / con mucho / pos ya con mucho peligro
+
+E: ¿y usted ha tenido una experiencia de ese tipo?
+
+I: no / pero lo ves al / de diario en la televisión / lo escuchas en la radio /¿qué pasa? / y sí / ¿qué pasa? / ¿qué pasa? / a cualquier hora del día / en / que si es en San Nicolás que si es en Monterrey que si es en Guadalupe o sea
+
+E: ya no
+
+I: ya no es / ya no hay un sector / o sea ya es
+
+E: en general
+
+I: toda el área metropolitana
+
+E: sí / y en cuestión de / a lo mejor voy a cambiar a un tema muy / muy
+
+I: a ver
+
+E: muy rápido <risas = “E”/> / este / e usted / ¿profesa la religión católica?
+
+I: m / sí
+
+E: ¿y en su fam- / y en su casa también?
+
+I: también
+
+E: conservan las / e / pues las costumbres? 
+
+I: las costumbres / sí
+
+E: por ejemplo / este / ¿festejan navidad?
+
+I: sí claro
+
+E: y / ¿cómo es? / por ejemplo este / este diciembre ¿cómo festejaron ustedes / la navidad / o el año nuevo?
+
+I: la navidad / bueno este / lo típico de las / las / las nueve / posadas / que se viven / e / yo so y / convivo mucho en / casa de mi madre porque es donde / mi mamá es / es viuda / quedamos huérfanos desde muy pequeños / mi mamá se va un tiempo a trabajar / y / cuando regresa / ya de planta a Monterrey / pues / obviamente que lógicamente siempre queremos estar con ella / porque de niños nos hizo mucha falta / y / y pues mi padre no / murió ¿verdad? entonces no / no / es más qu- / es una / cuestión de / de / disfrútala ora que la tienes ¿no?
+
+E: ajá
+
+I: mientras la / mientras estemos juntos vamos a disfrutarnos entonces / son los nueve días de la / de las posadas / en el barrio de mi mamá / se reza el rosario / completo / vamos con los niños / los papás si podemos van los abuelos / este / y en / en navidad / siempre / estamos con mi mamá / se reza el rosario / se hacen los tamales / es / es una / es una costumbre 
+
+E: tradición 
+
+I: perdón / y el es una tradición / se lo pasas a la chica que está afuera / gracias / y el / y el la / gracias / el / es / el / la / costumbre de / del veinticuatro pues / es este / convivencia nada más / tener la cena / y / una plática una charla / compartir regalos / este / pos los niños también / e / dos tres de la mañana y a dormir 
+
+E: mjm
+
+I: y lo mismo el / fin de año / claro el fin de año ya no hay regalos o sea <risas = “I”/> / pero convivimos también / de repente el fin de año se extiende un poco más hasta las / cinco o seis de la mañana por la plática y / el / el / la convivencia pero / pos así es / en familia / para mí / en familia 
+
+E: <tiempo = “24:32”/> y / ¿preparan ustedes algo / así ya tradicional por ejemplo no sé / los tamales / o 
+
+I: los tamales / o sea mi mamá es la de los tamales cada veinticuatro de diciembre / y / nada más / porque es una cansada / tremenda 
+
+E: ¿y los hacen así
+
+I: tremenda
+
+E: como aquí / aquí en Monterrey de / porque hay en diferentes partes que / que como los veracruzanos como los / los de 
+
+I: pues sí mamá
+
+E: los del sur / no sé
+
+I: no / perdón / mi mamá este / pues / sus / sus / maestras / e / sus recetas son / de Zacatecas / entonces / ella te dice todo de / como la / como la enseñaron sus / su / su mamá / su tía / una tía / abuela / y / y todo se hace / con la receta de la abuela
+
+E: mjm
+
+I: pero te digo de esta familia / venimos de Zacatecas / o sea / la / las especies o las / los condimentos típicos de <risas = “I”/> Zacatecas ¡vaya! no de / no de / del sur o de Veracruz / o de México no / de Zacatecas
+
+E: y así com- / ¿la receta más o menos cómo sería?
+
+I: ¡ay! <risas = “I”/> / está difícil porque / pues / mi mamá / prepara todo desde / un día antes en la noche y / y en la mañana se levanta temprano para / ir al molino y traer la masa 
+
+E: sí
+
+I: digo para / sí preparar la masa / este / y ya nosotros solamente vamos a lo que es e 
+
+E: embarrar
+
+I: embarrar / embarrar el tamal / y / y ella los / los este / los / los llena ¿verdad? / los llena y los / guarda los va acomodando en / en la olla ¡vaya!
+
+E: sí / ¿y de qué / de qué son? / de / ¿de qué lo rellena?
+
+I: pues / la mayoría es este / de carne de res y puerco / después hay algo de / frijol / porque a mi hermano es el / el que / le encantan los frijos- los / tamales de frijol
+
+E: mjm
+
+I: y / este año / hizo de / queso con rajas / y algo de dulce <risas = “I”/> alcanzó / pero / es mi mamá la qu- / yo no sé la receta / yo desconozco / qué va primero / qué se 
+
+E: todo hace
+
+I: qué cantidades o sea no no no / inclusive/ no me gusta ni / ni ir a embarrar / pero me obligan <risas = “I”/> / si no no / no como tamales <risas = “I”/>
+
+E: ahí todos parejitos <risas = “E”/>
+
+I: <tiempo = “26:44”/> sí / hasta mi hermano tiene que ir a / a traer la masa o no sé porque pesa mucho 
+
+E: sí
+
+I: ayudar a / ayudar a / amasar ¿no? / ame / amasar / pero / todos tenemos que aportar algo porque si no / no puedes comer tamales en la noche <risas = “I”/> 
+
+E ¿y también en / semana santa no / no acostumbran algo de comer?
+
+I: sí / este / bueno desde que empieza la cuaresma / desde el inicio de la cuaresma este / se / se hacen las comidas / típicas el / con camarón / o con pescado el / las lentejas / arroz con garbanzo / nopalitos / cabuches / que esas / cosas / las traen de Zacatecas no sé / unas florecitas / y / pero nosotros generalmente no pasamos m- / cuaresma qu- / la / la semana santa / la pasamos en Zacatecas / por / por lo mismo que / mi mamá es de allá y nos encanta / ir / nos esos días a / a / a respirar un aire diferente / a descansar a / relajarte 
+
+E: otro clima 
+
+I: otro clima / y vivimos ahí también lo que es la / los días santos / participamos también en las procesiones / en las / en las este / en la mi sa- / en la / en el baile también porque allá se acostumbra mucho el baile a media noche / después del / el sábado 
+
+E: ah
+
+I: ya el domingo ¿verdad? / la mañana del domingo es el baile / y / todo / todo todo se 
+
+E: ahí toda la gente participa
+
+I: todo el pueblo participa / aún y cuando ya hay mucha gente que no profesa la región ca- / la religión católica / ya donde quiera hay este / e de hermanos este / o / otras / otras sectas o religiones 
+
+E: mjm
+
+I: <tiempo = “28:18”/> pero / pues es muy bonito / es muy diferente para nosotros de la ciudad esos días / este / estar allá / y no / y y nos encontramos a mucha gente que tra- / que / bueno pos que yo trabajo en / Saltillo yo vivo en Monterrey yo vivo en / en ciudades ¿verdad? / y / y / y vamos a la / al pueblo / a pasar esos días 
+
+E: y qué / est- / ¿y también visitan los templos?
+
+I: también / también hay la visita de templos e / hay la visita del / del / perdón / te digo la procesión del / del silencio le llaman / y la procesión del vía crucis 
+
+E: ¿y cuál es e esa la del silencio?
+
+I: la del silencio / es a // es / el viernes / cuando / se supone que ya / / ya / después de las seis de la tarde / hay una procesión donde / se llama del silencio porque ahí estás acompañando / e / a / la virgen María / en lo que es la / la / su luto ¿no? 
+
+E: sí
+
+I: su pena su dolor / esa es la procesión del silencio / pero antes en la mañana fue la / la del vía crucis 
+
+E: es bien doloroso ¿no? todo ese día
+
+I: pos todo el día / sí / es al / pero mira / vas con los niños y que si quiero agua que si quiero coca y que mira / y que escucha / y que pon atención y / pues 
+
+E: y es diferente / también
+
+I: es diferente para los niños o sea / y yo me acuerdo cuando era niña también me encantaba ir al vía crucis y me encantaba andar / aunque fuera el pleno sol porque
+
+E: sí
+
+I: el vía crucis se realiza / se hace a las diez o doce del día / las diez de la mañana se / doce ya / del medio día / este / y pues sí está pesado / el sol / llévate tu para / tu sombrilla y <risas = “I”/>
+
+E: sí 
+
+I: y acompáñate de tu botella de agua 
+
+E: sí es muy / muy pesado como que a veces también esos / épocas / uno reflexiona ¿verdad? / como que 
+
+I: pues sí 
+
+E: es volver otra vez
+
+I: ajá 
+
+E: cada vez / o sea como que a uno se aleja mucho del origen y / es cada vez volver 
+
+I: mjm 
+
+E: o darse cuenta
+
+I: sí 
+
+E: de que / pasan muchas cosas pero / e / todo se origina en / en algo ¿no?
+
+I: tiene algo e / hay algo / mira por ejemplo yo / tengo / no sé cuánto tiempo yo ya no voy a / no voy a la iglesia no voy a misa yo creo que / pues no sé cuánto tiempo hace pero / estoy / no participo / pero sin embargo / no por eso que / yo ya / que yo deje de ser católica o sea yo soy católica sigo siendo católica creo en / en / en / en es / en esta religión / y / y lo seguiré siendo / aunque no participe / activamente <risas = “I”/>
+
+E: sí
+
+I: o semanalmente o como / como se pueda llamar / se le pueda decir / este / pero sin embargo yo me siento católica / entonces este / pues / así es / así es la cosa / y y / y procuro participar cuando puedo y / y / pero no / que tenga qué / no lo siento un tener qué no siento / ¡ay! que va a pasar algo malo o sea no no no 
+
+E: es com- / se lleva por dentro ¿no? a veces
+
+I: <tiempo = “31:11”/> cada quien / exacto
+
+E: a veces no necesitas
+
+I: exacto / porque yo pienso que en todas las religiones / e / podría ser lo o sea mismo o sea / haces el bien / estás bien tú / para hacer el mal / en donde estés ¿verdad?
+
+E: sí
+
+I: en todos lados hay / hay una persona que ayudar / hay una persona / muchas personas / este / a quien servir / entonces / pos no necesito ir al templo para sentirme bien / y salir del templo y / no actuar / pues pos / o de / con / de acuerdo a mis pensamientos / no a lo que piensan los demás sino / yo / me siento bien conmigo misma / lo que estoy haciendo / sino estoy faltando a nadie ps pos no / no / no tengo por qué temer
+
+E: sí / no hay como / se dice delito ¿no? qué perseguir 
+
+I: exacto 
+
+E: se siente / ya hay / tranquilidad
+
+I: me siento tranquila o sea / y aunque no voy a misa / aun cuando no voy a misa cada domingo / a las doce o a las diez o a la hora que sea / no no / no me siento / con esa carga de / ¡ay! / no fui a misa 
+
+E: sí 
+
+I: pero sin embargo cuando hay mome- / cuando es momento participo de / de todas las / las costumbres
+
+E: mire le voy a hacer ahorita unas preguntas más concretas
+
+I: mjm 
+
+E: eh ¿cuál es nombre / completo?
+
+I: ____ ________ / _______
+
+E: ¿cuántos años tiene?
+
+I: treinta y cuatro / antier los cumplí <risas = “I”/>
+
+E: ¡ah no <risas = “todos”/>
+
+I: cumpliditos / pues / treinta y cuatro dos días 
+
+E: muy / muy joven 
+
+I: sí
+
+E: ¿estado civil?
+
+I: ¡ay! yo sí / muy joven / sí / e casada
+
+E: ¿dirección?
+
+I: eh / Francisco León de la Barra 
+
+E: ajá
+
+I: trece treinta y nueve / Monterrey 
+
+E: ¿su teléfono?
+
+I: ochenta y tres / treinta y uno ochenta ochenta y tres
+
+E: religión católica ¿verdad? 
+
+I: católica 
+
+E: ¿de dónde es usted? <observación_complementaria = “Se escuchan voces” />
+
+I: de aquí de Monterrey Nuevo León
+
+E: siempre ha vivido aquí ¿verdad?
+
+I: sí 
+
+E: <tiempo = “33:03”/> e ¿de dónde era su / papá y su mamá?
+
+I: Zacatecas 
+
+E: ¿y su abuelo paterno y materno?
+
+I: e / también
+
+E: ¿todos?
+
+I: de Zacatecas
+
+E: okay / entonces / todos los treinta y / cuatro años siempre ha vivido / aquí ¿verdad? 
+
+I: salvo esos meses que te digo que me he ido pero
+
+E: siempre 
+
+I: siempre
+
+E: ah / okay 
+
+I: sí no nunca he cambiado de / de ciudad 
+
+E: e / ¿tiene usted alguna afición o / algún pasatiempo?
+
+I: ¿alguna qué?
+
+E: una afición / algún pasatiempo
+
+I: algún pasatiempo / ¡ay! qué / este / me encanta ver películas / me fascina ver películas / que / ahora lo hago poco / porque ya no tengo tanto tiempo pero / disfruto mucho una película
+
+E: ¿los fines de semana?
+
+I: sí una película por semana yo creo / cuanto a / cuando antes era yo creo una película diaria / ahora es una por semana / y me gusta mucho también / conversar / me encanta conversar 
+
+E: okay / e/ ¿asiste usted al cine?
+
+I: sí
+
+E: ¿con qué frecuencia / va? 
+
+I: ¡uy! no pues ahora ya es menos / e digamos que / no sé / cuatro veces al año / pero de novios y de / recién casados yo creo que cada semana / cada miércoles dos por uno
+
+E: los estrenos ¿verdad? <risas = “I”/>
+
+I: sí / no falla pero / que los gastos / la familia / la casa / el trabajo es / diferente 
+
+E: sí / ¿y de qué nacionalidad prefiere ver las películas / en el cine?
+
+I: todo tipo de películas / me gustan las mexicanas / las europeas / este / y de repente las / asiáticas no tanto / les / le doy la vuelta / a las asiáticas 
+
+E: es otro / es ¿verdad? 
+
+I: cultura / sí / pero o sea / me gustan las / las este / africanas también / las / las europeas / las / es muy / es muy / a / a mí me causa mucha gracia ver / cómo reaccionan / cómo / los gestos / todo / todo / muy / muy interesante 
+
+E: ¿y de qué nacionalidad / bueno / prefiere las películas extranjeras?
+
+I: <tiempo = “35:18”/> francesas / digamos 
+
+E: francesas
+
+I: sí
+
+E: como / en las / películas francesas el el / los tiempos son / son muy diferentes ¿verdad? como / que nosotros estamos acostumbrados a las secciones rápidas / seguidas <risas = “I”/> ¿verdad? 
+
+I: mira / cuando les pongo películas a mis alumnos / que s / generalmente son los / niveles avanzados / cuarto y quinto / nivel de francés / este / obviamente ya pasaron por otros / semestres y e / tal vez algún otro maestro ya / ya les hizo ver una película francesa / pero sí te encuentras con ese tipo de gente que te dice / no no me gustó la película / tú como maestro / yo como maestra les pongo lo que a mí me gustó ¿verdad? 
+
+E: mjm
+
+I: pensando que les va a gu- / que va a tener la misma impresión / y la mayor / y y / la mitad me dice sí no / sí sí me gustó maestra está padre <observación_complementaria = “agradable, divertido” /> / y hay / otros alumnos que dicen / ¡ay no! es que corría de un lado a otro me cansé o sea / me cansé de seguirla y no entendí / y al final / yo me esperaba el fin / el / final / feliz y todos vivieron felices <risas = “I”/>
+
+E: como el de Amelie ¿verdad?
+
+I: exacto / esa película a mí me fascina me encanta / yo creo que / este / es es una de mis favoritas / pero sí me he topado con algunos que me dicen / no / me cansó / o sea me cansó la película / este / no / no me gustó / no me gustó 
+
+E: es s que es muy inesperado los / los finales <risas = “I”/> ¿verdad? <risas = “todos“/>
+
+I: exacto 
+
+E: en una escena se queda e suspendida la cama y luego 
+
+I: <risas = “I”/> pasa eso
+
+E: pasa a otro
+
+I: ajá / aparece / otra / otra / otra escena / en otro lugar y / otra gente que / dejaste de verlo / diez / minutos atrás y entonces regresa y / es algo / algo 
+
+E: que pasó 
+
+I: cansado 
+
+E: sí 
+
+I: a lo que no estamos acostumbrados 
+
+E: pues es que demanda un 
+
+I: una atención
+
+E: sí
+
+I: este 
+
+E: y lo otro ya está dado 
+
+I: mjm
+
+E: está muy muy plano / lo otro sí tiene que ser muy receptivo para
+
+I: exacto
+
+E: el hilo ¿verdad?
+
+I: sí / queremos la típica película americana / entonces sí es <risas = “I“/> / ahí es / ahí está el problema <risas = “I“/> 
+
+E: que va a salir el héroe y ya <risas = “I“/> / y ya se acabe todo
+I: sí 
+
+E: <tiempo = “37:14”/> entonces usted tiene / eh / ¿ve las películas de tip / de qué tipo son? / ¿de acción o de aventuras o
+
+I: ¡ah! no a mí me gustan las / comedia / las / las de amor / las que tengan alguna / algún mensaje / alguna reflexión / por ejemplo / bueno me gusta mucho la de / la italiana la de La vida es bella / pero yo creo que no la volvería a ver porque sufrí mucho / hay otra película que se llama / ¡ay! no recuerdo el nombre / y es francesa / Los hijos del señor / Batiñol / Los hijos del señor Batiñol / algo así 
+
+E: ¿o cómo se llama las del Closet / de este / ¡ay! ¿cómo se llama ese actor?
+
+I: las de / éste 
+
+E: este 
+
+A1: Gerard De Pardieu
+
+I: ajá
+
+E: Gerard De Pardieu / que son comedias de que <risas = “todos”/> / ¿qué pasó? 
+
+I: ¿qué pasó? / ¿dónde quedó? / y eso te digo la del señor Batiñol / este / los hijos / pues en realidad no son sus hijos son / de / son hijos de un / de un / de un este de una persona que es / catalogada judía / y está huyendo / entonces los hijos están entre / nos vamos / o pasamos por hijos de / de este francés o qué hacemos / pues para salvar la vi- / salvarse su / su / para salvar su vida ¡vaya! / entonces es una película / muy bonita pero / yo / también / si sufro mucho no la vuelvo a ver 
+
+E: ya no
+
+I: no / El ángel enamorado / es otra película que / ¡a y! / qué tristeza al final / ¡ay no! / y me dicen ¿no la vuelves a ver? / no no la voy a volver a ver / no / no no no <risas = “I”/> / Un ángel enamorado se llama 
+
+E: sí
+
+I: pero esa sí es película americana 
+
+E: son así como que / muy / muy traumantes a veces ¿verdad? <risas =”I”/>
+
+I: no no 
+
+E: ¿y escucha radio usted?
+
+I: sí / me gusta escuchar radio 
+
+E: ¿qué tanto lo escucha?
+
+I: todos los días porque / siempre que voy en el coche / este / me gusta escuchar / las noticias / me gusta escuchar este / el / me gusta mucho la / la estación del TEC <risas = “I”/> / me gusta la estación del Tec / e 
+
+E: ¿y qué / qué sintonía tiene? / la del Tec / ¿qué frecuencia tiene?
+
+I: es que / ¿cómo frecuencia?
+
+E: sí así como las otras que ciento tres punto nueve y que
+
+I: ¡ay! no / eso sí no / no pongo atención / yo nada más le cambio y donde encuentro ahí / ahí / ahí se queda / no no no no pongo atención a eso la verdad / este / o ya está / como ya está en / en la melodía 
+
+E: programado
+
+I: están programadas exactamente / están programadas pos ya / pos esta es la del Tec / esta es la de no sé dónde y / la cumbia que le gusta a mi esposo / y el rock / y los sesentas los setentas / entonces / pos ya nomás le doy el clic 
+
+E: ¿y ahí en el / en esa estación es pura / música / en inglés o?
+
+I: no fíjate / este / de repente muy temprano que música salsa / que no se qué
+
+E: ¡ah! / sí es cierto son por periodos 
+
+I: sí o sea / por eso me gusta porque / este / igual y tienen música de / de otros países / en inglés
+
+E: muy internacional ¿verdad?
+
+I: en francés / este salsa / por eso me gusta / fíjate 
+
+E: entonces a usted le gustan de todo tipo de géneros 
+
+I: todo / todo / no
+
+E: ¿no hay ningún favorito?
+
+I: estoy abierta no / me encanta / o sea me encanta la / la / la diversidad 
+
+E: okay e m / entonces / mm / ¿en la radio escucha usted / así programas de bromas o / programas
+
+I: este / no no tanto / eso no me gusta 
+
+E: ¿no? / ¿sólo noticieros y música?
+
+I: noticieros y música / sí no no / de chistes y esas cosas 
+
+E: de parejas y 
+
+I: bromas / no no me gustan / no no
+
+E: noticieros 
+
+I: no / y respeto a la gente que le gusta ¿verdad? / pero no / no no / no participo en eso 
+
+E: <tiempo = “40:44”/> ¿usted ve la televisión?
+
+I: sí 
+
+E: ¿con qué frecuencia?
+
+I: eh bueno / mm / verla o / la estoy escuchando porque e estoy haciendo / la comida la cena / o preparando la niña para en la mañana / en la mañana que vamos al / colegio al trabajo / yo despierto con la televisión / es la / es la / mi despertador / está programada y / que no se vaya la luz porque ya no desperté 
+
+E: ya no
+
+I: no no es cierto <risas = “I”/>
+
+E: y / ¿cuando tiene la oportunidad de ver / la televisión ¿qué / qué ve? / ¿qué programas?
+
+I: pues una película / o el noticiero / despierto con el noticie / noticiero en la mañana 
+
+E: así como los / reality shows / o los talk shows / ¿eso no?
+
+I: no / no me gusta / no me gusta / no del todo / no / tal vez de repente tengo que ceder porque no soy la única que ve la televisión / está mi esposo / está mi hija / la niña tiene / seis años / entonces / eh / ¡ay no! ya tiene / ¿cuántos tiene / sie / seis?
+
+A1: seis <risas = “I”/>
+
+I: va para seis / este / entonces de repente pues si la niña / tiene ganas de ver una caricatura pos me siento a ver caricatura con ella / y / si mi esposo dice ven acompáñame y está viendo / no sé de repente el box o / la lucha / un rato porque / pues tam- / bien / digo / se me hace feo / apoderarme del / televisor y ahora ven lo que yo quiera / hay un rato para cada / para cada uno 
+
+E: y está difícil ¿verdad? a veces / por turnos
+
+I: n y aunque / aunque tien- / aunque tengo / tres televisores / este / pos de repente me habla la niña y voy a su cuarto y tiene su tele chiquita / dices ¡ay! me siento con ella a ver las caricaturas / o en la mañana / luego mi esposo está en la sala / viendo / el box o la lucha o lo / el futbol 
+
+E: no / sí
+
+I: no me gusta no entiendo el futbol no me gusta pero de repente me siento a verlo un rato y bueno ya estuve aquí
+
+E: para convivir también ¿verdad?
+
+I: sí exactamente / y aunque te digo no m / no me gusta pero / pos hay que ceder / de repente / y de repente yo también los hago que se sienten a ver un / un / documental / porque me encanta History Channel / este / los hago que estén viendo conmigo el documental / que si Grecia que si / <observación_complementaria = “se escuchan voces” /> no sé qué / que si los animales 
+
+E: tienen qué ceder ¿verdad? 
+
+I: hay que / hay que <risas = “I”/> / tiene que haber tolerancia 
+
+E: ¿y con qué frecuencia ve usted películas en la televisión?
+
+I: pues ahora como / una película por semana 
+
+E: poco ¿verdad?
+
+I: sí / poco
+
+E: una por semana / ¿de qué nacionalidad le gusta ver las películas en la / en la televisión?
+
+I: pues / afortunadamente con e l / sistema este de Cable / de / de cable / tienes / tienes una opción / de películas americanas / mexicanas / extranjeras / este / es lo que / encuentre y / que se a juste a esas dos horas que voy a ver tele / pues en realidad no sé 
+
+E: se queda allí / ¿le gustan más dobladas o con subtítulos?
+
+I: dobladas / sí / prefiero las dobladas
+
+E: ¿y usted cuenta con videograbadora / DVD?
+
+I: sí / sí sí
+
+E: ¿tiene / ambas?
+
+I: ambas / sí porque/ ya ora ya no hay tanto / ya no hay tanta videograbadora pos todo es por s- 
+
+E: DVD
+
+I: DVD > pero / aún / aún conservamos la 
+
+E: ¿y de los / niños este sí tienen consola para videojuegos?
+
+I: no / no / tengo una niña entonces nosotros / lo que / lo que tenemos son / sí son / sí / DVDs / DVDs de pelícu- de / jueguitos / pero / todo tiene / tien- / está en relación / porque la niña está en / es apoyo para que aprenda / afiance / sus conocimientos / pues ahorita está con las sílabas entonces son jueguitos que le ayudan a / aprender 
+
+E: interactivos
+
+I: ajá / interactivos que le ayudan a aprender a leer / a aprender a escribir / a reconocer las letras los números / ese tipo de juegos sí los tenemos / pero los / vemos en la computadora 
+
+E: okay / entonces / ¿tiene usted cable o Sky?
+
+I: sí
+
+E: ¿o MVS no sé cuál?
+
+I: tenemos Sky 
+
+E: el Sky / okay / e / ¿cuántos televisores tiene en su casa?
+
+I: tres
+
+E: ¿lee usted el periódico?
+
+I: sí
+
+E: y / ¿qué / cuál periódico?
+
+I: El Norte
+
+E: El Norte / ¿qué tanto lee el periódico?
+
+I: pues pos sábados y domingos <risas = “I”/>
+
+E: okay 
+
+I: <tiempo = “45:03”/> antes lo pedíamos en / todos los días pero / pues no no tengo tiempo de leer diariamente pero sí lo tengo s / sábado y domingo van y me lo dejan / sábado y domingo
+
+E: ¿qué sección del periódico / le gusta leer?
+
+I: ¡ay! Vida / este / Sociales / pos le doy un / le le doy una leída / general 
+
+E: mjm
+
+I: todas las / todas las secciones / pero me gusta el / el Magazine / me encanta / los chismes del Magazine 
+
+E: sí / ¿y lee usted revistas?
+
+I: sí / revistas 
+
+E: ¿y qué tipo de / de revistas lee?
+
+I: mira tengo / revi- / me gustan las revistas de / de / las que / maneja TVNovelas 
+
+E: mjm
+
+I: acostumbro leer esas pelíc- / revistas / pero también / por otra parte / este tengo las revistas que me llegan de / de 
+
+E: ¿se suscribe / usted?
+
+I: sí / pero son namás / e / en cuanto a la enseñanza del francés 
+
+E: ¡ah! okay / ¿especializada? 
+
+I: es una revista especializada / para profesores de francés / donde te dan las novedades / fichas pedagógicas / eso me encanta / eso lo recibo cada mes 
+
+E: mjm / y / ¿qué tanto lee las revistas?
+
+I: ¡ay! pos yo creo que / no sé la / las / no la de los chismes pos una vez y se queda allá en el 
+
+E: es que también / son más este accesibles usted va al / a / a cortarse el cabello
+
+I: sí <risas =”I”/>
+
+E: y mientras tanto ¿verdad? <risas =”E”/>
+
+I: un rato / sí
+
+E: ahí se hojean las revistas <risas = “I”/>
+
+I: nada más / pero la especializada pues se queda / no sé / a veces / cuatro o cinco veces según la / voy necesitando las fichas y y pues las tengo ahí este
+
+E: catalogándose 
+
+I: catalogadas / y me sirven mucho / mucho mucho porque aunque es una revista de hace tres años / hay una ficha que de / que puedo explotar / en este semestre y / pues adelante
+
+E: de utilidad 
+
+I: sí
+
+E: ¿usa usted el internet?
+
+I: sí / todos los días
+
+E: ¿en dónde lo usa?
+
+I: aquí en el trabajo 
+
+E: okay / e / ¿hay computadoras en su casa?
+
+I: sí
+
+E: ¿cuántas?
+
+I: dos
+
+E: ¿son portátiles?
+
+I: una portátil y una
+
+E: lap top / y de escritorio
+
+I: sí / una y una 
+
+E: ¿y cuando usted utiliza el Internet / para qué lo utiliza usted?
+
+I: eh / recibo mucha / ahorita estoy / recibiendo mucha / mucha información / de / de Canadá y de Francia / por lo / por cuestión de la licenciatura 
+
+E: mjm
+
+I: entonces / doy respuesta a los correos / al las peticiones / a la información que me piden / y / y de pasada checo mis / mis correos personales 
+
+E: okay / ¿y lo utiliza / diario o / o qué 
+
+I: sí
+
+E: con qué frecuencia?
+
+I: ah / es diario 
+
+E: okay 
+
+I: es diario
+
+E: ¿y busca información aparte?
+
+I: también / también / me gusta mucho 
+
+E: ¿el chateo no lo 
+
+I: no / eso no tanto 
+
+E: okay / eh / ¿tie-?
+
+I: me gusta más conversar pero de 
+
+E: en viva voz
+
+I: de viva voz / sí
+
+E: ¿tiene / usted teléfono fijo?
+
+I: sí
+
+E: ¿y celular?
+
+I: también 
+
+E: ¿y cuáles son los usos que le da usted al celular?
+
+I: ¡ay! bueno pos últimamente ha sido / así como que / no te despegues del celular porque te van a llamar <risas =”I”/> de / rectoría / te van a llamar de la preparatoria / estamos agendando citas / para / hacer publicidad de la / licenciatura entonces doy mi / doy mi / mi / mi número para que me localicen a la hora que se / al / al final de cuentas lo que queremos es una / una cita y / bueno pues / no importa a la hora que me hablen 
+
+E: <tiempo = “48:40”/> entonces / ¿por lo pronto es sólo / recibe / o hace llamadas?
+
+I: sí / bueno también este tengo qué / que enviar au / algunos mensajes a mi coordinadora / o / llamarles / ya agendé citas 
+
+E: mjm / e ¿visita usted museos?
+
+I: poco / muy poco 
+
+E: entonces ¿más o menos con qué / frecuencia será / cuántas veces?
+
+I: ¡ay! yo creo que algunas dos veces tres veces al año 
+
+E: ¿asiste usted / a conciertos?
+
+I: m / también poco 
+
+E: entonces / más o menos / ¿dos veces al año / o una vez al año?
+
+I: pos igual unas tres veces al año 
+
+E: okay 
+
+I: pos es que ahora todo es / es muy caro / entonces / cualquier cocie- / concierto / más el / la coca y / lo que se te antojó comer ahí / y / este 
+
+E: los precios sí son muy elevados
+
+I: sí / y de repente / pos no te puedes dar esos lujos tan / tan seguido bueno a menudo / pero sí o sea / sí me gusta y / no lo hago muy seguido pero sí lo / procuro
+
+E: sí / asiste 
+
+I: mjm
+
+E: y / ¿usted / va al teatro?
+
+I: eh también poco / poco
+
+E: okay / entonces 
+
+I: voy más a fiestas infantiles ahorita <risas = “E“/> / pregúntame que salón de fiestas los conozco casi todos
+
+E: <risas =”E”/> donde están / sí
+I: este los shows / dime películas de niños / y ahorita estoy / más en el rol / porque como trabajo toda la semana / mi esposo y yo trabajamos toda la semana / entonces obviamente el poco tiempo que tenemos / pos queremos estar / niña 
+
+E: pos con la familia
+
+I: ajá / nos vamos / nos enfocamos a la niña o sea / tú y yo / nos encanta el baile / nos conocimos bailando / íbamos mucho tiempo al baile / al cine / pero ahora / dices tú / bueno / hay poco tiempo / pues / con la niña / y donde esté la niña / no la vamos a llevar a un concierto / la vamos a llevar al / al teatro o sea 
+
+E: es muy difícil 
+
+I: por eso / por eso / cambia / ya al rato que crezca la nena pos otra cosa será 
+
+E: ¿usted suele viajar / por placer?
+
+I: sí
+
+E: ¿y con qué frecuencia esto? 
+
+I: ¡ay! / pos eso sí / eso sí es muy seguido / cada que se puede / vacaciones / cada que hay vacaciones / cada puente / este / pos / te digo vamos a Zacatecas / vamos a / a Laredo vamo- / aprovechamos el / el / los / tres días que te / robas en un puente / que hizo puente 
+
+E: para conocer / aparte 
+
+I: sí
+
+E: o sea ¿más o menos son / tres o / más veces al año?
+
+I: si o sea
+
+E: okay 
+
+I: cinco o seis / no sé <risas = “I”/> 
+
+E: entonces ¿usted cursó / los seis años / de primaria / en una / en una escuela pública o privada?
+
+I: pública 
+
+E: pública
+
+I: yo cursé también dos de kínder 
+
+E: okay / dos de kínder
+
+I: dos de kínder / ya existía el kínder / ¿e <risas =”I”/>
+
+E: sí ahora ya son los que / casi casi van a ser tres años 
+
+I: ya 
+
+E: ¿verdad? obligatorio para los bebés 
+
+I: porque cuando yo / cursé dos años este / había / cuando / llego a primero había niños que no habían ido a kínder / y se fueron / automáticamente a primero porque el kínder no era obligatorio 
+
+E: mjm
+
+I: entonces / ya imagínate yo ya iba yo creo que muy cansada / a la primaria 
+
+E: sí <risas = “E”/>
+
+I: y niños iban / bien frescos o sea / no cuántos / ¿y fuiste al kínder? / no / nunca / nunca / y yo tuve que ir dos años / pero bueno 
+
+E: y / bueno / en el kínder entonces / ¿fue en una / escuela / pública o? 
+
+I: pública también 
+
+E: pública
+
+I: sí
+
+E: y / ¿la fecha en que / lo terminó?
+
+I: fue del / a ver / si a la primaria entré el siete nueve / tiene que haber sido del siete siete / al siete nueve
+
+E: siete nueve / y entonces
+
+I: la primaria fue del siete nueve al ocho cinco 
+
+E: ¿y en qué lugar estudió el kínder y la / primaria? 
+
+I: el / en Monterrey 
+
+E: en Monterrey
+
+I: en el Venust- el / kínder se llama Venustiano Carranza
+
+E: mjm / ¿y la primaria?
+
+I: Anastasio A Treviño / también en Monterrey
+
+E: ¿la secundaria fueron de tres años?
+
+I: de tres años / también en Monterrey
+
+E: pub- / ¿y pública?
+
+I: pública / pública
+
+E: ¿fue de mil novecientos ochenta y cinco
+
+I: ochenta y cinco al ochenta y ocho
+
+E: <tiempo = “52:42”/> ochenta y ocho / también en Monterrey?
+
+I: también 
+
+E: ¿tuvo / al / algo de comercio / o algo así?
+
+I: ¿técnica?
+
+E: sí más o menos
+
+I: no / ¿en los talleres? / no yo llevé / corte y confección 
+
+E: okay / sí
+
+I: como taller 
+
+E: ¿y la preparatoria fue de tres años?
+
+I: de dos / de dos años / estuve en la quince Madero 
+
+E: okay / pública quince Madero / ¿y fue de mil novecientos? 
+
+I: noventa / no espérame / ocho ocho noventa
+
+E: ochenta y ocho
+
+I: al noventa / dos años 
+
+E: e m / ¿alguna carrera de la normal básica / o usted ya se pasó a la 
+
+I: no / fui directamente aquí a / vine directamente aquí a la facultad 
+
+E: ¿y fueron aquí cinco años? 
+
+I: cinco años / del noventa al noventa y cinco 
+
+E: de mil novecientos noventa a mil novecientos noventa y cinco / ¿tiene alguna maestría usted?
+
+I: sí / ahorita / estoy / estoy en el / a / apenas me asegu- / me asignaron asesor / para / para ya / obtener el título 
+
+E: ¡ah! okay 
+
+I: pero ya soy pasante / soy pasante
+
+E: y / ¿fueron de tres años?
+
+I: sí / tres años / ahí son tres años 
+
+E: y ¿en dónde fue?
+
+I: en la Escuela de Ciencias de la Educación / la Secretaría de Educación 
+
+E: okay / y e / ¿en qué años empezó?
+
+I: en el / ¡ay! / dos mil siete / estamos / ¡ah! pero no acabé en el dos mil seis / dos mil tres / dos mil seis
+
+E: dos mil tres dos mil seis / mmm / ¿y piensa usted estudiar el doctorado o
+
+I: sí sí ya ya estoy con / digo yo siempre dije ¡no! / acabo la maestría y 
+
+E: y ya no
+
+I: ya no quiero saber / más / nada / y mi esposo me dijo / ni digas nada porque ya te veo / ¡ay! ahora voy a ¿qué crees? <risas = “I“/> / ¡ni! te quejes porque ya te oigo / diciéndome que el doctorado aquí / que el doctorado allá / y pero aparte / fíjate fíjate aparte / después de la licenciatura / hice tres años de / diplomado 
+
+E: mjm
+
+I: tres años de diplomado que debía haber sido un máster o algo así
+
+E: sí
+
+I: a distancia / para obtener el / el / título como profesora de francés 
+
+E: okay 
+
+I: porque / la universidad / rectoría / exigía que tuviéramos un papel / que nos avalara como maestras de francés y entonces / pos dijo Rectoría ya las tengo / ya estábamos trabajando aquí eh / éramos un grupo de / siete profesores / entonces / cuatro iniciaron en / digamos una generación y luego nosotras tres y fuimos la segunda generación que nos / que nos becó rectoría / nosotros no pagamos ni un cinco / entonces / nos beca rectoría esos / tres años de diplomado / y / pues tuvo / eh / a distancia con la embajada de Francia y / y u / y una Universidad en París / te digo / fueron tres años / para obtener el / título de maestra en francés también 
+
+E: okay / ¿y aquí cuando estudió la licenciatura fue / licen- / cuál era la
+
+I: ¡ah! lingüística aplicada / en didáctica 
+
+E: ¿entonces usted usted sabe inglés y francés?
+
+I: sí / pero no me preguntes nada de / fra- / inglés porque / lo id- / un idioma es muy celoso / si no lo hablas lo olvidas 
+
+E: sí
+
+I: entonces / como yo vivo ya para el francés 
+
+E: le gustó más
+
+I: sí entiendo el inglés / y me puedo / dar a entender en un / en una necesidad que / que / surja / pero yo ya no sé de clases de inglés o sea / tengo / prácticamente ocho años / yo trabajé tres años como profesora de francé- / de inglés / y me enamoré del francés y / adiós inglés 
+
+E: ¿sí? <risas =”E”/>
+
+I: o sea / definitivamente así fue 
+
+E: <tiempo =”56:11”/> y entonces / ¿usted / desde cuándo / está trabajando?
+
+I: ¡uy! desde
+
+E: desde qué año
+
+I: desde el / desde que ingresé / desde el noventa y cinco
+
+E: ¿entonces ahorita está trabajando en el / por parte de la?
+
+I: de la universidad
+
+E: de la universidad
+
+I: desde el noventa y cinco he estado aquí en la universidad / desde el noventa y cinco / y he tenido otros trabajos este / ¡ay! ¿cómo se dice? / est- / temporales ¿verdad? 
+
+E: ajá
+
+I: estuve dos años en la Normal / en el Centro de Idiomas de la Normal Superior / estuve en colegios / particulares / estuve / en / eh / con cursos particulares / sí / pero la Universidad nunca la he dejado / siempre he estado en la universidad 
+
+E: a la par
+
+I: siempre 
+
+E: okay / entonces / ¿el puesto que usted desempeña?
+
+I: soy / maestra de francés / y responsable de / del equipo técnico de francés / en el Centro de Idiomas / y a partir de este semestre / soy / la responsable de la licenciatura en enseñanza del francés 
+
+E: no eso es / <risas = “E“/> es mucho
+
+I: sí
+
+E: sí es muchas actividades 
+
+I: sí / pero mientras pueda estar / con la / con ambas 
+
+E: con / no y que usted usted se sienta muy 
+
+I: con ambos este coordinación y mis
+
+E: 
+
+I: sí / y obviamente digo bueno pues / si al rato yo pretendo / eh / seguir con el doctorado / que me encantaría la verdad / este / pos voy a tener que sacrificar algo / voy a tener que dejar algún
+
+E: un cargo 
+
+I: alguna coordinación y / no vale la pena / este / a / ya habrá quien se quede y / quien siga con el trabajo eso no / eso no es
+
+E: no es impedimento 
+
+I: no no / siempre hay gente que va a ocupar tu lugar / y e / de eso de eso tenemos que estar bien conscientes / de repente nos / nos emocionamos y decimos no no no es que si yo no lo hago nadie lo va a hacer / es mentira / es mentira entonces / tú estás preparado para estar aquí / y el día de mañana / nunca sabes
+
+E: sí 
+
+I: habrá otra gente
+
+E: y con respecto a su salario / e / mensual / ¿más o menos en qué rango / usted lo / pondría?
+
+I: eh no sé
+
+E: mjm / por ejemplo / no sé / cuántas veces más del mínimo
+
+I: es que no sé ni cuánto es el mínimo la verdad
+
+E: pues más o menos como / seiscientos cincuenta pesos
+
+I: ¿por semana?
+
+E: sí / o /setecientos pesos por semana
+
+I: ¡ay no! eso es muy poquito 
+
+E: sí 
+
+I: qué tristeza no me digas eso 
+
+E: sí porque la gente cuando / cuando tiene que / recibir más o menos como / mil pesos / se tiene que quedar / horas extras y
+
+I: no me digas eso 
+
+E: sí / sí está mu- / está muy / muy crítica 
+
+I: ¡muy bajo! / muy bajo 
+
+E: la situación 
+
+I: ¡ay no! / no no no no ¡ay qué / yo estoy / contenta con mi / con mi salario / este / que no es así 
+
+E: ¿cómo podemos situarlo entre / cuatro y seis veces el mínimo / entre / cinco y diez
+
+I: ¡ay! pos déjame hacer cuentas porque no / no sé <risas =”I”/> 
+
+E: más o menos 
+
+I: ¿qué me dijiste? / ¿setecientos setecientos por semana?
+
+E: sí más o menos / 
+
+I: como cuatro veces
+
+E: ¿cuatro veces? / de cuatro a seis / más o menos
+
+I: bueno 
+
+E: puede ser ¿verdad? / ¿y qué prestaciones recibe en su trabajo?
+
+I: servicios médicos 
+
+E: mjm / ¿vacaciones?
+
+I: este vacaciones 
+
+E: ¿utilidades?
+
+I: utili- / no / ¿cómo se llama? / aguinaldo 
+
+E: okay 
+
+I: sí / aguinaldo / no utilidades no / no recibimos / bonos de libros / de despensa 
+
+E: okay / ¿y cursos de capacitación?
+
+I: también 
+
+E: también 
+
+I: también este / tengo / la fortuna / este / de / cada año / tengo que ir a un congreso / tengo qu- / y me encanta viajar no sabes / por todo México 
+
+E: y ahora / en Austin 
+
+I: este / yo no pensaba / no lo había contemplado pero / este / me acaban de invitar 
+
+E: ¡ah! pues qué bueno
+
+I: me acaban de invitar entonces yo creo que esas cosas uno no se puede negar 
+
+E: no a lo mejor ahí nos vamos a ver 
+
+I: ¡a y! ¡qué / qué padre! / yo estuve en Austin ahora en enero / a finales de enero / porque fui buscando algo de bibliografía que me hacía falta para lo de mi / tesis de / de maestría / y el doctor Re- / Ernesto Rocha / ¿Ernesto Rocha? / Enrique / no Ernesto / Enrique Rocha es el actor ¿verdad?
+
+E: sí 
+
+I: ya lo estoy haciendo actor al / al profesor / al doctor Ernesto Rocha que trabaja en / posgrado en / en / ¡ay! / el doctorado en / filosofía en / educación o
+
+E: ¡ah! y acentuación en el / ciencia de la cultura algo así
+
+I: bueno el doctor Rocha que / nos está impartiendo este de / diplomado en investigación científica / él nos invitó a Austin / y cada quien costeó su viaje ¿verdad? / pero / qué bonito / que bonito este / vivir esa experiencia / entonces ahora / yo dije no pos ya fui a Austin en enero ¿verdad? / y me / acaban de invitar que si me interesaba y yo / ¡ih! / claro que me interesa / claro que sí / entonces probablemente <risas = “I”/>
+
+E: sí vaya para
+
+I: sí <risas = “I”/>
+
+E: para allá para Austin 
+
+I: vaya / vo / voy para Austin 
+
+E: <tiempo = “61:04”/> okay / entonces / ¿cuántos focos / tiene usted en su casa?
+
+I: ¿focos? 
+
+E: sí <risas = “todos“/> a lo mejor suena muy capcioso 
+
+I: ¡ay! mira pues cada / e cada / abanico trai sus focos / a ver / no no / oye nunca me había puesto a pensar en eso / a ver / ¡ay no! como treinta no sé / como o una cosa así <risas =”I”/> 
+
+E: entonces / en su casa / aparte de usted / vive su esposo ¿verdad?
+
+I: y mi hija
+
+E: okay / ¿su esposo / cuántos idiomas habla?
+
+I: <risas = “I”/> solamente español <risas = “I”/>
+
+E: español / ¿y el último / grado que cursó él?
+
+I: preparatoria 
+
+E: okay 
+
+I: nada que ver 
+
+E: y / ¿trabaja / en dónde?
+
+I: él / trabaja para / Teléfonos de México 
+
+E: Telmex / ¿y más o menos el salario entre todos
+
+I: ¡n’ombre! ¡n’ombre!
+
+E: un m / dos ve / dos ve / dos veces el
+
+I: lo que yo gano no es nada / para él 
+
+E: ¿pues más o menos como qué podemos decir? / este / ¿entre dos y tres veces el salario mínimo? // más o menos
+
+I: <tiempo = “62:18”/> no / es más / más de lo que yo gano / no es 
+
+E: ¡ah! okay / entonces era / entre / die- / más / ¿más de diez veces el salario mínimo?
+
+I: sí
+
+E: diez veces
+
+I: y te sorprende porque dices / ¡a duras penas acabaste la preparatoria! / es un / este / ¿cómo di / cómo diría mi abuela? / iletrado <risas = “I“/> / pero con unos súper sueldazos / ahora si me / ahora sí que / ya no importa / lo que estudies sino para quién trabajas
+
+E: eso sí 
+
+I: qué compañía te está
+
+E: contratando
+
+I: contratando
+
+E: ¿y el puesto que ocupa él?
+
+I: él es técnico operario 
+
+E: okay / técnico operario / entonces / la niña / eh / tiene seis años ¿verdad?
+
+I: eh cinco años
+
+E: okay / cinco años
+
+I: ocho meses algo así
+
+E: ¿y sa-/ cuántos idiomas sabe ella?
+
+I: eh / mira / en la escuela lleva inglés
+
+E: mjm
+
+I: y nos / yo he / con este viaje / este ult- / la última ocasión / fue conmigo a Francia igual que mi esposo / pos al / e / yo vi que le gustó / que pudo / bueno está chiquita ¿verdad? y todo absorben 
+
+E: sí
+
+I: entonces / frases / canciones / en francés / la e la es- / estoy 
+
+E: ya la / está 
+
+I: estoy / trabajando con ella / no es una clase formal / pero sin embargo sí / sí hay algo de / estoy 
+
+E: no y aparte de chiquitos aprenden más / no que nosotros 
+
+I: como ahorita no hay nada más que 
+
+E: ¡ay! ni / ni podemos / pasar el EXCI / con puntos / buenos <risas = “I“/> / y todo no / eso es muy feo 
+
+I: ¡ay! sí / apenas de niños / por eso estoy aprovechando de / vi que ella / dice merci sí / por su- / como tale vu / y lo dice mal / pero está
+
+E: pero es que suena muy bonito
+
+I: ajá / el ritmo / la entonación / ella lo está / lo / así mira / así asimilando
+
+E: es que a diferencia de / del inglés / el francés suena muy bonito 
+
+I: sí / te enamoras
+
+E: es muy / es muy bonito
+
+I: yo creo que por eso me divorcié del inglés y me enamoré del francés 
+
+E: el / el otro es muy rudo
+
+I: pero del idioma / ¡del idioma! <risas = “I”/> 
+
+E: sí / no pues / muchas gracias por haber participado en la 
+
+I: de nada / espero que
+
+E: en la entrevista 
+
+I: espero que l- / que sea de mucha utilidad para ustedes / y que luego me comenten / qué más hubo / qué / en qué me saqué bien y en qué me saqué mal 
+
+E: no no 
+
+I: no no es cierto yo sé que / digo / cuando yo estuve con la do / con la / ¿ya es doctora la / la doctora Lidia Rodríguez?
+
+E: sí
+
+I: fue mi maestra entonces / era muy difícil / este / ir a / ir a hacer esas / esas / este tipo de entrevistas porque / la gente no accedía entonces / yo sentía muy feo cuando decían no / ¿por qué me vas a grabar? / no ¿para qué? / ¿qué me vas / qué / o sea ¿por qué? / la gente se molestaba / entonces / yo desde entonces dije / si a mí algún día me piden una entrevista / y que me van a grabar / yo nunca voy a decir que no / porque yo sentía bien feo de estudiante que
+
+A1: ¿usted también anduvo entrevistando las personas del primer habla? 
+
+I: <tiempo = “65:07”/> mira / no / no de / no en ese / en esa cuestión de / en esa cuestión de entrevistas / pero / ella nos pedía que / después se / se tuvo que / ausentar porque se / se / se incapacitó
+
+E: sí
+
+I: se enfermó / pero en la primera parte que e estuvimos con ella / e / teníamos que / grabar / pues algo de los estilos / no recuerdo orita bien con exactitud / exactitud / pero sí tuvimos problema para que la gente aceptara ser entrevistada / inclusive la familia / es más difícil convencer 
+
+E: es que es el temor ¿verdad? 
+
+I: sí
+
+E: en muchos de los casos 
+
+I: entonces yo dije no yo no / cuando me pidan / y y / ¡vaya! / han sido pocas las veces que me han entrevistado de repente vienen de rectoría / lo que sea no me importa / sí / ¿la podemos entrevistar? / sí / este / cuándo / nos ponemos de acuerdo pero / te digo / porque lo viví / y sentía muy feo que me dijeran que no <risas =”I”/>
+
+E: sí <risas = “E”/> / no pero muchas gracias
+
+I: de nada de nada / espero que / que les sea de mucha utilidad 
+
+E: mire si gusta leer / leer esto 
+
+I: mjm 
+
+E: aquí está una pluma
+
+I: aquí tengo / ¿negra verdad?
+
+E: sí 
+
+I: ¿pongo aquí mi nombre?
+
+E: mjm
+
+I: nadmás te dije ____ ________ ______ y soy _____ / pero no / ¿a la docencia le pongo?
+
+E: mjm 
+
+I: y / fíjate que / en en / pos yo creo que desde entonces // ¿qué día es hoy? dos ¿verdad?
+
+E: sí
+
+I: hoy cumple años mi hermano / y no le he llamado / este / ¿las dos? / ¿son dos?
+
+E: sí son dos
+
+I: este / no sé si el puesto es o lingüística o / o estilística / me marcaron / me marcaron porque <risas = “I”/> yo siempre estoy / mamá / por qué mi tía siempre está diciendo / fíjate / y para todo / dice algo y / fíjate / y otra tía <risas = “I”/>
+
+A2: hola buenas tardes
+
+I: hola buenas tardes / quién sabe qué / ¡tú crees! / ¡tú crees! / me dice/ tú también dices muchas cosas y no sé qué quieres decir <risas = “todos“/> // y a mi mamá también / que / está contando algo y / le dije yo / le dije yo / le dije yo y / mamá ya no me tienes que decir / bueno pero yo así quiero decir que yo le dije </entre_risas> 
+
+E: <tiempo = 68:01”/> sí / enfatizar en eso 
+
+I: sí / la niña orita también está en la/ en la / que empieza con / o sea jelou <observación_complementaria = “aunque se refiere al hello en inglés, se hace énfasis en la o y la u finales, es una expresión usada actualmente por un sector joven de clase media y alta de la población”/> ¡yo me quedé! / qué estás diciendo? / !ay! mami quién sabe qué / o sea jelou / ¿qué tienes? / ¡qué bárbara! 
+
+E: ya es una mezcla de / de muchos idiomas ya 
+
+A1: lo importante como dicen es comunicarse ver cóm- / qué qué manera 
+
+I: o sea ¡ay no! / / y un amigo que tiende mucho decir / es que / aquella sabía / aquellos ojos / y aquella mirada / todo aquello y aquella le digo siempre / es / con el aquello y el aquella 
+
+E: y después se pega 
+
+I: contagia <risas =”I”/> / a mí me / me / cae muy mal que me diga / mi jefa me dice / para todo dice miss / miss miss miss / ya no me digas miss yo no soy miss / y más porque como que / idioma ¿verdad?
+
+E: ¡ah! / mjm
+
+I: ahorita / a todo mundo le digo miss / a ¡todo! mundo le digo miss / hasta / a los hombres les digo miss <risas = “I“/> 
+
+E: muchas gracias 
+
+I: de nada 
+
+E: y disculpe por haberla
+
+I: no / no se preocupen
+
+E: con permiso 
+
+A1: hasta el lunes con permiso y gracias 
+
+ Fin de la entrevista
+
+
+
+

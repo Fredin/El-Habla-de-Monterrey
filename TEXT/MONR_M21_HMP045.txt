@@ -1,0 +1,814 @@
+﻿<Trans audio_filename = “MONR_M21_HMP045.MP3” xml:lang = “español”> 
+<Datos clave_texto = “MONR_M21_HMP045” tipo_texto = “entrevista_semidirigida”> 
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” país = “México”/>
+
+<Grabacion resp_grab = “Susana Maribel Aguirre Ortega” lugar = “lugar de trabajo de la informante” duración = “45´37´´” fecha_grab = “2007-08-08“ sistema = “MP3”/>
+<Transcripcion resp_trans = “Mayra Janeth Reyna Mora” fecha_trans = “2007-10-07”
+numero_palabras = “8129”/> 
+<Revision num_rev = “1” resp_rev = “ Raquel Rodríguez de Garza” fecha_rev = “2009-08-20”/>
+<Revision num_rev = “2” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-06-23”/>
+<Revision num_rev = “3” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-06-12”/> </Datos>
+<Revision num_rev = “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-09-07”/> </Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “ Isidra Pérez Casiano” codigo_hab = “I” sexo = “mujer” grupo_edad = “2” edad = “42” nivel_edu = “1” estudios = “primaria" profesión = “servidora doméstica " origen = “San Luis Potosí" papel = “informante"/>
+<Hablante id = “hab2" nombre = “ Susana Maribel Aguirre Ortega " codigo_hab = “E" sexo= “mujer" grupo_edad = “1" edad= “27" nivel_edu = “3" estudios = “maestría (Ciencias con especialidad en Lengua y Literatura)” profesión = “estudiante y empleada" origen = “San Nicolás de los Garza" papel = “entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos"/>
+</Hablantes> </Trans>
+
+
+E: buenas tardes y muchas gracias por permitir / tener esta conversación // ¿cómo ve si // si empezamos de que usted me diga / ¿qué es para usted un día normal de trabajo? / ¿cómo usted lleva un día normal de trabajo?
+
+I: ¿empezando desde / la mañana temprano? 
+
+E: sí / cómo usted lleva un día normal / por ejemplo un lunes / se levanta a qué hora 
+
+I: m / el lunes este / por decir me levanto a las / seis de la mañana 
+
+E: ajá
+
+I: empiezo por / por hacer el lonche // y / luego de ahí ya / empiezo a / a bañarme / a arreglarme y venirme a mi trabajo / y luego ya de ahí / e / mi área de trabajo es de // de nueve de la mañana a cuatro de la tarde / termino mi / horario de trabajo 
+
+E: mjm
+
+I: y luego por la tarde / llego a la casa a las cinco / y empiezo a hacer la cena / lo que es / cuando están los niños en la clase / pos hacer tarea con ellos / y este / y // pues ya / en / realidad ahí termina mi día 
+
+E: y su labor de trabajo ¿en qué consiste? 
+
+I: e / es variable // porque / no todos los días es / lo mismo / por ejemplo de lunes a miércoles / cuido al bebé // este / ese es mi / mi trabajo / de lunes a miércoles / el jueves es diferente porque / hago / aseo y / voy de compras / y este / igual es el área de trabajo de nueve a / a cuatro de la tarde 
+
+E: entonces / después de que termina su trabajo / a su casa otra vez le sigue trabajando
+
+I: sí / todavía / todavía le sigo
+
+E: y es que por dicen que el trabajo / es muy / muy pesado / de las mujeres ¿no? / a veces
+
+I: pues / sí porque es doble / por ejemplo yo // en el área de trabajo que descanso nada más sería / de lunes a miércoles // porque nada más me dedico a cuidar al bebé / pero lo que es de jueves / y viernes y sábado / para mi es doble / porque / el jueves yo hago aseo / voy de compras / y luego en la tarde llego y / y / y tengo que seguirle con lo / lo mío que es de mi casa ¿verdad? / y entonces / ahí ya es doble mi trabajo
+
+E: <tiempo = “02:26”/> ¿y tiene niños chiquitos?
+
+I: e / n / ahorita no / ya / ya mis niños ya están grandes // pero igual / o sea como quiera el trabajo / doméstico ese es lo mismo ya estén los niños grandes o // o chicos ¿verdad? 
+
+E: es que siempre tienen que estar al pendiente ¿verdad?
+
+I: sí / más que nada uno / como madre debe de estar más al pendiente del / en cuestiones del aseo / y de qué se va a preparar para la comida o sea / tu mente siempre la tienes ocupada de que // como orita llego / este / y ¿qué vamos a hacer de cenar? // y ya / este piensas en lo que vas a hacer para mañana la comida / porque yo la tengo que dejar avanzada
+
+E: y ¿qué es lo que acostumbra / usted a preparar / de cena?
+
+I: ¿de cena? / lo más este / que / esencial lo que hacemos es / carnita de / picadita / con salsita / es lo / lo más esencial / y lo más práctico / para no meterse uno mucho a la cocina
+
+E: ¡y con estos calorones! ¿verdad?
+
+I: ¡sí! / m / sí / es que no se puede o sea / para hacer un comida más laboriosa necesitas más tiempo // y aparte que el tiempo te ayude / porque orita llego en la tarde / y está mi casa caliente / caliente del sol / y luego llegar y prender la estufa / ya no tienes ánimo / ya no tienes ánimo 
+
+E: y aparte por lo cansada que viene
+
+I: sí / o sea
+
+E: y siempre está muy / muy / pues sí muy ocupada pues casi todo el día se está / ocupando
+
+I: sí / todo el día / todo el día
+
+E: ahorita que estaba / hablando de las comidas / ¿usted acostumbra hacer alguna comida especia l / ya sea en un cumpleaños o en una / en una festividad que ustedes / acostumbren hacer en su casa?
+
+I: <tiempo = “04:04”/> mmm / sí / por deci- / por ejemplo en los / los / domingos / tenemos nuestra comida que es / las milanesas
+
+E: ¿y cómo las prepara?
+
+I: las milanesas las preparo / por ejemplo / pongo en la licuadora / huevo / leche / mostaza / ajo / pimienta / y sal / eso lo preparo así como si fuera un licuado / y luego lo paso por un colador y ahí voy sumergiendo las / las milanesas / esas milanesas ya tienen que ir un poquito / con tantita / harina / para que logren pescar el // el / lo que preparé / y luego ya de ahí las paso al / al pan molido y luego ya a freírse / como esa comida / requiere más de / de tiempo / entonces a veces preparo / los domingos hasta un kilo porque de ahí voy separando / para entre semana
+
+E: cuando no le da tiempo
+
+I: cuando no me da tiempo / porque hay semanas que son más pesadas en las que uno tiene que / que pensar / en dejar comida ya hecha los sábados o los domingos 
+
+E: para los muchachos ¿verdad?
+
+I: sí // sí
+
+E: y aparte esa / la milanesa ¿con qué la acompaña? 
+
+I: con / sopita de espagueti / verde / o roja / o amarilla / y un poquito de puré 
+
+E: ¿y cómo / cuál es la diferencia entre / los colores de la / del espagueti?
+
+I: e / la diferencia es que por ejemplo la / la de / la amarilla / la preparo con puro queso amarillo / y / y la ama / la verde / esa la preparo con chile / poblano 
+
+E: <tiempo= “5:37”/> el que no pica
+
+I: el que no pica
+
+E: ¿y el rojo?
+
+I: y el rojo va con puré de tomate 
+
+E: ah / sí / porque a veces he escuchado que // hacen / las sopas pero de colores pero la de arroz / entonces
+
+I: por lo regular también el espagueti 
+
+E: de los / de colores 
+
+I: mjm
+
+E: y ahorita que / ¿sus hijos están todavía estudiando e? 
+
+I: e / nada más dos / uno ya está casado 
+
+E: ¿cómo le han hecho para / pos con los gastos y todo eso?
+
+I: <tiempo = “06:02”/> <observación_complementaria = “ ruido de motor suave” /> no pos es difícil / es difícil porque // pues / no te alcanza / prácticamente con lo que el hombre / le da a uno no / no alcanzas a solventar los gastos / y más ahorita que están llegando recibos muy altos / nos aumentó e l / el / la colegiatura // hicieron cambios de uniforme / entonces vienen / vienen este / gastos extras que no tenías contemplados / sí es difícil orita / aún trabajando los dos // nos vemos / un poco / apretaditos en cuestión de / económica ¿verdad?
+
+E: y ahorita que ya van a entrar los muchachos / a la escuela
+
+I: ahorita es lo que estoy batallando / porque / surto una lista y / y la otra no y / pagas una cosa y no pagas otra
+
+E: y ahorita ¿los precios se le hace que están más o menos accesibles / o ya están muy altos? 
+
+I: no / están muy altos / la verdad / están muy altos / todo // empiezas dense / dense la tela que / que / compras para mandar hacer el uniforme / orita la más barata me la dieron en cincuenta pesos el metro // doscientos pesos en cuatro metros / aparte cincuenta pesos por co / te cobran por / por hacerlo / o sea / haz de cuenta mira / ahí son / cuatro metros son // doscientos pesos / más doscientos que tengo que pagar / son cuatrocientos pesos de los puros uniformes / el puro vestido / aparte te falta / la blusa 
+
+E: los zapatos
+
+I: los zapatos / las calcetas que les cambiaron los colores también / o sea // es demasiado // ahorita vas y compras una / libretita la más económica / la más económica de trece cincuenta // tengo que surtir diecisiete libretas / a trece cincuenta // y nada más estoy hablando de las puras libretas
+
+E: los libros
+
+I: faltan los libros // faltan / plumas / todo todo todo lo demás / yo nomás estoy / haciendo nomás cuenta nada más de lo más / esencial así
+
+E: <tiempo = “08:03”/> y aparte la hechura de que le cobre 
+
+I: son cincuenta pesos por hacerte el uniforme
+
+E: ¿está en la secundaria la muchacha?
+
+I: secundaria / sí
+
+E: ¿ya para terminar?
+
+I: e / sí / ya va a tercero
+
+E: y después el otro gasto cuando esté / en la prepa 
+
+I: en la prepa / en la prepa
+
+E: es que / no sé / qué piense usted / es muy difícil este / pues estudiar / ¿verdad?
+
+I: pues sí
+
+E: el gasto 
+
+I: es difícil / cuando no cuentas con el apoyo / hay muchas personas que tienen / el / la ayuda esa de / de becas 
+
+E: ah sí
+
+I: ¿verdad? / ahí ya te ayudan un poquito / no mucho pero sí ya por ejemplo // te ayudan ahora están / ayudando económicamente ya / puedes comprar los uniformes / ya tú nada más te dedicas / compras los útiles ¿verdad?
+
+E: sí
+
+I: pero / yo en este caso no tengo ayuda de nada de eso 
+
+E: y ¿y a la muchacha no le han dado becas?
+
+I: no / no ha salido becada
+
+E: ¿es por sorteos o cómo? 
+
+I: sí / los becan por / por sorteos / va depen- 
+
+E: ¿y también por calificación?
+
+I: es lo que te iba a decir / va dependiendo la calificación que tengas
+
+E: ¡ah !
+
+I: va dependiendo / y por ejemplo le dan oportunidad más / a las personas que tienen de tres a cuatro niños en la escuela // y yo como pos ya nomás son / ésos 
+
+E: esos dos
+
+I: sí 
+
+E: pero como quiera 
+
+I: como quiera es pesado / para mí // es pesado 
+
+E: y entonces la muchacha se tiene que poner así más lista en / en / pues sacar buenas calificaciones para 
+
+I: aparte / este / mira te voy a decir una cosa / por una parte te conviene que te den las becas / pero por otro no / porque // cada / madre de familia que tiene su niño becado / tiene que estar asistiendo a juntas // al plantel / tienen que ir a pintar / tienen que ir a / a equis <observación_complementaria = “ expresión que se refiere a algo de poca importancia” /> cosas ahí / es / entonces
+
+E: a retribuir la ayuda 
+
+I: sí / entonces haz de cuenta si yo / la pido pon tú sí me la den / pero yo tendría que dejar de trabajar // por / por cumplir ahí en / también en el plantel // porque te checan / tienen una lista donde te / te están apuntando / la mamá de la niña sí vino / la mamá de esa niña no vino a esta junta y a esta otra no / si tienes tres cuatro // faltas / te dan de baja a la criatura 
+
+E: <tiempo = “10:25”/> no pos está ahí medio pesado pero la gente 
+
+I: o sea / es pesado / cuando / cuando / tú no trabajas pos bueno / dejas de hacer lo que estás haciendo en tu casa y acudes a / al plantel ¿verdad? / ¿pero cuando trabajas? / dejas de ganarte / un dinerito / por ir y cumplir / y luego / ni quedas bien en la escuela ni quedas bien en tu trabajo // porque eso de estar falte y falte a los trabajos también no está bien / hay que 
+
+E: cumplir con eso
+I: hay que cumplir con el trabajo
+
+E: y algo que haya pasado en alguno de los trabajos / que que narre usted / algo que / una anécdota que le haya sucedido en los trabajos
+
+I: co mo 
+
+E: algo / sí algo como que / no esperaba o / o de repente sucedió algo que no / no estaba / al alcance de sus manos / y sucedió / y cómo resolvió ese / pues ese evento ¿no? / y que se le haya quedado así muy marcado 
+
+I: pues no 
+
+E: ¿no tiene?
+
+I: no no tengo 
+
+E: y ¿en su casa que le haya pasado algo? / no sé si han salido de vacaciones / algo que
+
+I: m / pues hemos salido pero no / no ha habido // alguna anécdota que 
+
+E: que haya pasado
+ 
+I: que quede así como dices tú que se le quede a uno así / no 
+
+E: y cuando han salido ¿a qué lugares han / han visitado?
+
+I: m / orita vamos a San Luis nada más 
+
+E: ¿al mero San Luis? 
+
+I: a estado / a estado de San Luis 
+
+E: m / ¿y qué van a visitar allá?
+
+I: m /a mis padres nada más / nomás a mis papás / y de ahí nos retiramos / a ve ces de venida pasamos a la playa de Tampico pero // pos / no / casi no 
+
+E: <tiempo = “12:06”/> ¿y cómo es allí en Tampico?
+
+I: en Tampico está muy bonito / el mar / llegas ahí a la playa Miramar / ahí te estás / por decir / nosotros cuando pasamos llegamos a las diez once de la mañana / y nos retiramos a las seis de la tarde 
+
+E: qué padre 
+
+I: ¡está muy bonito ahí! / muy bonito 
+
+E: nosotros que estamos aquí de cerquitas n’ombre / ¿cuándo? <risas = “I”/> / no podemos / ni aquí al centro / y entonces ¿ahí está muy bonito?
+
+I: está muy bonito / muy tranquilo / sobre todo que está muy tranquilo / la gente te atiende muy bien / que es muy diferente la gente de aquí a la de allá 
+
+E: ¿cómo es allá? 
+
+I: la gente es muy diferente / son muy amables / te atienden muy bien // que por ejemplo / pides una dirección / sí nos otros cuando íbamos que no dábamos con la playa / no / señor sígale sígale y ahí / más adelantito va a encontrar esto y esto y esto / usted le sigue / y así o sea / te dan / te ubican bien // y aquí no / aquí por ejemplo / pides la dirección de una calle / y te / está a la siguiente y te dicen / ¡no ! seño <observación_complementaria = “forma de abreviar la palabra señor o señora” /> / la dejó a tres cuadras / más atrás! / y siendo que está enseguida / o sea 
+
+E: no no no
+
+I: es muy diferente no / no / es muy diferente
+
+E: y allá cuando han ido ustedes a la playa // ¿qué / aparte de estar / ese tiempo en la playa / ¿qué más visitan o / que es lo que hay ahí para ver?
+
+I: el mirador nada más / mjm / está muy bonito ahí en el mirador / ahí / puedes conseguir muchas cosas // compras / pues llegan ahí // no sé creo un barco / o algo así que llega y lleva muchas cosas de otros países de otros lugares / a venderte ahí 
+
+E: ¿y han comprado ahí?
+
+I: encuentras joyería / no / no hemos comprado 
+
+E: ¿y joyería?
+
+I: sí / también consigues ahí / muy bien / económica / ora que / pasamos / de ida nada más así / este / encontramos vajillas muy bonitas / unos manteles muy bonitos / ahí sobre todo lo que venden es lo / lo de / lo que es de ahí / lo que es de ahí de / de Tampico 
+
+E: <tiempo = “14:06”/> ¡ah! 
+
+I: que arreglitos de conchitas que barquitos y que / collares así hechos de / de perlietas de / o sea de muchas cosas / que son de ahí / pero sí en el Mirador consigues cosas que van y te venden / por ejemplo que llegan de aquí de México de / de Estados Unid / o sea de varias partes 
+
+E: ¿es como un tipo mercadito / o algo así?
+
+I: ¡ándale! / más o menos así
+
+E: no / pos ha de estar muy bien
+
+I: está muy bien 
+
+E: ¿y hay mucha gente / cuando les ha tocado ir?
+
+I: sí // nosotros vamos / a / cuando pasamos a Tampico / pasamos en diciembre / y en julio / en semana santa no porque está llenísimo ahí / está súper lleno / porque ahí te puedes quedar / dos tres días ahí puedes campar y ahí te quedas
+
+E: ¿no hay problema?
+
+I: no / ahí llevas tu camioneta y tu casa de campar / ahí te duermes / ahí te quedas
+
+E: ¿y así lo han hecho ustedes cuando han ido / o 
+
+I: fuimos nada más una vez / y eso nada más de pasada / lo vimos / porque ya estaba muy lleno / y como para llegar ahí con mis papás es a tres horas / pues mejor le decidimos se / seguir 
+
+E: entonces Tampico en donde están sus papás / ¿es?
+
+I: es a tres horas // sí / está cerquita / está cerquita 
+
+E: y / ahí cuando fueron / este / ¿vio que / sí estaba limpio / o 
+
+I: sí / está muy limpio / tienen muy limpio ahí
+
+E: ¿cuidado?
+
+I: está bien cuidadito ahí / hay vigilancia / por ejemplo hay personas que están ahí para / si algo se te ofrece ¿verdad? / están a tu / disposición / e / con las dos veces que hemos pasado / ha estado la ambulancia / hay rescatistas ahí o sea / está muy buen / muy buen servicio que dan 
+
+E: y cuando van con sus papás / ¿ya tiene usted mucho tiempo de estar viviendo aquí en Monterrey?
+
+I: <tiempo = “16:02”/> mmm / tenemos alrededor de diecinueve años / diecinueve años
+
+E: ¿y todos sus hijos son de aquí de Monterrey?
+
+I: nada más dos / uno es de México / el mayor
+
+E: ah / entonces ¿usted ha visitado varios estados?
+
+I: sí / yo estuve mucho tiempo viviendo en México / allá 
+
+E: y allá en México ¿qué hay que ve r o / qué hay que visitar?
+
+I: alla hay muchas cosas qué ver / bastantes 
+
+E: ¿cómo cómo cuáles?
+
+I: como por ejemplo la torre / la latinoamericana / esa está / enorme / está bonit- / está precioso subir hasta allá arriba 
+
+E: y ot- ¿y las pirámides las ha visitado?
+
+I: nada más / las de / que están ahí en / en Teutihuacan 
+
+E: ah ¿sí? 
+
+I: ésas / nada más
+
+E: ¿y cómo vio ahí?
+
+I: está muy bonito ahí
+
+E: ¿sí? / ¿mucha gente?
+
+I: mucha gente / en Cuernavaca también está muy bonito
+
+E: en Morelos
+
+I: en More los / yo fui a Puebla también / ahí un lugar ahí que se llama / Tlaxcala 
+
+E: sí
+
+I: también es otro lugar muy bonito 
+
+E: y la plata también ahí ¿verdad?
+
+I: sí
+
+E: ha de estar / m no / nada de esos lugares 
+
+I: ¿no has visitado?
+
+E: no / pero me imagino que sí han de estar 
+
+I: están muy bonitos / están muy bonitos
+
+E: y cuando usted fue a México / ¿cuánto tiempo se quedó a vivir allá?
+
+I: yo ahí en México llegué alrededor como de diez años 
+
+E: chiquita
+
+I: y salí hasta como a los veinti- / veintiuno veintidós años // viví mucho tiempo ahí
+
+E: y / ¿es fácil / acoplarse al modo de vida por ejemplo ahí de México a / aquí a Monterrey o
+
+I: es diferente porque / la / la vida de aquí / como que la vida es más rápido // y / y / en cuestión económica / es más caro aquí en Monterrey / que en México / en México / vives un vida un poco más
+
+E: tranquila
+
+I: más tranquila / pero este / pos al igual / si tienes que trabajar pos trabajas ¿verdad? / pero como que sientes que el horario es diferente / yo luego que llegué aquí sentí ese cambio muy / muy drástico así de que / de que aquí andas pero si 
+
+E: <tiempo = “18:19”/> corriendo
+
+I: corriendo / para todo tienes que / programarte / por decir / yo de / de ocho de la mañana a nueve de la mañana yo tengo que llegar al trabajo a como dé lugar / y si no llego ay vengo comiéndome las uñas / este / igual en la tarde / si no llego a la casa de tales horas también allá / mis hijos me esperan / se preocupan si no llego / y vives la vida así / ¡tensa! / tensa tensa / y / en lo económico / pesadísimo aquí / aquí es muy pesado // económicamente es muy pesado aquí / y allá no / ah
+
+E: ¿allá son may mayor / facilidad?
+
+I: sí / como que hay más facilidad / aquí también las hay pero te digo o sea / para buscarla necesitas andar / a la corre y corre 
+
+E: con muchos trabajos / para cubrirlos 
+
+I: sí
+
+E: fíjese pero / a pesar de que allá en México son muchas personas / o sea vive mucha gente
+
+I: vive mucha gente / sí / pero / no sé / en qué consiste pero / yo sí sentí mucho ese cambio // lo sentí mucho / pero este / al igual ora ya me acostumbré aquí
+
+E: y ¿en cuestión de la seguridad / vio algún cambio?
+
+I: está más seguro aquí / ah cuando yo llegué / estaba más seguro aquí / pero con eso de lo que ha / sucedido orita ya no tienes seguridad ni aquí // allá en México era / un / un lugar donde / es un lugar donde // donde tú no puedes salir ya después de las seis de la tarde // a las seis de la tarde tú ya tienes que estar en tu casa / tienes que tener tu puerta cerrada // y / y aquí no / aquí / pues / puedes / con toda libertad andar más tarde ¿verdad? pero // pues con esta inseguridad que se vino hace / un año dos años / ya también le / le piensas / le piensas salir
+
+E: <tiempo = “20:14”/> entonces / ahí como que siempre se tiene que andar cuidando <simultáneo > de que / temprano y 
+
+I: temprano / lo que vas a hacer lo vas a hacer temprano y llegar a tu casa temprano // porque ya / este / pos casi está igual / aquí y allá en México 
+
+E: ¿ya se está pareciendo mucho?
+
+I: sí / ya se está pareciendo / en cuestión de seguridad sí 
+
+E: ¿y en cuestión del medio de transporte / qué / qué experiencias ha tenido allá / o aquí?
+
+I: es / más fácil allá // por el metro / allá te ayuda mucho el metro / a donde tú quieres ir / inmediatamente llegas 
+
+E: ¿a pesar de que haya muchas / líneas y todo eso?
+
+I: sí / e / sola te ubicas / por decir tú vas a agarrar tu / tu / línea / y la vas a recorrer todos los días pero ya sabes / que en diez quince minutos ya estás en tu trabajo // o quieres este / por decir estás en el norte y quieres ir al sur en / cinco o diez minutos ya estás allá / pero rápido / y / quizás eso es lo que a uno le ayuda allá / porque tú dices no en una hora tengo que hacer esto y esto y esto / y lo haces / y aquí para hacer eso / necesitas todo un día
+
+E: sí
+
+I: es que / aquí el / el transporte es más / lento / más / como que llega e l / momento en que / por ejemplo llegas aquí al centro de San Nicolás / y está más estresado de / de carros y todo / no haces las cosas / rápido 
+
+E: rápido
+
+I: y allá sí / vas ir a un lado / agarras el metro / y sobre todo fíjate / el metro allá es bien barato / bien económico 
+
+E: ¿cuánto cuesta allá?
+
+I: un peso estaba cuando yo me vine / te estoy hablando hace diecinueve años 
+
+E: un peso
+
+I: un peso
+
+E: <tiempo = “22:03”/> ¿y aquí / cuánto sale? / no pues
+
+I: no pos aquí ni lo he estrenado // aquí no me he subido al metro no sé en cuánto está
+
+E: ¿no?
+
+I: no
+
+E: y ahora con esta / ampliación ¿cree que el va a beneficiar a usted / utilizar el metro?
+
+I: a mí no me sirve el metro aquí / porque el metro está para acá / y yo vivo para acá 
+
+E: ¡ah!
+
+I: a mí no me sirve el metro // pon tú que me sirva cuando vaya al centro / puedo llegar aquí / va a haber una parada y ya de ahí me voy hasta
+
+E: hasta al centro 
+
+I: hasta al centro // y ¿cuánto tiempo te ahorras? / si yo hago una hora de aquí al centro // entonces en el metro si ya lo llega / aga- / si ya lo llego a agarrar hasta el centro hago cinco diez minutos / es mucha la diferencia
+
+E: se ahorra tiempo
+
+I: bastante / es por eso que se ve mucho la diferencia / al / a México a aquí / porque allá te digo haces las cosas bien rápido pero porque te mueves en el transporte bien rápido
+
+E: ¿y cuando estuvo viviendo allá en México no le sucedió algún incidente de / por lo mismo que se tiene que cuidar ¿no? / de / de estar temprano en su casa y 
+
+I: m / sí mi hija / sí me sucedió algo muy triste pero / no incidente de // de cuestiones de / de / inseguridad // sino que a mí me tocó / lo del terremoto del ochenta y cinco
+
+E: ¿usted estaba allá?
+
+I: estaba yo embarazada de mi hijo // sí / y este / es una historia muy triste y no quisiera // recordarla // porque es pesado 
+
+E: no y / sí es muy 
+
+I: es muy difícil recordar todo eso porque / tienes cicatrices hija
+
+E: sí // no nada más cuando lo / pues hacen los documentales o lo recuerdan / pos estuvo / muy fuerte ¿no? 
+
+I: demasiado fuerte // yo le doy gracias a dios porque // un día antes me habían dado de // de / me habían dado la incapacidad / porque ya me iba a aliviar de mi hijo // y le doy gracias a dios de que me la dieron un día antes / que si no me ha tocado en la calle / y yo creo que yo ya no viviera 
+
+E: <tiempo = “24:20”/> ¿usted iba a estar ahí en un lugar?
+
+I: mjm // esa fábrica donde yo trabajé quedó destruida / completamente
+
+E: e / como en los talleres de costura ¿verdad? // sí / yo vi en un documental eso
+
+I: en esos talleres yo trabajaba / pos te digo / es algo muy duro muy difícil y / y no quisiera 
+
+E: no no 
+
+I: recordar todo eso
+
+E: sí no es que son / son cosas de que 
+
+I: es muy difícil porque // pensar que tu vida estuvo en un hilo // y más cuando traes en tu vientre una criatura 
+
+E: sí 
+
+I: y por eso le doy gracias a dios de que / un día antes a mí me / me incapacitaron 
+
+E: entonces su / ¿su hijo nació en el ochenta y cinco?
+
+I: en el ochenta y cinco
+
+E: ¿en septiembre?
+
+I: no el nació en / en noviembre
+
+E: ya faltaba poquito
+
+I: ya me faltaba poco / me dieron cuarenta días antes de / de aliviarme / y este / y efectivamente // me alivié el día / el día dos de noviembre
+
+E: fíjese / sí / es que a veces / por eso / mucha gente cuando se va a vivir así a ciudades / pues la naturaleza ¿verdad? / la naturaleza // pues no se manda / e / ella ordena y hace y / y a veces pasan cosas muy feas 
+
+I: pasan cosas muy difíciles // así es 
+
+E: no eso está muy / ¿cómo se dice? // pues como de pensarse ¿no? 
+
+I: mjm
+
+E: a veces uno está aquí / y / y no / no sabes ni lo que puede suceder estando / e / aquí mismo en la ciudad / por eso la natura / en esos casos / que ha sucedido / cosas en ciudades // donde hay cerca el mar y que / lo que pasó hace años / también / de que / lo que pasó en / creo que / no me acuerdo en qué parte // se desbordó el mar por / o sea la misma naturaleza
+
+I: <tiempo = “26:30”/> la misma naturaleza así es 
+
+E: este 
+
+I: sí / uno no culpa a nadie / pero / pero sí te queda / te queda mucho dolor / y perder tus compañeros de trabajo así / perder / pues el trabajo donde tú estabas / es muy difícil // es muy difícil y / y / quedarte te digo sin tus amigos / y no poder ayudarlos // no poder ayudarlos // ni a su familia // ver cómo destrozaron // pues tantos hogares quedaron destruidos // mucha gente / muchos de mis compañeros quedaron ahí // y este / y pos su familia / sus familiares reclamándolos / pidiendo los cuerpos de ellos y no pudieron // sacarlos así // fue muy difícil vivir ese tiempo
+
+E: y después de que sucedió eso decidió mejor / venirse / o
+
+I: m / a / a raíz de ahí yo tuve muchos problemas con / en mi embarazo y / con el papá de mi hijo / por lo mismo empezamos a / a tener problemas // y este // y pos ya no hubo // una comprensión mutua sino que hubo / distanciamientos / problemas / nació el bebé / e / todavía seguí / pues luchando porque me dieran algo porque / pues el trabajó / donde yo estaba / pos había quedado completamente destruido / pero aún así me decían que podían ayudarme / y / que iban a levantar la / la siguiente empresa y ahí / iba yo a quedar otra vez / reubicada ¿verdad? / para seguir trabajando / pero el tiempo pasó y / tuve problemas / y decidí regresarme // regresé con mis padres / me ayudaron / me apoyaron / y luego / mi hermano // estaba viviendo aquí en Monterrey y el fue por mí / él me trajo para acá / y yo llegué aquí con mi hijo de dos años // él tiene ahorita veintidós años / tenía como dos o tres años cuando yo llegué aquí / y sola
+
+E: <tiempo = “28:44”/> y a empezar de nuevo
+
+I: empezar de nuevo 
+
+E: eso es muy difícil 
+
+I: empezar de nuevo / empezar de nuevo todo porque // pues aquella persona la que / la única persona que yo había tenido / que ya tenía después de que / perdí a mis compañeros de trabajo // ya no quiso ayudarme / y decidí / dejarlo // decidí dejarlo y / y empezar una nueva vida // y aquí / aquí me quedé // aquí me quedé / y ahora él ya se me casó // y pues ya
+
+E: ya tiene nietos
+
+I: ya / anda en eso orita / orita voy al seguro con ella a ver si ya se queda 
+
+E: no ya / ya empieza / ¿cómo se dice?
+
+I: es muy difícil pero / gracias a dios que logré superar todo eso // gracias a dios aquí estoy de pie // con mis hijos 
+
+E: pero es que como 
+
+I: y por mis hijos 
+
+E: es que como / cuando suceden así cosas muy fuertes como que / la hacen reflexionar a uno y 
+
+I: bastante // bastante que reflexionas / yo le doy muchas gracias a dios de que aquí estoy / y que aquí me tiene // y que por un día / un día fíjate / fue la diferencia // un día fue la diferencia nada más / entre mi vida y mi muerte porque // pues te digo a la hora que / si yo hubiera seguido trabajando / yo ya no viviera
+
+E: <tiempo = “30:15”/> ¿ustedes entraban a las?
+
+I: a las ocho 
+
+E: y eso sucedió también muy temprano ¿no?
+
+I: m / sucedió a las siete veinte / nada más que ahí tienes que entrar / antes de las ocho 
+
+E: y usted / ¿en ese momento estaba en su casa / o estaba
+
+I: ¿el día del temblor? / sí / estaba por levantarme yo / yo acostumbraba levantarme a las cinco de la mañana / porque teníamos que entrar a la / como nos cambiaban los horarios // a nosotros nos tocaba entrar a las seis de la mañana / y el siguiente / el / turno de otras / eran de ocho a cinco / y nosotros éramos de seis a tres / porque no todas entrábamos igual // éramos / ciento noventa obreras // pura mujer / aparte los varones // aparte los obreros / y no todos entrábamos a la misma hora / pos te digo yo / tenía que entrar a las seis de la mañana / y a las siete veinte que fue el temblor / yo ya no viviera 
+
+E: es que es el destino 
+
+I: es el destino 
+
+E: dios / sabe por qué hace las cosas ¿no?
+
+I: claro / él sabe por qué me tiene aquí todavía en la tierra / y sabe por qué me dio las fuerzas para seguir adelante // él sabe / él tiene su propósito 
+
+E: y ¿usted acostumbra mucho ir a la iglesia? 
+
+I: m / sí / sí // tengo que ir a / no nomás en a la iglesia / puedes darle gracias a dios en tu casa / donde tú estés / pero siempre hay un lugar / donde puedes ir y descargar todas tus penas / todas tus / lo que cargues en tu corazón / más que nada dejárselo al creador / es el que te crió / el que te dio la vida // y es el que te ha cuidado y yo tengo mucho que agradecerle a mi padre bastante / te digo / ahí está mi / ese es / un testimonio que tengo muy // ¡doloroso! / me duele / sí me duele / al recordar todo eso me duele / pero le doy gracias a dios de que me da la fortaleza de poderlo platicar // porque es difícil / remover todos esos // recuerdos
+
+E: <tiempo = “32:30”/> sí es que es muy / es muy impactante todo eso / y / y / aquí no está de que / te lo contaron o sea usted lo vivió y / y es otra cosa / es otra 
+
+I: sí / es muy difícil / cuando tú lo cuentas como un cuento / como una historia // es muy diferente a cuando tú lo viviste real y que lo / lo platicas
+
+E: sí pos es que usted es un testigo / de eso 
+
+I: sí / sí 
+
+E: y de lo que pasó
+
+I: ¡y deja tú! / unos meses antes nos había pasado del / no sé si supiste del // de la explosión que hubo de las esferas que hubo en / ahí mismo en México pero en un / lugar que se llamaba / Apatlaco / que / explotaron unas bombas también / acababa de pasar que tres de nuestras / compañeras de trabajo / habían fallecido ahí // ahí habían fallecido / fue una enorme lumbre que se vio en todo México / que arrasó con tres colonias / con tres pueblitos // y se acabó ahí / allí vivían tres de nuestras compañeras de trabajo / y el que era nuestro patrón / él / él los ayudó mucho a sus / a sus familiares / los ayudó mucho / y luego al poco tiempo / para abajo se vino la fábrica // y ahí quedó todo // quedaron todos mis compañeros ahí 
+
+E: <tiempo = “34:04”/> sí / nada más uno con ver / todo s los archivos / lo que sucedió ahí 
+
+I: ay no 
+
+E: se ve horrible ahora / pues / vivirlo / o estar ahí / y me imagino que / que se debió de haber escuchado u n
+
+I: ay / no sabes / a veces // cuando / vienen a mi mente todos esos recuerdos oyes / todavía el estruendo que se escuchó / el ver la tierra cómo se abre // y los vidrios / todo te explota todo haz de cuenta que / es como una bomba / que no sabes si vas a vivir o que s / vas a abrir los ojos o no // y yo me quedé atrapada ahí donde quedé / donde estaba yo rentando / mis puertas se doblaron / yo / ni para dónde salir / con el peligro de que el techo se me viniera encima // porque todo se abre todo las / ahí en / en / en esos momentos tú no piensas más que // si abrir los ojos o no abrirlos // solamente dios ayúdame y / es todo lo que puedes pensar
+
+E: ¿usted estaba sola en su casa?
+
+I: estaba sola // el papá de mi hijo se había ido ya al trabajo / él entraba a las cinco de la mañana / se iba a las cuatro 
+
+E: ¿y usted sí pudo salir de ese / lugar?
+
+I: me ayudaron 
+
+E: la ayudaron
+
+I: me ayudaron / me sacaron de ahí / por / pero pues / ya como a las dos horas / porque no podían / no podían sacarme porque / estaba atrapado te digo las puertas se // se hicieron / así / se doblaron / y no había salida // y este / y ya me ya en / en el transcurso del día ya me calmé / porque pos / por mi embarazo temiendo ¿verdad? que / algo po- / pudiera pasar / y luego en la noche otra vez el / el / otro temblor que se sintió / y ya no puedes dormir tranquila // ya te duermes y a de cuenta que / prefieres dormir al aire libre así afuera / que estar ahí en tu casa
+
+E: <tiempo = “36:09”/> ¿entonces ese mismo día se escuchó / otra vez?
+
+I: sí / en la tarde // a las siete de la mañana / siete veinte / fue / el grande // a las ocho de la noche otra vez / pero ya con menor intensidad / de tres grados / ya nomás se siente así
+
+E: que se mueve
+
+I: mjm
+
+E: pero ¿no hay destrozos?
+
+I: no 
+
+E: no ya no / por eso ahí en las fab- / la fábrica esa que te digo donde yo trabajaba / que quedó destruida // ya no pudieron sacarlos / porque el mismo temblor de en la tarde hizo que se // que se fueran más para abajo 
+
+E: que se hundió / ahorita también ha pasado / pues recientemente ¿no? que se abrió la tierra // también y que se tragó a un muchacho y / o sea es / híjole es bien peligroso 
+
+I: sí es difícil / es difícil // es difícil ahí
+
+E: sí / o sea nada más / le digo / con las escenas / verlo / ahora / ponerse en el lugar de los familiares / por ejemplo del muchacho / de estas personas / las víctimas
+
+I: es difícil porque / tú corres y nadien te // pos no / aunque corras no puedes ayudar a nadie // no puedes // yo tenía una vecina ahí que ella era la que me apoyaba mucho / porque ella estaba en mis días de embarazo // y ella me decía / este / que me controlara / porque yo lloraba mucho / porque pos estaba sola // me decía contrólate por tu bebé / y dale gracias a dios de que estás viva // y ella fue la que me apoyó / me apoyó mucho / hasta que me alivié // ella me llevó al hospital / porque ya mi esposo ya no quería ayudarme // y / después cuando / decidí venirme / ella me dijo este / vete allá con tus papás // ella me apoyó para venirme // me apoyó mucho // y pues te digo allá es / pasas / por la naturaleza muchos problemas pero // pero vives bien / o sea
+
+E: <tiempo = “38:25”/> sí / como que ahí sé / ahí la recompensa ¿no? 
+
+I: pos sí 
+
+E: la naturaleza ahí un poco // es dura 
+
+I: es difícil 
+
+E: pero / el modo de vida allá les ayuda un poco 
+
+I: se vive mejor / sí allá sí / bastante
+
+E: y aquí pues // bueno afortunadamente / no ha pasado así cosas / tan fuertes / bueno salvo las inundaciones o / o también / las muertes que ha pasado ¿no? de cuando // pos se desborda un río o / o un arroyo y / y pues hay gente que se / que se muere ¿verdad? 
+
+I: que se queda sin nada / pero / aquí / yo veo que por ejemplo // a veces va / dependiendo mucho de las personas / porque si ya sabes que ese es un lugar de peligro / ¿para qué te expones a vivir ahí? / ¿verdad? o sea si tú misma puedes evitar todo eso // tú misma lo puedes evitar / retírate de allí / busca un lugar más seguro ¿verdad?
+
+E: sí
+
+I: y por ejemplo allá en México un temblor no lo vas a / a predestinar / o sea / solo llega en el momento en que // que / que va a llegar / ahí no puedes decir no / me voy a escapar del temblor orita / no puedes 
+
+E: y aquí sí hay alternativas para que
+
+I: y aquí puedes / u por ejemplo / mucha gente que vive en los arroyos pues / ya saben que son áreas de peligro retírense ¿verdad?
+
+E: sí // por estas lluvias que han sucedido pues / recientemente / este año que ha sido que / muy llovedor ¿no?
+
+I: sí / este año sí
+
+E: <tiempo = “40:00”/> ¿no le ha pasado?
+
+I: no / a nosotros por ejemplo que vivimos en el área de arriba del cerro del Topochico / no / no ha sucedido nada / gracias a dios 
+
+E: tranquilo
+
+I: pero porque vivimos en la altura / por eso 
+
+E: y todos los días / ¿está muy / muy difícil para llegar a su casa o?
+
+I: pues la subida / sí // para bajar como quiera / la subida 
+
+E: ¿y sí pasan ahí los camiones cerca?
+
+I: m / no 
+
+E: ¿tiene que bajar / hasta la avenida? 
+
+I: tengo que bajar hasta / hasta abajo // suben carros / sí suben / pero este / así que digas que el camión que sube / no 
+
+E: ¿no?
+
+I: ahí bajas con tus bolsas de mandado y a subir / cuesta arriba 
+
+E: ¿y lleva mucho tiempo viviendo ahí?
+
+I: llevo dieciocho años 
+
+E: o sea / vio cuándo se empezó a poblar todo 
+
+I: sí / cuando llegué yo ahí ya estaba poblada la colonia / por eso me tocó en el área de arriba // que si yo he llegado cuando la colonia hubiera empezado pues / me toca abajo / pero yo ya en mi desesperación de tener un hogar dije yo bueno pos aunque sea arriba // cuando uno está necesitado donde / haya 
+
+E: le toque
+
+I: mjm / y yo ya con mis ni / mi niño chiquito // entonces este dije no / pos ni modo / aquí arriba // y estamos bien gracias a dios ahí
+
+E: y ¿ahí también no le pega mucho el sol?
+
+I: sí / el de orita en la / en la tarde // en el / tiempo de frío me toca mucho frío / porque es el área de arriba // y en tiempo de sol / a mi me toca mucho el sol // más el de en la tarde
+
+E: y en tiempo de frío cuando / cuando ha tocado así como que quiere / ahí cae cae caer una 
+
+I: nievecita
+
+E: sí / ¿sí le ha tocado también?
+
+I: sí / la hace de / hace de / la que pasó hace nueve años
+
+E: sí
+
+I: la nevada / nosotros nos tocó
+
+E: <tiempo = “42:06”/> ¿que fue en diciembre? 
+
+I: en diciembre
+
+E: el doce de diciembre ¿verdad?
+
+I: no / no s / no sé qué fecha pero fue / hace como diez años // y las otras que han venido ora poco pero son más leves // pero de que hace frío hace frío / cuando hace calor hace calor // porque estoy en el área de arriba
+
+E: no / sí está difícil 
+
+I: está difícil / está difícil
+
+E: y si / de por sí cuando hace frío / aquí estamos no sé a / cuando ha bajado a cero supongamos / ahora arriba
+
+I: allá arriba / cuando ustedes aquí por ejemplo en San Nicolás está a siete grados / nosotros estamos a tres // si de aquí están a un grado allá estamos a tres grados bajo cero // sí / es que / arriba es más congelante 
+
+E: ¿y en el calor?
+
+I: es más calor 
+
+E: no / si ahorita / ya no soporta uno el // el aire así del / sol que le pega 
+
+I: mjm / está difícil
+
+E: ¿y en navidad ustedes // este / pues / ¿van a visitar a sus familia res o
+
+I: e / no / nos la pasamos ahí en la casa 
+
+E: ¿aquí?
+
+I: sí
+
+E: ¿y qué acostumbran hacer / ustedes?
+
+I: ¿en navidad? / pues / nada más / en navidad no hago nada // el treinta y uno sí / hacemos tamalitos o carne asada // nada más
+
+E: y de las comidas que usted este / de / de allá de / de donde es usted o 
+
+I: ¿de San Luis?
+
+E: o de las que aprendió allá en México / no / ¿no acostumbra / hacer? 
+
+I: mira / las de allá de / México / aquí a mis hijos no les gustan / porque la comida de allá es entre dulce y salado 
+
+E: ah / sí 
+
+I: por ejemplo yo tengo ganas de comer unas tortitas que hacíamos allá muy ricas de plátano / aquí no las comen // aquí tienen que ser de papa // y allá son de plátano
+
+E: <tiempo = “44:01”/> ¿de plátano?
+
+I: mjm / de plátano de ese uno largo que le dicen / plátano macho aquí
+
+E: ¿sí? 
+
+I: de esos / lo coces igual / como si fuera papa // y quedan bien ricas / pero aquí no las comen 
+
+E: ¿no les gusta? 
+
+I: no les gusta
+
+E: es que ya se / ¿cómo se dice? pues se / criaron aquí ¿verdad?
+
+I: sí // entonces / haz de cuenta / las comidas de allá del sur son muy diferentes / allá son entre dulce y / y salado / y aquí tienen que ser salado 
+
+E: o dulces
+
+I: o dulces
+
+E: sin combinación / bueno nada más los tamales de dulce
+
+I: pos ni esos quieren 
+
+E: ¿no?
+
+I: no los quieren
+
+E: no a veces cuando también en la casa dicen vamos a hacer tamales / no pero no / de dulce no / porque que llevan las pasas y que llevan no sé qué
+
+I: canela / coco 
+
+E: no / dicen no a mí no / no no me gustan // pero / este pues / pues muchas gracias por / por la conversación / después / si quiere le hago / este cuestionario para que / también no le quite mucho tiempo / e / son datos generales / su nombre / este // son unos datos que tengo que llenar / pero si en otra ocasión / la puedo encontrar nada más para llenar esto
+
+I: m / bueno / ¿la próxima semana?
+
+E: sí
+
+I: ¿sí? / sí yo vengo de lunes a miércoles 
+
+E: sí / para no entretenerla ya y 
+
+I: es que voy al hospital / porque mi nuera ya anda 
+
+E: sí / no muchas gracias por la / la conversación 
+
+I: okay / muchas gracias espero que / haiga podido yo servirte en algo
+
+E: no sí
+
+ Fin de la entrevista
+
+
+
+
+
+
+
+
+
+

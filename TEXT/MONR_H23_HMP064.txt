@@ -1,0 +1,997 @@
+﻿<Trans audio_filename = “MONR_H23_HMP064.MP3” xml:lang = “español”/>
+<Datos clave_texto = “MONR_H23_HMP064” tipo_texto = “entrevista_semidirigida”/>
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” pais = “México”/>
+
+<Grabacion resp_grab = “Daniel Jaime Rodríguez Macías” lugar = “domicilio del informante” duracion = “46’16’’” fecha_grab= “2007-11-05” sistema = “MP3”/>
+<Transcripcion resp_trans = “José Josimar Pulido Hernández” fecha_trans = “2008-03-11” numero_palabras = “6514”/>
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2008-11-04”/>
+<Revision num_rev = “2” resp_rev = “Claudia Santos” fecha_rev = “2010-07-07”/>
+<Revision num_rev = “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-08-14”/> 
+<Revision num_rev = “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-08-02”/> 
+<Revision num_rev=”3” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-11-13/></Datos>
+<Hablantes>
+<Hablante id = “hab1” nombre = “Jaime Luis Rodríguez Lastra” codigo_hab = “I” sexo = “hombre” grupo_edad = “2” edad = “45” nivel_edu = “3” estudios = “Maestría en Administración” profesion = “comerciante” origen = “Monterrey” papel = “informante”/>
+<Hablante id = “hab2” nombre = “Daniel Jaime Rodríguez Macías” codigo_hab = “E” sexo = “hombre” grupo_edad = “1” edad = “30” nivel_edu = “3” estudios = “Licenciatura en Letras Españolas” profesion = “Fotógrafo y Maestro de licenciatura” origen = “Monterrey” papel = “entrevistador”/>
+
+<Relaciones rel_ent_inf = “desconocidos” /></Hablantes> </Trans>
+
+
+E: buenas noches Jaime ¿cómo estás? 
+
+I: muy bien tú / ¿cómo has estado? 
+
+E: bien / bien // oye ¿cómo has visto el clima ahora / estos días? 
+
+I: pues // al al calor // el tiempo // cambiante otoñal // al fin y al cabo pos tamos // en esa / estación del año
+
+E: y el ca- el calentamiento global ¿qué dice?
+
+I: pos / cada vez se / agravia más // hay mayor // mayor gente / hay que crear una / conciencia para que todos // pos podamos // contribuir en algo
+
+E: está bien oye ¿cómo es / donde vives? / así la colonia / platícame un poco
+
+I: pues es un 
+
+E: hay seguridad 
+
+I: es un barrio muy tranquilo // este / de hecho // todavía por ahí / por el barrio // puedes eh // ver lo de antes / una que otra mecedora en la / en la acera / que es algo ya muy // muy raro de verse en la ciudad // mas sin embargo // pos / todavía lo ves / de cuando en cuando pero // todavía aparece por ahí / muy tranquilo / en cuanto a seguridad pos mucho muy tranquilo / un barrio e // muy familiar
+
+E: ¿y aquí naciste o en / de dónde eres?
+
+I: así es
+
+E: ¿siempre has vivido aquí?
+
+I: sí / siempre
+
+E: y el / eh ¿trabajas por aquí cerca o / dónde trabajas?
+
+I: sí / también // sí también por aquí // en estos mismos barrios
+
+E: ¿có- cómo es / donde trabajas?
+
+I: pues es un área / eh / comercial totalmente / eh / hay / mucho movimiento de / de gente este // pos son muchos negocios los que están por ahí // tal vez en las noches / pues // se torne un poquito // más pesado por las / cantinas que están ahí a los // alrededores salvo de eso / pues
+
+E: <tiempo = “02:28”/> ¿hay muchos tugurios por ahí? 
+ 
+I: m / sí / sí hay <risas = “I”/> / sí hay pero como te digo pos es en las noches durante el día está / está todo un poco más // más tranquilo
+
+E: está bien / ¿y ahí donde trabajas qué es lo que haces?
+
+I: ahí pues este / soy el dueño de un // una / tienda de / de ropa // y pues estoy ahí // atendiendo a la gente
+
+E: ¿qué tipo de ropa vende?
+
+I: pos ropa infantil / para // damas // pos sobre todo esos dos géneros / / el infantil y // y para dama
+
+E: ¿y fabrican todo? / ¿compran la tela cómo / cómo / cómo le hacen? 
+
+I: una parte // una parte se / se fabrica / y otra parte pos viene de // de proveedores
+
+E: pero ¿tú mismo compras la tela / coses? 
+
+I: sí 
+
+E: ¿tú mismo?
+
+I: bueno / se manda a 
+
+E: explícame un poquito cómo le haces
+
+I: si o co- si / mira / se / compra la tela / y / se manda / maquilar 
+
+E: m 
+
+I: o sea / esa maquila pos incluye lo que es el / el / corte / de la prenda / y / su / este // su / costura 
+
+E: ah okay / ¿y nada más eso incluye no / bordado o sea / alguna otra cosa?
+
+I: e / no el bordado yo no / yo no lo trabajo // este nada más es pura / pura impresión / en la / en la prenda
+
+E: <tiempo = “04:04”/>¿y ésa cómo se hace?
+
+I: e / con serigrafía
+
+E: ¿qué es eso?
+
+I: serigrafía es un / proceso // e / de / la tinta // e / con un negativo / entonces tú tienes una imagen / o unas letras / y se las transfieres // a la / a la prenda
+
+E: ah okay este ¿tu familia trabaja / contigo o?
+
+I: no / estoy yo solo <risas = “I”/>
+
+E: tú solo / ¿tu familia qué hace?
+
+I: no / tengo dos // hijas / son estudiantes y mi esposa // es este / maestra
+
+E: ah órale
+
+I: profesora
+
+E: ¿y qué hacen e eh / se juntan los domingos o // tienen alguna actividad familiar?
+
+I: pues sí / sí claro como // como todas las / las familias tenemos reuniones familiares cada quince días // en donde // nos reunimos a / comer / convivir un // un rato
+
+E: ¿ustedes hacen la comida o compran?
+
+I: e / pos a veces se hacen / o a veces se compra
+
+E: y cuando hacen
+
+I: dependiendo del estado de ánimo <risas = “I”/>
+
+E: ¿y tú sabes uh / tú has preparado comidas?
+
+I: e no / para / para los familiares no 
+
+E: a 
+
+I: allá muy / muy de vez en cuando / bueno / vamos a hablar de preparar comidas como // una carne asada 
+
+E: a / las amistades / todo eso
+
+I: sí / sí sí 
+
+E: para 
+
+I: preparar comidas pos como te digo así / en forma forma 
+
+E: ¿y la carne asada qué / qué le / cuál es el secreto?
+
+I: pues mira / el este / en sí el secreto está desde / desde el prender el carbón
+
+E: ah ¿sí? / ¿cómo se prende?
+
+I: pues yo lo que hago // es una // una o dos servilletas con / aceite / aceite / comestible
+
+E: <tiempo = “06:08”/> mjm
+
+I: las impregnas // y le haces un / un castillo con // con los carbones / lo pones al centro / y prendes ese / esa servilleta / el aceite lo que va hacer es / mantener la / la flama // para que los / carbones se enciendan // y con eso bueno / pos ya // ya le ves el punto ahí del / del carbón // que no estén / la brasa muy / / muy fuerte / y pos pones la carne / después tienes que cuidarla / de que no se te queme // o que no te quede cruda por un lado y quemada por el otro 
+
+E: ¿y cuántas vueltas lleva o / cómo / cómo es? 
+
+I: pues dependiendo del / del tipo de cortes / si es un corte // grueso pos también necesitas aligerar la / la brasa // si es un corte delgado pos con un par de vueltas tiene 
+
+E: ¿cómo qué cortes?
+
+I: m / pos vamos a hablar / pos es que mira / por ejemplo lo que son // tibones // este // hay unos tibones de corte grueso y es / hay otros en corte delgado 
+
+E: m 
+
+I: la / arrachera pos regularmente es de corte delgado // este / sirlón / pos también / vienen en e / en este / dos cortes / depende cómo lo pidas en la carnicería
+
+E: ¿si es un corte delgado necesitas / brasa ligera? 
+I: e / no // no una brasa mediana / se / un par de vueltas y / ya está lista / en un corte // ya sea 
+
+E: ¿y preparas la carne con algún condimento?
+
+I: pues / sal 
+
+E: nada más sal
+
+I: nada más sal 
+
+E: e / pero hay gente que le pone / otros condimentos
+
+I: sí / sí hay gente que / pos hace sus / e / sus recetas caseras // con / pos no sé / orégano / pimienta / este / especies / e / inclusive a lo mejor por ahí // le ponen salsa inglesa / este qué sé yo pos e / cada // cada gente lo hace como / como quiere yo la prefiero / este / simple y sencillamente nomás con / con sal 
+
+E: <tiempo = “08:26”/> con sal / ¿y se junta / te juntas con tus amigos o / o también con la familia que / carnes asadas o 
+
+I: sí / sí sí sí o sea / con // la familia o con / amistades
+
+E: oye ¿me puedes contar alguna anécdota / así importante de que haya sucedido / aunque no sea de una carne asada pero / así importante en tu vida? 
+
+I: una anécdota // toda la vida ha si / han sido anécdotas <risas = ”todos”/> / diariamente / sucede alguno
+
+E: estás como los gallegos / que no son chistes
+
+I: no / son anécdotas // no fíjate que así no / no / no orita no // no recuerdo de / así de ninguna anécdota // ni chistoso ni ni serio
+
+E: oye una vez me comentaste que tuviste / un accidente / automovilístico muy fuerte que se voltearon / o algo así / este // ¿me podrías comentar / un poco más de eso?
+
+I: m / pos no ya ni / ya ni me acuerdo de eso 
+
+E: o alguna vez que / que hayas estado en // que haya corrido peligro tu vida o algo alguna enfermedad 
+
+I: no 
+
+E: o / algún / pariente
+
+I: m / pos no fíjate que realmente no bueno pos alguna / alguna este / hace tiempo una // una caída de una de mis / de mis hijas / este / cayó de la cama / se / se le salió el aire / de los pulmones 
+
+E: mm
+
+I: pero pues e / fue el susto o sea // vamos casi casi inmediatamente se // se recuperó
+
+E: <tiempo = “10:28”/> ¿pero la llevaron al hospital / o algo? 
+
+I: sí / sí sí sí la llevamos nomás por / precaución pero // pues / nada más 
+
+E: oye ¿con tu negocio ya tienes muchos años?
+
+I: sí 
+
+E: este / ¿y antes trabajaste en alguna otra parte o 
+
+I: sí / pos antes trabajaba / para / empresas / empresas / del ramo / e / de la construcción
+
+E: y luego este / ¿te va mejor acá en e / tu negocio propio?
+
+I: m / pues sí / de / dependiendo de de la época del año / este / va / van mejor las cosas 
+
+E: ¿hay / cierta temporada de / para la ropa?
+
+I: ¡ajá! / sí / sí pos / los // meses de diciembre son los buenos del año
+
+E: ¿y en // en verano y esas / épocas de calor no se vende la ropa?
+
+I: no / sí sí / sí se vende // e / lo que pasa es que // diciembre / acuérdate que diciembre trae los aguinaldos // trae en sí la época // decembrina / los regalos // y pos obviamente es un / es un / un mes / en que // todo mundo // este / pos / tiene compromisos // y quiere hacer sus // regalos // y pos un buen regalo es // es la ropa 
+
+E: la ropa
+
+I: pos eso // le sirve // a todo mundo le sirve
+
+E: <tiempo = “12:02”/> así es / este 
+
+I: y en cambio los otros tiempos de / de / este / vamos a hablar de // pos del verano // e // ahí en el verano // e / en este tipo de negocios así / este pega por ejemplo / la escuela // la entrada de los niños / a la escuela 
+
+E: a clases 
+
+I: ¿por qué? porque hay / pos es la compra de útiles hay otras prioridades y pos / baja un / un poco la / la venta
+
+E: ¿y uniformes no haces?
+I: eh no / no
+
+E: ¿no / no se mueven o / por qué? 
+
+I: eh / no no no / hago uniformes // o sea tengo nada más este / lo // lo que es común / o sea un / no sé un pantalón azul marino / e / turquesa sí / común para las escuelas / sí en muchas escuelas // pos están más especializadas en su vestimenta y / los uniformes
+
+E: mjm
+
+I: que una raya que dos rayas que // eh blancas y / amarillas / y rojas y / pos ya es / es meterte ya en mucho / mucho problema 
+
+E: ¿mucho proceso?
+
+I: sí mucho proceso y / y no sabes realmente // eh / pos cuántos pos cuántos puedes vender de ésos // lo mejor es algo / más este / pos más estándar 
+
+E: mjm / oye y en navidad este / ¿cómo / celebran la navidad o qué hacen / en tu casa?
+
+I: ¡ah! sí se celebra / se celebra la navidad y el / y el el / fin de año / y hacemos bueno pos / es / la reunión familiar // procuramos este // pos comprar / o hacer <risas = “I”/> / dependiendo del estado de ánimo
+
+E: y del económico también
+
+I: y del económico también / sí 
+
+E: sí 
+
+I: pues es / no sé / pavo / pierna 
+
+E: <tiempo = “14:03”/> pero ¿no son pavorosos frijoles? 
+
+I: eh / bueno / también pueden ser nomás que de los pavorosos a la charra / te / saben mas ricos <risas = “I”/>
+
+E: ¿y rezan y hacen / todo el ritual o 
+
+I: fíjate que / como que pos ya / esta // esta tradición se está // perdiendo ya no hay tanto el / el rezo // sino que es más que todo la convivencia // y la celebración // de la navidad // ya eso de los // los rezos y / y este como que se ha perdido ¿no? / yo creo que / globalmente también a lo mejor / e // pos la gente católica // se ha / se ha estado perdiendo esa / esa tradición
+
+E: pero ¿como quiera ponen pino y / nacimiento?
+
+I: sí / sí sí sí sí / se pone / se pone pino y <risas = “I”/> / y nacimiento // este // pero / pos ya ves que los rosarios y esas cosas que // digo se acostumbraban anteriormente // ya no los he visto yo mucho / no y son // amistades o / familiares / ya básicamente ya no
+
+E: ya no lo usan / ¿y antes de / de joven sí lo / sí lo hacías?
+
+I: pues / eh / lo veías más / o sea sí lo hacíamos / y y / y veías más en / en otras familias también en otras casas 
+
+E: las posadas 
+
+I: <énfasis/> las famosas posadas / que ésas sí eran / posadas / o sea te invitaban de una / ibas con una amistad 
+
+E: mjm
+
+I: y / y se hacía todo el // el / proceso el ritual
+
+E: pos ¿cómo era pedir posada?
+
+I: pues eh // cantabas ahí los / villancicos fuera de la / de la casa // te abrían la / la puerta / pasabas / y pos te invitaban ahí / algo de // tomar // y algo de comer
+
+E: <tiempo = “16:13”/> ¿y ahora cómo / cómo es el cambio ahora? 
+
+I: no pos mira / es que // ¿cuál cambio? / pos si ya no existe / la gente dejó de hacerlo <risas = “I”/>
+
+E: pero todavía hay posadas ¿no?
+
+I: pues / mira / ya tengo // bastantes años de no verlas 
+
+E: ¿ni de otro tipo? / porque pos todos los jóvenes / no / voy a una posada voy a otra posada 
+
+I: bueno / pos sí dicen que van a una posada pero van a una fiesta // que es el / el concepto / o sea un concepto es una fiesta y un concepto es una pos / una posada / son cosas totalmente / distintas
+
+E: ¿por qué?
+
+I: pues / la posada se cos- / se acostumbraba anteriormente / e / pues era algo en donde / tu convivías ahí con la gente pero no / e / no celebrabas // o sea no celebrabas // e / lo que es una / una fiesta en / entre jóvenes 
+
+E: sea ya no / no van a celebrar nada / van a beber 
+
+I: o van a beber así es // van a tomar // es muy / muy distinto / es como / que vamos a festejar ahora pos // el no cumpleaños de // no sé quien / pero es un pretexto 
+
+E: así es oye me contabas hace rato / que había muchos tugurios ahí donde // está tu negocio
+
+I: bueno exactamente donde yo estoy // no / donde / donde yo estoy // hay // cantinas 
+
+E: pero ¿qué / qué lugar es? // ¿qué / qué parte es? 
+
+I: es el centro de / de Monterrey
+
+E: <tiempo = “18:00”/> y / pero ¿qué / qué hay ahí alrededor / o qué?
+
+I: alrededor pos hay muchas tiendas / inclusive es un centro // pos comercial totalmente 
+
+E: pero estás / ¿más o menos por qué área? 
+
+I: en el centro / en el centro de Monterrey 
+
+E: pero ¿en el primer e?
+
+I: en el primer cuadro // dentro del primer cuadro pero donde yo estoy pos / hay unas cantinas por ahí nada más // este en otro sector // sí están / muchos tugurios muchos antros por ahí // y ahí / obviamente pos sí hay más / más desorden 
+
+E: pero ¿cómo es? // o sea qué ¿qué es una cantina y qué es un tugurio?
+
+I: bueno mira / la // la diferencia / básicamente // e // la cantina es para hombres 
+
+E: mjm
+
+I: y / lo que / se denomina el tugurio / o el antro // es para hombres / pero con mujeres dentro del // del establecimiento 
+
+E: los tables ¿o qué?
+
+I: así es / hablemos de los tables dance 
+
+E: y ¿hay / hay muchos por ahí?
+
+I: donde yo estoy no // está n / vamos a / a decirlo ahí / retirado // de donde yo estoy
+
+E: ¿ahí hay pura cantina / donde estás tú? 
+
+I: sí
+
+E: o sea / y antes / ¿siempre ha habido cantinas ahí?
+
+I: sí / sí sí sí / sí han existido // ahí // los mismos lugares de siempre 
+
+E: ¿donde está un negocio una cantina?
+
+I: no no no no no tanto así / no no no vamos a hablar de // de que son // este / todos los negocios // en / en la / en la / en una // dos cuadras // y pos allá en la esquina / hay una cantina / pero cada dos / cada tres cuadras
+
+E: <tiempo = “20:07”/> o sea no causan problemas
+
+I: pos durante el día no
+
+E: pos están cerradas ¿verdá?
+
+I: m / pos no hay unas que / yo creo que empiezan a trabajar <observación_complementaria = “distorsiones” /> // a las diez de la mañana 
+
+E: ¿tanto así?
+
+I: sí // sí pos / y pos si bueno no sé si estarán abiertas las veinticuatro horas // este / no sé cómo le hagan con esa cuestión de / permisos y todos // todo el papel y el / requisitos que tienen que tener 
+
+E: a lo mejor ni tienen permiso
+
+I: a lo mejor ni tienen permiso quién sabe // pos si / sí hay algunas que / que / pasas tú por ahí / y tienen gente a las diez de la mañana <observación_complementaria = “pasa el metro o un automóvil” />
+
+E: o igual y le // dan un moche <observación_ complementaria = “es lo que comúnmente se le conoce como mordida o soborno”/> al // inspector
+
+I: pos / quién sabe / yo ya / cada quien / ahí // pos / que le haga como // como pueda y como quiera y // legal o ilegalmente
+
+E: se / se da mucho ¿no? la mordida
+
+I: pues / sí / se da mucho per- / este / como quiera / cosas / pos han cambiado // han cambiado en el sentido ya / ya no es // tan pues tan arraigado eso de la // de la mordida o sea / yo creo que pos / se está dando / un // un cambio / en / en la misma gente es / pos también / digo // tienes que // hacer las cosas / o no cometer las faltas 
+
+E: pues sí
+
+I: o sea también tienes que crearte esa // esa conciencia // y / y / decir bueno pos sí cometí la falta / pos sí / sí la cometí 
+
+E: y múlteme
+
+I: y múltame
+
+E: pero a mucha gente le / prefiere / paga r / antes de // pagarle / directamente al tránsito para que no lo multe ¿no?
+
+I: <tiempo = “22:03”/> lo que pasa es que acuérdate que orita también todos / este // vivimos más // más aprisa este / andamos de un lado para otro // y / pos lo que menos quieres es / es perder el tiempo 
+
+E: así es 
+
+I: y que en este caso no es una pérdida de tiempo porque si tú cometiste esa falta // ¡pos fue tu error! 
+
+E: mjm
+
+I: y de alguna manera pos lo tienes que // pagar tu error // y ese tiempo // pos fue tu error // haber cometido esa falta 
+
+E: así es
+
+I: pero // pos ¿qué haces? que // cometes el error // y / pos te multan y le das la mordida // y te ahorraste el tiempo 
+
+E: así es 
+
+I: pero bueno pos son yo creo que ya es / es este // criterio de cada // de cada persona
+
+E: ¿pero tú como quiera crees que está disminuyendo?
+
+I: mjm
+
+E: ¿que ya hay más cultura? 
+
+I: sí 
+
+E: ¿má s?
+
+I: sí sí está / está disminuyendo ya / la gente tiene más eh // o sea poco a poco la cultura se ha ido difundiendo /este / lo puedes ver en muchos anuncios // radio / televisión // en donde / pos se le está inculcando a los niños // ese tipo de / de / de cultura // y pos // creo que / más delante se van a ver los / los frutos de esa / de esa // cultura 
+
+E: acabo de ver una / instalación no me acuerdo del / artista / en Cintermex // que / se llama / el árbol // fruta l // o algo así // y él / este artista lo que hace es / recopilar // cada vez que se da una mordida / pone un fruto en el árbol / y habla / de / la / los distintos municipios / y este / y en el municipio y en la zona que más se da la mordida // cada / minutos se dan dos o tres mordidas o qué sé yo / este no / no recuerdo bien // es precisamente el centro de Monterrey // donde más se da / la / la mordida / en otras áreas que Escobedo se da menos eh / San Pedro es donde / es la menor / cantidad / de mordidas // este // ¿tú a qué crees que se deba esto?
+
+I: <tiempo = “24:41”/> mira / yo creo que // primero // de esto es / e / ¿ese simulacro de ese / árbol // tiene sus eh / fundamentos? 
+
+E: tiene sus fundamentos / se hace / encuestas // a las personas / dónde viven dónde fueron multadas // este / y lo va registrando 
+
+I: ¡ajá! / pero / e esto se / se // bueno / vamos a suponer que todo eso es / es cierto 
+
+E: mjm
+
+I: que los datos son verídicos // y ahí pos puedes ver // las // diferencias // marcadas de / de un municipio a otro
+
+E: mjm
+
+I: ora / e / sí / el centro de Monterrey // es el que / vamos a decir / más mordidas hay // ¿por qué? // pos también tienes que tomar en cuenta // que casi toda la gente acude al centro de Monterrey o al municipio de Monterrey o pasan por el municipio de Monterrey / y en cambio en otros municipios pos // pasan menos gente 
+
+E: <tiempo = “26:01”/> mjm
+
+I: obviamente // este / las encuestas que hacen // y todos los / los datos que se han tomado para ese árbol // pos es obvio / que el municipio de Monterrey tie- / tiene que tener más
+
+E: pues sí
+
+I: a diferencia de los demás // m // ora mas sin embargo la cultura de / de // por ejemplo del municipio de // de / Garza García yo creo que ahí // pues / se ha visto a través del tiempo / e / pos porque la gente es más // más consciente // yo creo que también ahí viene // de que pos sea el / el que tiene menos 
+
+E: así es 
+
+I: ¿qué hicieron? bueno pos // como te decía anteriormente // formar una cultura
+
+E: sí / y con respecto a esto lo / lo / por ejemplo la s / ahora las mega multas // que se han implementado / este / ¿cómo / cómo ves? / ahí por ejemplo / te para / tránsito y en lugar de darle / de pagar la multa que son / cuatro cinco mil pesos / o hasta veinte mil pesos / le das // no sé cuánto pero // le das menos ¿no?
+
+I: sí // sí yo creo que // bueno / aquí el / el 
+
+E: ¿ahí sí está bien en ese caso? / o 
+
+I: no / no está bien o sea / todo / todo eso no / no va a estar bien / estuvo bien // el que hayan implementado / e / la multa más alta / e / lo que no midieron / fue / que esa multa más alta // pos también le va a corresponder una mordida más alta / al final de cuentas / este // caes en eso / no / aquí yo creo que lo que se debe hacer es / simple y sencillamente // es / oye bueno / si vas a ir a alguna / fiesta / vas ir a alguna parte / estamos hablando de las antialcohólicas ¿no? 
+
+E: <tiempo = “28:10”/> pos sí
+
+I: básicamente / que son las que han aumentado muchísimo
+
+E: mjm
+
+I: e // más bien // que pusieron las // las multas e // más altas // oye pos toma la conciencia // agárrate un / ecotaxi // te va a salir más barato // el ecotaxi // que darle la mordida // al antialcohólica 
+
+E: y lo pagan entre varios
+
+I: y lo pagan entre varios / todavía / digo / ¿qué tan retirado puedes ir?
+
+E: así es
+
+I: que / que por otro lado / no sea / menor ese / ese / ese gasto / al da // al dar una mordida 
+
+E: pero como quiera / el taxi es caro ¿no? / la / o las mordidas todo ¿no? / pos todo es caro ¿no?
+
+I: pues 
+
+E: ¿esta pesado?
+
+I: e / bueno / es / caro depende de / de / de donde lo veas / o de cómo lo veas // o sea / por ejemplo si tú / tomas tu automóvil / y vas a la fiesta / te tomas equis / bebidas // y de regreso // te para la antialcohólica // pos / ahí tienes // de dos / o pagas tu multa / que está bastante / incrementada // te van a recoger el carro etcétera / etcétera // o das una mordida
+
+E: mjm
+
+I: ¿de cuánto es la mordida? / bueno / vamos hablar del // veinte por ciento de la multa o del diez por ciento de la multa // claro que te sale mucho más barato // agarrar un ecotaxi
+
+E: <tiempo = “30:00”/> bueno eso sí pero / hay gente que // pos no puede ni pagar una mordida o // está difícil la / la situación / ¿no?
+
+I: bueno / pero es que ahí está / la conciencia de la gente si vas a ir a una fiesta / y vas a tomar // pos // para eso está el / el chofer designado 
+
+E: ¿y crees que si lo hacen así? 
+
+I: pos / yo lo he visto // yo lo he visto que sí // mucha gente es lo que hace / oye paso por ti / nos vamos // tres / cuatro / y tú eres el chofer designado y / y no tomas 
+
+E: no tomas nada
+
+I: y no tomas nada // a la siguiente bueno pos // se turnan
+
+E: ¿y a ti te a tocado algunas vez / ser chofer o no?
+
+I: no no me ha tocado 
+
+E: entonces no 
+
+I: yo prefiero utilizar los ecotaxis <risas = “I”/> // más cómodo
+
+E: ¿pero no hay / sí están seguros? 
+
+I: claro que sí / son seguros
+
+E: dónde / ¿el que agarres / o donde este 
+
+I: bueno / procura / procura agarrar este // algo // que consideres a tu criterio // bueno
+
+E: está bien oye pos / ya para cerrar te voy a hacer una / serie de preguntas // este / ¿cuál es tu edad?
+
+I: cuarenta y cinco
+
+E: cuarenta y cinco añitos / ¿estado civil?
+
+I: realmente casado
+
+E: ¿felizmente?
+
+I: pos / bueno feliz y real / las dos cosas
+
+E: ¿dirección mm?
+
+I: Miguel Nieto // doscientos treinta y dos // norte
+
+E: norte / centro / ¿verdad?
+
+I: así es
+
+E: ¿de dónde eres originario?
+
+I: <tiempo = “32:02”/> de aquí de Monterrey
+
+E: de / de ocupación eres dueño
+
+I: sí
+E: ¿empresario?
+
+I: comerciante
+
+E: e / ¿tu papá de dónde es? 
+
+I: también de Monterrey
+
+E: ¿tu mamá?
+
+I: igual / también
+
+E: ¿el abuelo paterno?
+
+I: igual / todos
+
+E: ¿materno?
+
+I: todos 
+
+E: todos
+
+I: todos / si tienes ahí primos y / demás / también
+
+E: okay / este // pos contabas con todos los servicios ¿verdad? / aquí en / donde vivías / donde vives
+
+I: ¿de qué clases de servicios hablas?
+
+E: luz / bancos / agua 
+
+I: ¡ah! / okay 
+
+E: todo 
+
+I: sí 
+
+E: había escuelas ¿no? 
+
+I: sí / bueno pos es que ya ves que platicábamos de los otros servicios
+
+E: ¿de cuales servicios?
+
+I: pos ahí / anteriormente / ahí platicamos de unos // unos servicios ahí de los tables dance ¿veá? <risas = “I”/>
+
+E: ¿pero esos son privados?
+
+I: bueno pos sí es cierto / son privados / pero también / al final de cuenta son servicios 
+
+E: está bien entonces ¿cuál es / ¿tienes alguna / afición o pasatiempo?
+
+I: sí 
+
+E: ¿cuál?
+
+I: sí / me gusta mucho / pos la música // sí / sobre todo los // últimamente los / video clips
+
+E: ¿en VHS?
+
+I: no no eso ya / ya es historia
+
+E: ¿ya no existen los VHS?
+
+I: no sí existen // pero es historia puro formato ya / de / de / DVD?
+
+E: ¿y qué tipo de videos / de todo tipo de videos?
+
+I: sí // musicales
+
+E: <tiempo = “34:01”/> ¿conciertos y 
+
+I: así es / conciertos / video clips / eh presentaciones en la televisión
+
+E: ¿vas al cine?
+
+I: sí
+
+E: ¿cada cuánto vas?
+
+I: este pues / ¿qué serán? / unas dos veces al mes
+
+E: ¿y qué películas te gusta ver? 
+ 
+I: pues 
+
+E: ¿mexicanas / extranjeras / o de las dos? 
+
+I: pues s / pos más las extranjeras // este / del ramo ahí / sobre todo de la ciencia ficción
+
+E: ¿de estados Unidos o 
+
+I: pos regular / regularmente es lo que más nos llega aquí
+
+E: entonces / de ciencias ficción
+ 
+I: sí / ciencia ficción
+
+E: ¿fantasía / policiaca?
+
+I: acción / acción / suspenso
+
+E: ¿romance?
+
+I: pues / si no hay más
+
+E: ¿como cuáles? // ¿algún título que te acuerdes ahorita?
+
+I: pues que me acuerde // así de un título ahorita / básicamente / ninguno
+
+E: ¿y escuchas radio?
+
+I: sí
+
+E: ¿como qué / qué tantas horas al día?
+
+I: pues / pues son como // más de ocho horas
+
+E: ¿tanto así?
+
+I: sí pos tan / es lo que tengo en mi negocio / sí
+
+E: ¿y qué tipo de música?
+
+I: pos / básicamente música / setentas / ochentas música pop 
+
+E: los oldies 
+
+I: vamos a decir así los oldies 
+
+E: ¿qué / qué estación es la que más te gusta?
+
+I: la / noventa y uno punto siete
+
+E: <tiempo = “36:03”/> ¿de / y de / otro tipo de programa no escuchas en la radio? // noticias
+
+I: pos / sí / pos ahí
+
+E: mm
+
+I: la misma estación te da las noticias
+
+E: ¿la hora nacional / no?
+
+I: la hora nacional / pos no
+
+E: ves tele / e / qué pro- / ¿qué tanto ves de televisión?
+
+I: m / pos // si acaso / vamos una hora diaria se me hace mucho 
+
+E: ¿y qué tipo de programas / ves?
+
+I: no pos regularmente son / son películas
+
+E: ¿y ves muchas películas? 
+
+I: eh / sí / sí sí sí 
+
+E: y las mismas películas son extranjeras ¿verdad?
+
+I: obviamente que sí
+
+E: ¿con subtítulos o dobladas? / ¿cómo te gustan?
+
+I: de las dos formas 
+
+E: ¿tienes VHS?
+
+I: sí
+
+E: ¿DVD?
+
+I: también
+
+E: e / ¿videojuegos?
+
+I: eh / pos yo no pero mis hijas sí
+
+E: ¿tienes / cable?
+
+I: no
+
+E: ¿SKY?
+
+I: tampoco
+
+E: ¿cuántas teles hay en tu casa?
+
+I: tres
+
+E: ¿lees el periódico?
+
+I: no / ocasionalmente
+
+E: ¿qué periódico es el que lees?
+
+I: El Norte
+
+E: ¿y qué / cada cuanto lo lees / una vez a la semana / dos veces / o una vez al mes?
+
+I: pos una vez a la semana
+
+E: ¿y qué sección lees / o / lo lees todo?
+
+I: no no / no pos lo lees todo y te / tardas mucho en leerlo todo <risas = “E”/> // los titulares y pos si me interesa algún artículo sí lo leo
+
+E: ¿pero alguna sección e / la local / deportes / policiacas así / no / puro titular ¿veá? 
+
+I: puro titular / básicamente
+
+E: ¿y revistas? // ¿lees revistas?
+
+I: básicamente no 
+
+E: ¿tienes internet? 
+
+I: sí
+
+E: ¿en dónde lo usas / en tu casa / en el trabajo o 
+
+I: sí en la casa
+
+E: ¿nada más en la casa?
+
+I: sí
+
+E: ¿y cuántas computadoras tienes? y / ¿para qué / es / ¿cada cuánto usas el internet?
+
+I: pues / yo / así básicamente / ¿qué tanto tiempo / lo uso?
+
+E: <tiempo = “39:03”> sí / ¿todos los días?
+
+I: todos los días
+
+E: ¿y e para enviar correos / o para qué?
+
+I: enviar correos / consultar // alguna duda 
+
+E: ¿chateas?
+
+I: no
+
+E: ¿ni con vo-? / ¿ni con video ni nada?
+
+I: no
+
+E: ¿bajas música / o?
+
+I: no pos es / piratería 
+
+E: está bien / ¿tienes teléfono?
+
+I: sí
+
+E: ¿celular?
+
+I: sí
+
+E: ¿el celular este / lo usas / para hacer y recibir llamadas / o / nomás para estar comunicado?
+
+I: para hacer y recibir / eh
+
+E: ¿y qué tanto lo usas?
+
+I: ¿qué tanto / qué? / llamadas 
+
+E: sí
+
+I: ¿en el día? // pos unas / dos / tres llamadas al día
+
+E: <tiempo = “40:02”/> ¿y reci- eh / haces mensajes / y tomas fotos?
+
+I: no // no mensajes casi no // llamadas básicamente
+
+E: ¿has visitado algún museo? 
+
+I: m 
+
+E: ¿conciertos / has ido a algún concierto?
+
+I: sí
+
+E: ¿qué / qué / a qué conciertos has ido?
+
+I: este / Aerosmith m / ¿qué más? / ora que vino // Mark Partner y // The Doors 
+
+E: ¿o sea que irías una vez por mes digamos?
+
+I: pues // no / dependiendo más o menos de // a lo mejor pueden ser hasta dos o tres veces al mes nomás que / vengan buenos grupos <risas = “I”/> / o te puedes pasar tres meses sin ir a conciertos
+
+E: ¿y al teatro no // asistes?
+
+I: no / básicamente no
+
+E: ¿no te gusta el teatro?
+
+I: no / no me gusta
+
+E: ¿viajar / te gusta viajar?
+
+I: tampoco
+
+E: ¿a ningún lado viajas?
+
+I: no no me / no no me gusta viajar
+
+E: ¿hasta qué / cursaste / de educación?
+
+I: maestría // posgrado 
+
+E: ah está bien / ¿en escuela publica o privada?
+
+I: privada
+
+E: ¿hace cuánto terminaste?
+
+I: hace ¿qué son? / pos hace como veinte años
+
+E: ¿allá por el ochenta?
+
+I: no no no no no / no es como / el ochenta y cinco 
+
+E: <tiempo = “42:00”/> ¿en / en qué universidad estudiaste?
+
+I: en la / Regiomontana 
+
+E: ¿alguna especialidad?
+
+I: administración
+
+E: ¿y alguna este / otra especialidad que hayas / algún técnico 
+
+I: no
+
+E: ¿no?
+
+I: no
+
+E: ¿carrera técnica no? / ¿normal básica?
+
+I: no / nada
+
+E: ¿desde hace cuánto trabajas? / ¿hace cuántos años?
+
+I: pues mira / es / desde el ochenta y dos 
+
+E: ochenta y dos / ¿antes de terminar la maestría?
+
+I: sí / así es
+
+E: ¿dices que trabajas en el centro verdad?
+
+I: sí
+
+E: ahí me dices que produces ¿vedá? // ¿produces y vendes?
+
+I: sí
+
+E: en cuanto a tu ingreso / este tenemos unos rangos // el salario mínimo / son dos mil ochocientos pesos mensuales / este / ¿más o menos cuánto ganas / entre dos y tres / cuatro y seis / cinco y diez / o más de diez / salarios mínimos? 
+I: m // entre cinco y diez
+
+E: ¿prestaciones ahí en tu trabajo? 
+
+I: no
+
+E: ¿despensa / servicios médicos? 
+
+I: no / no
+
+E: ¿vacaciones? 
+
+I: no
+
+E: ¿cuántos focos / e / hay en tu casa?
+
+I: este mira son // diez
+
+E: en tu casa / me dices que tienes dos hijas ¿verdad?
+
+I: sí
+
+E: y tu esposa / ¿tu esposa / habla algún idioma?
+
+I: e / ¿aparte del español?
+
+E: <tiempo = “44:00”/> sí 
+
+I: sí / inglés
+
+E: inglés / ¿hasta qué grado cursó?
+
+I: eh / pos lo terminó // lo terminó en una escuela // este / pos / particular
+
+E: ¿pero preparatoria / universidad?
+
+I: bueno pos es / es la / la normal superior
+
+E: ¿trabaja en alguna escuela?
+
+I: sí así es
+
+E: ¿en qué escuela?
+
+I: en la / secundaria diez
+
+E: ¿más o menos qué / cuánto gana ahí? 
+
+I: no / no me quiere decir / yo creo que más o menos este / pos no no sé lo que gana / ¿en base al salario mínimo ese que tienes ahí o?
+
+E: sí / ¿es maestra verdad?
+
+I: sí 
+
+E: ¿y aporta a tu casa o / tampoco te te dice?
+
+I: no pos claro que aporta
+
+E: ¿como cuánto aporta?
+
+I: pos la verdad no sé pos yo creo que / todo <risas = “I”/> / entre los dos 
+
+E: está bien / ¿y tus hijas / hablan e / algún idioma / aparte del español?
+
+I: inglés
+
+E: ¿las dos?
+
+I: sí
+
+E: ¿y qué están cursando ellas? / ¿o ya / ya se graduaron?
+
+I: no / una está en la / preparatoria y la otra está en / en la universidad 
+
+E: ¿alguna de la / ellas trabaja?
+
+I: m / no / pos básicamente no 
+
+E: así que no / tampoco aportan a la casa ¿verdad?
+
+I: no
+
+E: bueno / ya sería todo nomás / este // este pos muchas gracias // este // por tu tiempo // este / que tengas // buenas noches
+
+I: <tiempo = “46:15”/> no pos gracias a ti
+
+E: ahí hablamos
+
+I: sí / estamos platicando 
+
+ Fin de la entrevista
+
+

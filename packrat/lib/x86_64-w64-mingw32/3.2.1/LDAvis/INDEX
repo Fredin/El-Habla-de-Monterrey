@@ -1,0 +1,7 @@
+TwentyNewsgroups        Twenty Newsgroups Data
+createJSON              Create the JSON object to read into the
+                        javascript visualization
+jsPCA                   Dimension reduction via Jensen-Shannon
+                        Divergence & Principal Components
+runShiny                Run shiny/D3 visualization
+serVis                  View and/or share LDAvis in a browser

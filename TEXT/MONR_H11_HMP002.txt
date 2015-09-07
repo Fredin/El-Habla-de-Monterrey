@@ -1,0 +1,2431 @@
+﻿<Trans audio_filename = ”MONR_H11_HMP002.MP3” xml:lang = ”español”> 
+<Datos clave_texto = ”MONR_H11_HMP002” tipo_texto = ”entrevista_semidirigida”>  
+<Corpus corpus = ”PRESEEA” subcorpus = ”ESMXMONR” ciudad = ”Monterrey” pais = ”México”/>
+
+<Grabacion resp_grab=”Alejandro Castaño Villarreal” lugar=”domicilio particular” duración=“1:02´37´´” fecha_grab =”2007-11-15“ sistema = ”MP3”/>
+<Transcripcion resp_trans=”Leonor Tienda Díaz” fecha_trans=”2008-02-25”
+numero_palabras=”14,394”/> 
+<Revision num_rev=”1” resp_rev=”Raquel Rodríguez de Garza” fecha_rev=”2008-09-01”/>
+<Revision num_rev=”2” resp_rev=”Mayra Silva Almanza fecha_rev=”2010-05-20”/> 
+<Revision num_rev=”3” resp_rev=”Cynthia Martínez del Ángel” fecha_rev=”2011-03-12> </Datos>
+<Revision num_rev=”4” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-06-06</Datos>
+
+
+<Hablantes>
+<Hablante id=”hab1” nombre=”Juan Pérez López” codigo_hab=”I” sexo=”hombre” grupo_edad=”1” edad=”24” nivel_edu=”analfabeta funcional” estudios="primaria" profesion="boletero" origen="Monterrey" papel="informante"/>
+<Hablante id="hab2" nombre="Alejandro Castaño Villarreal" codigo_hab="E" sexo="hombre” grupo_edad="1" edad="31" nivel_edu="alto" estudios= "licenciatura (Letras Españolas)" profesion= "profesor" origen="Monterrey" papel="entrevistador"/>
+<Hablante id="hab3" nombre="desconocido" codigo_hab=”A1" sexo="hombre” grupo_edad="desconocido" edad="desconocido" nivel_edu="desconocido" estudios= "desconocido" profesion= "desconocido" origen="desconocido" papel="audiencia"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="desconocidos" rel_ent_aud1="no”/>
+</Hablantes> </Trans>
+
+E: buenos días / ¿qué onda cómo estás?
+
+I: muy muy bien
+
+E: ¿cómo te llamas?
+
+I: Juan
+
+E: y el / y ¿cómo ves el / friecito / te gusta más el frío o el calor?
+
+I: está más / más / más bien o sea / me gusta más el clima éste
+
+E: ¿el frío?
+
+I: el frío
+
+E: ¿o por qué te gusta más el frío?
+
+I: pos no / no sé / pero me llama más la atención el tiempo de calor no sé
+
+E: ¡ah! / ¿qué es lo que no te gusta del calor?
+
+I: ¡ah! pos el calorón chingado de que / estás encerrado en el cuarto y ya no hallas ni cómo hacerle y 
+
+E: sí
+
+I: la agua y / luego aquí te la cortan 
+
+E: sí
+
+I: cuando / hace un chorral de calor / y ahí andas batallando consiguiendo botecitos por allá y por acá 
+
+E: sí / ¿te la cortan a / aquí en tu casa?
+
+I: en tiempo de frío la cortan has de cuenta que la cortan un día / eh / una manzana
+
+E: ¡ajá! 
+
+I: por decir medio día / y el otro medio día / la otra parte del día se la cortan a la / otra manzana 
+
+E: ¿todo el día? 
+
+I: no o sea medio día y medio día
+
+E: medio día y medio día / ah ¡órale!
+
+I: medio día por decir a media colonia 
+
+E: se va
+
+I: y como a las tres de la tarde / llega el agua y se la quitan a / de la avenida para allá para arriba 
+
+E: ¿y luego qué qué haces tú cuando te quieres bañar y no hay agua?
+
+I: no pos aquí ando / con los vecinos con los que tienen agua / me voy y les pido un botecito / ¿me da un botecito de agua?
+
+E: y a tinazos se bañan
+
+I: a tinazos <risas =”todos”/>
+
+E: y luego con el frío
+
+I: no cuando hace frío / pos sí cuando hace frío casi no / no la cortan
+
+E: ¡ajá! / es más en calor por el / porque no hay agua y eso
+
+I: porque no hay agua y eso 
+
+E: sí
+
+I: pero / tiempo de frío andas hasta buscando hasta leña 
+
+E: sí
+
+I: maderita que ahí que para calentar el agua porque también el gas está 
+
+E: está carón 
+
+I: está carón / sí
+
+E: oye y eh / ¿cuántos años tienes / cuál es tu edad?
+
+I: tengo veinticuatro años 
+
+E: ¡órale! / y ¿a qué te dedicas?
+
+I: trabajo en un bar
+
+E: en un bar 
+
+I: en un antro sí
+
+E: ¡órale! / ¿en cuál antro?
+
+I: eh / se llama / Don Quintín
+
+E: Don Quintín / ¿en dónde está? 
+
+I: aquí en avenida Garza Sada 
+
+E: sí / no lo conozco ¿cómo es?
+
+I: es aquí en frente del Tecnológico
+
+E: a ver 
+
+I: de ahí 
+
+E: ¿cómo es el lugar?
+
+I: es un antro o sea entra puro / chavo fresa y <observación_complementaria = ”es como comúnmente se les llama a los jóvenes que tienen dinero y son presumidos”/>
+
+E: mjm
+
+I: puro nice o sea lo que sea 
+
+E: ¡ajá!
+
+I: y / está bien pos ahí convives hasta con ellos mismos / te haces amigos de los clientes y / se portan bien / pos casi puro estudiante
+
+E: y / y / ¿cuáles son tus labores ahí qué es lo que haces?
+
+I: por decir yo trabajo / se llama tiquetero
+
+E: sí
+
+I: estás en la barra y pues / toda la gente que anda parada que te pide una cerveza
+
+E: mjm
+
+I: dame una cerveza / le das la / boleta / la guarda
+
+E: sí
+
+I: te da la cerveza y ya tú se la vendes / tú se la cobras / y al último a ti te hacen / por decir ya / ya cuando termina la noche 
+
+E: <tiempo =”02:25”/> sí
+
+I: cuatro cinco de la mañana / ya te / tú pides / todas tus tus comandas
+
+E: sí
+
+I: todas tus boletas y / te dan las boletas y tú ya vas checando / que estén en la / cuenta final
+
+E: ¡ajá!
+
+I: y sí ya está todo y / ya nomás te dan el precio y ya tienes que pagar ya te dan tu comisión 
+
+E: ¡órale! / es como vender cheve <observación_complementaria = ”cerveza ” /> pero en / por boletito
+
+I: por boleto ¡ándale! 
+
+E: ¡órale!
+
+I: lo que es cheve / que son un shot de tequila 
+
+E: sí
+
+I: bebidas
+
+E: mjm
+
+I: y está / está / está bien el trabajo
+
+E: ¡órale! / ¿y no / no / no le das tú / a preparar bebidas / el bar tender?
+
+I: eh fíjate que cuando hay la necesidad de / de meterse uno a la barra porque hay bastante gente y el barman no / no la arma sí / tiene que entrar uno ahí 
+
+E: también
+
+I: estar preparando bebidas dentro de la barra
+
+E: ¡órale! / ¿y sí / sí sabes hacer algo?
+
+I: sí / sí sí / sí sé bastantes cositas
+
+E: ¿qué sabes hacer?
+
+I: por decir lo que es la paloma el
+
+E: la paloma ¿qué es?
+
+I: es tequila con agua con / toronja / mm / limón y sal
+
+E: sí
+
+I: la paloma / está el / vodka toni 
+
+E: ¡ajá!
+
+I: es / lo que es vodka / con / agua quina / la Peñafiel <observación_complementaria = Marca de bebidas gaseosas” />
+
+E: sí
+
+I: ésa / está el vodka riqui / es vodka / agua mineral / limón y sal / el / bueno pos el perro salado has de cuenta que es lo mismo / pero / viene siendo con tequila 
+
+E: sí
+
+I: y / agua mineral limón y sal / lo que es la margarita / vodka / agua mineral / bastante limón
+
+E: mjm
+
+I: y lleva / un / un licor de / menta
+
+E: sí
+
+I: <tiempo =”3:55”/> está lo que es
+
+E: pero / ¿cómo lo / lo preparas? / ¿lo mezclas y luego qué? 
+
+I: fíjate que / primero cuentas dos onzas
+
+E: ¡ajá!
+
+I: contando hasta veinticinco / por decir uno dos tres cuatro cinco seis <observación_complementaria =”cuenta rápidamente”/>/ así / hasta el número veinticinco
+
+E: sí 
+
+I: son dos onzas
+
+E: ¡ah! ¡órale! 
+
+I: así / en lo que va vaciando 
+
+E: como segundos / uno dos tres y lo vas vaciando
+
+I: sí segundos / va vaciando lo va vaciando / y luego le pones / ¿qué te diré? / un refresco de / coca normal o sea
+
+E: sí 
+
+I: de trescientos cincuenta y cinco <observación_complementaria = ”se escucha música distorsionada” /> / un / digamos exprimes un limón y dos pizcas de sal
+
+E: mjm
+
+I: ya viene siendo / complemento de una bebida / y lo que es el / lo que es whiskys también o sea / vas contando / los veinticinco y también vas echando el agua mineral 
+
+E: ¡órale!
+
+I: te piden el whisky en las rocas
+
+E: así nomás / pero el whisky en las rocas es casi nomás / whisky y hielo 
+
+I: whisky y hielo nada más 
+
+E: ¡ah!
+
+I: hay mucha gente que has de cuenta que te dice / pos sí / a mí se me hace bien raro que / oye dame un bucanas? <observación_complementaria =”Buchanan’s marca de whisky”/> con coca 
+
+E: ¡ajá!
+
+I: ¡ájale! eso no es / ¿de dónde salió eso verdad? 
+
+E: ¿cómo va el bucanas? < 
+
+I: pos has de cuenta que lo mismo o sea / las dos onzas / y / pero con coca
+
+E: ¡ajá!
+
+I: cosa que casi nadien lo acostumbra
+
+E: sí
+
+I: por lo casual se acostumbra más el / el whisky se acostumbra con / agua mineral
+
+E: <tiempo =”5:00”/> ¡ajá!
+
+I: agua natural o en la roca / y de repente con / con esprai <observación_complementaria = ”quiere decir Sprite, la marca de refresco”/> 
+
+E: sí
+
+I: y aquí la gente te saca de onda porque oye dame / un whisky con / con coca / luego uno que con coca lai <observación_complementaria = ”quiere decir light, el refresco sin calorías”/> uno que con toronja <risas = ”I”/> / dices ¡ájale! pos de donde salió esa bebida ¿verdad? <risas = ”E”/>
+
+E: de dónde <risa = ”I”/>
+
+I: y te quedas así / y mucha raza que / dice ¡eh! prepárame un ferrari / oye pos qué es eso ¿verdad? 
+
+E: ¡ajá!
+
+I: te sacas de onda porque / un ferrari no pos oye no 
+
+E: ¡ajá!
+
+I: pos ¿qué es un ferrari? 
+
+E: sí 
+
+I:  ¡no! pues que / que es los beilis <observación_complementaria = se refiere a un licor, marca Baileys” /> leche carnechion <observación_complementaria = se refiere a la marca de leche Carnation” /> y licor de menta 
+
+E: ¡órale!
+
+I: ¡eh! se lo toma y se lo toma
+
+E: pero ¿así nomás mezclado?
+
+I: nomás mezclado en un cho de tequila o sea / lo que es un cho <observación_complementaria = ”de shot, un caballito de tequila que se toma en un trago/”> / un caballito 
+
+E: el beilis está bien dulce ese pedo
+
+I: sí / es lo que se te hace // acá / o sea / un beilis y luego / con leche carnechion 
+
+E: sí 
+
+I: y / y un / un / que viene siendo / para ese que es licor de sandía / lo que le ponen o algo así
+
+E: ¡órale!
+
+I: ya lo preparas tú dices no pues / no se ponen / la raza peda <observación_complementaria = ”alcoholizada ” /> porque 
+
+E: peda pos no / es bien poquito
+
+I: porque es muy poco vino
+
+E: sí 
+
+I: pero hay raza que / yo me he fijado ahí que / están / y se echan digamos un cartón de Indio <observación=”marca de cerveza”/> y una botella de beilis / o sea te quedas así bien cabras <observación_complementaria = ”se refiere a susto” /> de que ¡ah! cabrón 
+
+E: pistiando <observación_complementaria = ”tomando” /> todo el / toda la noche
+
+I: sí pistiando y toda la noche 
+
+E: pero salen bien burros ¿no?
+
+I: sí / súper burros <risas =”I”> / y he visto raza que / pide / digamos el servicio de una botella vienen siendo seis refrescos
+
+E: <tiempo =”6:24”/> ¡ajá!
+
+I: por decir uno ¡no! que / una botella de wisky / no pues / seis aguas minerales / te quedas así porque tú dices ¡ájale! / este güey nomás se / se echó la botella y dos aguas minerales 
+
+E: sí
+
+I: o sea / bien cargaditos que se los echó ¡y uno solo!
+
+E: ¡ajá!
+
+I: que te quedas así hay varia raza que pide botella de tequila / y están en su mesa y / a puro chot <observación_complementaria = ”de shot, un caballito de tequila que se toma en un trago/”>
+
+E: ¡órale!
+
+I: también salen súper burros pero 
+
+E: sí <risas = ”E”/> 
+
+I: se hace el ambiente ya ahí ya cuando llegan o sea ya los ves bien pedotes al último 
+
+E: sí <risas = ”E”/>
+
+I: primero llegan bien / bien formaditos bien derechitos al último ya van todos desarmados ya
+
+E: sí <risas =”E”/> / ¿y tú no pisteas ahí en el jale <observación_complementaria = ”trabajo” />?
+
+I: ahí no no se puede ahí sí nos corren a la chingada 
+
+E: ¿te están checando?
+
+I: sí pos hay circuito cerrado
+
+E: ah órale
+
+I: te sacan de onda
+
+E: ¡órale! / ¿y ya has tenido varios trabajos antes o es tu primer trabajo?
+
+I: sss / ¡no! yo he tenido tres chambas
+
+E: ¿de / de qué trabajaste?
+
+I: de trabajado en / una cantina 
+
+E: ¡ajá!
+
+I: en Reforma / lo que es Reforma en los puesteros <observación_complementaria = ”Reforma es una zona de mercado ambulante del centro de la ciudad y a los vendedores se les llama puesteros, por los puestos donde venden su mercancía”/>
+
+E: sí
+
+I: ahí / sirviendo cervezas o sea en la barra
+
+E: ¡ajá!
+
+I: también trabajé en un / en una empresa de refrigeración lo que son cuartos fríos y todo eso
+
+E: ¡órale! / ¿y qué hacías ahí?
+
+I: ahí has de cuenta que yo preparaba los equipos de / enfriamiento
+
+E: ¡ajá!
+
+I: y me mandaban / por decir casi toda la república la conozco
+
+E: ¡ah qué chido!
+
+I: me mandaban a / a instalar los aparatos y todo
+
+E: sí ¡qué chido!
+
+I: lo más gacho / que a donde me mandaron fue al anfiteatro 
+
+E: ¡ah la ma-! / ¿arreglar ahí donde tienen los muertos?
+
+I: sí / llegamos y ¡no oye pos no estaba un niño en la plancha! 
+
+E: ¡sss!
+
+I: abierto así / de las costillas 
+
+E: y 
+
+I: o sea todo has de cuenta que la canal de una res
+
+E: ¡ajá!
+
+I: yo nomás así donde lo vi / no / no sé / como que se me vino algo así encima y / me dejé caer al suelo y ¡no! quería / salir 
+
+E: te desmayaste / acá / te frikeaste <observación_complentaria = ”se usa para la sensación de incredulidad, miedo o psicosis ante algo extraño. Viene del vocablo inglés freak, raro”/>
+
+I: no / pero gacho / luego ya por decir / o sea para acabarla / ya al último / saliendo de la chamba ya que habíamos acabado / yo en realidad no hice nada / me quede sentado nomás pensando viendo al niño o sea / traía el reflejo en mi mente ia 
+
+E: ¡ajá!
+
+I: el niño chingado ahí / para cruzar la avenida Gonzalitos / venían los carros y ¡puta madre! o sea / trescientos cuatrocientos metros y no / no me animaba yo a cruzar la calle
+
+E: ¡ajá!
+
+I: y le dije a un señor oiga señor / ¿cómo ve si me ayuda cruzar la calle? / el señor se rió de mí y me dice <risas = ”todos”/> / ¡eh! / ya está muy grandecito <risas = ”todos”/> / no sí señor pero es que fíjese que entré a trabajar aquí / y lo primero que vi fue un cuerpo de un niño así y así / y traigo mucho miedo
+
+E: sí
+
+I: dice no pos vamos / le dije no pero pues agárreme la mano <risas = ”todos”/> / porque mi miedo sí es bastante 
+
+E: <tiempo = ”8:46”/> o sea el / ¿te dan mucho miedo los / los / muertos y así?
+
+I: pos / o sea / no 
+
+E: o sea te impresionó 
+
+I: o sea me impresionó ver al niño así o sea / abierto ya sin / lo que era sin tripas
+
+E: sí
+
+I: sin nada de eso o sea / la pura canal las costillas todo así limpio / como que / o sea ya para que le metieran nomás el aserrín y rellenarlo 
+
+E: sí
+
+I: ¡n’ombre! me dio un miedo terrible 
+
+E: sí te dio miedo / ¿y tú / tú has estado cerca de la muerte / o alguna vez te ha pasado algo así?
+
+I: eh / una vez me / pasó / estaba yo en / una tienda que se llama Merco 
+
+E: mjm
+
+I: acá por el Mezquital
+
+E: ajm
+
+I: y ¡n’ombre! estaba conectando unos cables / era luz cuatro cuarenta / y luego no sé cómo / un chavo aventó un tubo 
+
+E: mjm
+
+I: y cuando yo estaba con el desarmador / y chocaron dos líneas 
+
+E: iii
+
+I: estábanos yo y otro / amigo / a ese amigo le decimos Chicho / y has de cuenta que cuando topa el desarmador y lo topa con una línea de la corriente / se / esplota pero una explosión así / súper grande 
+
+E: como una bomba
+
+I: sí pero súper grande y has de cuenta que se ve todo o verde / y luego yo arriba ya no me moví nomás me quedé así / el amigo también / y luego yo le decía él que yo no veía nada / que veía todo verde / y él me decía lo mismo 
+
+E: ¡ajá!
+
+I: no pues / nos quedamos como una media hora así / ya / hasta que empezamos a ver sombras y llegó la ambulancia por nosotros
+
+E: ¡ajá!
+
+I:  <observación_complementaria = ”se escucha un camión”/> el nos llevaron / y todo pero / nos checaron no no traíamos ni quemaduras ni nada pero / simplemente fue el reflejo así en los ojos 
+
+E: tú sí la viste cercas / así / ah
+
+I: sí has de cuenta pos yo así como / ¿a qué te diré? a unos treinta centímetros de donde / explotó así 
+
+E: ¡ajá! / ¿y viste todo verde?
+
+I: sí / todo verde o sea todo se me nubló 
+
+A1: ¿no han venido?
+
+E: no / y luego este / no pos total o sea / terminamos ya / nos llevaron al seguro <observación_complementaria = ”se refiere al Instituto Mexicano del Seguro Social”/> y todo / nos checaron / y luego / y ahorita / ahorita en / la actualidad / un flash de una foto 
+
+E: te pega <risas = ”E”/>
+
+I: me molesta bastante has de cuenta que me dan un golpe
+
+E: sí
+
+I: toman el flashazo y / me cubro hasta la cara y yo / y sí veo que alguien va a tomar fotos / me la cubro de volada 
+
+E: sí
+
+I: de que me saca de onda
+
+E: te frickea sí 
+
+I: sí me / como que / no has de cuenta que / como si fuera un flamazo que / te llega así de repente un destello muy grande y / me quedo así / me quedo así de que / no puedo ver hasta que se me borre otra vez todo
+
+E: sí
+
+I: ponle un minuto así 
+
+E: ¡órale!
+
+I: y también este / una vez que andábamos en Reynosa / hola / este andábamos en Reynosa y estanos poniendo unas / una estructura muy grande // no pues estamos yo y un amigo / de suerte que traía yo arnés / y él también / y se vino un ventarrón / muy muy fuerte / nosotros estábamos cargando una hoja muy grande / y nos ganó el peso de la hoja y / nos quedamos / quedamos colgados
+
+E: ¡ah! ¡órale!
+
+I: era una altura de / ¿qué te diré? de unos cuatro cinco metros
+
+E: ¡ssssh!
+
+I: pero pos son de esas vez que tú dices no no la cuentas porque / te caes y / quedas en el / en el piso en el / piso sólido / de que te sacas de onda de que / qué pedo 
+
+E: sí
+
+I: <tiempo = ”11:43”/> que / o sea / hasta das gracias a dios ¿verdad? / y / pos así me pasó / esas dos cosas que o sea que / quisiera que no me volvieran a pasar ¿verdad?
+
+E: sí no / tira a león <observación_complementaria = ”frase usada para referirse a ignorar, evadir”/> / y / y por ejemplo en el trabajo sí dices que has conocido un chorro de partes de México ¿qué partes has conocido / que te han gustado?
+
+I: por decir / lo que más me gustó fue / la Playa del Carmen en Cancún
+
+E: ¡ah! neta / sí 
+
+I: está / súper linda
+
+E: ¿cómo es ahí? / yo nunca he ido / he visto fotos así pero no 
+
+I: pos la verdad de que / o sea / que te pueda platicar o sea es una / parte súper limpia 
+
+E: ¡ajá!
+
+I: y súper cara también sobre todo pero nosotros como íbanos en / labores del trabajo / y casi trabajábamos para pura gente que tenía / bares así
+
+E: ¡ajá!
+ 
+I: que para hacerles la cavita y / para congelar los mariscos y todo eso
+
+E: sí / sí sí 
+
+I: a nosotros nos salía de grapa 
+
+E: mjm
+
+I: era lo bueno / y / ahora / lo que es Tabasco / no sé sí viste lo de / las noticias
+
+E: ¡ah! sí lo de / sí
+
+I: nosotros estábanos en el pueblo que se llama Nacajuca
+
+E: mjm
+
+I: ahí estuvimos trabajando / ahí estaba / ¡súper! / con ganas porque has de cuenta que estábanos nosotros en una casa / y atrás había / sembradíos de / nueces y / que cocos y todo 
+
+E: mjm
+
+I: o sea / yo jamás había visto cómo se daban los cocos 
+
+E: ¿cómo se dan los cocos?
+
+I: o sea lo que es una / palma / larga
+
+E: sí
+
+I: y el coco se da ahí está arriba pero / te digo y o sea jamás había visto eso / digamos de que / yo me imaginaba que eran así como / tierras así como la gente que siembra en los ranchos 
+
+E: <tiempo= ”12:57”/> mjm
+
+I: tantos / árboles y / todo esto no nada / allá está en la ciudad 
+
+E: mjm
+
+I: por decir en la avenida / principal de / de allá de Tabasco / en el camellón de un medio / las palmeras y con cocos arriba y todo y 
+
+E: sí
+
+I: unas ardillas negras comiéndose los cocos
+
+E: ¡ah! ¿sí? / qué raro 
+
+I: nosotros allá buscábanos / los cocos y buscábanos las manzanas 
+
+E: sí
+
+I: la famosa manzanita que trae el coco
+
+E: ¡ah! sí
+
+I: y allá me / tocó ver una cosa / unas tortugas 
+
+E: ¡ajá!
+
+I: que le dicen huachitonte / algo así / hasta eso me traje un caparazón de tortuga de allá de esas <risas = E”/> 
+
+E: <risas = ”E”/> ¿neta?
+
+I: allá has de cuenta que así caminando las agarraban y ya tenían la lumbre prendida / y así / caminando las metían ahí están las tortuguitas / pobrecitas o sea con las patas y todo 
+
+E: ¡ajá!
+
+I: y luego ya nomás se cocían y la raza les cortaba / por decir de lo de abajo / les cortaba / a los dos lados poquito y con una cuchara así estaban come y come 
+
+E: ¡ah! no mames / se las comían así crudas
+
+I: sí o sea / ya / ya cocidas y todo 
+
+A2: papi ¿me compras chocolatitos?
+
+I: ahorita voy mi hija
+
+I: y / te sacabas de onda porque ni las tripas ni nada así / así todo
+ 
+E: <tiempo =”13:59”/> en crudo
+
+I: y luego / nos gustaba mucho ir a una parte / ahí donde comemos
+
+E: sí 
+
+I: ¡no! ¿qué tiene? / ¡no! que mondongo / frijoles charros / consomé barbacoa
+
+E: sí
+
+I: y uno se queda así ¡no! mondongo / pos ¿qué chingados es el mondongo? / ¡no! pos que el menudo
+
+E: ¡ajá!
+
+I: consomé barbacoa / pues la carne pero en salsa roja
+
+E: sí y ¿cómo?
+
+I: la barbacoa / la barbacoa / en salsa roja / hay unos tamales bien sabrosos / o sea lo que eran / lo que dicen / los famosos tamales veracruzanos
+
+E: sí 
+
+I: pero has de cuenta que / en vez de / que fuera Maseca / era como puro sebito / o sea sí estaba / está muy buena la comida 
+
+E: ¡ajá!
+
+I: y la costumbres de allá / bien raras en la mañana / que tacos de tenazas / que tacos de / pescado 
+
+E: mjm
+
+I: como decir aquí / no pos ¿qué? va / ¡n’ombre! pos que unos taquitos de / barbacoa
+
+E: a vapor
+
+I: barbacoa / que unos de vapor y no allá / no allá eran tacos de pescado / tacos de tenaza de pescado tacos de pulpo 
+
+E: por el marisco que está ahí cerca / el 
+
+I: sí todo eso y para todo / allá usaban mucho la cebolla morada / y el frijol negro
+
+E: sí
+
+I: lo usaban bastante / allá / lo que sí no servía era la carne 
+
+E: sí / la carne la más chida es aquí 
+
+I: sí / la más chida es aquí / allá varia raza por decir / estábamos en una empacadora allá / y la carne la llevaban de / carne Vigar / algo así de aquí / para allá
+
+E: ¡ajá!
+
+I: y allá hicimos varias veces nosotros carne asada / allá ellos se echan su carne asada pero has de cuenta que nomás era la carne / y las tortillas 
+
+E: sí 
+
+I: y una salsa / cuando nosotros la hicimos allá ¡no! pues que con salchicha y con cebollita asada pico de gallo tostadas 
+
+E: ¿cómo la haces tú aquí?
+
+I: pos aquí has de cuenta pos compras / lo que es un / un pedacito de carne 
+
+E: mjm
+
+I: cebollita / asada y / picadita en pico de gallo 
+
+E: mjm
+
+I: unos frijolitos refritos por un lado / una buena salsita y sus / sus respectivas cervecitas ¿verdad? <risas =”I”/> / y / o sea / nosotros así la hicimos allá / y ya cada vez que la raza quería carne por decir los patrones 
+
+E: sí
+
+I: ¡no!  ¡háblenle a los norteños!  <risas = ”E”/>
+
+E: para que les preparen carne 
+
+I: para la carne y ya ellos pagaban todo el pedo / y estaba con madre 
+
+E: ¿y tú sabes cocinar algo así de? / por ejemplo la fritada / no ¿cómo se llama la / la discada? / ¿sí la sabes hacer?
+
+I: <tiempo = ”16:04”/> pos / yo / yo 
+
+E: ¿cómo la haces? 
+
+I: yo no es por nada pero yo / yo te sé hacer todo o sea mi 
+
+E: ¡órale!
+
+I: mi señora en realidad ella casi no cocina 
+
+E: no cocina
+
+I: el que cocina soy yo 
+
+E: ¡órale! / ¿qué sabes cocinar?
+
+I: no / yo te / yo te sé hacer un mole / te sé hacer un caldo de verduras 
+
+E: ¿cómo haces el mole?
+
+I: el / el mole pos has de cuenta pos que coces el pollo / lo coces y luego agarras el // mande / vete para adentro mi hija ahorita voy / ¿qué quieres?
+
+A1: ¿te digo algo? / vamos a ir abajo a comprar chicharroncitos / allá abajito
+
+E: a ver deja contestar yo / hola sí sí / estoy de hecho en medio de una entrevista / sí / sí ¿por qué? / ¡ah! no no no / sí sí está bien lo que pasa es que ella se / se quedó haciendo una entrevis- / digo platicando con alguien y yo me desesperé y fui a buscar un informante / y de hecho estoy hablando con uno / sólo que / no / no no hay cuidado / sólo que contesté el teléfono porque pensé precisamente que podía ser Florencia / sí / pero dile que estoy aquí en / en / como a una cuadra de donde dejamos el coche y estoy haciendo un- / una / una entrevista / ¡órale! / órale bye
+
+I: sí / o sea 
+
+E: me estabas diciendo que eres bien bueno para la / para la cocina 
+
+I: para la cocina / sí lo que sea de cada quien sí / o sea te digo no es por crecerme nomás
+
+E: sí
+
+I: sino que fue que desde yo muy chico o sea / ¿que te diré? pos mis / papás trabajaban y / yo y mi hermano nos quedamos solos
+
+E: mjm
+
+I: y pos / pos te tienes que hacer a la idea que tienes que hacer algo
+
+E: sí
+
+I: empecé / haciendo / huevos
+
+E: ¡ajá!
+
+I: pero yo no les ponía aceite / a los huevos <risas = ”todos”/> / o sea / así los hacía 
+
+E: ¡ajá!
+
+I: y no ya de repente / pues ya vas experimentando más vas viendo más
+
+E: sí
+
+I: y ya vas haciendo más cosas / ya de repente cuando / empecé a agarrar que unas chuletas / que con zanahoria / con papa / con chile morrón / en caldo y luego con puré de tomate 
+
+E: mjm
+
+I: dos cuadritos de consomé 
+
+E: sí
+
+I: qué sabroso ¿no? / ya vas haciendo eso y luego / también ya que / no pos que te fijas como hacen la carne / la milanesa enpanizada 
+
+E: ¡ajá!
+
+I: y no pos también ahí / le haces la lucha / el mole / y que la fregada
+
+E: ¡ajá! / pero ya el mole y algo así está más difícil / ¿cómo haces tú el mole? / ¿cómo lo preparas?
+
+I: te digo sea lo que es este / cocer el pollo / lo coces ya lo dejas que se enfríe / porque sí lo dejas caliente chupa el sabor del mole para adentro y / se pierde mucho el encanto ¿verdad? / y ya teniéndolo así / puedes agarrar chile colorado / ya hervido / molerlo y luego ya le pones el / frasquito de mole / le pones / un ajito / o dos ajitos para que agarre / sabor
+
+E: mjm
+
+I: ya metes el pollo / le echas lo que es todo / lo que es el frasquito de mole y el chile colorado / ya / molido la salsa del chile colorado 
+
+E: ¡ajá!
+
+I: lo pones y ya lo dejas que hierva 
+
+E: y sí / ¿y tú vives / tú / tú dices que tus papás trabajaban y / entonces tú tenías que cocinar? / ¿tú vives con tus papás ahorita?
+
+I: sí ahorita vivo con mis papás ya ya estoy casado gracias a dios / tengo dos hijas
+
+E: ¡órale! / pero vives con tus papás 
+
+I: pero vivo con ellos 
+
+E: ¡órale! / y / eh ¿y algún día piensas irte de tu casa y tener tu casa?
+
+I: sí / sí no aquí ya no / no porque pos somos / somos cinco de familia
+
+E: sí
+
+I: por decir mi hermana la mayor ya está casada y ya tiene su casa
+
+E. ¡órale!
+
+I: pero estoy yo y hay tres hermanos más / digamos que yo vivo allá en unos cuartos que ellos me prestaron
+
+E: sí
+
+I: pero aquí tengo a tres hermanos / tengo una hermana de veintiún años que no tarda en casarse
+
+E: ¡órale!
+
+I: y tengo mis otros dos hermanillos / y que tú dices ¡ájale! el día que se casen / uno tiene más la oportunidad de / de tener una casa 
+
+E: sí
+
+I: pos que ellos ¿verdad? 
+
+E: ¡ajá!
+
+I: y así al igual yo / no sé / si ahora en diciembre o en enero me dan una casa
+
+E: ¡órale! chido
+
+I: me voy de aquí / que / aunque no quisiera irme no sé por qué pero 
+
+E: ¿te gusta aquí / se te hace cómodo? 
+
+I: o sea más que nada por de mi / de mis / papás porque están malos los dos 
+
+E: ¿están enfermos? 
+
+I: están enfermos / y o sea más que nada por eso / por estar cerca de ellos 
+
+E: ¡ajá!
+
+I: para estar al pendiente porque pos ¿te imaginas? mi hermana / mi hermana es bien parrandera de que / le gusta ir a los bailes andar en los antros y todo 
+
+E: sí 
+
+I: y mis otros dos hermanillos / una tiene quince años el otro trece / has de cuenta que van entrando a la edad de la pubertad que / andan así en chinga
+
+E: <tiempo = ”20:30”/> sí / en cotorreo 
+
+I: el cotorreo y mis jefes ya se quedan solos 
+
+E: sí 
+
+I: más que nada por eso 
+
+E: se te hace chido quedarte a cuidarlos aquí
+
+I: sí o sea se me hace bien 
+
+E: pero tú / ¿tú sí quieres así como / eh / mejorar económicamente y tener?
+
+I: sí fíjate que sí / si hasta eso yo tenía / un / ¿qué te diré? / pos tengo un poco de estar ahorrando dinero porque antes también me la pasaba de pedote 
+
+E: ¡ajá!
+
+I: o sea me me / me valía ¿verdad? 
+
+E: ¡ajá!
+
+I: y / puras broncas y broncas con la señora 
+
+E: mjm
+
+I: y luego pos andando en el pedo pos que las drogas y todo eso 
+
+E: sí / vas
+
+I: Entonces también te vas metiendo ¿verdad? / te vas clavando 
+
+E: ¡ajá!
+
+I: que te saca de onda / ponle ahorita no te digo que soy un santo ¿verdad? 
+
+E: sí
+
+I: pero a comparación de antes se me hace que ya voy siendo angelito <risas =”todos”/>
+
+E: ¿pero por qué lo haces? / porque quieres mejorar / así en tu casa y 
+
+I: más que nada por las broncas con mi señora 
+
+E: mjm
+
+I: porque te imaginas / tengo dos hijas / ponle que / de repente se va o se queda / no hay pedo 
+
+E: mjm
+
+I: cualquiera de las dos cosas / pero pos la imagen o sea para las niñas
+
+E: sí
+
+I: o sea está / está bien cabrón de que 
+
+E: sí / que su papá bien pedote 
+
+I: llega bien pedo y loco y la chingada 
+
+E: sí <risas = ”E”/>
+
+I: <tiempo = ”21:37”/> y / te ven ellas y que / no ¡qué onda! 
+
+E: sí
+
+I: una vez dejé de tomar nueve meses 
+
+E: ¡ay! 
+
+I: y luego mi hija bien contenta le decía a mi mamá y a mi papá /  mi papá ya no toma mi papi no toma 
+
+E: ¡ah qué chido!
+
+I: ¡ándale! y de repente que llega el papá bien pedote <risas=”I”/> / no y / ¿no que ya no ibas a tomar papi? / pos no mi hija me obligaron <risas = ”todos”/> /  ya no tomes ya no quiero que tomes / y antes yo era de que todos los días todos bien pedo y loco y 
+
+E: aquí / con la caguama y el gallo
+
+I: sí / o sea / todos los días me / yo todos los días me / salía del jale / y antes agarraba un chingo de lana y vámonos 
+
+E: ¡ajá!
+
+I: todos los días salía del jale / y todo el día me ponía pedo y loco 
+
+E: ¡ajá!
+ 
+I: y a las dos tres de la mañana / para las siete ocho de la mañana ya estaba en pie para ir me a jalar
+
+E: sí
+
+I: y me iba a jalar y hacía mis trueques y mis tranzas y todo
+
+E: para tener dinero pero era para la borracha / no para estar mejor
+
+I: era para la borrachera / no no para estar mejor es lo que pensamos
+
+E: ¡ajá!
+
+I: y hasta eso yo me fijo que hasta orita / he desperdiciado pero bastante dinero 
+
+E: ¡ajá!
+
+I: has de cuenta que yo estuve jalando con un camarada / en la reventa / lo que fue la expo
+
+E: sí
+
+I: todos los días me traía yo mil quinientos pesos para la casa 
+
+E: ¡sh! 
+
+I: todos los días a diario mil quinientos mil quinientos
+
+E: ¿y los guardabas o te los tomabas? 
+
+I: ¡n’ombre! me los chingaba / ¡me los tomaba!
+
+E: ¡chale!
+
+I: y luego por decir orita que / estoy juntando yo para un carro
+
+E: mjm
+
+I: digo ¡ah! chingado
+
+E: cómo te hubiera servido esa feria ¿verdad?
+
+I: en ese tiempo ganaba mil quinientos diarios
+
+E: sí
+
+I: hubiera guardado mil diarios ¿verdad? 
+
+E: qué bueno
+
+I: y quinientos para la señora / y / ya tuviera un carro / digamos chingón ¿verdad?
+
+E: sí / chido sí
+
+I: y no nada hasta orita estoy pensando ya cuando quiero un carro ¿verdad?
+
+E sí 
+
+I: y orita estoy en e so / me metí a tandas y la chinga da
+
+E: ¡ajá! / ¿y ahorita crees que / ¿cómo ves la situación económica? / ¿crees que es difícil?
+
+I: no / no es difícil 
+
+E: ¿por qué no?
+
+I: porque donde trabajo / o sea me va bien
+
+E: mjm
+
+I: aparte o sea / aparte en mi trabajo en el bar / ahí me va bien / digamos que mi / sueldo por semana / digamos que viene siendo tres mil pesos ahí / pero mi papá en el negocio que tiene él / yo voy y lo ayudo por decir él me manda/  ¡no! vete a la agencia  / papá tiene una cantina
+
+E: mjm
+
+I: vete a la agencia / a checarme / lo que me surtieron o que ve por el cheque / mensual 
+
+E: ¡ajá!
+
+I: y que ve por la bonificación y esto / y has de cuenta voy yo / y ya regreso y / voy con mi papá y ya son mil / mil quinientos que me da
+
+E: más feria / o sea que / por feria / por feria sí tienes <¿verdad?> / por trabajo / el pedo es juntar y 
+
+I: <ruido = "I aclara la garganta"/> feria sí hay 
+
+E: sí / ¡qué chido!
+
+I: el pedo es / saberlos guardar o sea / a veces uno no sabe guardar y te sacas de onda
+
+E: sí en / entonces se puede decir que tú no eres mu y / como hogareño familiar sino más / de amigos y así
+
+I: sí ¡ándale! / ¡n’ombre! si / fíjate que a mí me decía mi / mi señora / ¡n’ombre!  seguro te la pasas con las putas y que esto y que el otro 
+
+E: sí <risas = ”E”/> y con tus compas 
+
+I: le digo ¡n’ombre! no te digo que no me gustan las viejas porque sí me gustan 
+
+E: ¡ajá!
+
+I: pero yo voy por las putas / yo voy a los teibol <observación_complementaria = ”quiere decir table de table dance”/> por ellas / pero yo voy a sacarlas para llevarlas a la presa al billar a la chingada ya de cotorreo <observación_complementaria = ” se refiere a una reunión entre amigos o fiesta ” /> / yo en un lugar no me quedo <risas = ”todos”/> / y una vez / la llevé a la presa a mi señora 
+
+E: ¡ajá!
+
+I: dice ¡n’ombre! llévame o sea así como / te vas tú de repente en las noches / no / la vi no pues ándale / ya ora me quiero desaparecer y me pone cola de que no no vas <risas = ”I”/>
+
+E: ya sabe cómo está el pedo
+
+I: ya sabe a lo que va uno <risas = ”todos”/> y cómo está todo el pedo allá / ya me dice que no y no no no / llévame y / que la chingada pero no 
+
+E: <tiempo = ”24:49”/> ¿tú qué es lo que haces con tus compas / con tus amigos cuando te juntas con ellos? 
+
+I: pos has de cuenta / yo acostumbro bastante el vodka y el whisky 
+
+E: mjm
+
+I: y cerveza no se diga también / por decir yo salgo de aquí de la casa / le hablo a la raza por decir salgo el domingo en la mañana y le hablo a la raza / ¿qué onda sabes qué? / pues a las diez once de la noche nos vemos ahí en el / LP  una disco / que abre los domingos ahí en el centro / en el barrio antiguo / no  pos sí  / ¡n’ombre! nos vamos y ya / cada quien un botellita de whisky / somos cinco o seis cabrones / digamos que compramos entre todos unas diez botellas 
+
+E: sí
+
+I: estamos tomando / y luego ya / cierran a las dos de la mañana / ¿qué? pos vamos a darle para allá para la cortina de la presa / y de las viejas que agarramos ahí pos vámonos también ellas 
+
+E: ¡ajá!
+
+I: y luego / ya estando allá /  oye pos cómo ves si nos traemos unas líneas y un pasecito 
+
+E: simón <risas = ”E”/>
+
+I: no pues sí
+
+E: ya <risas = ”E”/> se les amanece
+
+I: pos has de cuenta pues la clásica nunca falta de que /  oye tengo un teléfono de un amigo / y sí viene hasta acá pero por una feria 
+
+E: sí 
+
+I: no / pos sí ahí le empiezas a juntar una lana y 
+
+E: y es caro ¿no? / ese pedo
+
+I: sí / sí es muy caro la verdad / no dile que traiga unos tres mil pesos de / de mugrero  vamos a decir unos tres mil ya le das quinientos para él por el flete ¿verdad?
+
+E: símón
+
+I: pero a veces / toca que el chavo va y / también se queda agarrando el pedo con nosotros
+
+E: sí 
+
+I: hasta se gasta la lana ahí mismo <risas = ”I”/>
+
+E: y saca más coca ahí 
+
+I: y saca más mugrero / sí / nos ha pasado bastantes veces 
+
+E: simón 
+
+I: y luego ya llegas aquí a la casa y / chingada madre pues / oye pos sí yo traía tres mil pesos anoche ahorita traigo quinientos pesos / en qué chingados me lo chingué  / pos en qué con las viejas en el pedo y la loquera chingado 
+
+E: sí / con los compas
+
+I: sí pues es lo que 
+
+E: y entonces tú no / tú no eres muy hogareño que te pa / por ejemplo en navidad y año nuevo ¿qué es lo que haces?
+
+I: no / lo que son esas fechas yo no tomo / el veinticuatro no tomo ni el último
+
+E: ¿qué es lo que haces?
+
+I: yo me la paso con mi / con mi familia / con mi señora
+
+E: ¡ajá!
+
+I: y por decir mi señora dice no Juan / me voy a echar unas cheves 
+
+E: simón 
+
+I: ¡ah! no / pos la ando cuidando ahí a ella
+
+E: ¿y por qué prefieres a tu familia que los amigos en esas fechas?
+
+I: Pos no sé / o sea / en realidad es cuando me vienen más recuerdos porque / en la infancia uno / bueno al menos yo no tuve digamos un regalo
+
+E: de navidad chido
+
+I: chingón o sea / así como el que yo le regalo a mis hijas ahora en la actualidad
+
+E: mjm
+
+I: y ellas / me piden regalo de / dos mil tres mil pesos / por decir un carro eléctrico y se los compro / que un peinador y que una barbie y la chingada 
+
+E: mjm
+
+I: y se los compro y yo en realidad nunca tuve eso
+
+E: ¡ajá!
+
+I: yo si tuve un chingado carro / un pinche trailer de veinte pesos y la chingada / fue un chingo 
+
+E: ¡ajá!
+
+I: pero / pos será por eso
+
+E: ¡ajá!
+
+I: y antes / se llegaba el día último era / digamos como cualquier día para nosotros
+
+E: mjm 
+
+I: era cuando mi papá también era muy borracho / mi papá se quedaba tirado en la calle y todo el pedo 
+
+E: <tiempo=”27:24”/> ¡órale!
+
+I: por eso / será que nunca tuvimos / así
+
+E: como / ¡ajá! / y ahorita que ya hay más como nietos y esa onda se pone un poco más chido
+
+I: sí / ahora / pos ya hay más manera de / agarrar lana y / billetes
+
+E: simón / qué chido
+
+I: y ahora ya te la pasas aquí en la casa
+
+E: sí / ¿y qué
+
+I: que los tamalitos y la chingada
+
+E: y ¿qué es lo que hacen? / ¿cómo es una navidad aquí en tu casa?
+
+I: mira aquí la navidad nos la pasamos / pos ir a lo que es el rosario / acostar el niño dios 
+
+E: mjm
+
+I: invitamos a mis suegros / invitamos a mucho s / amigos
+
+E: mjm
+
+I: de la familia y viene 
+
+E: bastante raza
+
+I: viene bastante / bastante raza aquí 
+
+E: mjm
+
+I: vienen amigos míos que son bien locos y bien pedales <observación_complementaria = ”se refiere a alcohólicos ” /> / pero pos ellos saben que ni yo en mi casa tomo
+
+E: sí respetan ¿no?
+
+I: y también ellos / oye Juan pues / orita acabando vamos para allá / no pos orita echo una vuelta ¿verdad? 
+
+E: ¡ajá!
+
+
+I: pero pu / me quemo aquí / ellos ya se van / me quedo no a la una / dos de la mañana / no pos que mis jefes / no pos que ya vamos a dormir / bueno al rato vengo voy a echar una vuelta ya voy con los amigos un rato y luego ya me voy con la familia de mi señora
+
+E: ¡ajá!
+ 
+I: y allá con la familia de mi señora / están todos tomando y la chingada cantando con la guitarra y todo 
+
+E: ¡ajá!
+
+I: y ahí / hay uno que / un tío de mi esposa que se llama Roberto / le decimos Robe / ¡eh! ¿qué onda Robe? échate esta canción / no / es cara compadre / vaya por un cartón de caguama y
+
+E: me la echo <risas = ”I”/>
+
+I: y es cara la canción y / me la echo y la chingada 
+
+E: sí
+
+I: no o sea / a toda madre las pachangas / lo que sea de cada quien
+
+E: ¡ajá!
+
+I: pero yo estoy ahí y / ¡órales! una cheve / te digo no tomo / en cuestión de / a como agarro el pedo ¿verdad? / pero que una cheve / agarro una media 
+
+E: ¡ajá!
+
+I: digamos que en toda la noche me eché unas cinco medias
+
+E: ¡ajá!
+
+I: unas cinco cervezas nomás / y ya / y mi señora que vodka y / cheve mi vieja / buena para el pinche vino / en chinga ella y yo no / yo esos días no 
+
+E: ¿No?
+
+I: y luego que el día último / no el día último también / ¿qué onda? una cheve ¡eh! una o dos / tres / igual
+
+E: tranquilón
+
+I: tranquilón y pidiendo canciones y todo y 
+
+E: sí
+
+I: y la raza no pues que / ¡eh! Árboles de la Barranca no compadre esa es muy cara y / ¡eh! / Veinticinco Rosas de Joan Sebastián y que Tatuajes y que esto y lo otro ¿verdad? / entre toda la raza
+
+E: sí
+
+I: no compadre esa es cara compadre y / la clásica de todos / oye que no hay cigarros / no pos ahí va uno / le vale madre a uno / trai feria 
+
+E: mjm
+
+I: te trais un paquete de cigarros ahí para toda la raza y ¡sobres! 
+
+E: mjm
+
+I: Y ya en la mañana todos crudos todos ¡por anca la chingada! no ¿saben qué? ya me voy / pero hay varia raza que le amanece y me quedo yo así / cabra
+
+E: sí / pues sí 
+
+I: mi suegra muy buena para / para el chupe
+
+E: para tomar / ¡órale! 
+
+I: ellas se agarran tomando vino / y n’ombre la agarran desde el día último hasta el día dos la vienen parando <risas =”E”/> / agarran tres cuatro días de peda <risas = ”E”/> / cosa que / yo también lo he hecho pero no / casi ya no 
+
+E: sí / o sea ge / generalmente esas fechas te tranquilizas
+
+I: sí 
+
+E: estás más con tu familia y 
+
+I: sí / no tomo 
+
+E: con tus hijas / y así
+
+I: cuando cumplo años yo / lo que 
+
+E: ¿cuándo cumples años?
+
+I: es el veintidós de agosto 
+
+E: mjm / ¿qué haces? 
+
+I: es la fecha que cumplo años / me agarro el pedo y agarro hasta una semana <risas =”I”/> / la agarro aquí con la raza
+
+E: y con tus compas / ¿no es con tu familia?
+
+I: no aquí con la raza
+
+E: ah 
+
+I: por decir la agarro y / le digo yo a la raza ¿saben qué? va monos para / Matamoros / a quedar pedo ¿verdad?/ ya junté una feriecita más que nada para eso / no pos ahí vamos para allá 
+
+E: ¿cómo es ahí la playa Bagdad?
+
+I: pos la verdad no está muy bonita que digamos 
+
+E: mjm
+
+I: pero / pos como es lo más cercano y lo más barato 
+
+E: mjm
+
+I: está más con madre ¿verdad?
+
+E: pero ¿cómo es así el lugar?
+
+I: pos has de cuenta que va s / digamos que / es como sí llegaras a la presa 
+
+E: ¡ajá!
+
+I: así / un negocio aquí y allá / sucio / sucio 
+
+E: ¿sí?
+
+I: está sucio
+
+E: ¡ajá!
+
+I: muy barato / pero está con / tigo está con madre porque / más que nada / tú / yo digo / no pos ¿saben qué? vámonos para Matamoros ya / se lleva unos / unos diez mil pesos / cinco mil diez mil pesos
+
+E: sí
+
+I: te los llevas / y luego de repente oye que aquí esta / y que ahí viene aquel güey para acá / también trae raza / o sea varia raza que también se junta allá
+
+E: ¡ajá! sí
+
+I: que se va los fines de semana pues está aquí a tres horas
+
+E: sí / es la playa más cerca ¿no?
+
+I: es la playa más cercas / te vas y / ¡n’ombre! que te empieza topar raza y luego que cotorreas viejas y la chingada / pues ya cuando vas ya más o menos ya te ubicas donde a ndan / y ¡eh! allá andan aquellas viejas 
+
+E: simón
+
+I: o sea y se hace el cotorreo chido lo de / esa playa 
+
+E: el lugar físico / no no está chido
+
+I: no 
+
+E: el cotorreo es lo chido
+
+I: no es tanto la playa sino que / es el cotorreo con las viejas chingadas / y luego ahí está un pueblo que se llama Valle Hermoso 
+
+E: mjm
+
+I: <tiempo = ”31:37”/> oye que en Valle Hermoso hay un ch in go de billares / pos ahí vas para Valle Hermoso a los billares / esta media hora allá 
+
+E: simón
+
+I: ahí bajas no / pues que un chingo de billares oye pos ahí vas a los billares con viejas y la madre 
+
+E: mjm
+
+I: y luego / te vas a una termoeléctrica que está ahí / y luego para atrás está un pinche monte / pos allá haces desmadre con las viejas y todo el pedo 
+
+E: con las morras <risas =”todos”/> 
+
+I: está / está con madre <risas =”I”/> / pero más que nada es el cotorreo no es tanto 
+
+E: sí el cotorreo más que el lugar
+
+I: no es tanto la playa que 
+
+E: no es como Playa del Carmen 
+
+I: ¡no no! allá la Playa del Carmen es otro pedo
+
+E: ¿cómo es Playa del Carmen? / ya ni me dijiste 
+
+I: la Playa del Carmen / es una zona / digamos / hotelera no / hotelera muy hotelera no 
+
+E: mjm
+
+I: sí hay / sí hay muchos hoteles / pero a comparación de como tú dices que Acapulco que hay un chingo de hoteles no
+
+E: ¡ajá!
+
+I: Playa del Carmen como una / playa virgen 
+
+E: ¡ajá!
+
+I: muy limpia / ahí hay / cabañas alrededor y todo el pedo / está súper limpia
+
+E: ¡ajá!
+
+I: y ahí te / quedas / te quedas bien cabra / lo que es en el malecón porque está / te paras en el malecón / y te fijas así / y se ve ¡con madre! / las casas y todo el pedo 
+
+E: con madre 
+
+I: casi todo casi / lo que es Playa del Carmen casi todo es privado 
+
+E: ¡ajá!
+
+I: las casas y todo el pedo casi todas las casas son iguales / pero pos hay gente de muchísima lana 
+
+E: ¡ajá!
+
+I: que eran con los que nosotros jalábamos / y / una playa / muy muy cara / pero también mucha raza / muy / muy campechana 
+
+E: mjm
+
+I: que te quedabas así de que oye estos güeyes que chingados van a andar platicando con uno / y en realidad sí sí cotorreaban algo / ahí con nosotros
+
+E: ¡ajá!
+
+I: de que !eh! ¿qué onda? / ¿tú dónde vives? no que de México / de / Monterrey
+
+E: de Monterrey
+
+I: ¡ah! de Monterrey / no sí ahí voy para allá mi hija / ahí voy para allá / sí ahí voy para allá ahorita me dices / y luego / o sea mucha raza que tú la ves y ¡ah! no sí / ¿regios? / no sí somos regios 
+
+E: mjm
+
+I: oye ¿por qué le dicen la Sultana Monterrey? / pos es la misma pregunta que me hago por qué la Sultana del Norte
+
+E: <risas = ”E”/> simón 
+
+I: y / yo a muchos traileros oye ¿por qué la Sultana del Norte?
+
+E: ¡ajá!
+
+I: no pos quien sabe / o sea nadien / nadien / hasta orita nadien me ha sabido decir por qué es la Sultana
+
+E: según yo es porque / pos es como la ciudad más importante del norte de México / entonces por eso le dicen la Sultana del Norte 
+
+I: la Sultana
+
+E: porque es la ciudad más grande / más importante / una ciudad muy industrial
+
+I: lo que es / bueno lo que es aquí y Guadalajara
+
+E: sí pero del norte / pues es Monterrey
+
+I: sí Monterrey 
+
+E: del sur es Guadalajara y DF / ¿y tú / tú has vivido toda tu vida aquí en Monterrey?
+
+I: sí 
+
+E: y ¿has vivido aquí en esta casa siempre? 
+
+I: ¿aquí?
+
+E: o de morrillo vivías en otra 
+
+I: aquí llegué / cuando tenía cinco años
+
+E: mjm / ¿dónde vivías? 
+
+I: nosotros vivíanos antes en la Carmen Romano en San Nicolás
+
+E: ¡ajá!
+
+I: y luego allá / has de cuenta que a los cinco años mi papá compró esta casa
+
+E: ¡ajá!
+
+I: y nos venimos para acá y orita / tengo diecinueve años de vivir aquí 
+
+E: ¡ajá!/ sí 
+
+I: aquí ya me casé y tengo mis hijas
+
+E: y ¿cómo has visto aquí el cambio que ha habido en la colonia?
+
+I: ah no súper chingón 
+
+E: <tiempo = ”34:32”/> ¿por qué?
+
+I: aquí antes era / mi casa / aquí en un lado / había una / un tanque / grandote / donde almacenaban agua en aquellos / tiempos / para que la gente agarrara
+
+E: cuando se iba el agua
+
+I: sí / pues aquí antes el agua no era ni de / ni de / de tubería 
+
+E: simón
+
+I: era / pues agua / como quien dice con 
+
+E: ¡ah! sí son / son como albercas bien chingonas
+
+I: ei ¡ándale! de esas 
+
+E: ¿había una aquí?
+
+I: había un / allá hay uno s/ hay una ahorita que le llaman / los tubos 
+
+E: mjm
+
+I: ahí llenaban los tambos has de cuenta que de allá se alimenta acá toda la colonia / pero pos un día había agua y tres no
+
+E: sí / era una chinga / todo el pedo 
+
+I: una santa chinga ya nomás llegaba el agua / ahí andas que / llenando los tanques y los botes y todo el pedo
+
+E: sí
+
+I: y los botes para tomar agua / no estaba pavimentado / estaba horrible la colonia 
+
+E: mjm
+
+I: bastantes grifos / mariguanos <observación_complementaria = se refiere a drogadictos ” /> ¿no?
+
+E: ¡ajá!
+
+I: ps uno estaba chavillo todavía no se contaba uno entre ellos ¿verdad? estaba morrillo
+
+E: sí <risas = ”todos”/>
+
+I: y / cambió cambió lo que sea la colonia / la colonia cambió de a madre 
+
+E: mjm
+
+I: aquí antes ningún güey tenía carro ni nada / todos estaban por anca la madre ora los güeyes tienen de a dos tres y pos / buenos carros ¿verdad?
+
+E: y está pavimentado
+
+I: <tiempo = ”35:36”/> y ya pavimentada la colonia luz / teléfono 
+
+E: mjm
+
+I: cable / sky <observación_complementaria = ”compañía de televisión por antena”/> y la chingada ya 
+
+E: sí
+
+I: sí ya aquí / cambió de a madre / a como estaba antes muy apenas se veía el canal dos ¿verdad?
+ 
+E: sí <risas = ”E”/>
+
+I: y ya orita ya ves más <risas = ”I”/>
+
+E: sí / y en / en cuanto a seguridad ¿sí crees que orita es más seguro que antes? / o ¿es más peligrosos?
+
+I: no ahorita está / está mejor que antes
+
+E: ¿por qué?
+
+I: no antes / antes aquí mataban gente seguido y la chingada 
+
+E: ¿neta?
+
+I: o sea la misma raza / locos / yo me acuerdo / la primera que vi aquí tenía yo como unos seis siete años 
+
+E: ¡ajá!
+
+I: fue aquí arriba en el campo / o sea aquí a dos cuadras
+
+E: ¡ajá!
+
+I: a un señor lo mataron para quitarle creo que treinta pesos 
+
+E: ¿sí? ¡órale! 
+
+I: para comprar thinner y resistol <observación_complementaria = ”marca de pegamento”/> / y luego / de ahí / a un amigo que / Tino / él era bien tinaco 
+
+E: <risas =”E”/>por eso le decían Tino
+
+I: Tino / y a él lo mataron en el río / que porque / según él quería violar a uno más grandote que él 
+
+E: ¿a un bato? 
+
+I: sí / y lo mató ahí
+
+E: ¡ajá!
+
+I: y luego aquí a la vuelta / a un camarada se llamaba / se llamaba Luisillo 
+
+E: ¡ajá!
+
+I: le dieron unos balazos 
+
+E: y la policía no / no
+
+I: antes / antes no se metía la policía para acá / no sé 
+
+E: ¡ajá!
+
+I: de repente / no se metían / porque aquí los pedradones estaban con ganas 
+
+E: simón / culeaban <observación_complementaria =” se refiere a que tenían miedo ” />
+
+I: culeaban / te digo no estaba pavimentado 
+
+E: mjm
+
+I: y luego pos las broncas / te imaginas venía la montada <observación_complementaria = ”policía montada”/> y / a puras pedradas los bajaban
+
+E: sí / no 
+
+I: los sacaban de aquí de la colonia
+
+E: sí
+
+I: y no no se metía casi la ley / pero ahorita ya se mete la ley / judicial ministerial y la chingada / lo que / aquí hay / aquí hay / lo que sí hay es mucha droga 
+
+E: muchas drogas
+
+I: sí eso sí 
+
+E: ¡ah! / ¿y crees que esté más chido que / entre la policía o que se quedara afuera? / ¿qué estaba más chido para ti?
+
+I: pos / para mí / es que entra la policía y se hace un desmadre 
+
+E: ¿por qué?
+
+I: pos es que en el / cuando entra la ley o sea / cuando entra la ley / tú dices no pues entran / y ya van / entran con el que van a llegar / pero no / llegan y haciendo su desmadre o sea / al que esté en la calle / lo levantan y la chingada y es donde se hace el desmadre o sea que ya no van por el / que la hizo ¿verdad? 
+ 
+E: sí el que la hizo sino por el que agarren
+
+I: sino por el que agarren 
+
+E: sí
+
+I: y es por lo mismo que se pone cabrón porque por decir / no que aquél güey de la esquina es el que está / está / vendiendo mugrero o vatiando <observación_complementaria = ”se refiere a robar ” /> / y luego no e está aquí y dondi se enchila <observación_complementaria =”se refiere a enojarse”/> y pues tienes que tirar un madrazo <observación_complementaria = ”se refiere a un golpe fuerte ” /> ¿verdad? 
+
+E: sí
+
+I: y ese es el pedo aquí 
+
+E: mjm
+
+I: y e / o sea cuando / entra así la ley / aquí hubo un tiempo que anduvieron hasta los soldados marchando 
+
+E: <tiempo = ”38:07”/> ¡ah! / ¡la madre! 
+
+I: aquí / has de cuenta que hacían el recorrido
+
+E: ¿por qué crees que sea eso? / por el
+
+I: porque había chingo del
+
+E: malandrines
+
+I: o sea orita /orita / hay un chingo de droga aquí / pero antes había digamos / orita hay droga por decir droga / lo que es cocaína piedra marihuana / y el famosos tolueno ¿verdad?
+
+E: ¿qué es eso?
+
+I: es un reductor / de / pintura para pintar carros 
+
+E: ¡ah! okay/ es como / el thinner / inhalado 
+
+I: sí pero esa madre deja pendeja a la gente 
+
+E: sí
+
+I: y por decir antes que había lo que era resistol / thinner / marihuana / pero digamos antes / o sea eran las drogas que más había 
+
+E: ¡ajá!
+
+I: y era / lo que más consumía la raza / y era donde / estaba todo el desmadre que / aquí en la esquina enfrente de la casa / la bolita y en la otra esquina luego tra 
+
+E: y se agarraban a madrazos
+
+I: se agarraban a madrazos <observación_complementaria = ”golpes”/> y todo el pedo y era cuando empezaba a entrar los soldados porque había un chingo de broncas y la ley no entraba 
+
+E: sí un chingo de broncas sí
+
+I: pos ¡no! entran los soldados estuvieron aquí como un mes y limpiaron la zona 
+
+E: mjm / neta o sea sí / ¿sí jaló?
+
+I: sí sí jaló / pero orita 
+
+E: y ¿tú crees que la policía y los soldados sí ayuda o / crean más problemas o qué?
+
+I: a veces acarrean más broncas 
+
+E: mjm
+
+I: porque pues has de cuenta que / tienes aquí / que tú dices ¡n’ombre! se güey toda no lo agarran y / pasando la ley por ahí / sabiendo cómo está el pedo
+
+E: mjm
+
+I: no lo agarran no lo agarran / y ven a un pobre cabrón que trae una madre / unos cien pesos de / de droga / y pobre güey lo quieren encerrar tres cuatro años digo ya ni la chingan <risas =”I”/>
+
+E: sí / ya sé
+
+I: / o sea / digamos
+
+E: o sea hay muchas corrupciones
+
+I: ser justos/ más que nada 
+
+E: ¡ajá! / ¿tú no crees que la / la policía no sea justa?
+
+I: no aquí no son justos aquí no valen madre 
+
+E: ¿por qué no?
+
+I: no porque aquí si a mí me agarran yo les doy doscientos pesos y / me sueltan
+
+E: mjm
+
+I: pero agarran a otro pobre cabrón / que no traiga nada / lo agarran pedo / y le quieren quitar todo el chivo <observación_complementaria = ” se refiere a dinero ” /> al pobre güey 
+
+E: sí / ¿y a qué crees que se deba eso / que la policía sea así?
+
+I: más que nada porque quieren agarrar a gente / o sea que se agarran a sus pendejos ¿verdad? que / a mi me agarran y oye te vas a subir ¡ah chingado! y ¿por qué me voy a subirme? / nomás porque tú dices 
+
+E: ¡ajá!
+
+I: no pos que te subes / súbeme a ver si puedes güey / y no pos que vamos a arreglarnos / pos ten doscientos pesos güey / ¡si quieres! 
+
+E: sí / lo que quieren / la feria
+
+I: no / digo si quieren / no que ya está / y a veces así que agarran a un pobre güey pedo / le quitan todo su dinero y la chingada digo ¡n’ombre! están por anca la madre / por eso ya el día de mañana que los ves / los ves y ¡ándale hijo de tu pinche madre tú fuiste! y lo vas a madrear 
+
+E: <tiempo =”40:29”/> simón 
+
+I: porque pues sí / digamos que te lleven mejor / ando pedo 
+
+E: ¿sí te han llevado a ti?
+
+I: sí una vez por andar en broncas
+
+E: ¿sí? / ¿a dónde te llevaron?
+
+I: aquí a <risas = ”I”/> / aquí a la Independencia <observación_complementaria = ”nombre de una colonia”/>
+
+E: y luego ¿cómo está ahí?
+
+I: ¡n’ombre! está horrible / ahí estaba / lo que es el cagadero / has de cuenta que así hechizo con la mano / con / cemento / y ahí estaba una llave con agua / decían / nos dieron un bote de doscien- / de / dos litros / dicen no si quieren agua de ahí agarren 
+
+E: sí
+
+I: ¡n’ombre! no mamen / y yo así / ¡n’ombre! hijos de su puta madre / ¿por qué hacen esto?
+
+E: ¡ajá! / ¿cuánto tiempo estuviste ahí?
+
+I: me aventé / todo un día / o sea pos / fue por broncas / pero como ya traía el dedo machín <observación_complementaria = ”quiere decir que ya estaban demandados”/>/ yo les decía que les daba una feria ¿verdad? / para que no se dieran cuenta mis jefes 
+
+E: sí
+
+I: porque ellos siempre han dicho que el día que yo caiga no / no me sacan 
+
+E: ¡ajá!
+
+I: ¡eh! te doy una feria / no güey es que ya traen dedo / sí nos sí les dejaba
+
+E: ¿y por qué te traían dedo?
+
+I: ya o sea ya traíamos demanda nosotros
+
+E: ¡ah! / ¡órale! 
+
+I: pero ya estando allá ya arregla uno 
+
+E: ¡ajá!
+
+I: y yo arreglé y 
+
+E: o sea ¿lo arreglaste con feria <observación_complementaria = ”con dinero”/>? 
+
+I: sí con feria / lo bueno que traía feria en ese rato 
+
+E: simón
+
+I: y has de cuenta que / por decir caí como a las nueve de la noche / y era para salir a las nueve de la mañana pero salí hasta las doce
+
+E: ¡ajá!
+
+I: te imaginas desde las nueve de la mañana e hasta las doce del medio día sin tomar agua / sin comer nada
+
+E: ¡s! sin comer nada
+
+I: no había ni cenado aquí en la casa / ¡n’ombre! nomás salí de allá y ya me estaba esperando mi mamá y mi mamá llore y llore / dije chingada madre / lo que anda ocasionando uno porque / por / andar de pinche vago chigado 
+
+E: <tiempo =”41:57”/> simón	
+
+I: y mi jefa / ¡chin! o sea me da bastante cosa / porque ella llorando
+
+E: sí
+
+I: o sea pensado co / como si yo fuera un delincuente muy / muy grande
+
+E: sí
+
+I: o sea porque nunca me / vio en esos pedos a mí
+
+E: mjm
+
+I: sabían que andaba de pelionero que me encantan los madrazos / pero nada de que yo anduviera 
+
+E: en pedos más densos 
+
+I: cada rato cayendo ahí / sí / y luego ya / pues total ya salí y mi mamá me llevó al Pollo Loco <observación_complementaria”= nombre de restaurante de comida rápida donde hay pollo asado”/> a comer 
+
+E: <risas = ”E”/> ah qué chido
+
+I: traía un chingo de hambre ¿verdad? / y mi jefa no pues / sí mi hijo y que la chingada / y mi mamá llore y llore / y luego llego aquí a la colonia y me topo a mi novia también llore y llore / ¡eh! llore y llore / ¡hijas de la chingada! le digo / me dan en la madre bien gacho <risas = ”I”/>
+
+E: ¿no / no te llevaron a la iglesia para que rezaras?
+
+I: ¡no ! / orita me dicen ¡n’ombre! que vamos con un psicólogo ps si no estoy loco ¡hombre ! pos chingado 
+
+E: con un psicólogo <risas = ”E”/>
+
+I: digo ¡no! / no estoy loco / no ! es que vamos / es que para que entiendas más para que dejes el pedo / le digo pos yo me he calado yo sé qué puedo hacer pero / digamos que todos necesitamos ayuda ¿verdad?
+
+E: pues sí
+
+I: una poquita ayuda
+
+E: no sí ayuda como quiera 
+
+I: una poquita ayuda / ¡pero te sacas de! / acá de que / vamos para que te ayude o sea como si estuvieras loco si estuvieras menso / ¡ah chihuahua o sea que! / ¿a qué voy si no estoy loco? 
+
+E: sí
+
+I: no que platiques con é l / digo o sea sí voy 
+
+E: simón 
+
+I: pero si ! / el güey me hace unas preguntas bien 
+
+E: mjm
+
+I: si me quiere hacer otras preguntas hasta allá lo ando empinando <observación_complementaria = ”se refiere a golpearlo ” /> al güey <risas = ”todos”/> 
+
+E: sí <risas = ”E”/>/ oye pues entonces / e / ya platicamos de cómo celebras navidad y tu cumpleaños y por ejemplo en semana santa / ¿sí haces esa onda de 
+
+I: eh 
+
+E: de guardar de no pistear de no comer carne / vas a la iglesia
+
+I: no es cuando / cuando más agarro el pedo allá en el río 
+
+E: ¿y por qué no haces así de / ¿en tu casa o sea no son mucho de ir a la / a misa y eso?
+
+I: mis papás sí / mi / mi papá es muy devoto a / a San Juditas Tadeo 
+
+E: ¡órale!
+
+I: y porque dice / yo pues / yo le rezo y / hago las oraciones ¿verdad?
+
+E: ¡ajá!
+
+I: dios / a la virgen de Guadalupe / a san Juditas y todo eso 
+
+E: mjm
+
+I: pero digamos que / soy creyente
+
+E: ¡ajá!
+
+I: no soy ateo ni nada de ese pedo / pero cada semana santa que aquí en la casa que hacen / comida de cuaresma y 
+
+E: sí
+
+I: y ese pedo / yo digo que no viene tanto al caso eso ¿verdad?/ de que sea cuaresma
+
+E: ¡ajá! / ¿por qué no?
+
+I: o sea sino porque / digamos o sea uno está aquí / eso es una tradición
+
+E: mjm
+
+I: no es algo que / ya lo traiga uno de / digamos ya de / ya de herencia de que lo tengas que hacer a güevo < observación_complementaria = ” se refiere a forzado ” />
+
+E: ¡ajá!
+
+I: no para / para mí es una tradición
+
+E: ¡ajá!
+
+I: te digo es cuando uno agarra más el pedo / pero aquí en mi casa / sí se quedan de que / <interrupción_de_grabación/> <ruido=”se abre y cierra un puerta”/>
+
+E: <tiempo =”46:02“/>¿qué decías de Semana Santa? / ¿qué es lo que haces en Semana Santa?
+
+I: no yo agarro más el pedo me la paso en el pinche río allá en la chueca y 
+
+E: ¿cuál río?
+
+I: acá para el Fraile acá por la Cortina
+
+E: ¡ajá!
+
+I: o allá en el pueblo en Allende 
+
+E: ¡órale! chido
+
+I: ahí se la pasa nomás uno echando clavados y la chingada
+
+E: ¡ajá!
+
+I: ahí es donde más / más agarra uno el cotorreo 
+
+E: ¿ahí en el / en los ríos?
+
+I: en los ríos / cualquier río
+
+E: ¿te gusta un chingo irte así / para el monte / al cotorreo?
+
+I: esta con madre / es otro pedo 
+
+E: sí
+
+I: andas buscando chile del monte y la chingada <observación_complementaria = ” I habla mientras bosteza ” /> / en semana santa asando pescaditos allá / en el aluminio chingado ahí en el río / está con madre 
+
+E: sí / o sea para ti semana santa es más pachanga <observación_complementaria = ” se refiere a fiesta ” /> que / cosa religiosa así
+
+I: sí / pos has de cuenta que en vez de agarrar el pedo yo en diciembre y / en ese pedo se lo agarra uno más en semana santa / ¡vámonos para el río chingado!
+
+E: sí <risas = ”E”/>
+
+I: que vamos para el río y entre la raza / y ahí s vemos vamos para el río y la chingada
+
+E: sí / y este ¿y tú / hasta cuando / estudiaste / qué fue lo más que 
+
+I: pura primaria
+
+E: la pura primaria nomás
+
+I: no sí hasta eso para la escuela nunca fui bueno soy cabezón 
+
+E: <risas = ”E”/> o sea mejor / tiraste a lion la escuela y te pusiste a trabajar 
+
+I: tiré a lion y me puse a jalar / me gustó más el billete más que nada 
+
+E: pues sí
+
+I: me gustó más la lana que ya no me llamó la escuela ya
+
+E: ¡ajá! / ¿y no crees de que / con la escuela ibas a tener feria o estudia ndo / o así?
+
+I: no pues 
+
+E: ¿cómo crees tú que alguien pueda / e / salir adelante / mejorar?
+
+I: pos para mí que ahorita la escuela nos 
+
+E: no mucho 
+
+I: no mucho porque / ponle orita te / te ganas un título ¿verdad? 
+
+E: ¡ajá!
+
+I: tienes / más oportunidades / que nada / pero cuando eres chingón / eres inteligente y todo / haces más que / que uno que tenga carrera 
+
+E: mjm
+
+I: que una persona que tenga carrera que tenga estudio / haces mucho más / te lo digo / porque / ahí está mi jefe de ejemplo
+
+E: mjm
+
+I: <tiempo =”41:57“/>papá no estudió y / orita tiene / un negocio una cantina 
+
+E: sí / y la ha hecho
+
+I: y administra otros negocios más / y le va con madre
+
+E: ¡ajá!
+
+I: mi hermana estudió / para / contadora / se recibió y todo
+
+E: ¡ajá!
+
+I: y trabaja en HEB de cajera <risas =”I”/> ¿cómo ves?
+
+E: simón 
+
+I: mi señora / estudió hasta la secundaria / orita es asistente / es una asistente de una / supervisora de ahí de HEB 
+
+E: sí
+
+I: ponle que también el pinche puesto está por anca la madre ¿verdad? lo que ella se gana en una / quincena yo me lo ando ganando hasta en dos tres días
+
+E: ¡ajá!
+
+I: y / no sé el estudio / para mí para mí tanto de que no no / no 
+
+E: no vale mucho 
+
+I: no
+
+E: es más fácil la dedicación del trabajo 
+
+I: la dedicación del trabajo o sea que tengas / más que nada que tengas cerebro para hacer las cosas / para saber jalar
+
+E: ¡ajá!
+
+I: porque para todo hay que saberla hacer 
+
+E: ¡ajá!
+
+I: pues ser una gran mamada / de un licenciado súper chingón y si no sirves / no vales madre / no no la vas a armar 
+
+E: no 
+
+I: y pues ser un cabrón un piche albañil pero si eres chingón vas a hacer lana 
+
+E: ¡ajá!
+
+I: vas a saber más que / un arquitecto y la madre <ruido =”ladrido”/>
+
+E: sí
+
+I: y e / pues es lo que digo yo 
+
+E: ¡ajá! / y sí / de mesero ganas con madre por propinas 
+
+I: no pos con madre / ahí me va con madre / o sea / varía a veces / a veces como en un día te puedes traer unos mil quinientos dos mil / a veces no te trais nada
+
+E: ¡ajá!
+
+I: a veces te trais hasta cuatro mil cinco mil bolas
+
+E: simón / y en un día güey
+
+I: y en un solo día / en una sola noche 
+
+E: con madre / es el sueldo ya
+
+I: lo aparte andas jalando y yo me he encontrado cadenas de oro me he encontrado teléfonos celulares y todo el pedo
+
+E: sí / sí / aparte andan bien pedos
+
+I: te empachas con madre 
+
+E: simón
+
+I: <tiempo = ”49:31”/>ahí al que no le va bien es porque es un güey / ¿verdad? / la neta / la vez pasada llegó un bato / y el bato / empezó a jalar no pues que esto y que l'otro / ¿cómo te fue? / ¡no! me fue mal / ¡n’ombre nomás a los pendejos le va mal güey / ¿por qué? le digo ¡n’ombre! a mí me fue con madre / pos si casi no vendiste  pos por eso mismo güey no hay necesidad de vender para que te vaya con madre / puedes vender poquito y traer más lana de lo que vendiste güey / tienes que ser / ser riata 
+
+E: sí
+
+I: le digo tienes que ser inteligente más que nada / ¡no! llevo doscientos todavía me toca repartir me voy a quedar como con cincuenta pesos
+
+E: mjm
+
+I: yo ¡n’ombre! todavía me toca repartir y me voy a quedar como con unos mil pesos / dice ¡no! está con madre ¿cómo le hiciste? / le digo necesita estudiar compadre necesita estudiar <risas = ”I”/> 
+
+E: oye / y alguna anécdota curiosa o divertida que te haya pasado ahí / en / en el jale
+
+I: ¿en el jale? / una vez / ¡n’ombre! / fue / un camarada / hay unas cabezas de toros ahí
+
+E: sí
+
+I: disecadas ¿verdad? y esa madre
+
+E: sí
+
+I: y luego dice el camarada / oye / le dice al / al capitán / dice oye Millán / ps esas cabezas de toro / ¿son de verdad? / dice sí / dice nomás que por de aquel lado de la pared / está el cuerpo <risas = ”E”/> / y en unas de las tarimas / vieras qué pinche cagadero / sí los tenemos aquí adentro pos va apestar bien gacho <risas = ”E”/> / ¡ah no! sí ¿verdad? / bueno ¿y para qué le ponen esas micas? / como está en las micas así que lo están cubriendo dice / ¿sí has visto en los establos ¿verdad? cómo hacen los toros? / me / no pues sí / dice pos te imaginas aquí en el antro / van a estar la música y los toros me me / pinche desmadre ¿no? / ¡ah! no sí <risas = ”I/”>
+
+E: se la creyó el bato
+
+I: o sea qué güey <risas =”todos”/>/ también / él / él mismo
+
+E: ¡ajá! 
+
+I: hay unas <risas =”I”/> lámparas de emergencia 
+
+E: ¡ajá!
+
+I: y luego di <risas = ”I”/>/ dice oye ¿qué son esas madres? me dice a mí / le digo no sé güey / como está medio mensote 
+
+E: mjm
+
+I: dice ¿no son mini split? <risas = ”I”/>/ / le digo sí deja los prendo y / saco la pluma y le hago así / con la pluma / dice ¿ya prendió? sí / le digo sí orita empieza a refrescar todo / y luego le empiezo a toda la raza y <risas = ”I”/>/ / y la raza dice sí güey / son mini split güey los cuernos de los toros y / y / los ojos / dice los ojos son las cámaras y los cuernos son los micrófonos / se mueven para todos lados 
+
+E: y el bato se la cree
+
+I: y aquel bato ¡ah chingado! ¿de veras? sí mira fíjate güey de repente parpadean y aquel güey bien / creyéndose del y bien / rise y rise / y también / a mí una vez / me dijeron oye ¿sabes qué? te vas a venir con corbata y saco y / esto y l'otro ¿verdad? / que porque vas a jalar así / y yo chingada madre no les creí o sea yo no / es puro pedo de éstos / no de veras / no pos de tanto que me anduvieron diciendo dije yo no pues / sí es cierto / para el día siguiente ahí llego yo / pos la idea era vestirse de / como / son fiestas / son eventos por decir que los brasileños y alemanes / era con chorcito y una camiseta de hawaiana así nomás / te imaginas yo con traje de que / pinche burla ¿me entiendes? <risas = ”todos”/> / y toda la raza rise y rise de mí / ya después le dije yo no / jamás vuelvo a hacerles caso / no y así toda la raza / de repente oye güey que ahora nos vamos a vestir de esto / vayan a la chingada yo no me visto de nada / y al último soy el único que anda jalando con mi pantalón y mi camisa porque ¡n’ombre! ya no les crees 
+
+E: ¡ajá!
+
+I: y ya no / ya no les creí / y luego como el bato también es bien bromista / una vez nos dice que / nos íbanos a llevar unas camisetas / de Brasil y un chorcito / como el Pelé ¿verdad? como jugaba Pelé 
+
+E: <risas = ”E”/> como los de fútbol de él 
+
+I: <tiempo = 53:02”/> no pos la raza / fue vestida
+
+E: sí
+
+I: pos ¡no! nos / entraron a tomar fotos y nos empezaron a subir la / éstas a la / a Internet
+
+E: a Internet / sí
+
+I: y ¡n’ombre! vengan para que chequen sus fotos en la página y que la madre / ah no pues ya está
+
+E: oye pues y este / entonces déjame hacerte unas preguntas y ya terminamos
+
+I: ¡ah! okay 
+
+E: ¿qué fecha es hoy? 
+
+I: estamos a / parece que quince ¿no? 
+
+E: ¡ah! simón es quince / quince de noviembre / hoy pagan
+
+I: hoy pagan
+
+E: tu nombre completo
+
+I: ____ _____ ______ // sexo femenino <risas =”I”/>
+
+E: edad / veinticuatro 
+
+I: veinticuatro años
+
+E: estado civil casado
+
+I: casado
+
+E: y ¿tu dirección de aquí?
+
+I: e s / privada Adolfo López Mateos 
+
+E: ¿y la colonia?
+
+I: San Ángel Sur 
+
+E: en Monterrey
+
+I: en Monterrey
+
+E: y ¿el número de aquí? / cincuenta y cuatro
+
+I: cincuenta y cuatro cincuenta y dos
+
+E: y el teléfono / ¿un teléfono que tengas?
+
+I: e pues / ¿te doy este? 
+
+E: sí como quieras
+
+I: sí el ocho dieciocho / seis cincuenta y dos / cero ocho noventa y siete
+
+E: ¿tu religión?
+
+I: católico 
+
+E: e / tú eres de Monterrey ¿verdad?
+
+I: ¡ajá!
+
+E: / ¿tu papá tu mamá tus abuelos todo mundo es de Monterrey?
+
+I: son de Coahuila 
+
+E: de Coahuila / ¿quién? / ¿tus papás?
+
+I: todos
+
+E: ¡ah! todos son de / ¿de dónde mero? 
+
+I: de / mi papá de San Pedro de las Colonias Coahuila y mi mamá de Torreón Coahuila 
+
+E: okay / vamos a ponerle Coahuila / y ¿tus abuelos también?
+
+I: todos / todos
+
+E: ¿toda la familia es de allá?
+
+I: toda la familia
+
+E: <extranjero> okay </extranjero> / entonces / m / ¿tienes alguna afición o pasatiempo?
+
+I: sí / el billar 
+
+E: el billar / ¿vas al cine?
+
+I: no
+
+E: ¿escuchas el radio?
+
+I: algo 
+
+E: e / ¿qué tanto tiempo escucharías / más de dos horas / o hasta dos horas / o menos?
+
+I: no / más de dos horas 
+
+E: más de dos horas / ¿y qué tipo de estación prefieres escuchar?
+
+I: la / noventa y dos punto cinco La Mejor 
+
+E: ¿cómo se llama? / ¿la Mejor? 
+
+I: la Mejor 
+
+E: noventa y dos / y ¿qué / qué tipo de música pasan ahí?
+
+I: ahí pasan de toda / todos los géneros
+
+E: todos / así rock / cumbias / colombianas
+
+I: rock / colombianas / gruperas tejanas norteñas
+
+E: okay / ¿y generalmente escuchas la música / el radio por música / ¿no lo escuchas para / las noticias así?
+
+I: no para las noticias la tele es la que ocupo
+
+E: okay / ¿y entonces la tele sí la ves?
+
+I: sí
+
+E: más de una hora al día ¿no? 
+
+I: sí en la mañana / y en la tarde 
+
+E: y ves las noticias ¿qué otras cosas ves en la tele?
+
+I: eh lo que son
+
+E: los partidos y cosas así
+
+I: no partidos no / hay un programa / que se llama / Lo que callamos las mujeres y La vida es una canción 
+
+E: ¡ah! okay sí 
+
+I: digamos que puedo decir telenovelas ¿verdad? / o algo así
+
+E: sí
+
+I: y sí novelas también veo <risas =”I”/>
+
+E: ¿cuáles ves?
+
+I: veo la / una que se llama / Amor en Custodia <risas =”I”/>
+
+E: simón <observación_complementaria = ”se refiere a afirmación ” /> / ¿y ves / ves películas en la tele?
+
+I: e sí 
+
+E: ¿mucho o poco?
+
+I: no / bastante
+
+E: bastante / ¿y de qué nacionalidad te gusta ver las películas / mexicanas o extranjeras? / ¿o las dos? 
+
+I: de to das / de las dos 
+
+E: ¿y te gustan con subtítulos o dobladas?
+
+I: las dobladas / todas dobladas / no / me aburre estar leyendo 
+
+E: ¿en en tu casa tienen videograbadora DVD consola de videojuego?
+
+I: sí
+
+E: ¿las tres?
+
+I: sí todo
+
+E: ¿un sistema de cable?
+
+I: <tiempo = "53:48”/> e / sí
+
+E: ¿cable?
+
+I: sí cable nomás
+
+E: okay / ¿cuántas televisiones hay en tu casa? 
+
+I: hay / una dos / una dos tres cuatro / cinco seis
+
+E: seis / ¿lees el el periódico?
+
+I: no
+
+E: okay / de revistas ¿lees revistas?
+
+I: no / tampoco
+
+E: tampoco / okay / ¿usas Internet?
+
+I: no 
+
+E: mm / ¿tienes teléfono fijo en tu casa?
+
+I: sí 
+
+E: teléfono celular sí / ¿qué usos le das al teléfono? / nomás para / recibir llamadas / para hacer o también de que / fotos / video y esa onda / mensajes ¿qué uso le das al teléfono?
+
+I: pos lo que / fotos
+
+E: mjm
+
+I: y lo más / recibir llamadas casi no / no marco mucho
+
+E: casi no marcas / okay / y museos ¿visitas museos?
+
+I: me gusta mucho ir al Museo / de Historia
+
+E: mjm / y vas / ¿con qué frecuencia vas?
+
+I: digamos / cada quince días
+
+E: una vez al mes / y a conciertos / ¿te gusta ir a conciertos? 
+
+I: e / no
+
+E: ¿no? / ¿al teatro?
+
+I: tampoco
+
+E: viajes / ¿sueles viajar por placer?
+
+I: sí
+
+E: sí no al / ¿con qué frecuencia? / ¿una vez al año / dos veces al año?
+
+I: dos veces al año digamos
+
+E: ¡ajá! / la educación ¿estudiaste hasta / dices? 
+
+I: hasta primaria
+
+E: primaria / ¿hasta qué año?
+
+I: la terminé
+
+E: la terminaste / primaria terminada / y ¿era una escuela pública?
+
+I: pública sí
+
+E: okay 
+
+I: antes no había para privadas 
+
+E: okay / y a / ¿estás trabajando ahorita / actualmente?
+
+I: sí
+
+E: ¿desde cuándo e / trabajas? / o sea / en general / no ahí en el lugar
+
+I: desde los doce años
+
+E: doce años / ¿en dónde trabajas orita? en un bar 
+
+I: en un bar 
+
+E: eres empleado / ¿cuál de las siguientes actividades realizas? / vendes algo ¿no?
+
+I: vendo algo / sí
+
+E: ¿qué vendes? / bebidas
+
+I: bebidas
+
+E: ¿qué puestos desempeñas? / ¿cómo se llama? / boletero 
+
+I: boletero / o tiquetero sí le quieres poner
+
+E: en español / boletero / ¿desde cuándo / desde cuándo trabajas ahí?
+
+I: ahí tengo / como tres meses que entré 
+
+E: y con respecto a tú ingreso / o / o salario mensual / ¿en qué rango lo ubicarías? / menos del mínimo / que son menos de dos mil ochocientos pesos por mes 
+
+I: no / más
+
+E: Dos mil ochocientos / bueno ¿entonces sería / de dos a tres veces eso?
+
+I: sí
+
+E: o de cuatro o seis veces eso
+
+I: no / digamos que ando sacando como unos diez mil pesos
+
+E: diez mil pesos entonces son / dos mil ochocientos son
+
+I: más de tres veces 
+
+E: tres veces el salario mínimo sería como / sí es esto / ¿qué prestaciones recibes en tu trabajo?
+
+I: ninguna
+
+E: ninguna / ¿cuántos focos hay en tu casa?
+
+I: ¿en la casa?
+
+E: simón
+
+I: pos uno dos / tres cuatro / cinco seis / siete
+
+E: siete / okay / y ¿vives con / tu papá?
+
+I: con mis papás
+
+E: con tu mamá / con tu esposa / y con tus hijos / ¿cuántos hijos tienes?
+
+I: dos
+
+E: ¿son dos niñas? 
+
+I: niñas
+
+E: okay / hijas / y ¿vives con tus hermanos también?
+
+I: hermanos 
+
+E: hermanos / ¿todos ellos hablan / español o algún otro idioma?
+
+I: no puro español
+
+E: español 
+
+I: a huevo hablan español / está cabrón para que hablen inglés <risas = ”E”/>
+
+E: y el último grado de estudios de tu papá dices que es primaria ¿verdad?
+
+I: ei
+
+E: ¿tu mamá?
+
+I: también / pero se casó antes de tiempo 
+
+E: ¿tu esposa?
+
+I: secundaria
+
+E: ¿tus hijas? / están estudiando
+
+I: están estudiando ellas 
+
+E: ¿tus hermanos?
+
+I: estudian también
+
+E: estudian también / okay / ¿sabes más e / más o menos a cuánto / tu papá tiene negocio propio ¿verdad? / ¿tu mamá se dedica al hogar? 
+
+I: al hogar
+
+E: tu esposa trabaja en HEB / bueno mira entonces este / te voy a pedir que firmes una carta para / más para que // mis profesores digan que sí vine aquí / que sí estuvimos platicando hicimos la encuesta y toda la onda / entonces dice / yo y aquí vamos a poner tu nombre si quieres lo ponemos / Juan ¿qué?
+
+I: Juan Pérez López	
+
+E: Juan Pérez mexicano mayor de edad / casado dedicado a / e / ya después lleno aquí que trabajas en un bar / con domicilio en / y ya le pongo tu dirección / municipio Monterrey / me permito manifestar en forma expresa que estoy de acuerdo de ser entrevistado por parte del equipo de trabajo de la Facultad de Filosofía y Letras de la Universidad Autónoma de Nuevo León / y que mi opinión y comentarios vertidos en la investigación que realiza / denominada El habla de Monterrey Segunda Etapa / pueden ser utilizados libremente ya que la Universidad Autónoma de Nuevo León es una institución educativa que no persigue fines de lucro / y que está dedicada por entero a la investigación y a la educación / siempre con el ánimo de a / o sea es más que nada para que constates que te entrevisté / ¿le puedes firmar? 
+
+I: ¿dónde mero?
+
+E: aquí mero / donde dice / nombre y firma / si quieres nomás tu firma / y van a ser dos hojas / es igual / es lo mismo / son dos copias / para dos maestros / a ver ¿algo más que me quieras agregar / que quieras terminar contándonos?
+
+I: no pos / sería todo o sea / tengo que jalar orita / y chingarle porque / tengo que poner una puerta aquí en la casa
+
+E: bueno pues cuídate / muchas gracias por tu tiempo 
+
+I: no ya está / aquí estamos
+
+E: ya te regreso a tu papá perdón por quitártelo
+
+   Fin de la entrevista
+
+

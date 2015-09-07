@@ -1,0 +1,1011 @@
+﻿<Trans audio_filename = ”MONR_ H21_HMP041.MP3” xml:lang = ”español” / >
+<Datos clave_texto = ”MONR_H21_HMP041” tipo_texto = ”entrevista_semidirigida” / >
+<Corpus corpus = ”PRESEEA” subcorpus = ”ESMXMONR” ciudad = ”Monterrey” país = ”México” / >
+
+<Grabacion resp_grab = ” Benito Flores Treviño” lugar= “sin dato“
+Duración = “49’35”” fecha_grab = ”2010-07-24” sistema = ”MP3” / >
+<Transcripcion resp_trans = ”Manuel Ramos Floes” fecha_trans = ”2010-08-23”
+número_palabras = ”9830” / >
+<Revisión num_rev = ”1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2010-08-30” / >
+<Revision num_rev = “2” resp_rev = “Alejandra Moreno Rangel” fecha_rev = “2010-09-06” / >
+<Revision num_rev = “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-09-14” / > 
+<Revision num_rev = “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-06-11” / > <Datos / >
+<Revision num_rev=”5” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-09-02 / >< / < / Datos>
+
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Manuel Barrientos Flores” codigo_hab = “I” sexo= “hombre” grupo_edad = “1” edad= “41” nivel_edu = “1” estudios = “secundaria incompleta” profesión = “empleado” origen = “Monterrey” pape l= “informante” / > 
+<Hablante id= “hab2” nombre = “Benito Flores Treviño” codigo_hab= “E” sexo = “hombre” grupo_edad = “3” edad= “54” nivel_edu = “3” estudios = “Lic. en Banca y Finanzas y Pasante de Bibliotecología” profesión = “Licenciado en Banca y Finanzas” origen = “Monterrey” papel = “entrevistador” / >
+
+<Relaciones rel_ent_inf = “desconocidos” / >
+< / Hablantes>< / Trans>
+
+
+E: buenas tardes 
+
+I: buenas tardes 
+
+E: e / pues gracias por / aceptar / este / e / hacer esta plática con / con nosotros / este // ¿cómo / ha visto / las últimas agüitas que se han venido?
+
+I: no pues estan // pues ora si que / está muy llovido verdad / por decirlo así / pero este / queríanos agua pos ora tenemos que aguantarnos 
+
+E: ei ¿cómo le fue con el huracán?
+
+I: no pues gracias a dios este / donde vivo / pues no / no este / no afectó muy fuerte como en otras partes pero este // este // si estuvimos ahí al pendiente de que no / no fuera a / a sucedernos / a mayores
+
+E: sí / este y qué // en ¿en dónde vive usted?
+
+I: yo vivo / en / la colonia La Granja / bueno ahora es Valle de Santa Lucía // este / e // y ahí pues comúnmente pues / como vivimos en una parte / m por decir / media pero no se estanca el agua ya es ya es ya es cuestión / este más abajo / ahí sí / ahí sí pasan arroyos y todo
+
+E: ei / entonces e / está como / en en ¿ahí hay partes más altas / ahí también?
+
+I: sí / sí hay partes maj altas / lo que pasa es que todo va y desemboca por ahí por / por una de las calles / principales y eso va a caer al arroyo del Topo
+
+E: ah / okay / entonces se alimenta de ahí el
+
+I: sí viene bajando la tierra / ahí cerquita del / del cerro del topo
+
+E: okay // okay y y este / y ¿cómo está la seguridad ahí / ahí / en la colonia?
+
+I: pues sí / sí ahí pasan muchas patrullas / este no me ha tocado así / ver // este // que anden en ese momento / que / que / que me toque a mí / que me anden robando / o o a otras personas verdad / pero es muy está está tranquilo / en cuestión de / del / en el día está tranquilo / ya en las noches pues ya pues no / no ando hasta ciertas horas verdad
+ / no me dan permiso <risas = “todos” / >
+
+E: sí / o sea qué / qué tipo / o sea con precaución no / no tiene problema
+
+I: sí / pero no comoquiera / este / anda uno / con precaución haciendo vueltas / pero no tan / no tan noche tampoco porque comoquiera ahí cierran las tiendas temprano ya para las nueve nueve y media están cerradas / y hay otras tiendas que están abiertas más noche verdad pero / ya ya / va uno entre dos tres personas
+
+E: sí
+
+I: a traer varias cosas
+
+E: o sea acompañado mejor
+
+I: sí
+
+E: <tiempo = “2:43” / > y en general aquí en la ciudad / pues ya ve / que se ha estado viendo / este mucho / o sea / muchas cosas que no se / veían / antes
+
+I: anteriormente estaba más tranquilo ora / este / pos ya ya ya le da a uno miedo hasta andar en el centro en el día por / la vez pasada que / que lo que sucedió aquí en el centro que / estaban este // e // bueno me tocó ver en la tele que estaban / los de la / la policía estatal estaban / a / tiroteándose con otros / ahí en pleno centro / pues fue muy / muy / muy fuerte
+
+E: ey
+
+I: a mí no me tocó / gracias a dios que no me tocó estar ahí / pero lo estaba viendo por la tele / y sí / sí / es algo muy fuerte / y más más con / ahora que / lo que / lo que oí también de // de las ráfagas / que que / fue allá en / en la colonia Brisas también estaban muy fuertes todo eso
+
+E: ¿y a qué se deberá eso?
+
+I: pos es cuestión de / de // eso ya sería // cuestión de pues gentes que quieren // que quieren / este / llevar un mando más fuerte / que el / que el de la policía / tener un control ahí // ser ellos mismos man- pues sí es que yo digo que / han de estar involucrados pero pues nomás / pos andar hablando / uno ni sabe / nomás / anda uno ahí
+
+E: ¿usted cree que / que pues pueda ser eso / que / que todos están ahí?
+
+I: pos es una mafia fuerte
+
+E: ¿cómo?
+
+I: a ver si me dan chamba ¿no? <risas = “todos” / > no / no / no se crea / no se crea no / no es cierto
+
+E: ei / este / y / su / ¿usted es / es de aquí?
+
+I: sí / yo soy de aquí / de Monterrey
+
+E: okay / y este / y su / ¿y / su familia? / ¿y sus papás? / ¿su mamá?
+
+I: e / mi papá / mi papá ya falleció / hace como diez años / mi papá era de San Pedro de las Colonias Coahuila / mi mamá / todavía vive gracias dios / este / ella es de / de Mazapil / Mazapil / Zacatecas / por allá / por el lado de Cedros / por allá
+
+E: m
+
+I: por Concha del Oro / por allá
+
+E: <tiempo = “5:00” / > ¿y no va para allá usted?
+
+I: ya tengo / como más de / de veinte años que no voy / antes sí me p me pegaba mucho con mi abuelita / era la que / la que más este / me juntaba con / con / con ella y / nos íbanos mucho a / a los pueblos / a andar este / ranchando / porque hay / tenemos familiares por allá
+
+E: en Mazapil
+
+I: en Mazapil / en Fresnillo // en Concha del Oro / pos son / son muchos pueblos / que / que / pues que gracias a / a la / a la / a la familia pues yo conozco
+
+E: mjm / ¿y acá pa para San Pedro?
+
+I: para San Pedro / e también tenemos familiares en San Pedro / en / en un rancho saliendo de San Pedro / rumbo a Torreón / en un / en un rancho que se llama Santiago / Coahuila / ahí también tenemos / tenemos familiares / en Torreón // este // tenemos también familiares por parte de mi papá
+
+E: ¿y va para allá? / o sea
+
+I: sí voy para / para rumbo a Torreón voy más seguido / pero este / orita por cuestiones / este / económicas / y orita ya no / no / no hay tiempo / no / este / pues no / no los he visitado
+
+E: pues es que se / se ha puesto / se ha puesto muy dura / la situación
+
+I: no / donde quiera orita está / está muy dura o / y luego también pues / uno tiene que estarle / echando ganas para / para juntar para el / pues para el mandado y para el / para la cuestión del / de / de / de los hijos en la escuela que / necesitan a uno / el apoyo de uno
+
+E: <tiempo = “6:29” / > ei // sí pues hay que / que darle / y deja de hacer uno cosas / por algunas cosas / por / por hacer otras / las más importantes
+
+I: sí / o / este // o este por ejemplo yo / pues / los fines de semana a veces me voy a / a la / chambear o hacer pues lo que salga / para pa para aportar algo
+
+E: ey
+
+I: porque ahorita este / pues está / está muy pues apenas con / anda uno con lo del camión 
+
+E: ey
+
+I: y / y luego a veces ni con lo del camión / porque de repente no / uno no sabe quien le va a salir alguien en la calle / dios no lo quiera / y le quitan hasta lo del camión <risas = “E” / > y lo mandan a uno a pie 
+
+E: ei // y volviendo a lo de / San Pedro / este ¿qué recuerdos // qué recuerdos tiene? / ¿cómo es allá?
+
+I: bueno / de la parte de donde nació mi papá / este // cuando pues yo / yo conozco por / gracias / gracias a dios por mi papá / porque él fue quien me llevó // y este / pues me acuerdo cuando / cuando la primera vez que me llevó mi papá que íbanos por la carretera a Saltillo / hay un letrero que dice / termina Nuevo León y pri- principia Coahuila
+
+E: ei 
+
+I: mi papá este / luego luego me dijo / ora si no me / ora si ya / ya no me puedes / ya no me puedes andar diciendo nada / porque ya salimos de / de tu territorio ya estás en mi territorio <risas = “todos” / > y ya / pues ya / ahí mi papá era / él pues era muy / muy juguetón conmigo y / y / y me dejó muy buenos consejos
+
+E: mjm
+
+I: me enseñó muchas cosas muy buenas / y este / y por parte de allá / de allá del rancho / pues este / allá en / en / en la ubicación donde se encuentra / este / Santiago Coahuila / siembran mucho lo que viene siendo la / el melón / el melón / chino / también / el melón amarillo / el que está todo liso
+
+E: liso sí
+
+I: la sandía / frijol / este / el elote / y orita / está en su mero / temporada
+
+E: sí
+
+I: la mera temporada del / del / del melón y la sandía / su mero apogeo // y / y pues cuando iba / cuando frecuentábanos mucho íbanos en mi familia / este / los hermanos de mi papá / mi papá / mis primos / y llegábanos allá con familiares / y no hallaban / ni unos / cuando llegábanos en grupitos como de diez / iban en dos camionetas / unos / llega uno al rancho / y ora / y ora se van a quedar con / con nosotros / y / y luego llegan otros familiares / eh y pues vénganse a la casa para que coman acá algo conmigo y <risas = “E” / > y no halla uno ni para dónde / para dónde moverse / y pos ahí es donde uno / no pues tú te vas para allá / o primero almuerzas allá / y acá comemos / o sea / no / pues es que / nos tratan / muy bien / y este pos / pos es la familia / la familia / siempre está // reunida conviviendo // y ya / ya se nos han ido varios tíos de allá / entonces ya / ya casi / ya / no es lo mismo / pero los los hijos del / de / de mis tíos / este / pos / nos tratan / como estos que pues así / así / el papá de ellos / siempre nos / nos estuvo viendo muy bien / y les decía / el día / que el día que uno no / no esté aquí / así como yo los trato a ustedes / y a ellos / para que los siga tratando igual
+E: <tiempo = “9:52” / > mjm
+
+I: y sí / sí nos siguen tratando igual / o sea / no / inclusive a veces vamos / y llevamos ropa / zapatos / juntamos / o hacemos todo lo posible por juntar varias cosas / y / que ya uno aquí / ya / ya no / ya no le queda / y lo mandamos para allá / para con ellos / porque pues ellos andan allá en el campo y / y también a veces se enferman y uno / y / y ellos no nos hablan / pero pos / uno / también o sea ahora con cuestión del teléfono / pues una llamadita / pos más rápido que / lo que llega / es tres cuatro horas de aquí hasta allá
+
+E: sí / sí estar al pendiente de / de la familia 
+
+I: de la familia 
+
+E: muy bien / muy bien / este / ustedes por ejemplo / e en su casa / e / ¿celebran la navidad?
+
+I: en la casa de nosotros no / pero nos juntamos / en la casa de mi esposa / por parte de ahí / en la casa de de mis suegros
+
+E: ey
+
+I: este / últimamente lo que estamos haciendo / es hacer un convivio / pero como son muchos / en la casa de / tengo muchos cuñados / y cuñadas / cada fin de año pues / se está fijando / echamos un volado haber en que casa ahora
+
+E: va a tocar
+
+I: va a tocar y que / qué hay que llevar / o sea el / la cuestión es / convivir lo que / que / que sigamos estando juntos / en / en estas fechas ¿verdad?
+
+E: mjm ¿y qué acostumbran comer / o qué hacen? / ¿qué hacen / cuando se juntan?
+
+I: pues fíjate que / cada quien / lleva pos / tostadas / sopa de arroz / u tengo unas cuñadas que prepara a veces / ensalada de manzana / o / este // por ejemplo / mi esposa pues hace enchiladas / otros / otros familiares hacen carne asada / o discada / o sea / pero procuramos estar / llevar algo / para que / no pese tanto a un / en / a una sola familia
+
+E: sí
+
+I: y así ya / pues cada quien / lleva / un granito / y / se siente más a gusto / estar conviviendo / y ya después / ya todos / y hasta / tamales 
+
+E: <tiempo = “11:50” / > de todo
+
+I: de todo / dice no pues / no pues luego luego saltan / y / y / yo pongo esto / y yo pongo esto otro / y yo / yo llevo esto / y yo traigo las sodas
+
+E: ei / muy bien / y / y este / y / ¿y qué más? / o sea / a parte de la comida / ¿qué / qué hacen en / cuando se / se juntan?
+
+I: bueno pues / por parte de mis / por parte de mi suegro / este mi suegro / y mi suegra / e ellos constantemente pos / están as asistiendo a misa y / y este / y allí en la casa de ellos / se ponen a rezar / y / a veces cuando llegamos / nosotros de visitas / pos vénganse a rezar con nosotros / y ahí ya vamos a rezar / y / tratamos de / de seguir / el mismo / camino / el de / sea que / que / que el día que / dios no lo quiera / no llegue / a faltar alguien / de ellos / pues / seguir igual / o sea / estar ahí conviviendo en familia
+
+E: sí
+
+I: ten / tengo una cuñada / que / este que está leyendo ahorita mucho la biblia / antes / se había metido en / en un / en un convento / y / y / duró muy poco / este / se me hace porque / como estuvo apegada mucho a mis suegros / los ha de haber extrañado / y luego pues se salió / y / y ahorita está leyendo la biblia / pero / siempre está constantemente en / en / en la religión
+
+E: sí / ¿católica?
+
+I: sí / de la religión católica
+
+E: mjm
+
+I: y ella va / asiste a misas / y / cuando / vamos de visita / los domingos / que aprovechamos / nos invitan / y / o / o / tenemos / hacemos unos planes / e están / venimos el domingo / o en la mañana / o en la tarde / pero / el domingo siempre casi / este / vamos a misa
+
+E: mjm
+
+I: en familia
+
+E: sí / te llevas a tus hijos también
+
+I: sí
+
+E: muy bien / qué bueno / qué bueno / este / oiga / y / ¿alguna vez / usted ha estado en / peligro de muerte / o / al algo que le haya sucedido así / pos sí / que / que está / rayando así / o alguno de sus familiares / o algo que?
+
+I: pues fíjese que gracias a dios a mí no
+
+E: ¿no?
+
+I: no / a mí no / este / he tenido así / bueno accidentes sí que de repente / por andar uno de / de travieso pero así / así gracias a dios / no me he quebrado ningún hueso
+
+E: sí
+
+I: este / a pesar de ser / e el único hombre de la familia / de / de / de / de con mi mamá 
+
+E: sí
+
+I: porque tengo dos hermanas / y yo / yo soy el mayor / y / y dos / dos hermanas
+
+E: mjm
+
+I: ya están casadas las dos ¿verdad?
+
+E: sí
+
+I: y este / pues mi mamá siempre me / o sea / me imagino que por ser el único hombre / siempre me / no me tenía chiflado ni nada / me te ne- / me estaba cuidando / cuidando / cuidando y que se enfermaba / y me tenía ahí / al pendiente luego luego / y / por eso lo / también / le doy gracias / gracias a dios / y gracias a mi mamá que // pues no / no me enfermo 
+
+E: sí
+
+I: si me llego a enfermar / de gripa / o / este / de esa pasajera y / luego / luego / es raro / que ande con / con dolor de cabeza que / casi siempre nunca me da / que es malo de la garganta pues no / luego luego // un remedio así / casero miel y / con limón y / pero no / no / no
+
+E: sí
+
+I: es raro / que ande con / la voz así / de / de hombre <risas = “todos” / > no no
+
+E: <tiempo = “15:03” / > está bien / este / o algo que / que lo haya / que / que diga que / se pintó una raya de aquí para allá / tomé otro ru- otro rumbo en mi vida / o este / algo que lo haya marcado así / que que recuerde usted
+
+I: que me acuerde / no / pues fíjese que no / no / no este // no soy muy / muy pleitista tampoco / no / no / no me gusta / que hay que aclarar las cosas pues / las acla- aclárarla bien / pero / pero no / no / no soy tampoco soy muy así de / de andar / prefiero andar haciendo chistes / bromeando / y que / andar buscando o / o / o insultando / a otras / a otras / a otras personas / porque no / tampoco / no me enojo / con / me enojo conmigo mismo porque a veces no me salen las cosas como uno quiere pero 
+
+E: mjm
+
+I: pero no <risas = “I” / >E: sí / ora yo / yo me refiero / a que / por ejemplo que / usted llevara una vida / y luego de repente / no sé / consiguió un trabajo / o / con este / algo que le haya pasado en / en su vida que / que diga no / pues yo iba por este rumbo / y luego de repente cambió / algo que lo haya / que le haya cambiado su vida / no se 
+
+I: no / así rápido rápido / no / no me acuerdo
+
+E: ¿no?
+
+I: no
+
+E: nada / nada por el estilo / este // ¿y usted qué tan bueno es / para cocinar? / ¿no / no cocina / o no / o sea?
+
+I: no sí / sí cocino o sea / de repente // este // pues por cuestiones de trabajo de / de / de mi esposa / que / que ella es costurera / pos ella es la / veces ella no tiene tiempo para / para atender a / a mis hijos / tengo / tengo / tengo dos hijos / el / el mayor / este / tiene diecisiete / y / y la / la mi hija tiene quince / este / pero orita / este ellos / también están apo- aportan ahí / su granito de arena para / para ayudar / ahí en la casa
+
+E: sí
+
+I: en cuestiones / en cuestiones de / del aseo de li / de / de lavar la ropa / y de / de estar ahí ayudándole a mi esposa / sí / sí cocino o sea / preparo voy y compro carne / o sea / hago varios guisos / y / pues lo más común / este / lo más rápido / pues son las papas con huevo / papas con chorizo / o sea / es lo más esencial / así de la cocina / pero para es / para estar / como un chef no <risas = “todos” / > andar haciendo inventos tampoco / pero ahí / algo o sea
+
+E: una sopita / o una carne asada / ¿qué?
+
+I: una carne asada / unos frijoles a la charra
+
+E: una discada
+
+I: la discada también
+
+E: ¿cómo bate / usted / la discada?
+
+I: pues orita ya / orita ya / nomás va uno y compra todo
+
+E: haber pues / conforme vaya diciéndome qué / qué es lo que hay que comprar
+
+I: bueno mire / es que la / la carnicería a donde yo voy 
+
+E: sí
+
+I: hay paquetes / ya venden el paquete ya armado / para cinco o diez personas / es la / la carne / e carne de res / carne de puerco / el chorizo el este / el tocino / y luego / ya pues e / eso ya viene picado
+
+E: sí
+
+I: y entonces / este / corta el tomate la cebolla / e el le puede / le / le puede agregar / e champiñones / le puede poner / para darle un poquito más de sabor / unas dos cervecitas
+
+E: sí
+
+I: este
+
+E: bueno / ya nos podemos ir por un / por un lado / todo eso ya / cortadito / y todo / ¿y ora qué hago? / tengo el disco ya / caliente y / ¿y qué? / ¿qué hacemos?
+
+I: <tiempo = “18:46” / > en el disco primero pone / lo que es la carne de puerco
+
+E: mjm
+
+I: pone la carne de puerco / para que se vaya / se vaya / este cociendo de poquito / y vaya soltando la mantequita / y luego pues ya / este / le va / le va / a como vaya dando / vaya pintando / ahí la / la / la carne / le va agregando / y le va poniendo / la / la otra carne / le puede poner cortadillo / que es el que lleva normalmente / pero ese / este / y luego ya / dejarlo / este también la carne / irla / irla preparando / le puede poner el / el / el tocino / para que suelte también más / más este / casi se prepara sin aceite / porque la misma carne va soltando todo
+
+E: va soltando / sí 
+
+I: sí / le puede poner el chorizo también / y para que vaya agarrando colorcito // y / y este / y luego ya / pues ya / ya después de que vaya agarrando / su // su / su sabor / y que vaya / ya vaya / este vaya cociendo bien / pues le va agregando la / la / los otros ingredientes / la cebolla / este / el chile morrón / el chile / chile serrano / e ¿qué / qué más le puede poner? / el / champiñones / pero / o sea irlo / preparando / dar / darle su tiempo / para que se vaya / no meterlo todo de un golpe ¿verdad?
+
+E: <tiempo = “20:08” / > sí
+
+I: ir / ir / dando / ir metiendo cosa por cosa / y luego / pues ya estarle / dando vueltas pues para que / sal al gusto
+
+E: ey
+
+I: para que vaya / vaya quedando como / como / como más le / le / le / le agrade ¿verdad?
+
+E: ¿y la cerveza? / ¿a qué hora?
+
+I: no / esa ya / a esas ya las llevo / en la panza <risas = “todos” / >
+
+E: sí
+
+I: no / ya la / la / esa ya / cuando la cerveza / se la pone al último para que hierva 
+
+E: mjm
+
+I: ya para que se vaya / se vaya fermentando / y que agarre el mismo / como si le pusiera / la cerveza viene siendo / el / el / el / la función como / como el agua
+
+E: como el agua / okay 
+
+I: de / en vez del agua / pues póngale unas dos cervecitas / y si se están / al primero las prueba / ¿verdad? / para ver si
+
+E: están buenos
+
+I: sí
+
+E: <risas = “E” / > no pues eso es lo bueno / eso es lo bueno / este // entonces / e / no / ¿nunca ha tenido así / un peligro de muerte o algo de / es / o en / o en su familia / no sé / de alguno de sus hijos / o sus papás / un tío / o alguien que les haya pasado que?
+
+I: no / pues / no por cuestiones de / de familia este / lo / lo / lo normal / es de que / este / de que se enferman y / y si // y si / no / no / no este // si no le detectan bien la / o sea / si la / cura bien / si se complica / pues este / pues ya va estar más difícil / pero así / pues en cuestiones de muerte que / que por un accidente / o / o / que de repente / ya ve / como está ahorita la situación / que lo lleguen a asaltar saquen la pistola / o una navaja orita gracias a dios no
+
+E: sí
+
+I: este
+
+E: ¿nunca lo han asaltado?
+
+I: no / no / no / no / corro <risas = “todos” / >
+
+E: okay 
+
+I: no / no orita // no / pues orita / pues / lo / lo que uno / uno este / prefiere es llevársela bien / pero aun / aunque uno la quiera llevar bien / este pos uno no sabe / ni cuándo le va a tocar / y ya ve / hasta manejando uno // hace uno cualquier maniobra / y se le atraviesa otro / y pues ya no sabe si uno si contestarle o no contestarle / porque se le va a poner al brinco
+
+E: sí
+
+I: a como está orita la situación / o / o / le va a sacar la pistola también / que pues ya / ya cualquiera trae pistola como si trajera celular
+
+E: <risas = “E” / > sí
+
+I: ya / ya / sí / sí
+
+E: no sabes con quién te vas a / a meter / la vez pasada yo / iba en el camión y / y el camión tenía que dar vuelta en una calle
+
+I: sí
+
+E: y precisamente al / antes de dar la vuelta / estaba una camioneta / de ese tipo / este Lobo / y con vidrios ahumados y
+
+I: lujosa
+
+E: sí / y este / y estaba parada / y no se movía / y no se movía / entonces el del camión / mejor / le sacó la vuelta / y se fue para la otra calle pero no le pitó / no le aceleró / no le hizo / nada 
+
+I: 
+
+E: sí / y lo mismo / para atrás / los / los que / venían atrás / del camión / igual / o sea / vieron que no se movía / no pues / síguele / por otro lado
+
+I: sí / pues / es que no / no saben / están los vidrios oscuros / no / no / no saben / cómo van a actuar / si vienen / bien / o vienen / mal / o / o qué traigan / que vayan a traer / ahí adentro
+
+E: sí está / sí / me llamó / mucho / la atención / porque en otras / épocas le / le hubiera echado / el camión encima / y le hubiera estado / ahí acelerando / ¿no? / este // bueno / este // sobre la // eso del / volviendo a los / a los narcos / hombre qué / ¿a qué se debería que / qué estamos // pos invadidos / o / o por qué?
+
+I: ¿por qué estamos tan mal? ¿o por qué están invadiendo? 
+
+E: sí / sí 
+
+I: pues / es que / quieren / quieren / quieren / quieren / acaparar la ciudad / porque antes / sí se veían / pos no / no / no se notaba tanto / y / pos la sabían despistar / y ahora no / ora / pos ora / ya cualquier muchacho / de / de menor de edad / ya hasta trae / trae una metralleta
+
+E: sí
+
+I: y ahora por / cualquier cosa / este / pos ellos / son los / los que se ponen / rebeldes / más a / a cierta a / a / a / edad muy temprana
+
+E: sí
+
+I: y / y se me hace que / pues de / bueno todo / viene de la familia 
+
+E: sí
+
+I: si / si los papás / no están ahí / al pendiente de / los hijos / los hijos / van a llegar a la hora que quieren / van a hacer lo que quieren // y / este / como antes / pues había respeto / antes había mucho respeto / antes el / para hablarle a / a / a / al papá / pues le hablaba uno de usted / y ahora no / ahora / ahora hasta de maldiciones / le ha / hasta le hablan con maldiciones / pos qué es eso / ¿qué es eso? / dices hasta el has / es más hasta el hijo
+
+E: <tiempo = “25:12” / > sí
+
+I: hasta el hijo / le habla con maldiciones / oye / ven para acá / güey / oye / ven para ¿pos qué es eso? 
+
+E: ey
+
+I: y yo me quedo asombrado / porque / yo tengo amigos / que tienen hijos y / y no le hablan / por su nombre / a veces / yo le digo / oye ¿cómo se llama? / no pues que se llama Raúl / y en vez de decirle güey / por qué no le dices Raúl / <risas = “I” / > dice / no pues / pues no / dice es que / pues es que / él ya no entiende / le digo / no pues / el que no entiende eres tú / le digo / porque pues / cómo / cómo es posible / de que le estés hablando así a tu hijo / imagínate que a él / tú le digas así / y luego que / que él / que te la regresé igual / ¿qué quieres? / ¿qué quieres güey? / no pues ahí sí te vas a enojar <risas = “E” / > sí / pues es que / es que antes sí había / había más / este / se va perdiendo todo eso // porque / por lo mismo / porque pos / los mismos padres este / vamos dejando / que / que / que se pierda / el respeto // como antes / llegaba uno al / al / al / a visitar al / la / al abuelo y lo salu- lo saludaba / uno de beso en la mano / como si fuera el / el / el párroco / verdad / el padre de la iglesia
+
+E: sí
+
+I: y ahora no / ahora / ahora / ¿qué onda? / ¿qué onda güey? / ¿qué onda? <risas = “E” / > dices / no / pues / ¿qué es eso? / <risas = “todos” / > bueno / al menos / porque / este // uno / bueno yo / siempre mi papá / andaba / andaba / al pendiente / detrás de mí / y yo una vez / este // así / le / le contesté así / pero no a mi papá / le contesté a un amigo de mi papá / y mi papá luego luego se enojó / y fue / cuando / se esperó / a que se fuera su amigo / verdad / y luego me dijo / oye ven / ¿qué es eso / de que güey / para acá / y güey para allá? / y que no / no / aquí debes / de debes de respetar / a los mayores 
+
+E: ey
+
+I: sin / sin conocerlo / ¿verdad? / pero / son / son personas mayores / y hay que guardarles respeto 
+
+E: entonces / ¿usted cree / que ahí está / la base de / desde / o sea / para evitar / que / que prolifere / este tipo de cosas?
+
+I: sí / pues es que // bueno / pues en cuestión / en cuestión de / de volviendo otra vez / a lo / a lo de los narcos / y / es que / el orita las los muchachos a temprana edad / ya ma- ya / ya encuentran droga / en cualquier lugar
+
+E: ey
+
+I: y / otra vez vol- volvemos a caer / en lo mismo de / que es porque / pos los papás / no están al pendiente de ellos
+
+E: ey
+
+I: y muchas de las veces / se salen de estudiar / por / porque le hallaron sabor / a / a / a / a / al otro camino
+
+E: a lo más fácil
+
+I: a lo más fácil / o sea / no / no / a veces se enojan / porque llegan a la casa / oye papá dame dinero / y / y / y pos se ha visto en la tele / que no pues / este / lo apuñaló / o le gritó / o lo golpeó / porque no le / no le dio pau / para una caguama / o que no le dio para / comprar no se qué / drogas / ahí mismo en la tele / sale / sale diciendo / que / por qué / ¿por qué le pegaste a tu papá? / no pues es que iba a comprar droga / no pues es que / no me quiso dar para una caguama
+
+E: ey
+
+I: hasta los mismo reporteros / dicen / y todo por una caguama 
+
+E: no / no / no pues está difícil / la situación / bueno / este // nosotros tenemos este una // me hace favor de / de de contestarme aquí una / una encuesta
+
+I: sí
+
+E: este / aquí las vamos a ir llenando / de poco a poco / haber / ¿su nombre esn?
+
+I: ______ // ___________ // ______
+
+E: ______ ¿qué edad tiene usted ______?
+
+I: tengo cuarenta y un años
+
+E: cuarenta y uno ¿estado civil? casado
+
+I: casado / bueno eso dice mi señora <risas = “I” / >
+
+E: ¿dirección? / ¿qué / qué domicilio tiene?
+
+I: la dirección es / Gildardo // Gildardo Magaña / número siete trece // en la colonia / Valle de Santa Lucía // Monterrey
+
+E: Monterrey / ¿tiene teléfono?
+
+I: e sí / es catorce / veinticinco / cero cinco / nueve seis
+
+E: nueve seis / religión católico
+
+I: sí
+
+E: usted es de Monterrey
+
+I: mjm 
+
+E: <tiempo = “"30:00” / > e / ¿siempre ha vivido / aquí en / Monterrey?
+
+I: sí / sí / siempre / todo / toda mi vida
+
+E: ¿de dónde era su padre? / de San Pedro de las Colonias
+
+I: mi papá de / era de San Pedro de las Colonias / Coahuila
+
+E: m ¿Mazapil o dónde?
+
+I: mi mamá / es / de / e Mazapil 
+
+E: Mazapil
+
+I: Mazapil / pertenece a / a
+
+E: Zacatecas 
+
+I: a Zacatecas / Concha del Oro Zacatecas
+
+E: e ¿y / sabe de do / de dónde eran su / abuelo paterno / y su abuela / paterna?
+
+I: m mi abuela / materna / es de allá / mismo de / de / de Concha del Oro Zacatecas
+
+E: sí / sí
+
+I: y / mi abuelo / paterno / es de Torreón
+
+E: sí
+
+I: e / ¿cuál?
+
+E: abuela paterna / y / abuelo materno // abuela paterna / la mamá de su papá
+
+I: la mamá / de mi papá / también de allá / de allá mismo / de Torreón
+
+E: Torreón
+
+I: y / y la mamá de
+
+E: el papá de / de su mamá
+
+I: él es de / ahí / de allá de / de Zacatecas / de Fresnillo
+
+E: Fresnillo
+
+I: sí
+
+E: okay / ¿cuánto tiempo / lleva viviendo en Monterrey? / pos / ¿por más / de cuarenta años? / nomás / nunca
+
+I: pues no / siempre he vivido aquí en Monterrey / nunca he radicado en / en / o en otras ciudades / en otras
+
+E: m / okay // ¿tiene alguna / afición o pasatiempo? / ¿un hobbie ?
+
+I: ¿un hobby ? / pues me gusta mucho ver la tele / eso es
+
+E: sí
+
+I: mi pasatiempo / estar ahí / este / pues me / me gusta / cuando estoy en la casa / me gusta estar haciendo limpieza / o estar / haciendo / otras cosas o sea estar
+
+E: trabajando
+
+I: trabajando ahí en / orita / tengo muchas cosas / qué hacer / en la casa / tengo que limpiar / ahí el patio y eh
+
+E: sí
+
+I: sacar la basura / y todo eso
+
+E: ¿usted / va al cine?
+
+I: orit- / pues sí / sí / sí orita el / tengo mucho que no voy / pero sí / sí / sí / sí voy al cine
+
+E: okay / e / dice frecuentemente / ¿una vez a la semana? / ¿una vez al mes? / ¿una vez al año?
+
+I: voy una vez al mes ahora últimamente
+
+E: okay / ¿qué? / y las películas / ¿de qué nacionalidad las prefiere?
+
+I: este
+
+E: ¿mexicanas? / ¿extranjeras? / ¿o / de las dos?
+
+I: pos / e me gusta ver / de las dos
+
+E: okay / ¿qué tipo / de películas? / ¿de acción? / ¿aventura? 
+
+I: de acción / e / de acción
+
+E: de acción // okay / e / radio / ¿escucha usted / el radio?
+
+I: sí
+
+E: e / ¿cuánto tiempo / escucha el radio? / más o menos / al / al día
+
+I: ¿al día? / ¿qué serán unas ? / m
+
+E: ¿menos / menos / de dos horas / o más de dos horas?
+
+I: más de dos horas
+
+E: más de dos horas / okay ¿y qué / tipo / de / de estación? / ¿ranchera / grupera? ¿tropical / grupera? / ¿romántica?
+
+I: de ranchera
+
+E: ¿ranchera?
+
+I: ranchera / grupera
+
+E: okay / este / ¿cuál es / su estación / preferida?
+
+I: eh la estación preferida es eh pues hay una que escucho mucho que es la noventa y tres punto tres
+
+E: punto tres de FM
+
+I: sí
+
+E: okay / ¿qué programas / le gusta escuchar / en radios así? / ¿qué sean de música? / ¿o / noticieros? / ¿o / música clásica?
+
+I: de / de música
+
+E: música / e / ¿ve usted televisión? / pos sí
+
+I: sí
+
+E: ¿con qué frecuencia? / e / ¿más de una hora al día? / ¿o / hasta una / hora al día?
+
+I: e / más de una hora / pues / con cuando llego a la casa / pues / veo las noticias / para estar / es lo que más
+
+E: noticias
+
+I: sí
+
+E: ¿qué más?
+
+I: noticias / y // pues / constantemente estoy // deportes
+
+E: noticia s / deportes // okay deportivos / okay / ¿qué más? / ¿análisis puntuales? / ¿documentales? / ¿policiacas o?
+
+I: <tiempo = “35:00” / > e / policiacas / también / pues / a mí me / me gusta ver las policiacas
+
+E: ¿y / verá usted / películas en la tele?
+
+I: pues sí / programas de / series nuevas / pero / veo lo que son series / ¿verdad? / pero 
+
+E: pero películas / películas o sea que / hayan estado en el cine / y luego las pasan en la televisión
+
+I: pues me ha tocado / me ha tocado así / este / ver películas / e películas americanas / por ejemplo / el / la esos / películas de / de / ¿cómo se llama esta de? / la de Titanic y de esas / ya sabe películas
+
+E: sí
+
+I: las de esas / e / las de Batman / las de / son películas
+
+E: ¿y / y sí le gusta verlas / o sea / las ve con frecuencia / si las e / encuentra en / no sé ahí / viendo la tele?
+
+I: ah sí
+
+E: 
+
+I: sí / sí / sí las veo
+
+E: okay / ¿y de qué nacionalidades le gusta ver las películas? / es igual también / mexicanas
+
+I: sí / mexicanas / este
+
+E: ¿y le gustan este / con subtítulos / o / o / dobladas al español / este?
+
+I: pues fí- / fíjese que / que
+
+E: ¿o de las / de las dos?
+
+I: fí- / fíjese que a veces / e / me pongo a ver / me / me gusta ver / e dobladas al español / pero / le / le pongo más atención / a veces / a / pasan unas películas / este // m ¿cómo / cómo le diré? // e / totalmente en inglés / y sí / sí / sí / le / le / le / le / e le empiezo a / a tratar de entender algo
+
+E: sí
+
+I: pero / procuro / este / pues e / este / en este / en español / ¿verdad? / o sea
+
+E: sí / en español / dobladas al español
+
+I: sí
+
+E: de preferencia / okay / y este / ¿en su casa cuenta con / videograbadora? / ¿CD?
+
+I: ten tengo una / una / una grabadora
+
+E: ¿de video?
+
+I: sí
+
+E: y / ¿DVD?
+
+I: sí / también tengo un / un DVD
+
+E: ¿consola para videojuegos?
+
+I: e / pues mi hijo / tiene una consola / sí
+
+E: ¿sí? / ¿o sea / ahí / ahí en su casa?
+
+I: sí
+
+E: y e / videojuegos / para / ¿es / es para te / televisión o es portátil? / o sea / de los esos chiquitos que
+
+I: ese / es portátil
+
+E: ¿portátil?
+
+I: mjm
+
+E: este / ¿tiene usted / cable? ¿Sky o MVS?
+
+I: no / no / no tengo / no / de esos nomás / tele normal
+
+E: este / ¿cuántas televisiones / hay en su casa?
+
+I: e dos
+
+E: ¿usted lee / el periódico?
+
+I: sí / sí
+
+E: ¿qué periódico / lee?
+
+I: e / el Norte
+
+E: Norte / y / y / ¿qué / con qué / frecuencia / lo lee? / ¿a diario? / ¿o hasta cinco veces / por semana?
+
+I: m
+
+E: ¿dos veces / por semana? / ¿una vez?
+
+I: no / e / procuro / leerlo / este / pos cada fin de semana // es / es / es una / una / una vez a la semana
+
+E: sí // ¿qué / qué sección del periódico / es / es el que le gusta leer?
+
+I: e / pues primero / la deportiva
+
+E: sí
+
+I: y ya / ya de ahí / pues me voy a lo / de la local
+
+E: sí
+
+I: y / termino / con espectáculos
+
+E: espectáculos muy bien / okay / ¿y revistas? / ¿acostumbra a leer?
+
+I: no / revistas / casi no
+
+E: ¿no?
+
+I: no
+
+E: okay // ¿internet? / ¿usa / el internet usted?
+
+I: el internet / no / fíjese / que / este / mis hijos / son los que más / están ahí al pendiente / del internet de / casi / yo casi / no
+
+E: ¿pero / usted / no tiene computadora / en su casa?
+
+I: e / sí / sí hay una computadora
+
+E: sí / ¿cuántas? / una
+
+I: una
+
+E: okay / tiene telefonía // ¿tiene / teléfono fijo? / sí / verdad
+
+I: sí
+
+E: ¿y celular?
+
+I: ¿celular? / sí
+
+E: también / ¿y qué? / ¿qué? / ¿cuál es el uso / que le da / al celular? / ¿sólo para / recibir llamadas? / ¿o recibe y / hace llamadas?
+
+I: e / pues / recibo / y hago llamadas
+
+E: sí
+
+I: no muy frecuente / verdad / pero sí
+
+E: ¿envía mensajes?
+
+I: e / sí
+
+E: okay / recibo / y hago muchas llamadas / envío y recibo mu- / mensajes / tomo fotos
+
+I: no / fotos no / casi no / no / no
+
+E: ¿no?
+
+I: no
+
+E: museos / ¿visita usted museos?
+
+I: pues sí / los he frecuentado / y ese / y es que tengo mucho que no / que no / voy al / al museo
+
+E: ¿una vez al año?
+
+I: sí
+
+E: <tiempo = “40:00” / > ¿conciertos?
+
+I: conciertos / no / no me gusta ir a conciertos / porque / mucha gente te están apachurrando / y no / no / no
+
+E: <risas = “E” / > ¿y al teatro?
+
+I: el teatro / sí me he quedado / con ganas de ir / no voy al teatro / pero sí / me he quedado / con ganas de / de / de ir a
+
+E: de ver una / ver alguna obra
+
+I: de ir a ver / alguna obra de teatro
+
+E: mjm
+
+I: es el / del / el / el / el de la Nena Delgado <risas = “I” / >
+
+E: sí
+
+I: el de las gorditas
+
+E: muy divertido ese
+
+I: sí / pues es que las ve uno / este los cortos / que pasan en la tele / y le llaman le llaman la atención / y a la hora de ir / no / pues no / ahí / hay otras cosas / que hacer / ya / ya / no / ya no / ya se le quitan a uno las ganas de
+
+E: sí / de ir
+
+I: de ir
+
+E: ¿y viajes? / este / ¿usted / viaja por / por placer / le gusta viajar?
+
+I: m / no / pues / los / los únicos viajes / que hago / es / co- / con la familia allá / a / a visitarlos
+
+E: allá / allá a San Pedro
+
+I: a / sí / a Torreón / pero no / no / en autobús / no / o sea / sí procuro / planeamos un viaje / pues / u / u / una vez cada tres meses / o sea / no / no es muy / seguido
+
+E: tres veces al año
+
+I: sí / más o menos e
+
+E: ei / educación / este / ¿último / año / cursado? / este / ¿primaria?
+
+I: la primaria / sí / sí / la terminé / el último año de primaria
+
+E: ¿y secundaria?
+
+I: la secundaria no / la / no / no / no la terminé / lle- llegué hasta segundo / nada más
+
+E: segundo año / este / bueno / lo único / e / ¿en escuela pública o privada / la / la primaria / y la secundaria?
+
+I: e / sí / la escuela / la / la / la
+
+E: pública
+
+I: pública
+
+E: okay / okay / trabajo / ¿está trabajando usted?
+
+I: sí
+
+E:¿desde cuándo trabaja usted? / más o menos / a / a que año / empezó a trabajar
+
+I: ¿desde qué años / empecé a trabajar?
+
+E: ¿desde qué año?
+
+I: ¿desde qué año?
+
+E: ¿qué fecha?
+
+I: m / pos yo / que yo / me acuerde / yo empecé / desde / ¿desde qué años?
+
+E: bueno / año de / ¿qué fecha? / más o menos / o sea / del año como fecha / no / no cuantos años tenía / o ¿cuántos años tenía? / y orita sacamos la / la cuenta
+
+I: pues yo / pues yo / empecé a trabajar desde los doce años
+
+E: ¿doce años?
+
+I: sí
+
+E: ¿y / usted nació? / ¿en / en qué año?
+
+I: yo nací / en el año / de mil novecientos sesenta y nueve
+
+E: sesenta y nueve / y doce / son / setenta y uno / ochenta y uno / como en el / ochenta y uno / ochenta y dos
+
+I: pos sí
+
+E: okay / ¿y no trabaja usted? / este
+
+I: ¿en dónde trabajo?
+
+E: sí
+
+I: e / es una empresa que se dedica al / al / a / e / al partes este
+
+E: partes de
+
+I: a / de / de maquinados / partes de / de
+
+E: maquinados / ¿es empleado?
+
+I: sí / soy / sí / soy / empleado soy / es
+
+E: ¿cuál de las siguientes / actividades se realizan / en su trabajo? ¿se produce algo?
+
+I: pos sí
+
+E: sí / partes / si verdad / partes y maquinados
+
+I: sí
+
+E: / ¿qué puesto desempeña?
+
+I: e orita / pos / soy chofer
+
+E: okay / ¿desde cuándo?
+
+I: este / orita tengo / cuatro meses / más o aquí 
+
+E: muy bien / e / con respecto a su ingreso / al salario mensual // e en veces / de / del mínimo / en ve / en veces el salario mínimo / salario mínimo / lo ponen aquí / como dos mil ochocientos mensuales / dice / entre dos y tres veces el salario mínimo / entre cuatro y seis veces / ¿cuántas veces / el salario mínimo / más o menos? / el / el este mensual dos mil ochocientos
+
+I: mjm
+
+E: ¿usted gana más / de dos mil ochocientos?
+
+I: e / pues sí / viene / viene siendo
+
+E: entre dos / y tres salarios
+
+I: sí
+
+E: <tiempo = “44:57” / > ¿qué prestaciones / recibe en su trabajo? / ¿despensa? / ¿servicio médico? / ¿vacaciones?
+
+I: pues / recibo / este / vacaciones
+
+E: ¿bonos de despensa?
+
+I: sí
+
+E: ¿servicio médico?
+
+I: el seguro sí
+
+E: ¿reparto de utilidades?
+
+I: mjm / pues sí
+
+E: ¿cuántos focos / hay en su casa?
+
+I: ¿focos?
+
+E: mjm
+
+I: focos / e tenemos / e / uno / dos / tres / cuatro / cinco / cinco focos
+
+E: cinco / familia // e ¿quiénes viven / en su casa? / ¿su esposa?
+
+I: mi esposa / y / mis / mis dos hijos
+
+E: bueno / su esposa / hijo
+
+I: y / mi hijo / y mi hija
+
+E: hija
+
+I: mjm
+
+E: e / ¿habla / su esposa / habla este varios idiomas?
+
+I: m / no / pues / el / el español
+
+E: español / ¿nada más?
+
+I: sí
+
+E: el último grado 
+
+I: cuando anda enojada no / no sé que idioma hable / ¿verdad? <risas = “todos” / > pero
+
+E: hasta el chino
+
+I: sí
+
+E: ¿el último grado / cursado / por su esposa?
+
+I: este / la / la / pos el último pues / es la secun- / es la preparatoria / ella / ella si terminó la preparatoria
+
+E: correcto / muy bien / y dices que es costurera ¿verdad?
+
+I: sí / ella es costurera
+
+E: este // este / salario / es que / más o menos / en qué / no así una una cantidad / si no algo má- / un / un más o menos / lo que gana por mes
+
+I: pos / casi / casi viene / viene ganan / sacando
+
+E: ey
+
+I: lo mismo que
+
+E: dos veces
+
+I: sí
+
+E: okay / su hijo
+
+I: él / es este
+
+E: ¿habla / varios idiomas? / ¿o / nomás uno?
+
+I: nomás uno
+
+E: uno / y está / ¿y en qué?
+
+I: él ahorita / está estudiando la prepa
+
+E: prepa también / último año cursado / ¿y trabajo?
+
+I: e / no
+
+E: no / okay / ¿su hija?
+
+I: mi hija / e / también un / un / un idioma
+
+E: ¿en qué / último año / cursado?
+
+I: el último / fue / ori- de la secundaria / y orita está / iniciando la / la preparatoria
+
+E: secundaria // tercero // ¿no trabaja tampoco?
+
+I: no
+
+E: okay // muy bien / pues ya estamos terminando / este / pues / ¿algo qué / tenga que / que agregar? que le gustaría agregar / a / al / a lo que se ha dicho aquí
+
+I: algo que tenga / que agregar
+
+E: algo que / quiera agregar / o que que le gustaría / que le gustaría platicar
+
+I: e pues me gustaría // es que me // es que ya / me entró hambre / por eso no <risas = “todos” / >
+
+E: no puede pensar bien 
+
+I: por eso no estoy pensando / me gustaría comer / <risas = “todos” / > este / no pues / este / es / es / ese / este // pues estuvo mu- / es estuvo muy bien / ¿pero qué / qué / qué le puedo agregar / qué?
+
+E: algo que / se / se le haya quedado ahí / este pendiente / que / que a lo mejor den / den / dentro de la plática / pensó quiero decir esto / pero no / ya no / se me faltó / o sea ya no se pudo decir
+
+I: no / pues que / que ya no se enoje mi señora ay <risas = “todos” / > / no / no / o sea todo / todo / todo estuvo bien // pues / no pues / no / no nada / no se me ocurre / orita nada la verdad / ahí discúlpeme
+
+E: no / no / no / no pues / no es obligación / <risas = “todos” / > / no es obligatorio / no se / si / si a usted / se le le hubiera / o sea / si usted / quisiera / agregar algo / bueno y si no / pues no / no hay problema
+
+I: sí
+
+E: entonces / pues muchas gracias / y e / por darnos la oportunidad / de de platicar 
+
+I: no / muchas gracias a usted / y este / y haber / si me acuerdo de algo en el camino <risas = “I” / > 
+
+ Fin de la entrevista
+

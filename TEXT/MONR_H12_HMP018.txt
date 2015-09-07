@@ -1,0 +1,861 @@
+﻿<Trans audio_filename=”MONR_ H12_HMP018.MP3” xml:lang=”español”>
+<Datos clave_texto=”MONR_H12_HMP018” tipo_texto=”entrevista_semidirigida”>
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” país=”México” / >
+
+<Grabación resp_grab=” Daniel Jaime Rodríguez Macías” lugar=”domicilio del informante” duración= “49’40”” fecha_grab=”2007-11-11” sistema=”MP3” / >
+<Transcripción resp_trans=”Zeuxiz Melissa Crespo López” fecha_trans=”2008-03-10” número_palabras=”7739” / >
+<Revisión num_rev=”1” resp_rev=” Raquel Rodríguez de Garza” fecha_rev=”2008-11-04” / >
+<Revisión num_rev=”2” resp_rev=” Alejandra Moreno Rangel” fecha_rev=”2010-06-09” / >
+Revision num_rev=”3” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-07-26 / >< / < / Datos>
+
+<Hablantes>
+<Hablante id=”hab01” nombre=”Javier García Silva” codigo_hab=”I” sexo=”hombre”
+grupo_edad=”1” edad=”28” nivel_edu=”2” estudios=”Licenciatura incompleta en artes plásticas” profesion=”coordinador de talleres”
+origen=”Monterrey” papel=”informante” / > origen=”Saltillo“ papel=”informante / >”
+<Hablante id=”hab2” nombre=”Daniel Jaime Rodríguez Macías” codigo_hab=”E” sexo=”hombre” grupo_edad=”1” edad=”30” nivel_edu=”3” estudios=”Lic. en Letras Españolas” profesion=”Fotógrafo y maestro de licenciatura” 
+origen=”Monterrey” papel=”entrevistador” / >
+
+<Relaciones rel_ent_inf=”desconocidos” / >
+< / Hablantes>< / Trans>
+
+E:¿cómo estás ______? / muchas gracias por // haber accedido a participar en este proyecto // este
+
+I: no no hay de qué 
+
+E: ¿cómo has estado? 
+
+I: bien bien 
+
+E: qué bueno / este / oye // e / ¿eres de aquí de Monterrey? 
+
+I: eh / nací en Saltillo / y he vivido toda mi vida // en / en Monterrey 
+
+E: ¿se vinieron cuando todavía estabas muy chiquito?
+
+I: sí de menos de un año de edad 
+
+E: o sea que práctica / realmente no te acuerdas / sí eres de aquí 
+
+I: no // soy de aquí porque / porque llevo // o sea // mi papelería es de allá / solamente / iban pasando y / y ahí nací <risas = “I”>
+
+E: <risas = “E”> está bien / oye y aquí ¿dónde vives?
+
+I: en Santa Catarina Nuevo León / en / Ocampo / ciento cuatro
+
+E: ¿ahí has vivido siempre?
+
+I: siempre en Santa Catarina no // viví en un tiempo en la Industrias / y / y cuando estaba / como de unos doce años / me cambié al centro de Santa Catarina 
+
+E: okay / ¿y allá en las Industrias cómo era / la colonia?
+
+I: pues es una colonia bastante / normal / clase media / cuando llegaron mis papás ahí era una colonia de familias jóvenes / éramos / muchos niños en la cuadra // este / pero una colonia bastante / bastante normal 
+
+E: qué bien / y ¿ahora dónde vives?
+
+I: donde vivo no / pues / hay mucho menos / cantidad de gente 
+
+E: ¿como que las familias son más grandes o?
+
+I: no sé / he visto como pocos / / cuando llegamos ahí había / había / pocas personas / este / como / jóvenes o / niños / generalmente había más personas grandes 
+
+E: esta / y allá en las Industrias / pos me imagino / dices que viviste / hasta los doce años ¿verdad?
+
+I: sí 
+
+E: este / ¿cómo era / este convivir con las familias / en su / ese ambiente? 
+
+I: pues la gente era muy chida éramos como / como los vecinos / este / me gustaba mucho porque había / había / muchos chavos así como de / de la edad / así / y eso era bastante divertido porque / era el / el típ- / el típico barrio en donde se hacía el / futb- / el futbeis en la noche y / las escondidas y esas cosas entonces era / era bastante divertido con / con / los vecinos que eran / te digo eran muy pa- / eran / de la misma edad que nosotros / y / mi familia pues mi familia somos / este seis / seis personas en / en los hermanos somos seis / y todos somos de los setentas entonces como que / no había tanta diferencia de edades / también era bastante divertido convivir con los hermanos 
+
+E: <tiempo = “2:51” / > este / y / ¿tu familia celebra navidad?
+
+I: sí
+
+E: esas cosas / ¿qué hacen en navidad?
+
+I: pues es una reunión como muy / como muy / este // supongo yo que como / como lo hacen todas las familias ¿no? es preparar una / una / eh / una cenita especial y juntarnos / y comprar / este / regalos para los más chiquillos este / para los / bueno ahora para los sobrinos y todo esto / y / y celebrar ¿no? es una / la excusa / perfecta para / para juntarse a a / convivir
+
+E: convivir / mjm / pero / ¿y la cena? / ¿qué hacen? 
+
+I: es muy variada ¿no? / se hace desde / todo desde / a veces han he / se ha hecho / este / desde / taquizas / cada quien lleva su / su guisado y cosas así hasta / cosas más / más elaboradas como pavo / y cosas así
+
+E: pero así un platillo típico en especial no 
+
+I: no / no hay nada como / recurrente no / siempre se planea así como unos días antes qué / qué se va a hacer / pero no es algo como / como muy recurrente 
+
+E: y este / ¿hacen todo el ritual hacen / rezos / ponen nacimiento? 
+
+I: no / sí ponen arbolito / eso sí todos los años hemos puesto / yo no recuerdo un año donde no hayamos puesto árbol siempre se pone arbolito y se pone un nacimiento / pero no es como que hagamos lo de los misterios y esas cosas no 
+
+E: <tiempo = “4:27” / > entonces ¿en semana santa tampoco // eh // llevan la vigilia y esas cosas?
+
+I: o sea / pues sobre todo antes <risa = “I”> / este / cuando estábamos más chavos / mis papás así era de que / de que no nos dejaban comer carne y que / todas esas cosas ¿no? // pero / ya ora ya de grande / bueno / creo que a algunos nos vale / más gorro que a otros / este pero sí / yo / yo generalmente / me / me / trato de / de // de comer diferente en esa fecha no por el rollo religioso si no más bien porque / es padre también salirte de la / de lo que comes todos los días y experimentar ahí // este / otras cosas ¿no? / sí / sí está padre / pero no es como que por el / por el / por el fin así religiosa es más bien como / ¡ah! pos está chido ¿no? / o sea / hay / tal tipo de comida pos bueno vamos a aprovechar 
+
+E: mjm / depende de la época es lo que comes 
+
+I: así es
+ 
+E: este / este / y ¿alguna tradición que tengan // que celebren?
+
+I: pues creo que el día de las madres es algo muy fuerte en mi familia // este / siempre era como la reunión así / típica en casa de la abuela / y este / y se juntaban las tías y / pos mi mamá obviamente / este / y sí estaban todos los nietos / estaban ahí todos / pos toda toda la familia ésa / creo que sí / es una / una tradición bastante / es como muy constante o sea / a diferencia de / y obviamente la navidad y eso también pero creo que el día de las madres es como / como que también es bastante fuerte y es / y es como // en mi familia es como la única fecha en donde estaban los primos y estaba todo eso porque de ahí en fuera / no / no había otra convivencia como / familiar me refiero a / a / a toda la / primos / tíos y todas esas cosas / solamente el día de las madres
+
+E: <tiempo = “6:37” / > así es / este / oye y / ¿con tus amigos de / de la escuela todavía te juntas? 
+
+I: tengo amigos de la secundaria / tengo amigos de / prepa casi no / y de / la carrera / ¿sí? los amigos de la / de la secundaria son los más viejos que tengo
+
+E: ¿y qué hacen? / ¿se juntan todavía o ya muy / muy escasamente?
+
+I: es que / hace poquito tuvimos una / una así como / eh / pues hicimos un equipo de futbol y / jugamos un tiempecillo / y de repente vamos a conciertos y cosas así pero // pero pos ya todos son como señores // y entonces / este / pero sí pos sí / sí / no es así como que nos vemos cada fin de semana pero sí nos vemos seguido 
+
+E: ¿eres el único soltero del / de la palomilla?
+
+I: soy de los pocos solteros que quedan en la palomilla / sí sí quedamos ¿qué? / como unos / cuatro solteros se me hace
+
+E: oye y ¿en los cumpleaños se juntan o / nomás / hay algún grupo de / de dominio público que les guste a todos y se / se lancen?
+
+I: no / pues / con los de la secundaria no / pero tengo un grupo así que es con el que soy / todavía más constante // que / sí son / es son muy importantes los cumpleaños / para nosotros / este / y nos juntamos y / pero bastante tranquilos no es como que la pachanga o cosas así / eh / es más bien como / juntarnos / este / en algún departamento de alguien / platicar / ¿qué onda? / este / comer un poquillo y ya ¿no? / ya / estamos viejos <risas = “I”>
+
+E: <risas = “E”> / ¿ya / ya están viejos o se sienten viejos?
+
+I: pues no sé / todo depende / ¿como para qué? <risas = “I”>
+
+E: <tiempo = “8:28” / > <risas = “E”> / está bien / oye / y ¿tú cocinas algo?
+
+I: cocino 
+
+E: así que en Navidad que / tú digas / yo hago la pasta o / o cuando te juntas con tus amigos este / pos a veces llevo / un chicharrón / o no sé 
+
+I: pues / tengo en realidad mu- / muy pocos conocimientos de cocina / me gusta mucho el arroz pero no siento que lo domine del todo / pero me gusta cocinar arroz / este / las pastas también me gustan mucho / y sí pues / puedo hacer una que otra cosa con pastas 
+
+E: pero así ¿una receta que te sepas / que nos puedas decir?
+
+I: ¿una receta que me sepa? 
+
+E: o algo que tú hagas / este / que tú inventes así que me digas / pos yo hago esto y le pongo esto y / así porque a mí me gusta 
+
+I: pos e / el arroz / me gusta mucho hacerlo frito / este / eh / es como que una receta que saqué / o sea / sé que existe pero yo la saqué como a puras conclusiones // que es arroz frito en tocino / este / lleva / zanahoria / lleva brócoli / eh / obviamente lleva tocino / y este 
+
+E: pero ¿se cuece en e / en el aceite o / cómo?
+
+I: primero se / primero la cues- / cueces el arroz / lo dejas en un estado / intermedio / y luego ya / doras el tocino en pedazos pequeños y / empiezas a dorar el tocino ya cocido / con lo que quedó de la grasita del / perdón / el arroz con lo que quedó de la grasita del tocino // pero / sí ¿no? es / es como / como una de mis favoritas / pero / te digo / a veces me sale mal todavía / no es como que / la domine perfectamente / es una receta que me gusta hacer y / / este sale más o menos
+
+E: y ¿si no te queda qué dices lo / lo tiras y lo vuelvo a hacer
+
+I: no pues / improvisamos algo / <risas = “I”> / un pastel de arroz <risas=”todos” / >
+
+E: a ver cómo lo arreglan 
+
+I: sí / pero / sí / pero me ha quedado muy buena / la mayoría de las veces 
+
+E: <tiempo = “10:31” / > oye ¿alguna vez te ha sucedido un accidente así / muy fuerte o / que estés en peligro de muerte?
+
+I: accidente / no no no / algo así como / fuerte fuerte no / me he quebrado huesos / me he / descalabrado alguna vez / pero algo fuerte fuerte como 
+
+E: ¿algún conocido / o familiar? 
+
+I: bueno // el / año pasado / el / el accidente del trailer en / ¡ah! no fue este año / ¿fue este año? / el accidente del trailer en / en / Santa Catarina ahí en / el centro / que / que pos que voló todo el frente de / del / del / ¿cómo se llama? / del local de mi hermana / pero / bueno / sí estuvo como muy fuerte // no no le pasó nadie / nada a nadie de mi familia / salvo las pérdidas así de // del local / pero fuera de ese accidente / no recuerdo otra vez que haya estado en peligro así como // alguien de mi familia // creo que cuando / no todavía yo no nacía / una de mis hermanas que una vez se enfermó muy fuerte y yo no había nacido ni siquiera / fue cuando era bebé / este / ¿qué más? / no pos que se enfermó fuerte 
+
+E: ¿te platicaron o?
+
+I: no pos me platicaron porque / fue mi hermana la mayor / estuvo / estuvo como muy malilla y / y este / y pos mis jefes / pos / la sacaron adelante ¿no? pero / pero / obviamente yo no estaba / todavía 
+
+E: pero ¿hasta el hospital fue a dar y todo?
+
+I: sí / sí sí / sí fue como / como fuerte porque / este / pos mi papá / todavía fue a agradecer a la Huasteca a un cañón y cosas así este / que / eh / a un lugar que es como un templito que está en / en la Huasteca / y mi jefe me acuerdo que / digo / me acuerdo que me platican <risa = “I”> / este / que fueron a / a dar gracias porque mi hermana se había puesto bien 
+
+E: a pagar la manda
+
+I: sí / como una especie de manda / mjm
+
+E: <tiempo = “12:47” / > oye ¿en / dónde estás trabajando / ahorita?
+
+I: actualmente trabajo / en / bueno el trabajo así como que / de tiempo completo es en el museo Marco / aparte de eso doy clases / este / trabajo / en Casa de la Cultura tengo un taller de artes / plásticas para niños / y / de desarrollo de creatividad / y en la UDEM <observación_complementaria = ”Universidad de Monterrey” / > tengo un taller de / de títeres de chavos / para chavos especiales / un programa que hay para / jóvenes más bien especiales este / y / y tengo esas tres chambas / o sea / divido mi tiempo en // ahorita por lo pronto en esas tres cosas porque / también de repente salen más / cosas que tengo que hacer / pero / son ajenas al trabajo / pero / a grandes rasgos son / son mis tres trabajos fuertes ahorita
+
+E: bien / y para / ¿apenas para sacar lana o ?
+
+I: pues sí / sí la / sí o sea / digamos que / que me sale bien / de dinero me sale bien / pero pues el tiempo está // totalmente corto ¿no? / o sea / sales de una cosa y vas a otra y vas a otra y vas a otra / entonces no hay como que mucho tiempo libre
+
+E: apenas buscar / un solo lugar ¿no? que te pague / como los tres 
+
+I: pues sí pero / si busco en un solo lugar como que te aburres / bueno en mi caso / o sea / no podría dejar de estar con / con mi trabajo de los niños / ni el trabajo de los // de los chavos especiales porque me aburriría mucho / entonces / sí hay una prioridad de entender como un trabajo que / que te guste / independientemente de / de lo que ganes o no 
+
+E: mjm / y ¿con los niños especiales qué / qué les das qué les / enseñas?
+
+I: eh / todas las técnicas de manipulación de títeres / un poco de teoría de / de / o sea vimos algo de historia de títeres pero sobre todo más enfocado a la manipulación / porque a ellos les ayuda mucho en / en los / en lo motriz sobre todo / este / y ya tienen / o sea tienen su propio grupo / tenemos un grupo / este donde yo los dirijo pero ellos están ya / manipulando los muñecos van y se / hacen presentaciones este / escribieron una de las historias de los cuentos que contamos y / pos ahí va / va arrancando / el proyecto 
+
+E: tú nada más los vas guiando
+
+I: sí / sí y / y dirigiendo sobre todo de que / este / porque / la / la misión es que ellos lo puedan hacer solos algún día ¿no? o sea / sin necesidad de que haya otra persona por ahí / pero orita por lo pronto hay / alguien tiene que estar para / decirles cómo se / se debe de / de ir / en / la obra 
+
+E: así es / y en Marco ¿cómo es ahí / un día en Marco?
+
+I: ¿un día en Marco? / no pues Marco son muchas cosas las que / las que se tienen que hacer / lo más fuerte que yo hago / este / que me gusta más hacer es / desarrollar programas / o desarrollar actividades para niños // pero un día es este / puede ir desde / o sea desde dar clases un día que / que / este / que me toque dar clases ahí / hasta / que me / estar redactando / no sé bases de datos de niños para mandarles información de las actividades / eh // pero es como muy variado no es una constante que ¡ah! se tiene que hacer esto / específicamente o sea / la verdad sí es bastante no hay como / como eso de que / tú te encargas de esto y nada más o sea / yo sí estoy encargado obviamente del área de niños pero / pero son demasiadas cosas las que se hacen te digo desde / desde / mandar muchos correos y decirles tenemos todas estas actividades y en / comunicárselo a los / a los niños que ya tenemos registrados / hasta / sacarnos actividades de la manga de decir este / ¡ah! tenemos / feria del libro hay que sentarnos a platicar / qué podemos montar y / qué taller vamos a dar y de qué se va a tratar la actividad / y por qué esta actividad / y así
+
+E: <tiempo = “17:05” / > pero son / de / cómo trabajas en la Casa de la Cultura y en la UDEM / son niños // eh / de diferentes estratos ¿no?
+
+I: sí 
+
+E: y ¿es / fácil o es muy difícil trabajar // con estos niños? / o 
+
+I: pues / a mí el / eh / lo que pasa es que / me gusta trabajar con todo tipo de niños pero sí efectivamente la gente que va a Marco es como / como gente / los niños son más autoritarios son / niños que están más acostumbrados a que se les den las cosas / como / como a que / lo que tienes en el <intelegible / > entonces es más difícil trabajar con esos niños / a mí me gusta mucho trabajar por ejemplo con Casa de la Cultura me gusta mucho porque los niños / este / eh / vienen más dispuestos a experimentar / a ver cosas / nuevas o / si ya se sabe las cosas / la siguen disfrutando igual o sea yo ya me sé esta actividad pero vamos a hacerla ¿no? / y / como que el estado de sorpresa de los niños / de clase alta se ha perdido mucho entonces no los sorprendes fácil / este / cualquier actividad / más si ya la conocen eso sí como que no / eso ya lo he hecho / o eso no me interesa hacerlo aunque / aunque nunca lo haya hecho / como que son men- / como que / se sorprenden menos / ¿no? / y eso es un problema 
+
+E: y ¿lo han resuelto de alguna forma o / en eso están?
+
+I: creo que estamos haciendo programas bastante / interesantes que van a / que / independientemente de la clase social del niño lo van a dejar / lo van a sorprender bastante este / algunas / actividades que se están planeando para domingos / son / bastante interactivas / este / y / y algunos concursos que creo que van a / a / sí van a / a sacudir un poco a los niños o sea / en el buen sentido de la palabra / este / sí / yo creo que 
+
+E: ¿van a ser concursos / abiertos a todo público? 
+
+I: sí van a ser / es una convocatoria abierta pero / sí creo que / es algo que no se había hecho en / acá en / en Nuevo León // este / nomás que no sé qué tanto te pueda decir de esto <risa = “I”>
+
+E: no no te apures 
+
+I: como es un proyecto nuevo / este / apenas estamos como presentándolo / entonces no 
+
+E: <tiempo = “19:30” / > está bien / oye ¿alguna / anécdota / que me quieras contar?
+
+I: ¿eh / ¿de mi trabajo? / o 
+
+E: ¿personal o / de algún amigo?
+
+I: así tan abierta la pregunta como es / este 
+
+E: algo que haya sido / muy chusco o muy importante o / eh / de terror / qué se yo
+
+I: hay una historia que siempre cuento // por que es bastante chistosa / pero aparte es como de miedito // es / la historia de un niño que asustó a un fantasma / este / resulta que / un amigo / vivía en una casa donde todo mundo decía que / asustaban mucho / y este / y el / el / el rincón de la // de la sala era como / era ésas / ésas / ¿cómo se llaman? como / como salas que están en ele 
+
+E: mjm
+
+I: este / y entonces en el rinconcito de esta sala se hacía un huequito / y ahí cabía una persona ¿no? entonces / este niño llegó de / llegó de la / de la escuela y escuchó pasos en el segundo piso // y / y se / metió atrás de ese sillón / porque pensó que era su hermano y lo quería asustar ¿no?
+
+E: mjm
+
+I: entonces este / escuchó los pasos arriba y después escuchó a alguien bajando de las escaleras // y resulta // que / empezó a / a mover el / el niño jugando para asustar / porque él creía que era su hermano empezó a mover el sillón / este // y de repente dejó de escuchar los pasos / y salió / riéndose pensando que había asustado a / a su hermano // y resultó que no había nadie o sea que no había asustado a / absolutamente a nadie / y eso fue lo / lo chistoso que el niño / o sea que / que el niño sí escuchó los pasos que el niño escuchó que alguien bajaba de la escalera / y cuando él lo quiso eh / asustar // resulta que no había asustado a nadie 
+
+E: y él se quedó / se asustó
+
+I: y él se asustó mucho porque él sí escuchó los pasos y se / y sí pensó que estaba alguien en la casa 
+
+E: ¿ésa es / te sucedió a ti o?
+
+I: no / es un 
+
+E: ¿es un cuento? 
+
+I: no es un cuento es una historia que le pasó a // a un amigo cercano pero sí está bastante / divertido saber que asustaste a un fantasma <risas = “I”> / como raro 
+
+E: <tiempo = “22:03” / > este / ¿algo más que me quieras platicar? 
+
+I: pues // no sé / este / pues no / en realidad / ¿cómo de qué? / traigo una obra de / de títeres también / para / febrero / y / pues ya <risas = “I”>
+
+E: ¿eres titiritero también?
+
+I: sí / tengo un grupo de teatro de títeres // este aparte del / digo del trabajo que estoy haciendo con los chavos de / de la UDEM / los chavos especiales / tengo / tengo un grupo de / de / de titiriteros / y / y pos hacemos cosas ¿no? / hacemos teatro de títeres / hacemos comerciales // a veces damos talleres / y capacitaciones referente a / al / o sea los títeres 
+
+E: ¿comerciales cómo?
+
+I: sí / comerciales como de / este / para tal empresa que quiere / hacer un comercial de televisión donde salgan títeres / este / pos nosotros / construimos los muñecos y luego / vamos y los manejamos / y 
+
+E: ¿hacen el guión y todo?
+
+I: no / el guión no / este / una vez hicimos un guión para televisión bueno yo / hice un guión para televisión / de / de / de títeres / este pero // pero generalmente sólo es la manipulación y es / este pro- / eh / la manipulación y la construcción de los muñecos
+
+E: y en tu grupo de / de títeres ahí sí / ¿es / títeres o de guiñol?
+
+I: no / de títeres en general
+
+E: ¡ah! okay
+
+I: guiñol es una rama de los títeres / o sea / hay marionetas guiñoles / hay títeres de mesa / de varilla / bocones / este nosotros hacemos / teatro de títeres en general o sea manejamos todo tipo de muñecos / este / desde marionetas hasta / bocones / muppets este / guiñoles / de todo tipo
+
+E: por ejemplo un guiñol y un muppet ¿qué diferencia tienen?
+
+I: que el guiñol / utilizas / eh / tres dedos / generalmente / y uno es para mover la cabeza y dos son para mover los brazos / ese es un guiñol / y el / muppet o el títere de mandíbula / es el mismo / así le llaman / est- / sirve para mover / únicamente la boca del muñeco / para que abra y cierre la boca // entonces / la diferencia entre un / títere / muppet bocón / este / o / un títere de / guiñol / que mueve los brazos y mueve la cabeza pero no abre y cierra la boca por ejemplo 
+
+E: sí / y // por ejemplo los / el programa de los muppets / o sea / abren y cierran la boca por una mano 
+
+I: mjm
+
+E: pero los brazos se mueven con / otras dos personas
+
+I: sí / esos los muppets son títeres de técnicas mixtas o sea / hay / dos o / dos o tres titiriteros involucrados en la manipulación / y este y son títeres mixtos porque así como tienen / la boca se mueve por una mano / eh / hay varillas que ayudan a mover los brazos de los muñecos / o / o a la mejor este / las piernas también / cosas así o sea son muñecos que / son mixtos / no son como una técnica específica 
+
+E: ¡ah! ya / entonces / un / muppet // en el sentido estricto es nada más / digamos un / calcetín con ojos / o algo así?
+
+I: el / el el muppet como técnica / se le conoce al / al / igual a los que abren y cierran la boca // sí es el calcetín con ojos / típico que abre y cierra la boca / pero / es / o sea un bocón / eh / es también conocido como muppet / pero los muppets / como muppets / ya la institución de los muppets son / son títeres mixtos
+
+E: ¡ajá!
+
+I: son títeres / que involucran mucha / muchas técnicas en un solo muñeco 
+
+E: <tiempo = “25:49” / > este / oye ¿fuiste al Forum a ver la marioneta gigante?
+
+I: la marioneta gigante la vi una vez en un / fui a un concierto de jazz / me tocó ver un pedazo del sketch 
+
+E: ¿y qué te pareció?
+
+I: a mí no / pos nunca me gustó / o sea / desde antes de <risas = “I”> / de que empezara el proyecto ya no me parecía / este / y ya viéndolo en acción tampoco me pareció / o sea nunca me ha gustado / se me hace como / como una copia muy mala de otro proyecto / de un proyecto francés / de / de / la / Pequeña Gigante / entonces como que / el copiarse un proyecto / el tratar de hacerlo igual y además hacerlo bastante mal / se me hace / como muy patético / eso no / no me gustó // y yo que / como es mi punto de partida el conocer el trabajo de / de los franceses lo que hicieron / obviamente en Francia y lo que hicieron en / en Chile también / hace como / dos años / que estuvieron en Chile montando ese espectáculo de la niña que caminaba por las calles y que andaba buscando un rinoceronte y todo eso / se me hizo / que comparar a ese muñeco con / con la niña no / no había punto de comparación / o sea / en proporciones podrían ser muy parecidos pero en técnica y en // manipulación y en // en / este / ni / incluso en concepto es mucho más fuerte el otro entonces éste no me llevó a ninguna parte // me dejó un sabor de boca bastante / desabrido 
+
+E: pero / digamos / si fueras un ignorante de estos temas // te hubiera gustado 
+
+I: pues sí <risas = “I”> / pues sí / la verdad es que sí o sea yo / yo sé que a la gente le ha sorprendido mucho / ver a una marioneta gigante / porque / digo no tienen la culpa nunca han visto / otro proyecto parecido // pero / pero yo que es mi profesión y que es mi oficio y que conozco / el proyecto // profesional / que tal vez hicieron / de forma muy profesional estos franceses / sí creo que hay un mar de / increíble de diferencia o sea / por eso no me gustó / porque se me hace un proyecto mal / mal copiado 
+
+E: mjm / como el Puente Atirantado
+
+I: como el Puente Atirantado / como los edificios / de los museos de / este / Historia de México / y esas cosas / o sea / todo se parece a algo // pero se parecen mucho no es que sólo se parezcan <risas = “I”>
+
+E: así es
+
+I: sí se parecen demasiado a algo más // y bueno eso es triste 
+
+E: le falta la creatividad
+
+I: le falta creatividad y personalidad a lo que estamos haciendo / es que yo creo que sí hay como / como mucha / sí hay carácter en Nuevo León / sí hay carácter por supuesto y y / y se ha visto con muchos artistas / plásticos o con muchos músicos / el rollo es que como que / como que los grandes grandes proyectos / se encarga a puro / pura gente tonta de ellos porque // los plagea y además los plagea bastante mal / eso es lo triste / pero si te vas o sea // se sabe que en Nuevo León hay bastante capacidad / y hay muy buenos artistas y hay gente que tiene mucha propuesta / el rollo es que / a ésos no los han dejado hacer nada / ése es el problema
+
+E: <tiempo = “29:06” / > así es / es / ¿conoces a / varios artistas / pintores / ahí en Marco?
+
+I: en Marco no tanto creo que com- / como mi // mi / o sea yo tengo poco trabajando en Marco / yo conozco muchos artistas pero no por / no por el museo porque / porque tengo amigos que se dedican a lo mismo ¿no? y que / y que hacen cosas / entonces sí / sí / conozco a varias / este / varios chavos así de / unos treinta y tres años treinta y dos / que / que m / que me han enseñado muchas cosas con respecto a / a las artes / y que además que creo que están haciendo trabajos así importantes // y que sí han / sí han / sido parte de mi formación como artista 
+
+E: no / ¿no has ido a ver / o / has visto la / exposición los Nuevos Leones?
+
+I: no la de los Nuevos Leones no / fui a ver la de / Centro de Imagen se llama / ¡ay! no sé cómo se llama la del Centro de Imagen / digo perdón del Centro de las Artes 
+
+E: ¡ah! / ¿sal? / ¿oro y sal? / o la de // no la otra // no no recuerdo 
+
+I: también es de artistas / plásticos de todo el país / desde instalación y / este 
+
+E: ¿dónde está el / el subibaja? 
+
+I: sí / ésa / y no recuerdo orita su nombre se me fue / pero / y se me hizo que tenía cosas así muy / interesantes 
+
+E: <tiempo = “30:35” / > así es / bueno pues para cerrar te voy a hacer un cuestionario / ¿sí? 
+
+I: sí
+
+E: ¿cuál es tu nombre completo?
+
+I: ______ ______ _____ 
+
+E: ¿qué edad tienes?
+
+I: veintiocho 
+
+E: soltero me dijiste que vivías en Ocampo / ¿qué?
+
+I: Ocampo ciento cuatro // en el centro de Santa Catarina 
+
+E: ¿qué teléfono tienes?
+
+I: ochenta y tres / ochenta y ocho / sesenta y cinco / cero cuatro
+
+E: ¿religión? // ¿ateo gracias a dios / católico / agnóstico?
+
+I: no
+
+E: o
+
+I: yo creo que no tengo / este es como que depende de la ocasión <risas = “I”> / sí / como que crees y no / soy como pose en eso de las / de las religiones no no tengo ninguna 
+
+E: pero ¿te / bautizaron / y primera comunión?
+
+I: sí / puedo entrar a una iglesia para // para una boda sin ningún problema // o sea no me da problema eso 
+
+E: ¡ajá!
+
+I: pero sí soy creyente creo <risas = “I”> / creo que soy creyente 
+
+E: ¿crees en un ser supremo?
+
+I: sí
+
+E: pero así // en la religión / estrictamente ¿no? 
+
+I: no / en la religión no
+
+E: has vivido en Monterrey / sí
+
+I: sí 
+
+E: en Santa Catarina // ¿has vivido en otros lugares? 
+
+I: no
+
+E: ¿de dónde / es tu padre?
+
+I: de Santa Catarina 
+
+E: ¿tu mamá?
+
+I: de Ciudad Victoria
+
+E: ¿tu abuelo paterno?
+
+I: Santa Catarina 
+
+E: ¿tu abuela materna?
+
+I: Santa Catarina 
+
+E: ¿tu abuelo materno?
+
+I: Tamaulipas
+
+E: ¿tu abuela materna?
+
+I: no / supongo que también de Tamaulipas 
+
+E: ¿alguna afición o pasatiempo que tengas?
+
+I: videojuegos / este / ¿que más? / no pues / lo demás creo que es más bien oficio / digo todo lo que te platiqué de títeres y de arte / pos es mi chamba 
+
+E: ¿vas al cine?
+
+I: poco 
+
+E: ¿a veces / una vez al mes?
+
+I: sí / tal vez 
+
+E: y qué / ¿qué prefieres ver // películas mexicanas / extranjeras o combinadas?
+
+I: no / yo veo de todo // sí combinadas
+
+E: ¿qué tipo de películas / acción / aventura / de guerra / policíaca?
+
+I: me gusta mucho el / me gusta mucho el cine de terror / bien hecho / y el mal hecho también <risas = “I”> / no / el terror me gusta mucho / se me hace muy divertido 
+
+E: ¿radio escuchas?
+
+I: no / nada
+
+E: <tiempo = “34:04” / > ¿televisión ves?
+
+I: pues sí poquita / pos digo me gustaría ver más de lo que puedo 
+
+E: ¿qué es / hasta una hora al día? 
+
+I: sí / aproximadamente 
+
+E: y ¿cuando ves televisión qué ves? / ¿noticias / o ?
+
+I: caricaturas / noticias // programas de entretenimiento 
+
+E: ¿reality shows talk shows este / concursos?
+
+I: sí / la verdad veo de todo
+
+E: lo que caiga 
+
+I: sí / es que como no estoy clavado con algo en especial // pero veo caricaturas / principalmente <risas = “I”> / caricaturas y noticias 
+
+E: ¿ves películas en la tele?
+
+I: sí / algunas veces / sí sí / digo sí / cuando tengo tiempo me gusta ver / películas también 
+
+E: ¿mexicanas y extranjeras / igual?
+
+I: sí / igual 
+
+E: este / ¿dobladas o con subtítulos?
+
+I: eh / pues yo las prefiero / es que // me gusta / me gustan así como / eh / dobladas 
+
+E: para no andar leyendo
+
+I: es que te dejan todo el campo visual // enterito 
+
+E: eso sí / ¿tienes videocasetera?
+
+I: ¿videocasetera? / orita no 
+
+E: ¿DVD?
+
+I: DVD pues sí 
+
+E: para videojuegos sí ¿verdad?
+
+I: sí / también 
+
+E: ¿es portátil o / para televisión?
+
+I: de los dos
+
+E: ¿Cable / Sky / Multivisión?
+
+I: no / el cable nada más 
+
+E: ¿cuántas teles hay en tu casa?
+
+I: teles hay / una / dos / tres / cuatro / como cinco
+
+E: ¿lees el periódico?
+
+I: sí 
+
+E: ¿qué periódico?
+
+I: El Norte
+
+E: ¿qué tanto lo lees / diario?
+
+I: no / como unas dos veces a la semana // los domingos es de ley 
+
+E: ¿lees todo el periódico / o alguna sección en especial?
+
+I: no / algunas 
+
+E: ¿como cuál? / ¿cultural o cuál?
+
+I: sí / la cultural / este la / pos la final donde vienen las noticias es la local ¿no? 
+
+E: sí 
+
+I: local
+
+E: ¿la nacional?
+
+I: sí también la nacional 
+
+E: ¿la deportiva?
+
+I: no / la deportiva no 
+
+E: ¿espectáculos?
+
+I: sí 
+
+E: ¿los monitos?
+
+I: también 
+
+E: ¿lees revistas?
+
+I: eh / sí 
+
+E: ¿de qué tipo de revistas?
+
+I: de las que haya en el baño <risas = “todos”> / este / no pues / de todas o sea me gustan mucho las revistas no sé como se les llame / a las de tipo Quo y Muy Interesante 
+
+E: de cuidado y salud y / científicas 
+
+I: sí 
+
+E: ¿de moda y belleza también?
+
+I: pues la de Men’s Healt / la leía mucho antes
+
+E: ¿comics?
+
+I: también 
+
+E: ¿novelas?
+
+I: no
+
+E: ¿el libro vaquero?
+
+I: no 
+
+E: ¿de espectáculos?
+
+I: pues sí // no las compro pero si están pos las leo 
+
+E: ¿cada cuánto las lees / una vez a la semana?
+
+I: sí 
+
+E: <tiempo = “37:52” / > ¿tienes internet / o usas internet?
+
+I: en eso ando / sí sí lo uso mucho 
+
+E: ¿en dónde lo usas / en tu casa / trabajo / la escuela?
+
+I: trabajo / este / sobre todo en el trabajo 
+
+E: ¿hay computadoras en tu casa?
+
+I: sí
+
+E: ¿cuántas hay?
+
+I: este / como unas / a ver / mi papá tiene una / pero no está en mi casa / está en el trabajo / luego traía otra / creo que nada más hay una / sí concretamente nada más hay una 
+
+E: ¿el internet para qué lo usas? / ¿enviar correos / buscar información / tareas?
+
+I: para checar los correos 
+
+E: ¿chatear?
+
+I: sí
+
+E: ¿hablar con voz o video?
+
+I: no / messenger / correo 
+
+E: ¿lo usas a diario?
+
+I: no
+
+E: ¿una vez por semana?
+
+I: el de / a ver cómo / otra vez la pregunta
+
+E: ¿cada cuanto usas el internet?
+
+I: ¡ah! no / a diario sí 
+
+E: ¿tienes teléfono fijo?
+
+I: sí
+
+E: ¿celular?
+
+I: sí
+
+E: ¿cuáles son los usos que le das al celular / sólo recibes llamadas / recibes y haces llamadas / recibes y haces muchas llamadas / envías / y recibes mensajes?
+
+I: sí pues / mensajes / eh / muchos / enviar y recibir llamadas pues obviamente también / o sea / yo creo que recibo más llamadas de las que / salen <risas = “I”>
+
+E: está carito el / Telcel ¿no?
+
+I: sí / ¿cuáles son las opciones? a ver 
+
+E: dice / sólo recibo llamadas / recibo y hago llamadas / recibo y hago muchas llamadas 
+
+I: no / recibo y hago llamadas / a nivel normal
+
+E: ¿fotos / videos / música de internet / no?
+
+I: no no / fotos a lo mejor pero 	
+
+E: <tiempo = “40:00” / >¿visitas museos?
+I: sí 
+
+E: ¿qué tanto?
+
+I: muy seguido
+
+E: ¿una vez a la semana / o más?
+
+I: sí
+
+E: ¿asistes a conciertos? / sí ¿verdad?
+
+I: sí 
+
+E: ¿una vez al mes? / ¿o dos veces al año?
+
+I: yo creo que unas dos tres veces al año / sí 
+
+E: ¿al teatro vas?
+
+I: sí / seguido 
+
+E: ¿una vez por semana?
+
+I: no / más / menos o sea / no tan seguido
+
+E: ¿una vez al mes?
+
+I: sí / más o menos 
+
+E: ¿viajas por placer?
+
+I: bueno / no / sí / sí viajo por placer 
+
+E: ¿una vez al año / dos veces al año?
+
+I: una vez al año 
+
+E: ¿qué estudios has realizado / hasta qué / grado has llegado?
+
+I: yo soy / soy profesional medio en artes / plásticas
+
+E: ¿profesional medio?
+
+I: mjm / o sea no es como licenciatura
+
+E: ¿ni como técnica? 
+
+I: pero / tampoco es como técnica / está ahí como / atrapado en medio del pues es profesional en / en Artes Plásticas 
+
+E: ¿en escuela pública o privada?
+
+I: pública 
+
+E: ¿hace cuánto terminaste / en qué año?
+
+I: hace / tres años
+
+E: o sea dos mil cuatro / ¿estudiaste aquí en Monterrey o en algún otro lugar?
+
+I: no / en Monterrey 
+
+E: ¿estás trabajando? / sí / ¿desde cuándo / cuándo empezaste a trabajar / en qué año?
+
+I: antes de entrar / a la / carrera ya había trabajando / como en / como en el noven / en el noventa y ocho empecé a dar clases // este / y / estaba estudiando al mismo tiempo cerámica / acababa de salir de la prepa y me / me dieron una beca para la Casa de la Cultura entonces // estudiaba cerámica pero al mismo tiempo daba clases 
+
+E: ¿ahí mismo dabas las clases?
+
+I: ¡ajá! / sí entonces fueron mis primeros / empleos 
+
+E: este / ¿qué actividades realizan en tu trabajo? / dan un servicio ¿no?
+
+I: sí
+
+E: dan talleres y esas cosas 
+
+I: mjm / actividades educativas 
+
+E: ¿y qué / puesto desempeñas? / tallerista o 
+
+I: no / tallerista es lo que / hice durante mucho tiempo orita estoy / estoy como / ¡ay! ¿cómo se puede decir? 
+
+E: ¿coordinador?
+
+I: coordino talleres por ejemplo // también de / claro este es un trabajo bastante / mixto sí 
+
+E: mjm / este // ¿desde cuándo eres así coordinador?
+
+I: no / tengo poco / como unos tres meses / generalmente había hecho trabajo más como maestro
+
+E: <tiempo = “43:39” / > okay / ¿me puedes decir cuál es tu ingreso / mensual / de acuerdo a la / tabla siguiente? / el salario mínimo son dos mil ochocientos mensuales / este tengo / entre dos y tres / cuatro y seis / cinco y diez / o más de diez veces el salario mínimo 
+
+I: déjame te digo
+
+E: ¿como cuatro salarios mínimos? / cuatro o cinco 
+
+I: sí más o menos 
+
+E: ¿recibes prestaciones en tu trabajo?
+
+I: sí 
+
+E: ¿despensa / servicio médico?
+
+I: servicio médico 
+
+E: ¿vacaciones?
+
+I: pos creo que sí <risas = “I”> / eso espero 
+
+E: ¿utilidades?
+
+I: este utilidades no
+
+E: ¿cursos de capacitación?
+
+I: sí 
+
+E: ¿algún otro?
+
+I: no / creo que esos son
+
+E: ¿cuántos focos hay en tu casa?
+
+I: focos hay en mi casa / uno dos tres / cuatro cinco seis siete ocho nueve / diez once doce trece catorce quince dieciséis / diecisiete / dieciocho / diecinueve / veinte / veintiuno / veintidós / veintitrés / veinticuatro / veinticinco / veintiséis / veintisiete / veintiocho / veintinueve / treinta / treinta y uno / treinta y dos / treinta y tres / treinta y cuatro / treinta y cinco
+
+E: este / ¿en tu casa quién vive?
+
+I: dos hermanos y yo / y mi papá y mi mamá
+
+E: ¿dos hermanos?
+
+I: sí o sea / mi hermana / mi hermano / yo / mi papá / y mi mamá
+
+E: este / ¿alguno de ellos habla algún / habla inglés / francés?
+
+I: ¿de los dos que viven en mi casa?
+
+E: y de tus papás también
+
+I: no / ninguno
+
+E: ¿tu papá hasta qué grado cursó?
+
+I: creo que / terminó la primaria
+
+E: ¿tu mamá?
+
+I: mi mamá sí hizo como una carrerita técnica
+
+E: ¿tu hermano?
+
+I: profesional 
+
+E: ¿tu hermana?
+
+I: profesional 
+
+E: eh / ¿tu papá trabaja?
+
+I: sí 
+
+E: ¿en dónde?
+
+I: es propietario de un negocio
+
+E: más o menos ¿cuánto gana / de acuerdo a la tabla?
+
+I: no / ni idea
+
+E: ¿tu mamá trabaja?
+
+I: no
+
+E: tu papá aporta / a tu casa ¿verdad? pero no / no sabes cuánto
+
+I: sí no / ni idea
+
+E: este / ¿tu hermano trabaja?
+
+I: sí 
+
+E: ¿en dónde?
+
+I: es este diseñador independiente 
+
+E: ¿cuánto gana más o menos? 
+
+I: como unos / yo creo quince varos al mes supongo / dieciséis
+
+E: o sea / entre cinco y diez veces el salario mínimo / ¿aporta a tu casa?
+
+I: sí
+
+E: ¿cómo cuánto? 
+
+I: no pues no / no sé qué tanto aporte / la verdad yo creo que sí ha de aportar algo / no sé qué tanto sea
+
+E: ¿tu hermana trabaja?
+
+I: parece que sí 
+
+E: ¿en dónde?
+
+I: también tiene un negocio independiente 
+
+E: ¿cómo cuánto gana más o menos?
+
+I: no poquito / este / unos / dos salarios mínimos / entre dos y tres 
+
+E: <tiempo = “47:51” / > mira ya para terminar / no sé si puedas / firmarme estas hojitas / llenarme y firmarme estas hojitas 
+
+I: a ver 
+
+E: eh / tu nombre / dónde vives / qué fecha estamos 
+
+I: mmm / sí / ¿a qué estamos hoy?
+
+E: once 
+
+I: de / ¿noviembre? 
+
+E: así es / bueno pues eso / ya sería todo / ¿algo más que te gustaría platicarme o agregar? 
+
+I: no / pos nada <risas = “I”>
+
+E: pues muchas gracias por todo
+
+I: ¡n’ombre! / gracias a ti
+
+ Fin de la entrevista
+

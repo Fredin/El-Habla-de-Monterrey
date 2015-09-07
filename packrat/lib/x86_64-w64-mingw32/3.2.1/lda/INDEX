@@ -1,0 +1,31 @@
+cora                    A subset of the Cora dataset of scientific
+                        documents.
+filter.words            Functions to manipulate text corpora in LDA
+                        format.
+lda-package             Collapsed Gibbs Samplers and Related Utility
+                        Functions for LDA-type Models
+lda.collapsed.gibbs.sampler
+                        Functions to Fit LDA-type models
+lexicalize              Generate LDA Documents from Raw Text
+links.as.edgelist       Convert a set of links keyed on source to a
+                        single list of edges.
+nubbi.collapsed.gibbs.sampler
+                        Collapsed Gibbs Sampling for the Networks
+                        Uncovered By Bayesian Inference (NUBBI) Model.
+poliblog                A collection of political blogs with ratings.
+predictive.distribution
+                        Compute predictive distributions for fitted
+                        LDA-type models.
+predictive.link.probability
+                        Use the RTM to predict whether a link exists
+                        between two documents.
+read.documents          Read LDA-formatted Document and Vocabulary
+                        Files
+rtm.collapsed.gibbs.sampler
+                        Collapsed Gibbs Sampling for the Relational
+                        Topic Model (RTM).
+sampson                 Sampson monk data
+slda.predict            Predict the response variable of documents
+                        using an sLDA model.
+top.topic.words         Get the Top Words and Documents in Each Topic
+word.counts             Compute Summary Statistics of a Corpus

@@ -1,0 +1,1333 @@
+﻿<Trans audio_filename=”MONR_H11_HMP005.MP3” xml:lang=”español”> 
+<Datos clave_texto=”MONR_H11_HMP005” tipo_texto=”entrevista_semidirigida”> 
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México”/>
+
+<Grabacion resp_grab=” Alejandro Castaño Villarreal” lugar = ”lugar de trabajo del informante” duración = “47´42´´” fecha_grab=”2008-05-22“ sistema=”MP3”/>
+<Transcripcion resp_trans=”Zeuxiz Melissa Crespo López” fecha_trans = ”2008-06-10” numero_palabras = ”1150”/> 
+<Revision num_rev=”1” resp_rev=”Raquel Rodríguez de Garza” fecha_rev=”2009-01-28”/>
+<Revision num_rev=”2” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-03-12”/> <Revision num_rev=”3” resp_rev=”Cynthia Martínez del Ángel” fecha_rev=”2011-03-13</
+<Revision num_rev=”4” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-06-17</Datos>
+
+<Hablantes>
+<Hablante id=”hab1” nombre=”Arturo Flores Campos” codigo_hab=”I” sexo= ”hombre” grupo_edad=”1” edad = ”27” nivel_edu=”1” estudios = "secundaria incompleta" profesion = "jardinero" origen = "Monterrey" papel = "informante"/>
+<Hablante id="hab2" nombre="Alejandro Castaño Villarreal" codigo_hab="E" sexo="hombre” grupo_edad="1" edad="27" nivel_edu="3" estudios="licenciatura (Letras Españolas)" profesion="profesor" origen="Monterrey" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" />
+</Hablantes> </Trans>
+
+E: eh / ahí está / ¿qué onda cómo estás?
+
+I: bien
+
+E: ¿qué qué te parece el calorcito que ha estado haciendo?
+
+I: pos / está bien fuerte el / calor orita aquí en Monterrey 
+
+E: ¡ah! / ¿qué es lo que te gusta más a ti / el frío o el calor?
+
+I: pos / el calor para ir para las albercas 
+
+E: y este / ¿y qué es lo que no / no te gusta tanto del frío? 
+
+I: ¿del frío?
+
+E: sí
+
+I: no me gusta tanto porque / pos no puedes ir a cotorrear 
+
+E: ah ¿cómo cotorrear así? / ¿cómo?
+
+I: sea / no puedo ir a cotorrear ahí con / la banda / andar para allá y para acá
+
+E: ¿cómo te cotorreas tú? 
+
+I: en la esquina / unas cheves
+
+E: ¡ah!
+
+I: y / y chido ¿verdad? 
+
+E: con / con / tus compas ahí del / del barrio / se juntan en una casa / en una esquina
+
+I: sí / en una esquina
+
+E: y se ponen a pistear <observación_complementaria = ” se refiere a tomando cerveza ” /> y a cotorrear
+
+I: ei 
+
+E: está bien / ¿y qué es lo que / ¿cómo celebras por ejemplo tu tu cumpleaños? / ¿qué haces en tu cumpleaños?
+
+I: no pos un / hago una / hago una fiesta un cotorreo / invito a toda la banda
+
+E: ¡ajá!
+
+I: y / y le damos hasta la madrugada 
+
+E: hasta amanecer
+
+I: hasta amanecer / ei
+
+E: ¿y qué es lo que e / ¿y sí / crees tú que tienes muchos amigos así que / que te cotorreas mucho con gente?
+
+I: eh / sí 
+
+E: ¿por qué?
+
+I: porque / no / porque me cotorreo chido <risas =”I”/> / ¿verdad?
+
+E: ¿te gusta mucho estar con tus amigos?
+
+I: sí 
+
+E: ¿qué es lo que más disfrutas de cuando estás con tus compas?
+
+I: no pos eh / an dar / andar ahí en la esquina y oyendo rolas / colombias <observación_complementaria =”tipo de música semejante al vallenato colombiano y que forma parte de un movimiento de la cultura popular que ha tomado auge en Monterrey, sobre todo en las clases bajas”/>
+
+E: ¿qué música te gusta?
+
+I: colombia 
+
+E: la colombiana 
+
+I: sí
+
+E: ¿qué es la música colombiana?
+
+I: ¿eh?
+
+E: ¿cómo es? / ¿qué es? / ¿cómo podrías definir tú la música colombiana?
+
+I: no / pos la música colombiana pos es / haz de cuenta que viene siendo una rola chida desde / con guacharaca acordión 
+
+E: ¿qué es la guacharaca?
+
+I: eh
+
+E: ¿cómo es?
+
+I: ¡ah! / la guacharaca es la que / le hace acá chu chuchuchu
+
+E: ¡ah! / ¿tú sabes tocar algún instrumento?
+
+I: no 
+
+E: ¿no? / ¿nada más te gusta escuchar / la música?
+
+I: sí 
+
+E: ¿y no tienes novia?
+
+I: no 
+
+E: por el momento no
+
+I: por el momento no 
+
+E: o sea que / que te cotorreas todo el rato con tus compas
+
+I: sí / saliendo del trabajo voy y me cotorreo con toda la 
+
+E: ¿en /en qué es lo que trabajas?
+
+I: eh / de / de / aquí en la Prepa Tec <observación_complementaria = ” se refiere al Tecnológico de Monterrey ” /> de / jardinero 
+
+E: jardinero / ¿cuáles son como tus / tus quehaceres / qué es lo que haces / en un día de / de trabajo? 
+
+I: llego / llego entro a las 6 de la mañana me cambio / lavo la / el pasillo de aquí principal donde entran de los alumnos / y / veo que no haiga basura en los / en los parquecillos / y si están muy grandes / le paso la máquina y corto / le / lo / los apodo 
+
+E: los
+
+I: el zacate 
+
+E: <tiempo =”3:15”/> el zacate ¿y cómo se hace ese pedo <observación_complementaria = ”se refiere a ese asunto o cosa ” />? / ¿cómo funciona el / el / para cortar el zacate / yo paso todas las mañanas y veo que están cortando el zacate y se ve bien chido bien fácil / pero no sé cómo se hace / ¿cómo se hace? 
+
+I: no / pos haz de cuenta que / agarras / agarras una máquina para cortar el zacate y / y le das de / le das de aquí para allá y de acá para acá <risas = "todos"/> / y / y ya de que te lo corte la máquina tú nomás estás / empujando la máquina y ya 
+
+E: ¡ajá! ¿y sabes cómo lo corta?
+
+I: sí ahí tiene / no la máquina ahí tiene / de qué tamaño lo quieres y en el uno en el dos o en el tres / ya 
+
+E: ¿del / del / de lo alto? 
+
+I: de lo alto / sí / ya / ya es la pura ciencia ya nomás / todo con máquina y // y ya 
+
+E: ¿cómo lo haces tú? / entonces llegas y pones la máquina y 
+
+I: sí / llego prendo la máquina y ya nomás le pongo del número dos / si le quiero / si lo quiero / más o menos en el dos ¿verdad? o / regular en el 3 / y así
+
+E: y ¿cómo es / cómo te lo piden aquí? / ¿bien cortito? / ¿o nomás así?
+
+I: no pos / cortito / para que se mire así como tipo alfombra / sí
+
+E: ¡ajá! ¿sí / sí / sí disfrutas lo / lo / lo que haces? / ¿te gusta tu trabajo o?
+
+I: sí / no sí pus / sobre el jale y / y la verdad se te va de volada el día 
+
+E: sí
+
+I: y / ya / no
+
+E: <tiempo = ”4:34”/> pero no / ¿no te molesta mucho / como trabajar al aire libre / o se te hace chido trabajar al aire libre? / o sea por ejemplo cuando hace un chingo de calo r / o que está lloviendo / o hace un chingo de frío / ¿cómo le haces? 
+
+I: no pus / está bien / cuando hace bastante frío / cuando hace bastante frío pos nomás me / me pongo cualquier
+
+E: chamarra
+
+I: sí / una chamarra y todo y a juntar los papeles / nomás / y ya
+
+E: ¿no los ponen a / a cortar el zacate cuando hace frío? 
+
+I: no
+
+E: ¿por qué no?
+
+I: porque / porque como está / depende / si hace frío y no está / chispeando / que está así pelusiando <observación_complementaria = ”se refiere a llovizna muy ligera ” /> / acá / no / no le das / pero si hace frío / y no está lloviendo ni nada sí sí le das 
+
+E: y / y cuando / o sea que hay / ¿hay actividades diferentes / cuando hace frío a / a cuando hace calor?
+
+I: mmm / ¿cómo qué? / ¿actividades de qué?
+
+E: o sea de trabajo así de que / cuando hace frío pues / te ponen a recoger / y cuando hace calo r 
+
+I: ¡ah! sí / cuando hace así que frío que acá / que e está pelusiando / pos a recoger los papeles / de los jardines / o andar ahí en la plaza barriendo / y ya / y cuando no hace frío ni nada pues a / a podar / a cortar el zacate / y tumbar las ramas que / las / se están cayendo 
+
+E: ¿y qué es lo que disfrutas más? / ¿cortar el zacate o / o / otras actividades?
+
+I: pos / lo que me gusta más / es / es andar acá / a veces andar regando
+
+E: cotorreando / eso de andar regando a mí me gusta un chingo 
+
+I: es andar regando el zacate y 
+
+E: y las flores
+
+I: y las flores y todo 
+
+E: ¿y no / no tienen que hacer nada con los animales?
+
+I: ¿con los patos? no 
+
+E: ¿ni con las / ¿cómo se llaman? / los pavorreales que hay?
+
+I: no ahí se encargan los vigilantes les dan de comer y todo
+
+E: ¡ah! ¿los vigilantes son los que se encargan de eso? 
+
+I: sí 
+
+E: tú nomás cortas y recoges
+
+I: sí / corto y recojo y todo y / y lavo los excrementos de los patos ¿verdad? 
+
+E: ¿en la / en la / en la / alberquilla esa que hay ahí?
+
+I: sí / en la alberquilla / y les lavo acá les lavo las / las albercas / de los patos 
+
+E: ¿y no / no te ponen / a recoger salones o a / hacer esas cosas? / ¿a limpiar salones o eso?
+
+I: sí también cuando / cuando / que está llove / cuando / que cuando que está lloviendo bien machín / sí vamos y le / sí vamos y le hacemos / le hacemos el paro a nuestros compañeros ¿verdad? / a pulir los pisos y limpiar ventanas / y todo 
+
+E: ¿y qué qué te gusta / trabajar más / cuando hay clases o cuando no hay gente? 
+
+I: pos a mí sí / ¡no pues sí! / igual ¿verdad? / igual / a mí me da igual / sí
+
+E: <tiempo =”7:23”/> que haya gente o que no haiga gente 
+
+I: que haya gente o no haya gente
+
+E: ¿y cuánto tienes trabajando aquí?
+
+I: aquí tengo desde / desde enero
+
+E: ¿desde enero de este año?
+
+I: de este año / dos mil ocho 
+
+E: órale y ¿cuántos años tienes?
+
+I: ¿yo?
+
+E: sí
+
+I: ¡uh! / pos veintisiete
+
+E: ¿y / y no has trabajado en alguna otra cosa antes o / siempre has trabajado de jardinero?
+
+I: sí de / de pintor
+
+E: ¿de pintor? 
+
+I: sí
+
+E: ¿de qué más?
+
+I: nomás / de / no nomás de pintor / pintando carros
+
+E: ¿pintando coches? 
+
+I: ss / pintando carros y y / y camiones
+
+E: ¡ah chinga! / ¿y cómo? 
+
+I: ¿eh?
+
+E: ¡ay güey! y cómo / ¿cómo pintas un / un carro?
+
+I: ¿un carro? / pos haz de cuenta le ves e / al carro / cuando que / cuando que / de que hay pintar un carro haz de cuenta lo checas le quitas / le sacas los golpes / le echas pasta / primero / primero le sacas los golpes y luedo li- / y luego lo lijas ¿verdad? / lo lijas con / con la cuatrocientos / y luego le echas
+
+E: ¿qué es la cuatrocientos?
+
+I: es una lija 
+
+E: ¡ah! ¿el grosor de la lija? 
+
+I: sí / de la lija / el grueso de la lija y luego ya / ya lo / le echas pasta / y le echas otra vez la / la pasta y luego lo fondeas / lo lijas con la cuatrocientos / y luego / lo pintas / lo limpias / y luego lo pintas / lo pintas / y luego / y luego lo lijas / y luego / ya le echas la pintura
+
+E: y ¿qué es lo que disfrutas más / la jardinería o la pintada de coches?
+
+I: no / pos aquí la / en el jardín / porque anda / eh / pintas y todo y sales / sales bien locote <observación_complementaria = ”se refiere a drogado ” /> por tanto thinner y <risas =”E”/> / y todo el rollo y 
+
+E: y eso está con madre <risas=”E”/>
+
+I: eh y <risas =”E”/> / no 
+
+E: y pero pues también cuando pintas ¿no? / te pones loco / ¿o no usas solventes?
+
+I: aquí / aquí no / aquí nomás / puro jardinería / de cortar y todo 
+
+E: ¡ah! okay tú dices cuando pintas por los solventes te pones bien loco 
+
+I: o sea sí cuando / cuando estás pintando suelta 
+
+E: un chingo de
+ 
+I: <ininteligible/> de pintura y huele bastante a thinner y 
+
+E: simón <observación_complementaria = ”afirmación ” />
+
+I: sí te pones acá bien locochón 
+
+E: bien loco <risas = ”E”/>
+
+I: sí <risas =”I”/>
+
+E: y ¿aquí no te puedes poner locochón? 
+
+I: ¡ah! no aquí no aquí / porque de volada te corren
+
+E: ¿te corren / si te tuercen <observación_complementaria = ” se refiere a ser descubierto ” /> metiedote 
+
+I: sí / te corren 
+
+E: metiéndote algo / poniéndote un toque <observación_complementaria = ”se refiere a drogarse ” /> ¡órale! / pero ¿los fines de semana sí le das bien ?
+
+I: <tiempo =”9:40”/> ¡ah! los fines de semana sí / ya los / los sábados que me voy sí 
+
+E: ah
+
+I: sí me pongo bien locochón <observación_complementaria = ”se refiere a drogado ” /> 
+
+E: ahí con tus compas / puro colombiano
+
+I: ahí con la banda / sí
+
+E: chido / y por ejemplo / ¿cómo celebras tú la la navidad y el año nuevo y eso? / ¿igual / en la esquina / con tus compas? 
+
+I: la navidad no pus / ahí la / cuando es la navidád nos acoplamos todos en un cantón 
+
+E: pero ¿quiénes son todos? / ¿tus compas o tu familia?
+
+I: sí sí / no / toda la banda / toda la banda y / y / y bueno toda la banda nos ll amamos los prendidos ¿verdad? 
+
+E: ¡ajá!
+
+I: toda la banda y / estamos loquiando y / pisteando <observación_complementaria = ” se refiere a tomando ” /> / y de todo / cotorreando y rucas y todo el rollo 
+
+E: y no no / / ¿no te quedas con tu familia?
+
+I: no 
+
+E: en esa onda de / navidad / digo de que / la posada y la piñata
+
+I: no
+
+E: ¿por qué no?
+
+I: no porque pos está muy chido / está más chido estar ahí con la banda y <risas = ”I”/>
+
+E: pero ¿sí hacen eso en tu casa / de que se juntan y hacen? 
+
+I: sí 
+
+E: ¿todo / rezan el rosario y esas cosas? 
+
+I: sí
+
+E: pero tú le sacas la vuelta a todo 
+
+I: no yo / yo saco la vuelta ahí a todo eso 
+
+E: ¿por qué?
+
+I: porque / no no me gusta no me gusta acá / no me gusta nada de eso de / que / rosario que levantar el niño y todo ese rollo no no me llama la atención a mí / ¿verdad? / por eso 
+
+E: y ¿en tu casa no te dicen nada? / que qué date / no te vayas y eres un vago
+
+I: no / no no 
+
+E: bien chido / cada quien su pedo
+
+I: sí cada quien / cada quien su rollo o sea <observación_complementaria = ” se refiere a asunto ” /> si / aquél l / le gusta aquello pus aquello y así 
+
+E: ¡ah! chido o sea no / no / no te la hacen de pedo en tu casa por que no estás con ellos en navidad
+
+I: ei / nada / no me dicen nada 
+
+E: les da igual
+
+I: les da igual 
+
+E: y / ¿y en año nuevo qué haces?
+
+I: lo mismo / igual / también 
+
+E: o sea igual con tus compas en un cantón 
+
+I: sí / sí ya / nomás ya lo / los / el día chido / pos nomás el día de las madres y ya / va el abrazo a la jefa y todo el rollo / sí / y ya la navidad o y todo no / a lión <observación_complementaria = ”se refiere a evasión ” /> 
+
+E: ¡ajá!
+
+I: y ya
+
+E: ¿sí es importante para ti de que estar con tu jefa ese día / más que navidad y ese pedo?
+
+I: sí / ese día sí la / el día de las madres sí porque / pos fue la que nos trajo al mundo ¿verdad? / y / ese día sí 
+
+E: ¿y estás ahí con ella y todo?
+
+I: sí / ese día sí 
+
+E: un regalito 
+
+I: ei / ese día e e sí / es más chido ese / es más chido que la navidad y año nuevo 
+
+E: ¿por qué? / ¿por qué se te hace más chido?
+
+I: <tiempo = ”12:00”/> porque pos / es el día de / de la jefa la que va / la chida la que te trajo al mundo / porque la navidad ¡ne ! yo nomás / como una fantasía ¡ay navidad! y / y nada
+
+E: de que el niño dios y </alargamiento>
+	
+I: sí / que el niño dios / y que regalos / y puro / puro acá / puro pedo 
+
+E: Mjm / y en año nuevo entonces te vas con tus compas pero / ¿no hacen nada especial / porque se va a acabar el año / se van a una parte a la Macro algo así o / o es / lo mismo loqueando pistiando y cotorreando?
+
+I: no pu s nomás / nomás ahí / loquiando y cotorriando y / ya nomás esperar que se acabe el año y ya / y otra vez igual / al jale y a lo mismo y a cotorriar 
+
+E: sí y en / y en / ¿en Semana Santa / tú haces algo en especial que te vas a una playa o?
+
+I: no / en semana / en semana santa todos nos acoplamos y nos vamos para allá que para / para el Raíces / para el / para allá o para el / para allá para el / Raíces es un río ¿verdad? 
+
+E: ¿es un río?
+
+I: sí
+
+E: ¿en dónde está?
+
+I: está para allá / para allá como pa / para el Barrial para allá para aquél lado / o si no vamos al / Huajuco a las albercas / están de aquél lado
+
+E: ¿cómo es ahí? 
+
+I: ¡n’ombre! es así / nomás / una entrada y es como alberca y así 
+
+E: ¿hay palapas?
+
+I: sí 
+
+E: ¿y te cobran por entrar?
+
+I: te cobran ¿qué? / veinte bolas <observación_complementaria = ”forma de referirse a pesos ” /> por persona <risas = ”I”/>
+
+E: con madre / entrar a la alberca
+
+I: sí / y vamos todos a las albercas 
+
+E: y en / en semana santa cuando tienes los días libres esos de vacaciones / que / ¿cuántos días tienes de vacaciones en semana santa?
+
+I: como / los días que son 
+
+E: jueves viernes
+
+I: sábado y domingo / bueno como si / si / si / si hay feria <observación_complementaria = ”se refiere a dinero ” /> / nos acoplamos todos / y sí vamos que para Tampico ¿verdad?
+
+E: ah / sí
+
+I: nos vamos toda la banda / contratamos un camión
+
+E: ¿si has ido a Tampico? / ¿cómo es? yo no lo conozco / nunca he ido
+
+I: pos no sé haz de cuenta que es así como si fuera un mar ¿verdad? la plaía esa / pero / vamos toda la banda / contratamos un camión / y ahí nos quedamos ahí en la playa y todo a dormir y loquiando y / pistiando y / todo el rollo 
+
+E: ¿cómo es la playa? 
+
+I: no pues / es como si fuera un mar un
+
+E: ¿no es mar entonces?
+
+I: bueno es un mar ¿no? <risas = ”E”/> / es un mar 
+
+E: simón
+
+I: sí sí / no es que hace poco / el año pasado fuimos para allá para Soto la Marina 
+
+E: ¡ah! y ahí no es mar ¿verdad?
+
+I: se me hizo más grande que ahí 
+
+E: <tiempo = ”14:20”/> ¿qué Tampico?
+
+I: que Tampico / se me hizo más machín la 
+
+E: ¿cómo era?
+
+I: la / pos sí / se miraba el pinche mar bien machín / y digo no sé / a lo mejor porque andábamos bien locos a la mejor por eso ¡ay güey! ¿verdad? 
+
+E: sí <risas = ”E”/>
+
+I: por eso <risas =”I”/> / sí 
+
+E: ¿y qué es lo que te gusta meterte?
+
+I: ¿eh?
+
+E: ¿qué es lo que te gusta meterte?
+
+I: no pus de todo el crack la soda 
+
+E: que la mota y todo eso
+
+I: no / la mota no me gusta
+
+E: ¡ah! nomás / las cosas que te prenden
+
+I: sí / y ya 
+
+E: ¿y lo haces siempre de que / con / con con tus compas o?
+
+I: no pues es / ese / pues todos los días
+
+E: ¿todos los días te vas / unas piedrillas con tus compas? 
+
+I: sí 
+
+E: y cuando te vas de vacaciones pos más ¿no?
+
+I: sí / pos / amaneces y luego al cantón y ya ¿verdad? puro 
+
+E: sí / y luego con ese pedo amaneces / sí 
+
+I: ahí / y toda la banda ahí 
+
+E: ¿y sí sí / te toca muy seguido que / amaneces hasta las tres cuatro de la tarde y andas bien 
+
+I: sí / sí pero fíjate / sí / pero no ando acá / rob- atracando gente ni nada
+
+E: robando
+
+I: no / pos mejor acá con / jalando / para tener tu vicio 
+
+E: a huevo <observación_complementaria = ”por supuesto ” qué bueno 
+
+I: sí / sí / nada de andar asaltando gente ni 
+
+E: es el pedo / cuando / está chido pero luego de que se prende un chingo la banda y quiere más y quiere más
+
+I: sí / que quiere más 
+
+E: sí / no / y puede estar piedreando / todo el fin de semana / de hecho yo conozco a un amigo que se murió de ese pedo 
+
+I: ¿sí? 
+
+E: le salió un tumor en el cerebro por tanto / porque de que estaba todo el día / con la piedra 
+
+I: a un camarada le salió una aquí ira 
+
+E: ¡ay güey!
+
+I: una acá / quién sabe / por tanto de esa madre le salió así como una bolota 
+
+E: una bola / ¿neta?
+
+I: sí / de tanto 
+
+E: ¿y le dijeron en el hospital que había sido por eso?
+
+I: al otro ése / se lo / se lo llevó su / nomás porque se lo llevó su jefa en ese rato / sino le hubieran dicho que se hubiera / hubiera fallecido 
+
+E: ¡ajá!
+
+I: sí un compa de allá de por el barrio 
+
+E: y ¿a ti nunca te ha pasado algo así un pasón bien fuerte o que digas tú / ya mero 
+
+I: no nomás
+
+E: no la contabas 
+
+I: no / nomás se me acelera / bien machín el corazón paaaa <observación_complementaria = ”onomatopeya de palpitaciones ” /> / y ya 
+
+E: pero no has estado una vez que digas güey ya / igual y ya / mejor ya no le sigo porque 
+
+I: <tiempo = ”16:30”/> no / no / no no porque no / a lo mejor porque / no me ha pasado 
+
+E: ni te 
+
+I: no / no pero como quiera como que ya lo voy a tirar a lion porque / en veces de repente / me ju / ya cuando acá / voy y me voy a dormir y de repente / me despierto güey / y siento la res / siento 
+
+E: todo dormido 
+
+I: siento/ de aquí para acá todo dormido las piernas o si no siento aquí la / la mitad sí todo dormido / y me levanto bien asustado ¡aja! ¿qué? / ¿qué onda? y no me puedo mover
+
+E: ¿no te puedes mover?
+
+I: hasta / ya / ya me acuesto y me calmo / me calmo como unos cinco o diez minutos / ahí como no queriendo le hago así y ya / y ya se / porque como que se me / duermen / por eso / pos por eso ya / casi 
+
+E: ¿te estás tranquilizando?
+
+I: sí ya me estoy acá tranqui
+
+E: ¿ya no todos los días nomás los fines? 
+
+I: no / ya nomás los fin / ya nomás los / viernes sábado y domingo ¿verdad? / pero / sí era de toda la semana
+
+E: antes todos los días 
+
+I: sí 
+
+E: sí es que es bien fácil / te digo este güey que yo conocía / se murió ahora en febrero / y el bato / eh / le daba / a la piedra siempre pero de que todos los días / nunca comía / no dormía nomás estaba así en chinga en chinga en chinga / y le salió un tumor en el cerebro y se lo operaron y / el bato quedó acá / no reconocía nadie de que llegabas ah qué pedo y el güey no se acordaba / y luego / de que pasó un tiempo / y le volvió a dar y valió verga 
+
+I: se murió
+
+E: y se murió / en febrero de un derrame cerebral / por eso te digo / pero sí / pos como dicen / las drogas destruyen / si le das un chingo 
+
+I: sí / destruyen / y te sacan bien gacho la lana 
+
+E: sí <risas =”E”/>
+
+I: de volada 
+
+E: sí pero / por eso hay que darle tranquilón 
+
+I: sí
+
+E: porque luego sí te carga el payaso como a muchos
+
+I: <tiempo = ”18:11”/> sí no pos la / la // la droga es la que / la droga es la que / la que se está vendiendo un chingo es el crack güey vale cien dólar 
+
+E: ahorita está de moda 
+
+I: vale cien bolas y nomás es una acá / es un 
+
+E: una piedrilla
+
+I: una piedrilla bien chiquilla 
+
+E: una piedrilla / sí
+
+I: y nomás para que te dure el efecto nomás unos / cinco minutos 
+
+E: sí / y y y ¿cuánto te has gastado tú / lo más que te has gastado en ese pedo?
+
+I: no pos / bueno antes el / está poniendo bien machín / ¿verdad? / me gastaba de perdido como / tres cincuenta cuatrocientos diarios 
+
+E: ¡ah la verga! 
+
+I: diarios ¿verdad? / y entre sema / e e / entre semana sí me / entre semana / lo que es / viernes y sábado me gastaba como mil doscientos 
+
+E: ¡ah la verga! / ¿de dónde sacabas toda esa feria? 
+
+I: pos toda esa feria la sacaba ahí de repente / le pedía a mi carnal ¡eh! préstame / un doscientos un trescientos / y luego de repente así al otro y al otro / y así
+
+E: pero te quedabas bien endeudado
+
+I: y sí / bien endeudado pero pos como quiera ponle que nunca les pagaba pero <risas = ”E”/> / pero como quiera acá / y ya / ya más a menos / ando / recapacitando ¿verdad? 
+
+E: sí porque / es feo quedar mal con un chingo de gente y 
+
+I: sí / ando recapacitando / y luego pos no / como quiera acá no / no llegas a nada güey porque 
+
+E: sí es pérdida de tiempo
+
+I: <tiempo = ”19:40”/> porque / ya van dos tres veces que yo me asusto / por lo que se me duerme / la / a veces de repente se me duerme la mitad del cuerpo / por esa madre / y veces sí me levanto bien asustado que no me puedo mover / y hasta / que ahora le estoy bajando ya leve / ya no como antes / que machín no/ ya leve
+
+E: pero también por el pedo de la feria ¿no? / de que es un chingo 
+
+I: sí también de la feria / sí / te deja / yo duré un tiempo que le hacía bien machín y / y / y 
+
+E: ¿adelgazaste?
+
+I: no que / duré bastante / yo duré bastante haciéndole a ese rollo
+
+E: ah okay 
+
+I: a / a a / a la piedra / y / me dejó descalzo / andaba ahí descalzo yo ahí en el barrio / andaba descalzo güe 
+
+E: porque lo empeñaste ese pedo
+
+I: ¡n’ombre! andaba descalzo / descalzo ahí / pidiendo un cinco / un diez / ¿qué onda compa? / que acá 
+
+E: para la piedra
+
+I: pa / para la piedra güey 
+
+E: cosa que no haces para /comprarte un vocho <observación_complementaria =”forma de llamar a los autos WV sedán”/> 
+
+I: <tiempo = ”20:30”/> ¡ándale! / ¡ándale! / o comprarte una ropa / o una botana / no / aferrado andaba consiguiendo ahí con todos de que ¡eh! un cinco un diez / para comprar esa madre / pero era cuando andaba bien metido / y ahora / ora pos no ora pus ya ya / ya casi ya no ¿verdad? / ahora / al revés / ora / ahora le pido a dios que / que pus / que calmado que / que como que ya no / que / porque él me / en veces sí le pido ¿verdad? / porque me está ayudando 
+
+E: ¿dios?
+
+I: sí / porque me está ayudando dios ¿verdad? / y ahora ya no me gasto lo mismo de antes / y ya no ando como antes / así / descalzo / o en chanclas güey / y / y no ora ya / ya / y no gasto mucha feria ni nada ya nomás / un / una baisilla <observación_complementaria = ”se refiere a una fumada”/> o dos y ya / ya / y y / ya no lo ando agarrando como vicio 
+
+E: sí porque luego te pones a pensar / imagínate / ¿cuánto te gastabas a la semana en ese pedo? / como unos dos mil pesos / fácil
+
+I: sí
+
+E: si los hubieras juntado / ya tuvieras coche / o tuvieras
+
+I: sí / andaría bien vestido y todo
+
+E: anduvieras viajando / qué sé yo / ¿verdad? 
+
+I: sí no pues sí / haz de cuenta / si antes sí andaba bien a la / así andaba bien a la línea / pero / antes no me gustaba ese rollo
+
+E: ¿de qué?
+
+I: de las drogas antes no me gustaba / nomás me gustaba la cheve <observación_complementaria = ”se refiere a cerveza”/> / pero ya de repente acá / ahí la traía un compa y / y le di una baisa <observación_complementaria = ”se refiere a una fumada”/>/ pero no / pero no no / me gustaba porque / cuando lo probaba gomitaba antes / y ya de repente no sé qué onda
+
+E: pero ¿era de qué? / ¿ piedra o 
+
+I: de piedra / piedra / y luego de repente así en baisita en baisita <observación_complementaria = ”se refiere de que de fumada en fumada”/> / pos yo que eso / y me / y me gustó / y empecé a comprar y a comprar 
+
+E: y ahora estás en un pedo de que mejor trabajas / y juntas feria para otros pedos
+
+I: <tiempo = ”22:29”/> sí / no / pos orita haz de cuenta / orita / me ando calmando porque / pues / ya traigo una morrita <observación_complementaria = ”se refiere a una novia ” /> ¿verdad? ya traigo una novia y / y pues 
+
+E: el amor te cambió 
+
+I: no no como quiera sí soy todavía así ¿verdad? / y esca / unas escapadillas y me pongo locochón / pero 
+
+E: ¿y ella no te deja?
+
+I: pero la morra me dice que acá que si / que si ando locochón o algo me va a cortar ¿verdad? / y / por eso / no quiero per / no quiero perder / por el vicio no quiero perder a la morrita ¿verdad? / a la morra
+
+E: te da cosa chidas 
+
+I: sí / pos sea me da ánimo chido ¿qué onda? que acá / me trata chido / y como pos para / y / y pos yo haz de cuenta / como me trata chido y todo / pos haz de cuenta que casi / no / ya / ya ando tirando a lión porque / por ella ¿verdad? 
+
+E: <tiempo =”22:23”/> y ¿te gustaría / algún día casarte y tener hijos / y una casa?
+
+I: eh / pos sí / ¿verdad?? sí / casarme y / y y / tener mi mi / tener mi / mi ruca <observación_complementaria = ”se refiere a esposa ” /> ¿verdad? / y un cantón <observación_complementaria = ”se refiere a una casa ” /> / y todo ese rollo 
+
+E: pero para eso necesitas / trabajar un chingo y juntar feria y no andar / metiéndote cosas ¿no? 
+
+I: ¡ándale! / sí / para eso haz de cuenta / necesito jalar / y juntar una feriecita y acoplarme tú y ella / y / sí / comprar haz de cuenta / un traspasillo en las colonias / en las / en la Fome cuarenta y cinco o en San Ángel / que andan dando terrenos / y po / haz de cuenta que / dar un / dar / como un traspaso ¿verdad? de que / das un veinte / un traspaso 
+
+E: ¿qué es?
+
+I: un traspaso de que hay diciendo de que / hay gente que tiene / que tiene terrenos de tejabanes / y no lo / y / y po ya no lo pueden pagar / que ya no lo pueden pagar y pos / te dicen ¡eh! pos te traspaso este terreno / dame lo que yo ha dado que / te valió cincuenta / pos / di / di veinte mil ¿verdad? / y pos dame los veinte que / que ha dado y tú lo vas pagando y ya / ese es un traspaso de terreno
+
+E: ¡ah! okay / o sea una gente estaba pagando feria y ya no lo puede pagar 
+
+I: sí
+
+E: y te traspasa el terreno y tú ya terminas de 
+
+I: sí / y tú lo terminas de pagar 
+
+E: y le das a él lo que él puso 
+
+I: sí / y pos para ver qué onda para ver / qué dirá dios ¿verdad? porque / como quiera ya / ya hablamos y
+
+E: <tiempo = ”25:55”/> y ya está chido
+
+I: y le dije que acá que / lo voy a tirar a lión aunque / ya le fallé ¿verdad? porque ya <risas = ”E”/> / ya me vio / sí / le fallé porque pos me vio que andaba bien locochón y / y ¿qué onda? 
+
+E: sí y 
+
+I: sí / no / fue a buscarme y / no / me perdonó / y luego / también / la semana pasada también igual / otra vez me vio que andaba bien loco y / ¿qué onda? y valió queso / y por eso te digo que le he fallado ¿verdad? 
+
+E: ¡ajá! / pero tu plan es chido mejor tirar a lión ese pedo y estar con tu morra 
+
+I: sí / sí no pues / por eso voy a tirar a lión esta semana
+
+E: ¡esta semana! <risas = ”E”/> 
+
+I: esta semana <risas =”todos”/> / no / por eso voy a tirar / voy a tratar de tirar a lión / todo eso para
+
+E: ¿y sí / sí crees que en un día sí puedas así de que ya tirar a lión el / no el cotorreo y tus compas porque / eso / como quiera ¿no? / pero las drogas
+
+I: no pos / ni creas porque no / no es fácil / no es fácil porque / no es fácil / porque pos una / te / te gustó ¿verdad? / te gusta y / y ahí estás / y n’ombre / poniéndole y todo pero porque te gusta / pero yo como quiera yo voy a tratar de que así como le entré / así voy a / ¿verdad? tengo que salir
+
+E: sí / sí a huevo <observación_complementaria = ”forzosamente “ />
+
+I: sí tengo qué salir / no / ya estuvo / digo pos haz de cuenta que como quiera
+
+E: mm
+
+I: como quiera acá con la morrita ésta ya / no / ora sí ya es / desde aquí tengo qué / qué amarrarme un huevo ¿verdad? para / para no ponerme güey
+
+E: y y y ¿te gustaría siempre seguir trabajando siempre así en jardinería o te gustaría / no sé estudiar algo o / trabajar en otra cosa? / ¿cómo te ves tú por ejemplo en diez años trabajando como para / darle algo a tus hijos? / porque imagínate tener hijos/ cuesta un chingo
+
+I: no / no / pus haz de cuenta que / yo aquí me metí a trabajar porque / por el seguro 
+
+E: ¡ajá! 
+
+I: y / casa Infonavit ¿verdad? 
+
+E: hay un chingo de prestaciones
+
+I: sí / pero como quiera yo sí tengo un oficio / un oficio ¿verdad? llego al cantón y / pinto dos tres defensas de / ecotaxi <observación_complementaria = ”nombre con el que también se les conoce a los taxis en la región”/>
+
+E: sí / simón 
+
+I: y todo ese rollo / o golpecillos
+
+E: ¡ajá! ¿no te gustaría algún día / tener tu negocio de eso?
+
+I: pos / no / es que / es que / es / es / pos pos aquí sí estoy bien / aquí sí estoy bien / y cuando no traigo lana o algo / pos me fleto un jalecito <observación_complementaria = ”trabajito”/> dos ahí en ahí en / ahí en la cuadra / y es / con lo que me aliviano también 
+
+E: y ¿cuáles son por ejemplo los beneficios que te dan al trabajar aquí? / el seguro ¿y qué otras cosas?
+
+I: el el seguro / te / te prestan / te prestan / que te prestan / ¿qué? / que te prestan / ya con la planta dicen que te prestan diez mil diez mil pesos / y / te dan bonos
+
+E: ¿es de tener planta aquí?
+
+I: sí / es de tener planta
+
+E: estás un tiempo de prueba 
+
+I: sí 
+
+E: y luego ya te 
+
+I: <tiempo = ”27:50”/> sí sí orita / orita / ahorita yo estoy ahí / orita yo estoy eh / ahí está // ahí está el chido va a güey empieza a tirar rollo güey ¿qué onda? 
+
+E: puedes decir que / estás ayudando a un maestro
+
+I: y / que acá / no <risas = ”todos”/> / ya me voy jalar / después cotorriamos como quiera chido </entre_risas/>
+
+E: no / chido / no te / pero 
+
+I: <risas =”I”/> / ¡eh! no es que / no pero es que 
+
+E: ¿te van a regañar o qué?
+
+I: sí / tira mucho rollo aquél bato / ¿qué onda güey? que acá / que andas cotorriando 
+
+E: pero necesitamos terminar este pedo
+
+I: ei ¿por qué? / ¿cuánto falta? 
+
+E: falta unos diez minutillos
+
+I: ¿ sí? / ¿cuándo lo podemos hacer? / ¿ahorita?
+
+E: ¡n’hombre! al ratillo / sí orita / deja le corto <interrupción_de_grabación/> ahí fue / bueno / ¿en qué estábamos? / en lo de tu morrita y que te vas a matrimoniar y eso <risas = ”E”/>
+
+I: sí / pu / la morrita pos / de que / voy a tirar a lión todo la cheve las drogas por la morrita 
+
+E: y ¿es por lo único por lo que lo tirarías a lión por no lo tirarías a lión por / mejorar económicamente o así / estar más chido tener / más cosas? / ¿o nomás por la morrita lo haces? 
+
+I: pos / a la verdad nomás por la morrita ¿verdad? porque / porque / no nomás por la morrita porque / tú tú mismo debes mejor de / mejor de / dejar eso tú solo ¿verdad?
+
+E: por ti
+
+I: sí / por ti / por ti no / no / no esperanzar de que ah por / por esa morrita acá / me quiere y no / voy a dejar eso no / mejor uno solo ¿verdad? uno mismo / uno solo
+
+E: sí / oye no / ¿nunca has tenido pedos con la ley / de que te hayan metido al / que te hayan metido al / te haya levantado una grana <observación_complementaria = “se refiere a las camionetas llamadas granaderas de la policía”/> o así / por la piedra? 
+
+I: no / no nunca 
+
+E: chido
+
+I: chido 
+
+E: ¿nunca has tenido pedos en en ese aspecto? 
+
+I: no / nunca 
+
+E: qué chido / o sea que no sabes lo que es caer así en una / en una delegación y que esté / todo miado y has tenido suerte 
+
+I: no / no pues no / / no sé ¿verdad? pero / no sé pero / las vez que han me / que sí / que me han llevado pos ha / han pagado de volada 
+
+E: ah pero ¿sí has estado ahí de que / ¿y por qué te han llevado? / ¿por caguamear <observación_complementaria = “tomar cerveza en envase tamaño familiar conocido coloquialmente como caguama”/> en la esquina y así? 
+
+I: sí / por pleitos / por / así 
+
+E: por andar de / de acá de 
+
+I: de / de pleitos / ahí que entre las bandas
+
+E: ¡ajá! / ¿tú estás en una banda? 
+
+I: bueno y y ando / somos de / la banda de los prendidos pero / como quiera nos acoplamos todavía
+
+E: ah
+
+I: y ya / ya todos todos se casaron y todo 
+
+E: sí 
+
+I: pero como quiera / nos seguimos acoplando 
+
+E: mjm
+
+I: y ya más calmados
+
+E: sí pos / como que ese pedo es más / cuando estás morro ¿no?
+
+I: sí
+
+E: andar en pandillas y rayando 
+
+I: Sí / eso ya es cuando ya tienes / tienes de / los dieciocho años a los / veinticinco ya es cuando ya empiezas a / acaba / agarrar / agarrar onda y todo el rollo
+
+E: <tiempo = ”31:06”/> mjm / ¿y de qué / cuándo te ha agarrado la policía? / ¿cómo crees que te tratan / bien / o son mamones o ?
+
+I: no pus te / pos te apañan <observación_complementaria = ”se refiere a que te agarran o te atrapan ” /> y te llevan para / te apañan y te llevan para allá para la otra colonia / por / porque / estás / si estás eh / como ahí / son colonias y / y si tú eres de otra colonia / pos estás entrado te / te panchean y te ponen <observación_complementaria = ”se refiere a que te golpean ” /> y / y / y pos lo que hace la ley de que / te apaña y te avienta para la otra colonia 
+
+E: ah okay / pero ¿no te bajan feria ni te hacen así algo / te quitan algo / algo que traigas? / celular una mamada así ¿no? 
+
+I: no pus sí cuan / sí / en veces / en veces sí / que robas o algo así / ahí nomás le das / le das una quina o / mil bolas a la ley y <observación_complementaria = “se refiera a darle mil pesos a la policía”/> / y y / y te baja
+
+E: ah ¿neta / o sea ¿puedes robar una casa o / una tienda o así / y le das una feria y te suelta?
+
+I: sí / y los compras / en ese rato los compras / es más hasta ellos mismos te dicen / ellos mismos te dicen que / ¿qué onda cuánto trais o qué? / bueno sobres dame tanto y cáile / y ya ellos te abajan 
+
+E: y ¿qué piensas de eso? / ¿se te hace chido o no?
+
+I: no pues a la / a la vez / a la vez está bien / a la vez está bien porque / porque // casi / pos casi / toda la mayoría de / los polecías y todo / casi / pues viene siendo casi toda la mayoría de raza / que viene siendo toda / todos los polecías casi vienen siendo de / de de 
+
+E: como que son de colonias / también los policías 
+
+I: sí / casi toda la mayoría son de / de colonias / conflictivas donde / donde ellos vivieron / y / porque / si es / si e / si es uno chavo / o / si si / si es unos morros del Contry o / de Brisas <observación_complementaria = “son dos colonias”/> así que se meta de cachuchón / no / no pos ni uno de esos te toca
+
+E: sí
+
+I: casi todos la mayoría de los policías / son / son / son gente que vive en colonias
+
+E: ¡ajá! / y entonces / ¿se te hace chido que / que acá que / que los puedas alivianar con una feria y / tú tampoco vas a la cárcel y / no pagas tanto dinero en multas y 
+
+I: ¡ah! no pos sí / se hace chido
+
+E: porque todos salen ganando
+
+I: todos salen ganando 
+
+E: o sea que tú no crees que la policía es mala o que / o que te roba / o o que te / son más rateros ellos que / o sea tienen más seguridad sin la policía o 
+
+I: pos haz de cuenta que / los policías no te roban 
+
+E: mjm
+
+I: los policías no te roban porque / todavía te ponen en un plan de que / a ver / te voy a hacer un paro compa / porque vas hasta la / si / si traes algo grueso / si traes 
+
+E: si traes paletas <observación_complementaria = ”se refiere a problemas o antecedentes” /> o
+
+I: si traes de repente acá / que traigas una nueve <observación_complementaria = “ una pistola calibre nueve milímetros ” /> o algo en tu bolsa / y que te apañe la ley pos te van a decir ¿sabes qué compa? / con esto vas hasta la federal / ¿sabe qué? mejor / consíguete una mil / mil quinientos y / de mil falla te / te bajamos 
+
+E: simón / y este / ¿en qué colonia vives?
+
+I: ¿yo? / vivo acá en la colonia Revolución
+
+E: y y ¿es conflictiva la la colonia?
+
+I: sí / más a menos / todo / más o menos es / más o menos 
+
+E: dos tres <observación_complementaria = ” forma de referirse a más o menos ” />
+
+I: dos tres 
+
+E: y ¿cómo la ves de que / cuando estabas morrillo a cómo la ves ahora? / ¿crees que la inseguridad en la ciudad ha crecido? / o 
+
+I: no pus ahí hay / hay más bandas / hay más bandas / como / que antes ¿verdad? 
+
+E: ¡ajá! / ¿más pandillas?
+
+I: sí / hay más pandillas y todo ese rollo 
+
+E: y antes estaba más / más tranquilo 
+
+I: y antes / antes estaba más calmado y / dos tres bandillas y ya / y ahora ya no ora sí hay / un chorral <observación_complementaria = ”se refiere a mucha cantidad ” /> de bandas 
+
+E: mjm / y ¿crees que eso es malo / que se anden peleando y / rayando y / o da igual?
+
+I: no / pues es que / no es malo / pos no es malo pos haz de cuenta que pos / así / yo digo que así es el destino ¿verdad? / así / es de que / así naces y tu bandita y todo y / y pues / ahí s / ahí se van acomplando
+
+E: simón / ¿y como quiera está chido / cuando te defienden o así / te hacen paros? / ¿o no?
+
+I: pos sí está chido porque / ya si te ponen o algo ya tienes tú tu banda y / van sobre de ellos y todo
+
+E: sí / o sea te defienden / con el pedo de que / de que te empinen <observación_complementaria = “ se refiere a que le pase algo malo por culpa de alguien”/> o que te pelees / es chido estar una banda por que te hacen el paro? 
+
+I: sí
+
+E: está bien / oye mira 
+
+I: y luego ¿qué onda? / ¿ya es todo?
+
+E: así nomás que ahora vamos a hacer el / el cuestionario este 
+
+I: a ver / pos dámelo para ver qué onda
+
+E: espérame / es que tengo que grabar también esto del cuestionario / te voy a hacer unas preguntillas / ya para terminar / hoy es ¿veinte y qué? / veintidós de mayo / cero ocho / ¿cuál es tu nombre?
+
+I: eh / ______ ______ ______ 
+
+E: ______ ______ ______  / ¿tu edad?
+
+I: edad veintiséis / veintisiete años <risas = “E”/>
+
+E: ¿estado civil? soltero verdad 
+
+I: soltero 
+
+E: ¿tu dirección?
+
+I: y / ¿cómo dirección? / ¿colonia?
+
+E: eh / la calle el número y ese pedo / la ciudad de Monterrey ¿no?
+
+I: <tiempo = “36:54”/> Monterrey 
+
+E: pero te digo que no te van a buscar ni te van a talonear ni te van a hacer nada / es de la universidad
+
+I: pero / eh / pero / y luego ¿qué? va a salir en la tele que mira / ______ ______ y 
+
+E: no no 
+
+I: ¿en el radio?
+
+E: no nada de eso / nada de eso 
+
+I: no / ______ / dirección 
+
+E: sí
+
+I: Revolución Proletaria
+
+E: Revolución Proletaria / ¿la colonia cuál es?
+
+I: ah< /énfasis> no Colonia Revolución Proletaria / y Colonia Sierra de la Marta 
+
+E: ¿y la calle es qué?
+
+I: la calle es Sierra de la Marta 
+
+E: ¿de la Mar?
+
+I: de la Marta
+
+E: ¿de la Marta? / ¿así como persona? / nombre
+
+I: sí 
+
+E: tu teléfono / ¿tienes algún teléfono en tu casa?
+
+I: no / ni celular
+
+E: religión / ¿cuál es tu religión?
+
+I: mm / pos ando yendo / más o menos a la cristiana
+
+E: cristiana / ¿de dónde eres originario?
+
+I: de Monterrey Nuevo León
+
+E: cuál era / no / bueno esto no / ¿de dónde es tu papá?
+
+I: de aquí de Monterrey 
+
+E: de Monterrey ¿tu mamá?
+
+I: también
+
+E: tus abuelos / ¿todos son de aquí?
+
+I: sí
+
+E: ¿todo mundo de Monterrey / bueno a ver / ¿tienes alguna afición o pasatiempo?
+
+I: ¿cómo?
+
+E: o sea que si practicas / algún deporte o te gusta jugar a algo?
+
+I: no / ya no 
+
+E: no / ¿vas al cine?
+
+I: no 
+
+E: ¿el radio / lo escuchas?
+
+I: el radio / sí / puro colombia
+
+E: eh / ¿cuánto cuánto tiempo escuchas el radio al día? / ¿mucho / más de dos horas o poco?
+
+I: pos 
+
+E: ¿más de dos horas o menos?
+
+I: ponle unas 2 horas
+
+E: unas dos ho ¿qué tipo de / estación / prefieres escuchar? / pura colombiana ¿no?
+
+I: pura colombiana
+
+E: ¿tienes alguna / estación de radio preferida?
+
+I: ¿eh?
+
+E: ¿tu estación de radio preferida?
+
+I: la / la guacharaca / ponle ahí
+
+E: la guacharaca pero ¿no sabes cuál es?
+
+I: ¿qué estación es?
+
+E: sí 
+
+I: guacharaca / no no sé
+
+E: ¿es de la AM?
+
+I: sí / de la AM
+
+E: ¿qué tipo de programa te gusta escuchar en el radio / de música / o también noticieros o de futbol?
+
+I: pos / las noticias porque / pa andar también al tanto
+
+E: mjm / ¿ves la tele?
+
+I: no
+
+E: ¿ves películas en la tele? / ¿no ves la tele para nada? / bueno /¿en tu casa tienes videograbadora?
+
+I: ¿grabadora?
+
+E: videograbadora / así de VHS?/ para ver películas 
+
+I: sí sí hay / pero no no / no veo nada
+
+E: pero sí hay / ¿el DVD?
+
+I: sí
+
+E: eh / ¿alguna consola para videojuegos? / así de que / Xbox o algo
+
+I: sí
+
+E: ¿tienes eh algún sistema de cable en tu casa?
+
+I: no 
+
+E: ¿cuántas televisiones hay en tu casa?
+
+I: mm cuatro
+
+E: ¿lees el periódico?
+
+I: sí
+
+E: qué ¿qué periódico lees?
+
+I: E l Sol
+
+E: Sol / ¿qué tanto lees el periódico / todos los días / frecuentemente o / a veces?
+
+I: pos / frecuentemente / así / vez en 
+
+E: cuando puedes / ¿qué sección del periódico te gusta?
+
+I: la / pus las / los levantones y cosas de ésas
+
+E: la local / ¿lees revistas? 
+
+I: no 
+
+E: ¿usas el internet?
+
+I: no 
+
+E: me dices que no tienes teléfono fijo ni celular ni nada
+
+I: no 
+
+E: ¿vas a los museos? 
+
+I: no
+
+E: ¿a conciertos / a tocadas o así?
+
+I: no 
+
+E: ¿al teatro / vas al teatro?
+
+I: no
+
+E: ¿sueles viajar por placer? / así de que te vas de cotorreo / a otra parte seguido
+
+I: seguido no
+
+E: pero sí lo haces / ¿como una vez al año? / okay / ¿hasta qué grado de educación tienes? / hasta la secundaria ¿verdad?
+
+I: secundaria 
+
+E: ¿fue en la SEP/ o en una escuela privada?
+
+I: una de gobierno 
+
+E: de gobierno ¿te sabes en la fecha en que terminaste? 
+
+I: en el / no / en el / mil novecientos ochenta y cinco
+
+E: en el noventa y cinco 
+
+I: sí en el noventa y cinco 
+
+E: lugar en que estudió pues bueno / estás trabajando actualmente / ¿desde cuándo trabajas aquí? / me dijiste que hace como / de este año ¿no? 
+
+I: sí
+
+E: ¿en dónde? / en la prepa Tec / eres empleado / ¿cuál de las siguientes actividades? / pos das un servicio ¿no?
+
+I: hey ¿y y no me afecta eso con la prepa? 
+
+E: no / no no / no tiene nada que ver 
+
+I: el jale 
+
+E: ¿qué puesto desempeñas? / pues jardinero 
+
+I: jardinero 
+
+E: ¿desde hace cuándo? / desde el dos mil ocho / mira con respecto / a lo que ganas mensualmente / ¿en qué rango / de estos puedes ubicar tu / lo que ganas? / menos del mínimo que son dos mil ochoscientos al mes? 
+
+I: o sea ¿cuánto gano?
+
+E: ¡ajá!
+
+I: novecientos pesos
+
+E: ¿a la semana?
+
+I: a la semana 
+
+E: o sea que por cuatro son / nueve por cuatro ¡ay güey! / son treinta y seis 
+
+I: nueve por cuatro 
+
+E: o sea entre dos y tres veces el salario mínimo / ¿qué prestaciones recibes en tú trabajo / despensa?
+
+I: no nada / porque como soy eventual 
+
+E: ah eres eventual / sí / ¿cuántos focos hay en tu casa? 
+
+I: uno dos tres cuatro cinco / once 
+
+E: ¿quiénes viven en la casa en dónde tú vives? 
+
+I: eh
+
+E: ¿tus papás y hermanos?
+
+I: uno dos / diez 
+
+E: diez personas / ¿y son hermanos y papás? 
+
+I: son hermanos y primos / sobrinos
+
+E: ¿neta?
+
+I: ei
+
+E: órale / bueno / viven diez personas / ¿quiénes? / tu papá tu mamá
+
+I: eh / hermanos hermanas primos y
+
+E: eh ¿cuántos hermanos? 
+
+I: como unos / tres
+
+E: tres hermanos / ¿y primos?
+
+I: como unos unos / uno dos tres cuatro / cinco
+
+E: ¿y por qué viven ahí en tu casa / tus primos?
+
+I: porque / de repente se vinieron para acá para el / cantón 
+
+E: y ¿todos ellos cooperan con los gastos de la casa / todos trabajan?
+
+I: eh / todos trabajan
+
+E: ¿y todos cooperan para la casa o cada quién es para ellos?
+
+I: no / pos nomás la carnala / es la que paga
+
+E: <tiempo = “44:07”/> mjm okay ¿y tu papá en qué trabaja?
+		
+I: no pos él era / ira como 
+
+E: ¿es jubilado?
+
+I: ya / ya finados el jefe y la jefa 
+
+E: ah / se murió / ¿tus papás ya están muertos?
+
+I: ya están finados finados
+
+E: ah okay / lo siento mucho / entonces ellos ya no viven en tu casa / entonces nada más viven tus hermanos y tus primos 
+
+I: ei
+
+E: ¿y tu hermana / es la que trabaja? 
+
+I: ei
+
+E: ¿y ella hasta qué / grado estudió?
+
+I: secundaria 
+
+E: ¿ en dónde trabaja? / ¿sabes?
+
+I: en / Sigma alimentos
+
+E: Sigma alimentos ¿y sabes más o menos cuál es su salario mensual? / más o menos
+
+I: no
+
+E: y ¿sabes qué puesto / desempeña ella ahí / tampoco / bueno pues ya / bueno ahora vamos a llenar esto / te lo voy a leer porque la tienes que firmar / yo / y vamos a poner tu nombre / ¿cómo te llamas? 
+
+I: ______ ______ ______ 
+
+E: ______ / ______ / ______ / 
+
+I: es otra
+
+E: no / es la misma / mexicano mayor de edad / bueno aquí es soltero 
+
+I: soltero 
+
+E: dedicado a jardinero / con domicilio en bueno / ahorita lo copio municipio Monterrey / me permito manifestar de forma expresa que estoy de acuerdo en ser entrevistado por parte del equipo de trabajo de la Facultad de Filosofía y Letras de la Universidad Autónoma de Nuevo León / y que mi opinión y comentarios vertidos en la investigación que realiza esta institución educativa denominada El Habla de Monterrey Segunda Etapa pueden ser utilizada libremente ya que la Universidad Autónoma de Nuevo León es una institución educativa / que no persigue fines de lucro y que está dedicada por entero a la investigación y a la educación / siempre con el ánimo de ayudar a la comunidad por lo tanto expresamente renuncio a cualquier beneficio personal que pueda representar entra</sic esta entrevista / y no tengo inconveniente alguno en ser entrevistado / es decir no es que lo vayan a pasar en la tele o en el radio y que vayan a decir tu nombre / sino que / cosas que / sino cómo las dices / las pueden usar en una investigación pero no no usando tu nombre / sino nomás diciendo bueno / los hombres de esta edad piensan más o menos esto y así o sea no específicamente las personas sino nada más en general / porque se van a entrevistar a varias personas como tú / pos más o menos qué es lo que piensan ellos de la ciudad / cómo está el pedo y así / entonces nada más es para / por si ya llega a publicarse en un libro si estás de acuerdo y que todo lo que se dijo aquí tú lo dijiste yo no lo inventé / pues realmente / yo no te conozco y todo ese pedo ¿no? / nomás como para legitimar esto / entonces te pido si la firmas 
+
+I: ¿le firmo? 
+
+E: sí / si no tienes firma pos tu nombre o como sea nomás algo que / y van a ser dos hojillas / que dicen exactamente lo mismo / yo las lleno ahorita no hay pedo / ésta y ésta / es igual / dicen lo mismo / bueno pues para terminar / ¿algo que quieras agregar / una experiencia / chido que te haya pasado? 
+
+I: no / pues nada güey / nada / todo bien
+
+E: Todo bien / bueno muchas gracias
+
+   Fin de la entrevista
+

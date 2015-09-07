@@ -1,0 +1,1081 @@
+﻿<Transaudio_filename = “MONR_H33_HMP100.MP3” xml:lang = “español”>
+<Datos clave_texto = “MONR_H33_HMP100” tipo_texto = “entrevista_semidirigida”>
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” pais = “México”/>
+
+<Grabacion resp_grab = “Gibrán Domínguez López” lugar = “oficina del informante” duracion = “01:01’35´´” fecha_grab = “2007-11-28“ sistema = “MP3”/>
+<Transcripción resp_trans = “Leonor Tienda Díaz” fecha_trans = “2008-03-31”
+numero_palabras = “8084”/>
+<Revision num_rev = “1” resp_rev = “Raqu el Rodríguez de Garza” fecha_rev = “2008-06-03”/>
+<Revisionnum_rev = “2”>res_rev = “Blanca Alicia Rojas Leija” fecha_rev = “2010-07-12”
+<Revision num_rev = “3” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-09-13”/>
+<Revision num_rev = “4” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-11-29”/>
+<Revision num_rev=”5” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2012-01-17/></Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “Adolfo Gerardo Rodríguez López” codigo_hab = “I” sexo = “hombre” grupo_edad = “3” edad = “58” nivel_edu = “3” estudios = “Maestría en Economía" profesion = “Catedrático Facultad de Comercio y Administración" origen = “Monterrey" papel = “informante"/>
+<Hablante id = “hab2" nombre = “GibránDomínguez López" codigo_hab = “E" sexo = “hombre" grupo_edad = “1" edad = “20" nivel_edu = “2" estudios = “Estudiante de Licenciatura en Ciencias Políticas” profesion = “Estudiante" origen = “Tuxtla Gutiérrez, Chiapas" papel = “entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" />
+</Hablantes></Trans>
+
+
+E: okay / le / le damos ahora sí / le damos pause 
+
+I: ¿son todas esas preguntas?
+
+E: sí 
+
+I: bueno
+
+E: no como le decía es / del / pues / sobre una investigación sobre El Habla de Monterrey 
+
+I: mjm
+
+E: se trata / más que de una entrevista 
+
+I: mjm
+
+E: que sea / una conversación 
+
+I: sí
+
+E: y pues / este / a partir de estas conversaciones / entonces se / pueden / realizar / los estudios 
+
+I: sí
+
+E: correspondientes ¿no? los análisis correspondientes / pero eso ya / ya sería en otra etapa esta es la etapa / digamos a nivel 
+
+I: sí
+
+E: dentista / de la investigación
+
+I: sí / primaria
+
+E: mjm / entonces / antes que nada pues / agradecerle por / por su tiempo
+
+I: mjm
+
+E: que nos
+
+I: mjm
+
+E: que me haya permitido 
+
+I: sí
+
+E: este 
+
+I: este / con todo gusto 
+
+E: bueno / empezamos / así antes de / de entrar en nuestro tema
+
+I: mjm
+
+E: ¿cómo / cómo ha visto orita el / el cambio de tiempo? / de / este frío que / a veces está más intenso / a veces / ya sale / el solecito / pero que no deja de estar frío / ¿cómo lo ve?
+
+I: em / no lo entiendo <risa = “E”/> / em / a pesar de que / ser de / Monterrey // este / creo que está cambiando el / el clima / e / no nada más en Monterrey / sino / yo creo en todo el mundo pero / este / siempre es / era difícil el clima / el explicarlo y acept- y / aceptarlo / pues creo que vienen tiempos más difíciles 
+
+E: este / bueno pues si / uno que no es de aquí / este llega / y sí le pega bastante 
+
+I: fuerte 
+
+E: <tiempo = “02:19”/> fuerte / más que nada porque no / no se espera nada de repente está el sol así 
+
+I: bueno / sí / con / treinta y tantos grados 
+
+E: y en 
+
+I: en la noche está a cinco grados / ¿sí ha vivido esos tipo de días?
+
+E: sí / porque / te tocan todos los climas en un / en un día ¿no? 
+
+I: eso 
+
+E: en la mañana amanece con frío luego sigue a mediodía este / no sé un solecito / en la tarde llueve / y en la noche otra vez el frío <risa = “todos”/> 
+
+I: sí
+
+E: sí sí me ha tocado / este pero le iba a preguntar / m // usted que es de aquí de Monterrey / este / ¿dónde vive?
+
+I: en Guadalupe / o sea / en la parte oriental de / de la / zona metropolitana / este / yo decidí hace tres años / e / e / no vivir cerca de La Universidad / vivía muy cerca de La Universidad / en San Nicolás / este / y me fui / cerca de los cerros cerca de la vegetación / este / y cruzando el río Santa Catarina / porque creo que allá está / más fresco / este // el ruido y la contaminación no me gustan de / de / Monterrey 
+
+E: mjm
+
+I: y / yo estaba en la zona industrial / este // a la gente / que / empezamos / madura y / grande / a los viejos este / nos fastidia el ruido 
+
+E: mjm
+
+I: y el smog también / nos hace daño
+
+E: este por ejemplo / ahí en donde / ahí en Guadalupe en donde vive 
+
+I: okay 
+
+E: este / ¿cómo es? o sea / la colonia / 
+
+I: okay 
+
+E: ¿cómo la describiría por ejemplo?
+
+I: okay / para mí es una / colonia normal / de clase media / este 
+
+E: mjm
+
+I: lo novedoso para mí es de que está / circundada / eh / por una / malla 
+
+E: ah ¿sí?
+
+I: toda la colonia / entonces / este / mis hijos / protestan 
+
+E: sí
+
+I: porque / este / dicen que vivimos / este / con los / con los este / con la high society de / Guadalupe <risa = “E”/> / o con los / eh fresas de / de / de Guadalupe / entonces // que // pos que para qué sirve la / el / la / que toda la colonia esté / circulada y / con la valla ¿verdad? y que / existan dos entradas / este // para mí
+
+E: mjm
+
+I: para mí / e / hay seguridad
+
+E: mjm
+
+I: este / hay menos ruido / porque / no hay / tanto paso de automóviles / y / afortunadamente / la mitad de la cuadra // la mitad de la manzana / este / los vecinos más inmediatos / las personas inmediatas / son de gente de mi edad 
+
+E: mjm
+
+I: e / la otra mitad de la / de la cuadra / este / son muchos niños 
+
+E: ah sí
+
+I: y / son matrimonios nuevos / o son matrimonios que rentan las casas / más que / hu- / hubieran comprado ahí en ésa
+
+E: ah
+
+I: en esa área ¿verdad? / en esa cuadra / o en la colonia / este / pero // pues / yo / sé de respeto ¿verdad? ahí / son vecinos
+
+E: así termina por / hacer esta 
+
+I: así es 
+
+E: mezcla digamos
+
+I: sí 
+
+E: que enriquece / ahí a la colonia <risa = “E”/> 
+
+I: sí <risa = “I”> 
+
+E: <tiempo = “06:44”/> este / pero / bueno / ahí es / pero alrededor de la colonia ¿cómo es?
+
+I: bueno alrededor de la colonia
+
+E: ¿qué le parece? 
+
+I: este / m / hay un centro comercial muy grande / es una ventaja porque / hay muchas tiendas
+
+E: mjm
+
+I: em / puede uno comprar / muchas cosas / sin este / tener que ir al centro de la ciudad
+
+E: sí
+
+I: este / otra ventaja / que // que tengo en la actualidad es que / es la última de las / estaciones / del Transmetro
+
+E: mjm
+
+I: en la avenida México y este // y Pablo Livas / entonces / me ahorra mucho tiempo / en venir al trabajo acá a la universidad / porque es m / ya es // kafkiano <risa = “E”/> / venir hasta acá / en una / en su propio coche // m / con cada cafre / al volante
+
+E: público o privado 
+
+I: pu-  / sí / de todo tipo / no nada más los este / los transportistas / o choferes / de camiones de rutas urbanas / son este cafres / hay yo creo que más cafres / en mi opinión / en el sector privado <risa = “todos”/> 
+
+E: bueno / m / usted me cuenta que / pues que es maestro aquí en la facultad ¿no?
+
+I: en la Facultad de Comercio y Administración 
+
+E: ¿es pública? 
+
+I: pública 
+
+E: y / y por ejemplo / a la hora de / de preparar una clase / este ¿cómo le hace para preparar / desde el momento de / de ver el / el texto / hasta / a la hora de llevarla / al aula de clases? ¿cuál es digamos este proceso?
+
+I: <tiempo = “09:00”/> bueno este / para mí ya cada vez es más fácil el proceso / puesto que tengo / de dedicarme a la docencia solamente / más de / veinticinco años / so- en / muy // al año de haber terminado / mi carrera / como licenciado en economía / e / comencé a dar clases en la Universidad Regiomontana / en / dos materias / pero / eso era en las noches / y en las / mi trabajo fuerte era / como analista de estudios económicos / o analista de / sistemas / m / yo tuve una formación / sobre la marcha so- / como analista de sistemas / m / por / razones de trabajo / entonces este / yo / seguía sin alejarme mucho a la pregunta / siempre / todos los días / busco novedades sobre las materias que estoy impartiendo en el semestre 
+
+E: mjm
+
+I: m / a través de los periódicos / a través de conversaciones con colegas / etcétera / me / creo estar actualizado / en / las novedades / de las materias que imparto / lo más que se puede / entonces / de ahí / voy tomando notas / de / libros nuevos / sobre la materia / e n / de las materias que imparta // que / en la Facultad de Comercio son nada más tres materias / las de economía / entonces / pues en realidad son materias / de economía básica / este / las tres / ya que no es una carrera de economía / el / después / paso / e / veo los libros esos / o / selecciono algunos que pueda conseguir / ya sea en la biblioteca o los compro / este / y veo / e / qué puedo / incluir de esos libros nuevos / que lea o que compre / en las materias que dé / en el semestre / lo demás es una rutina / este / ya sea que / utilice un pizarrón / de / para explicar mi clase / o simplemente lleve / discos / o material / el / de apoyo electrónico / para dar la clase / o exponer la clase 
+
+E: mjm
+
+I: <tiempo = “12:18”/> aunque / a mí me gusta / que los alumnos también participen / porque como / en este caso / en esta facultad no es una materia básica si no es una materia complementaria o auxiliar / pues / quiero motivar a los estudiantes / a través de / la participación / de oírlos / y darles una mejor calificación / y no ser un monólogo / en donde nada más yo soy el / entre comillas el experto / y se acabó ¿verdad?
+
+E: y / bueno // y ¿qué tanto ha cambiado? por ejemplo orita que me dijo de los medios electrónicos / ¿qué tanto ha cambiado de / de antes desde el pizarrón por ejemplo al de?
+
+I: sí
+
+E: por ejemplo al de gis al / al de ahorita que / ¿qué cambio? 
+
+I: pues
+
+E: ¿digamos en la rutina que antes tenían / el método?
+
+I: sí / bueno // mucho / ha cambiado bastante / y / yo me defino / si / en mi carrera como maestro / profesor o catedrático / no nos vamos a puntualizar en qué soy / ¿verdad? / o detenernos en la semántica / este / que ha cambiado mucho / bastante / ¿por qué? porque / las tecnologías en la época que nos tocó vivir / este / nos están cambiando / nos están cambiando a los seres humanos / entonces esto es una actividad / humana / e / entonces / el / es / es / algunas veces / limitada mi car- / mi carrera como profesor 
+
+E: ¡ajá!
+
+I: fue a la antigua / usando el pizarrón / y ahora / hay que usar lo elec- / las / e / las pantallas / este / un / proyector / muy bueno por cierto / este / muy bonito / que / muchas veces pos / puede interesar al alumno o no / pero / creo que mantiene al alumno más este / más atento
+
+E: <tiempo = “14:40”/> pues sí este / bueno / regresando 
+
+I: sí
+
+E: un poquito a / al tema que / me había contado al principio
+
+I: sí
+
+E: sobre la familia y todo eso / déjeme preguntarle este / no sé hay algunas / ocasiones / en las / o ciertas / fechas 
+
+I: sí
+
+E: en las que / se acostumbra reunir con su familia ya sea / familia cercana hijos / este 
+
+I: mjm
+
+E: esposa o / hermanos hermanas / no sé si haya algunas ocasiones en / en especial que 
+
+I: sí / este / yo soy una persona muy social / sociable // y / y creo que / es importante / las amistades por un lado / y por el otro lado conservar esos círculos / familiares / este que hemos estado perdiendo / por / el mismo desarrollo de la ciudad / y este / al menos // una vez al mes tengo contacto con mis hermanos / vía telefónica
+
+E: mjm
+
+I: m / o / mi esposa y yo realizamos reuniones / con / cuñados / o / mi suegra / y / y creo que son importantes / para mantener el equilibrio de la / de la familia
+
+E: ¿y esas reuniones / cómo son? / o sea / ¿se hace una comida / se hace una cena? 
+
+I: mire generalmente se / el / se hace el / e / el motivo es una comida o una cena generalmente es una cena / y son los fines de semana / este / o también son / en los cumpleaños / o festividades / importantes de / de algún familiar / o de uno de la familia / o / por el lado de los amigos / pues de algún conocido amigo / aunque ahí es menos ¿verdad? / es menos frecuente 
+
+E: <tiempo = “17:03”/> pero entonces este / bueno por lo que me comenta entonces me / me dice que es est- / pues de que / tanto amistad como / como familia / si / si llegan a / digamos a ocupar un / pues un valor bastante 
+
+I: sí / para mí / para mí / sí representan un valor / mucho muy fuerte / este / porque / si no pues / se vuelve uno un autómata / o una máquina de hacer dinero / y se deshumaniza uno / este / por un lado / por otro / este / el hombre / por naturaleza es sociable
+
+E: mjm
+
+I: y entonces este / aunque / mucha / reuniones / en lugar de causar este / más a / más / integración de la familia pueden / eh causar roces / y pueden inclusive / causar este // como me ha pasado / el / que digas este / bueno con / zutano mengano y perengano F de la familia política / pues mejor ni voy a hablarle / de mi trabajo / ni voy a hablar de deportes / y ni voy a hablar de este / pues muchas veces / este // realizar más que todo una comunicación sencilla y / este / corta / este / banal / verdad
+
+E: y por ejemplo ahí en las / no sé / en los cumpleaños / en dado caso en la navidad / este 
+
+I: bueno 
+
+E: ¿qué es lo que se acostumbra?
+
+I: sí bueno / bueno en los / en realidad yo creo que Monterrey no ha perdido / y por ahí / se dice todavía una frase / de la gente que hemos nacido en Monterrey de que este es un rancho grande 
+
+E: mjm
+
+I: <tiempo = “19:22”/> pero pos es un / calificativo / este / como anécdota no sé / en / el / voy a / entonces a decir que / pues soy parte de esas tradiciones / costumbres 
+
+E: mjm
+
+I: de esa ciudad de Monterrey que / califican como un rancho grande / entonces / en el caso / de mi familia / pues / yo la paso con / hasta / con la familia de mi esposa / con mi suegra / eh / con / cuñados // e // tres / cuñados / y / y en la casa / este / cada año de un / de alguno de ellos / entonces la integración que he tenido es / más / hacia la / la integración en cuanto / ¡mi familia! / la he hecho más con mi familia política / con mis familiares políticos más que con mis hermanos / que son / pocos / son dos / los cuales este / m / siempre he llevado la política de no intervenir en sus cosas / y respetar sus decisiones / porque tienen / pos sus esposas / y tienen / sus familias también / pos es / por una tradición de mí familia / este / de / mis padres / este / nos reunimos también / m / dos o tres días cercanos por ejemplo a la navidad 
+
+E: mjm
+
+I: ya sea dos cercano / antes o después / mis fa / las familia de mi herman- / de mis dos hermanos las familias de mis dos hermanos con mi familia / y / convivimos / este m // esas reuniones llevan más de / de quince años / y // y ahí yo creo que demostramos que / que / no sé / este / sí / le respetan a uno sus ideas / y / sí hay un afecto fuerte / y / pues se sigue manteniendo / entre comillas otra vez / las tradiciones o costumbres de Nuevo León
+
+E: <tiempo = “22:07”/> y por ejemplo / en esas fechas / en esas reuniones ¿qué se acostumbra de / de comer? por ejemplo 
+
+I: bueno / las / la 
+
+E: en tanto a comidas
+
+I: sí / pues normalmente es este / un guajolote / un pavo 
+
+E: mjm
+
+I: este // el plato fuerte / el / el este / un asado de puerco / o // pescado / e / un complemento a esta comida fuerte / y // al final un buen postre 
+
+E: mjm
+
+I: y / en cuanto a la bebida / pues este // si alguien gusta algún vino / de mesa / o cerveza / y / los / menores de edad / que todavía existen en la 
+
+E: ¡ajá!
+
+I: en las tres familias / pues / refrescos / embotellados // es todo
+
+E: y por ejemplo de éstas
+
+I: sí
+
+E: como ésta del / del pavo del 
+
+I: sí
+
+E: o del asado que me comenta / ¿usted sabe / sabe cómo se hace cualquiera / de ellos?
+
+I: pues yo / el / el único que sería sería el pavo / este / la manera más sencilla que es / para mí / una receta / no sé / este / preparar / el pavo // y un relleno complementario / ¿verdad? / este // el relleno pues / se mezcla carne de / puerco carne de res 
+
+E: mjm
+
+I: este / diferentes especies 
+
+E: <tiempo = “24:30”/> ¿como cuáles?
+
+I: el / comino pimienta 
+
+E: mjm
+
+I: este / algunas hojas de laurel / ajo / y sal / y este // se mezcla todo eso se / prepara aparte / y ya o ya se tiene preparado / o en paralelo con / el / este / el el coce / el / cocer / el pavo / hornear el pavo / y / este // para un mejor sabor / se le inyecta / este // el pavo con vino / blanco 
+
+E: ¡ah! ¿sí?
+
+I: sí / y este // y yo creo que es todo 
+
+E: así / a como usted / se acuerda / sí vamos a otra cosa
+
+I: sí
+
+E: este / bueno y esto que me dice que en navidad / se reúnen todos / pero si todavía es esta reunión digamos / con / con el motivo / religioso / o sea ¿sí se conserva este? / ¿o ya es? 
+
+I: sí ya / en el caso de la familia / de un servidor / es con el motivo religioso / definitivamente / este no es / el / la fecha / no es porque otra gente lo hace / sino este por / motivo religioso / en cuanto a la navidad / y en cuanto por ejemplo al año nuevo / ahí sí / cabe / este / uno de mis hermanos / busca / la manera de pasar el fin de año / principalmente en la ciudad 
+
+E: pero ¿sí cree que / que por ejemplo este tipo de? 
+
+I: sí
+
+E: de fiestas 
+
+I: sí
+
+E: <tiempo = “26:42”/> ya están / no sé / pero sí como que hay cierta tendencia de / de hacerlo un evento social más que / este contenido 
+
+I: ¡ah! sí / sí / este 
+
+E: religioso
+
+I: bueno / el / como ejemplo / en mi caso / he decidido / que a partir de este año / en las navidades yo ya no las voy a pasar con mis familiares políticos / este / han sido ya bastantes años / y creo que / las familias crecen / y / m / las casas en Monterrey / por lo general / no son muy amplias / como para / convivir en / tres o cuatro horas / en un veinticuatro de diciembre o un fin de año / cinco familias
+
+E: sí
+
+I: y las cuales serían / un total de / veinte / veinticinco personas / o miembros / y / este // m / como yo quiero conservar los motivos religiosos / eh / voy a / a separarme del núcleo de la familia política / y voy a formar mi propio núcleo 
+
+E: ah ¿sí? 
+
+I: el / aquí en este / e / al respecto / mis / mis hijos / e / dicen que / estas reuniones a partir de / esta navidad / o como dicen los españoles estas navidades 
+
+E: mjm
+
+I: van a ser súper aburridas / porque / Adolfo Rodríguez / quizás ponga música instrumental / y no la música de ellos / e / se están adelantando en los juicios / y / y pues irán a cenar / y a / este / e / rezar el rosario / y / pero / hasta ahí se comprometen / de lo demás dicen / este / definitivamente / a lo mejor nosotros nos vamos después ¿verdad? 
+
+E: mjm
+
+I: y se acabó / ¿por qué? porque / esas nuevas generaciones / del Monterrey actual / este / piensan que / se las pueden pasar mejor con sus amigos y amigas / o con la novia y el novio / o en la familia de la novia o del novio / entonces / este como estamos muy cercanos / a la frontera norteamericana / y el american way life / o el estilo de vida americano / marca / otros cánones otras costumbres / modernas / pues / para allá vamos / en el caso de Monterrey / es una opinión personal 
+
+E: <tiempo = “29:27”/> <risa = “E”/> sí / tendencias de la / de allá del estilo de vida 
+
+I: sí 
+
+E: / no bueno // ya saliéndonos un poquito de este tema / no sé alguna / no sé una sit- / no una situación pero sí una / anécdota o un suceso / que le haya pasado a usted ya sea / hace poco / o ya hace varios años
+
+I: mjm
+
+E: que / que / no sé con / con / que / con la que / siempre se haya quedado pero sí algo que recuerde / ya sea que porque / fue algo sencillo / o porque de plano le cambió la vida / pues una / situación / que recuerde / una anécdota digamos 
+
+I: sí
+
+E: que recuerde
+
+I: ¿de mi vida personal? 
+
+E: mjm
+
+I: este / bueno yo creo que lo / que / más / yo podría comentar / dos / dos / bueno // el anécdota más importante sería la / muerte de mi mamá / eh / o de mi madre la que / este / al perderla pues sí / m / sentí un / un vacío fuerte / en / por / pertenecer o ser miembro de una familia tradicional mexicana / este / el apego a los padres sigue siendo fuerte / a pesar de lo que digan / este / para la generación mía / entonces / el // eso marcó por ejemplo mi / toma de decisión / de también salirme / de la // casa en donde vivía / en este / en San Nicolás de los Garza / muy cerca de La Universidad / este no nada más el ruido y la contaminación que ya había comentado anteriormente si no / el que en esa casa / vivió también / mi madre / entonces / pues este / no me traía / muy buenos recuerdos / y había que cambiar de página / eso
+
+E: y por ejemplo el nacimiento de los / niños / de los hijos 
+
+I: bueno / en ese caso / este // sí este / es muy importante / definitivamente / m / al menos yo lo vi como algo natural / si uno se casa / pues lo / m / yo creo que la pareja debe procrear / este / tarde o temprano 
+
+E: mjm
+
+I: entonces este / pues yo lo vi como algo natural / em / quizás el / el este // lo más fuerte fue / en el nacimiento de mi primer / hijo / que en este caso era una / mujer / y m / pues / fue una experiencia bastante / bonita
+
+E: mjm / bueno ya / pasando a otro tema
+
+I: sí
+
+E: bueno / si es otro tema pero / digamos no / no deja de ser importante porque / de una o otra manera / pude ser situación de / pues familiar / personal entre amigos
+
+I: mjm
+
+E: no deja de ser una muestra / de la situación / ya sea / no sé nacional estatal 
+
+I: mjm
+
+E: entonces este / ¿cómo ve esta / la situación digamos así general / que vive ya sea Nuevo León ya sea México / en cuanto a política en cuanto a economía / así / cómo / cómo 
+
+I: yo veo / bastante difícil la situación / este / de vida de las familias / de / todo México 
+
+E: mjm
+
+I: ¿por qué? / porque / tenemos / estamos enfrentando una transición política / que / no habíamos tenido / desde la / revolución mexicana / y esa transición política / está / afectando / a otras áreas / como son / este las / la económica / que ahí lo / que más afecta en la actualidad es el enor- / el enorme / desempleo que existe en nuestro país 
+
+E: mjm
+
+I: <tiempo = “34:34”/> eso ha llevado / a otros problemas / o se liga a otros problemas / si existe un / un enorme desempleo / pos aumenta la criminalidad / aumenta / la desintegración familiar porque hay mucha gente que se va a otras ciudades / em / en donde esté situada en México / o se tiene que ir / como es el caso más común a Estados Unidos / a trabajar / la famil- / el jefe de familia / entonces / eso / trastoca / em / la cohesión de  de las familias / y / y eso pues sería lo más importante para mí / la transición política que tenemos / afecta / a otras áreas de la convivencia / este / social / este / se ha creado / al habla / al existir tanto desempleo mucha criminalidad / o ha germinado mucha criminalidad / este que aunque no sea justificante el desempleo / pues sí / en parte / se debe a eso 
+
+E: ¿y qué cree que / que hace falta / para / cambiar un poquito las cosas? / que no se pueden 
+
+I: sí / bueno / e / que / los políticos en México / a nivel federal / sean personas más comprometidas con la política / y menos de intereses / privados o / o particulares 
+
+E: mjm
+
+I: y que / se pongan a trabajar 
+
+E: es cierto
+
+I: sí <risa = “todos”/> 
+
+E: profe preguntas estas
+
+I: sí
+
+E: no sé algo 
+
+I: sí
+
+E: algo más que / que quiera agregar sobre cualquier / situación / sobre / un comentario que quiera hacer en / general sobre / cualquier cosa
+
+I: <tiempo = “36:34”/> bueno / este // e / me preocupa / el / estilo de vida que tienen los jóvenes / en México / en la actualidad / porque / al ser maestro universitario / convivo con ellos / con muchos de esos jóvenes / mujeres y hombres / y / veo que sus estilos de vida / son / e / m / muy vacíos / les falta / por ejemplo / comprometerse con lo que están haciendo / si están trabajando con el trabajo / si están estudiando con el estudio / y / este / no es culpa de ellos / es culpa del medio ambiente / que existe / con tanta mercadotecnia / tanta publicidad / el / el este / la influencia que tienen los medios de comunicación / este / modernos / el / que los / papás no pueden estar al pendiente de ellos / de supervisarlos porque / ambos padres / tienen que trabajar / al menos en las áreas urbanas / de México / entonces pos / este / la vida es muy rápida / muchas veces / ni los maestros / podemos / ayudarles / este / de manera individual / este / en este caso / la Universidad Autónoma de Nuevo León tiene un programa / que en el cual participo como tutor / en el programa de tutorías / y / del cual / he estado dos años / este / y me parece muy / muy bien desarrollado y necesario / en el ámbito universitario 
+
+E: pues / gracias / muchas gracias
+
+I: no
+
+E: si me ayuda a contestar una / encuesta
+
+I: ah sí
+
+E: este / su nombre completo ¿cuál es?
+
+I: ______
+
+E: mjm
+
+I: ge
+
+E: mjm
+
+I: ge de _______ / _________ _____
+
+E: yo soy / _________ _____
+
+I: sí / _________ _____
+
+E: yo soy __________ / ¿su edad?
+
+I: edad cinco ocho cincuenta y ocho años
+
+E: ¿esta casado me dijo?
+
+I: sí
+
+E: ¿su dirección es?
+
+I: Jardines de Barcelona 
+
+E: mjm
+
+I: setenta y seis cero seis
+
+E: sí
+
+I: colonia Jardines 
+
+E: sí
+
+I: de Andalucía 
+
+E: en Guadalupe 
+
+I: Guadalupe Nuevo León
+
+E: ¿su teléfono?
+
+I: diez / noventa y tres 
+
+E: mjm
+
+I: cero seis / veinte 
+
+E: e // ¿religión? / ¿católica?
+
+I: sí
+
+E: usted es de Monterrey / pero / pero ¿sus padres eran de aquí de Monterrey?
+
+I: no / no / ninguno de / ninguno / este / mi padre era de San Luis Potosí del estado de San Luis Potosí 
+
+E: mjm
+
+I: y mi / madre de / Tamaulipas 
+
+E: ¿y sus abuelos?
+
+I: okay / este ahí van / ¿cuáles primero / los paternos?
+
+E: sí los paternos 
+
+I: el paterno era / este / el paterno era de San Luis Potosí
+
+E: mjm
+
+I: e / la abuela
+
+E: sí
+
+I: este / también de San Luis Potosí 
+
+E: ¿y los maternos?
+
+I: los maternos / este / ambos de Tamaulipas 
+
+E: m / ¿tiene alguna / un / algún pasatiempo? / o alguna afición / más bien
+
+I: sí / el / este / el campismo / y la fotografía 
+
+E: ah ¿sí?
+
+I: sí
+
+E: ¿no entró a lo de / las fotografías del metro?
+
+I: no no
+
+E: este / ¿y asiste al cine / o sea va al cine / por lo regular? 
+
+I: no 
+
+E: ¿no?
+
+I: no 
+
+E: este / ¿escucha radio? 
+
+I: sí
+
+E: ¿cuánto tiempo más o menos / al día? 
+
+I: al día / una hora
+
+E: ¿una hora? / este ¿qué / qué tipo de / o sea qué de / radio?
+
+I: sí / noticias
+
+E: noticias
+
+I: este / música
+
+E: ¿de qué música? más o menos
+
+I: este / música / instrumental 
+
+E: mjm
+
+I: nada más
+
+E: y ¿su estación preferida?
+
+I: este / Radio Recuerdo
+
+E: bueno me / me dice que / noticieros ¿verdad?
+
+I: sí
+
+E: este / ¿y televisión ve?
+
+I: sí
+
+E: ¿más o menos cuánto tiempo / al día?
+
+I: al día / este / una hora también
+
+E: ¿qué tipo de programas?
+
+I: sí / de programas / este / películas 
+
+E: mjm
+
+I: antes que nada / este noticieros 
+
+E: sí
+
+I: el // deportes
+
+E: <tiempo = “43:02”/> ¿y las películas las ve muy frecuente en la / en la televisión?
+
+I: sí
+
+E: ¿de qué nacionalidad prefiere las / películas?
+
+I: este / no no tengo preferencia 
+
+E: ¿no? / mexicanas y extranjeras
+
+I: sí / así es 
+
+E: y en caso que son extranjeras / ¿las prefiere con subtítulos o dobladas?
+
+I: este / no / me es indiferente 
+
+E: bueno / ¿y en su casa cuenta con / con DVD / o videograbadora? 
+
+I: no siglas DVD no tengo / y una simple / grabadora de / casete 
+
+E: este // bueno y ¿en la casa tiene usted cable o Sky 
+o 
+I: sí no / Cablevisión cable 
+
+E: ¿cuántas teles hay en su casa?
+
+I: tres 
+
+E: e / ¿de periódicos lee? 
+
+I: sí / sí leo
+
+E: ¿cuál es el que lee más / prefiere?
+
+I: este / El Norte 
+
+E: mjm
+
+I: y El Financiero 
+
+E: El Norte ¿qué tan frecuente los lee? / ¿a diario / una vez a la semana?
+
+I: por semana 
+
+E: mjm / ¿semanalmente?
+
+I: sí / sí semanalmente / tres veces
+
+E: ¡ajá! / ¿y qué prefiere / qué secciones del periódico prefiere?
+
+I: este / los editoriales 
+
+E: <tiempo = “45:06”/> editoriales / y ¿revistas lee?
+
+I: sí / también 
+
+E: ¿de qué tipo?
+
+I: este m / de / temas en general 
+
+E: ¿el tema en general?
+
+I: sí
+
+E: ¿y ésas qué tan / frecuente las lee? / o ¿con qué frecuencia las lee?
+
+I: eh sí / una vez por semana 
+
+E: bueno / usa / ¿usted usa internet? 
+
+I: sí
+
+E: en sus / actividades / ¿lo usa más en la casa / en la escuela / en el trabajo?
+
+I: yo lo utilizo más en el trabajo
+
+E: en el trabajo / y ¿en su casa tiene computadoras?
+
+I: sí 
+
+E: ¿cuántas?
+
+I: una 
+
+E: ahorita ya / es indispensable
+
+I: sí
+
+E: ése y / y el horno de micro ondas 
+
+I: así es <risa = “todos”/> / así es
+
+E: ya no son lujos ya son necesidades / este / bueno y el / internet es para / para enviar correos / este /¿para qué lo usa?
+
+I: m / para consulta 
+
+E: ¿consulta?
+
+I: sí
+
+E: ¿lo usa más de una vez por semana?
+
+I: sí 
+
+E: ¡ajá! / ¿tiene teléfono celular?
+
+I: no
+
+E: ¿no?
+
+I: no / soy este de la época de los dinosaurios <risa = “todos”/> 
+
+E: yo todavía tengo de los / más precarios <risa = “todos”/> / prefiero gastar mi dinero en otras cosas 
+
+I: sí
+
+E: este / y los museos de aquí / bueno / ¿visita en general museos? / ya sea en Monterrey 
+
+I: en Monterrey 
+
+E: o en otros lugares 
+
+I: en otros lugares / m // poco 
+
+E: <tiempo = “47:25”/> ¿más o menos / cada cuándo?
+
+I: e // ¿viene ahí mensual? 
+
+E: sí una vez por mes
+
+I: sería / este / no / ¿es la mayor / eso?
+
+E: dice / una vez por semana / por mes / dos veces al año / y una vez por año
+
+I: dos veces al año
+
+E: MARCO / y al de Historia Mexicana
+
+I: sí
+
+E: y ¿a conciertos va? 
+
+I: no
+
+E: ¿no?
+
+I: no
+
+E: ¿y al teatro? 
+
+I: este // no tampoco
+
+E: y / bueno / ¿suele usted viajar por / por / en vacaciones? 
+
+I: sí / sí
+
+E: ¿más o menos cuántas veces al año?
+
+I: ¿al año? / este // dos veces al año 
+
+E: dos / entonces me // este me cuenta que tiene / maestría ¿no? / doctorado / ¿o cómo?
+
+I: m yo tengo el grado de maestría
+
+E: la maestría / este / bueno / en el caso de la primaria 
+
+I: sí
+E: ¿la curso en pública o privada?
+
+I: en pública
+
+E: pública / ¿más o menos en que año este la / terminó?
+
+I: este cincuent / ¿terminé?
+
+E: mjm
+
+I: sesenta y uno / mil novecientos / sesenta y uno
+
+E: y / ¿también aquí en Monterrey? 
+
+I: sí 
+
+E: ¿y la secundaria?
+
+I: en / institución privada
+
+E: privada 
+
+I: la terminé en seis cuatro 
+
+E: ¿aquí en Monterrey? 
+
+I: en Monterrey también / sí
+
+E: ¿la preparatoria cuántos son? ¿de dos años?
+
+I: pública / tres
+
+E: tres y sería en el sesenta y siete ¿no?
+
+I: sí 
+
+E: y aquí en Monterrey
+
+I: mjm / sí también
+
+E: e / y pues ¿la licenciatura?
+
+I: en un / escuela privada
+
+E: ésos / ¿ahí cuántos años fueron?
+
+I: cuatro años
+
+E: ¿cuatro años? / ¿más o menos en que año terminó?
+
+I: en / mil novecientos / setenta y tres
+
+E: ¿aquí en Monterrey?
+
+I: sí
+
+E: <tiempo = “50:06”/> y ¿la maestría cuántos años fueron?
+
+I: bueno / tengo dos maestrías 
+
+E: mjm
+
+I: entonces e / m / suman cuatro años
+
+E: ¿entre las dos?
+
+I: entre las dos / sí
+
+E: ¿en / institución pública?
+
+I: este // m // una en institución / privada y otra en institución pública
+
+E: y ¿en qué año las terminó?
+
+I: en / una la terminé en / en / mil novecientos ochenta y dos
+
+E: sí
+
+I: la otra la terminé / en el / mil novecie- / en el / mil novecientos noventa y cinco
+
+E: ¿aquí en Monterrey o en otra parte?
+
+I: ambas en / no / la primera la terminé / en el extranjero
+
+E: ¿en dónde?
+
+I: no sé si hay que especificar en la Universidad de Colorado / Bogner
+
+E: ¿ahí es qué / con uve o con 
+
+I: no / con be grande / Bogner / así como se oye
+
+E: mjm
+
+I: y la / de aquí fue en pública / este / en la Universidad Autónoma de Nuevo León / Facultad de Economía
+
+E: y en / bueno la maes / la licenciatura / ¿en qué es la licenciatura?
+
+I: trabajo / ay no
+E: no se preocupe
+
+I: no no es que me desvele bastante anoche / este / ¿sabes a qué horas me / me acosté? / tarde / a las once / que para mí es tarde ya / y me tuve que / levantar / a las tres / a las cuatro de la mañana / para / llevar a mi hija / a una clínica / trae infección muy fuerte
+
+E: yo a las cuatro me estaba / durmiendo porque / nos fuimos a tomar un café y la cafeína no me deja <risa = “E”/> 
+
+I: dormir <risa = “todos”/> 
+
+E: <tiempo = “52:26”/> este / ¿la licenciatura en qué es?
+
+I: eh / la licenciatura es en economía
+
+E: ¿y la maestría?
+
+I: el / en economía también / este / sí
+
+E: ¿desde cuándo trabaja / así en general?
+
+I: eh trabajo desde mil novecientos / sesenta y cuatro 
+
+E: trabaja / en la facultad
+
+I: sí / soy catedrático 
+
+E: mjm
+
+I: ésa es mi / categoría / catedrático tiempo completo
+
+E: y / este / bueno aquí / aquí por ejemplo / los ingresos 
+
+I: mjm
+
+E: ¿en cuál / entraría? / por ejemplo 
+
+I: ¡a !
+
+E: más o menos se considera que un salario mínimo sería
+
+I: okay / el / salario mínimo es esto orita mensual ¿verdad? 
+
+E: mjm
+
+I: es / son / dos / tres serían cinco seiscientos / no estoy por arriba / y es el salario mínimo / estoy aquí / a ver / a qué salió / <risa = “E”/> cuatro por tres doce / no / estoy aquí / aquí estoy 
+
+E: ¿y de prestaciones / que reciba en el / trabajo?
+
+I: am 
+
+E: bonos de despensa
+
+I: servicio médico 
+
+E: mjm
+
+I: prima de vacaciones / pos aquí no hay / cursos de capacitación / este / otros pues sí la / lo que es este / ¿como se llama? / otros también porque equivale a / a este los fin de año / el aguinaldo / que es substancial ¿verdad? / entonces / ¿le pongo aquí aguinaldo? 
+
+E: por favor / este / esta pregunta / ¿cuántos focos tiene? <risa = “todos”/> 
+
+I: este / en mi cuatro dos / así a ojo / de buen cubero / este / dos / cuatro / seis / ocho / diez / doce / catorce / dieciséis / dieciocho / veinte / eso también
+
+E: ¿eso también / lo piden? 
+
+I: a perfecto
+
+E: y no sabemos cuánto 
+
+I: perfecto
+
+E: aportan
+
+I: sí
+
+E: ¿en las características no?
+
+I: ¿quieres que también lo vaya mencionando / o simplemente lo anoto?
+
+E: no / si quiere lo anoto yo
+
+I: okay / pues nada más el español / ¿le pongo aquí español nada más verdad? / 
+
+E: mjm
+
+I: o 
+
+E: bueno / si quiere dejarlo en blanco
+
+I: en blanco / sí / ¿último grado cursado es? / este / le universidad / okay / en casa / okay 
+
+E: mjm
+
+I: entonces ahí pongo / ¿verdad? 
+
+E: sí 
+
+I: sí mi hija /¿le / pongo inglés verdad? / ¿está correcto así? / este / licenciatura / ¿le pongo en educación? / pues educación / okay / trabaja / en escuela / federal / 
+
+E: salario
+
+I: salario / este 
+
+E: si no sabe / es / cuánto aporta ala casa
+
+I: sí / sí sí
+
+E: o las dos o sea / salario y 
+
+I: bueno / este / el salario es / mensuales / cinco mil seiscientos mensuales / okay / puesto que ocupa es / maestra / okay 
+
+E: sí
+
+I: ¿y dónde le pondría / lo que aporta?
+
+E: bueno si no así déjele 
+
+I: si no / ¿lo dejo? / okay / luego es hijo / no / en blanco / este prepa / preparatoria / trabaja / en el este / en / correos / okay 
+
+E: okay 
+
+I: en correos okay 
+
+E: okay 
+
+I: trabaja / y / salario / cuatro mil doscientos / mensuales / puesto que ocupa / maestro quiere ser él pues eso le ponemos 
+
+E: ¿qué horas son? / este bueno ya nada más para terminar
+
+I: sí sí
+
+E: estas páginas me quedan a mí 
+
+I: a okay 
+
+E: <tiempo = “58:01”/> si quiere leerlo
+
+I: a quien corresponda yo de tal forma estoy de acuerdo tanto con el equipo de trabajo de la Universidad Autónoma de Nuevo León  denominada El Habla de Monterrey segunda etapa pueda ser utilizada  okay / o sea ¿va a haber una segunda?
+
+E: no está ya es la segunda / porque la primera fue / empezó desde el ochenta y cinco
+
+I: ah okay  okay 
+
+E: la primera etapa
+
+I: yo creí que esta investigación / este / iba a haber una continuación por ejemplo esta entrevista 
+
+E: ah no
+
+I: por / es la segunda vez 
+
+E: ¡ajá! esta es la segunda vez
+
+I: / ¿pongo mi nombre verdad?
+
+E: por favor
+
+I: este / ¿puedo usar letra de molde no hay problema?
+
+E: sí señor
+
+I: okay / m 
+
+E: si quiere se lo lleno yo
+
+I: okay / bueno sí 
+
+E: sí está bien 
+
+I: ¿de allá de Guadalupe?
+
+E: ¡ajá!
+
+I: este / ¿estamos a / veintinueve / o veintiocho?
+
+E: veintiocho
+
+I: veintiocho / veintiocho de / noviembre / <risa = “E”/> / ¿ves? / cómo andaré? / no yo no sé que va a pasar orita
+
+E: bueno
+
+I: bueno / perfecto / ¿todavía está grabando?
+
+E: sí / sí porque / la encuesta 
+
+I: ¡ah! / okay 
+
+E: ya si quiere esto se lo lleno
+
+I: okay / ten / ya está
+
+E: muchas gracias / por echarme la mano
+
+I: no / está bien
+
+E: en esta entrevista / prestarme de su tiempo
+
+I: sí / creo yo que / la universidad hace cosas importantes / y como / trabajo en ella / pues / espero que sirva
+
+E: sí / bastante
+
+I: okay / gracias
+
+E: no no / a usted
+
+I: okay 
+
+   Fin de la entrevista
+

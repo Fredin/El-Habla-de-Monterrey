@@ -1,0 +1,11 @@
+AP                      Associated Press News Articles
+Jeopardy                Jeopardy Questions (including category name and
+                        answer)
+MovieReviews            A set of 2000 movie reviews parsed by Pang and
+                        Lee (ACL, 2004), originally gathered from the
+                        IMDB archive of the rec.arts.movies.reviews
+                        newsgroup
+reviews                 A set of 2000 movie reviews parsed by Pang and
+                        Lee (ACL, 2004), originally gathered from the
+                        IMDB archive of the rec.arts.movies.reviews
+                        newsgroup

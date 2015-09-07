@@ -1,0 +1,2485 @@
+﻿<Trans audio_filename = ”MONR_HMP_102.MP3” xml:lang = ”español”> 
+<Datos clave_texto = ”MONR_HMP_102” tipo_texto = ”entrevista_semidirigida”> 
+<Corpus corpus = ”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México”/>
+
+<Grabacion resp_grab=”Juan Eduardo Castro Aguilar” lugar=”departamento del informante” duracion= “01:46’51” fecha_grab=”2007-11-17“ sistema=”MP3”/>
+<Transcripcion resp_trans=”Myrna Liz Flores Mercado” fecha_trans=”2008-05-07”
+numero_palabras=”13952”/> 
+<Revision num-rev=”1” resp_rev=”Raquel Rodríguez de Garza ” fecha_rev=”2009-10-26”/>
+<Revision num_rev=”2” resp_rev=”Erika Muñiz Gallardo” fecha_rev=”2010-07-23”/> 
+<Revision num_rev=”3” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-08-26”/>
+<Revision num_rev=”4” resp_rev=”Cynthia Martínez del Ángel” fecha_rev=”2011-11-30”/>
+<Revision num_rev=”5” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2012-01-17/></Datos>
+
+<Hablantes>
+<Hablante id=”hab01” nombre=”Gilberto Laurence de la Garza” codigo_hab=”I” sexo=”hombre” grupo_edad=”3” edad=”70” nivel_edu=”3” estudios="Maestría en Administración" profesion="administrador" origen="Piedras Negras, Coahuila" papel="informante"/>
+<Hablante id="hab2" nombre=”Juan Eduardo Castro Aguilar" codigo_hab="E" sexo="hombre" grupo_edad=”1" edad="23" nivel_edu="nivel 2" estudios="estudiante de Licenciatura en Trabajo Social” profesion="estudiante" origen="Monterrey, Nuevo León" papel="entrevistador"/>
+
+<Relaciones rel_ent_inf = "desconocidos" />
+</Hablantes> </Trans>
+
+
+E: buenas tardes 
+
+ I: qué hubo / Eduardo / 
+
+E: el señor sí / señor ________ ________ 
+
+I: ¿cómo estás?
+
+E: mucho gusto / Eduardo Castro / me trajo
+
+I: pásele
+
+E: gracias / con permiso
+
+I: ¿quieres un refresco o algo?
+
+E: no / estoy muy bien muchas gracias
+
+I: vamos a ver
+
+E: ¿que / va a llover? / anoche / ¿pronosticaron que iba a llover? / ya ni supe
+
+I: pues fíjate que no exactamente / pero / pues / así es aquí
+
+E: ¿llueve muy seguido así? como que 
+
+I: pues / el pronóstico no siempre es muy bueno / ¿dónde quieres sentarte?
+
+E: donde usted me diga / donde esté más a gusto
+
+I: pues
+
+E: de aquel lado pues
+
+I: entonces ¿tú que haces? / ¿estudias? Eduardo
+
+E: sí yo soy estudiante / sí le venía diciendo o orita a Flavio que ya ora en / en diciembre termino
+
+I: ¿qué es lo que estudias? 
+
+E: yo soy trabajador social / de profesión / estudio trabajo social
+
+I: fíjate
+
+E: sí sí sí / ahi andamos este / en eso y pos orita m- / andamos ayudando a hacer este / trabajo también de de la escuela ¿no sé si le comentaron más o menos de qué se trata? 
+
+I: sí / sí sí sí / la doctora / nos comentaba / de investigaciones / así / medias este / esotéricas <risas = ”E”/> 
+
+E: sí bueno la verdad es que sí / sí sí / este / usted / es / señor ________ _____ / ¿usted es de aquí oiga?
+
+I: e originario de Piedras Negras Coahuila
+
+E: ¡ah! muy bien / muy bien / ¿cuánto tiempo tiene viviendo aquí en Monterrey?
+
+I: pues / me vine a estudiar / prepa 
+ 
+E: ¡ajá!
+
+I: allá por el cincuenta y cuatro 
+
+E: mjm
+
+I: entonces échale cuentas / son este / cuarenta y seis más siete / cincuenta y tres 
+
+E: mjm 
+
+I: años viviendo aquí 
+
+E: ya bastante tiempo / y ¿ha vivido siempre aquí? en / éste es Santiago
+
+I: éste es Santiago 
+
+E: mjm 
+
+I: no / vivimos en Monterrey 
+
+E: mjm
+
+I: ¿qué fue? hasta el e / ochenta y / ocho por ahí 
+
+E: mjm
+
+I: ochenta y nueve 
+
+E: mjm
+
+I: y desde entonces aquí o sea aquí tenemos prácticamente // dieciocho años
+
+E: <tiempo = “2:42”/> más o menos / qué bien / qué bien / y / ya / no / bueno ya con tanto tiempo supongo / ¿va seguido usted a / a su tierra?
+
+I: fíjate que no este / e migramos / primero yo / y luego mis hermanos a estudia r / y luego mis papás se quedaron solos allá 
+
+E: mjm
+
+I: y este dijeron no pos mejor nos vamos todos juntos
+
+E: ¿y ahorita ya está todos aquí?
+
+I: bueno ya ya / faltan / ellos 
+
+E: ¡ajá!
+
+I: pero mis hermanos y yo estamos aquí
+
+E: ah okay okay okay / ¿cuántos hermanos tiene?
+
+I: fuimos / ¡ay! se me pierden las cuentas creo que cinco
+
+E: mjm <risas = ”E”/> pos son poquitos / sí / ¿y todos son hombres?
+
+I: dos / eh / tres y dos
+
+E: tres y dos / tres hombres y dos mujeres / muy bien / y / ¿usted a qué se dedica señor ________?
+
+I: ¡ah! / bueno este actualmente / a partir del ochenta y nueve 
+
+E: mjm 
+
+I: a / inmueble 
+
+E: <tiempo = “03:43”/> mjm
+
+I: compra venta de inmuebles / desarrollo inmobiliario 
+
+E: mjm
+
+I: de hecho este es / desarrollo de nosotros 
+
+E: mjm
+
+I: y este / de tiempo acá / ¿qué será? / hace unos tres cuatro años / un hijo es el que / realmente / administra / y yo pos estoy de / como se dice en inglés de backup 
+
+E: mjm
+
+I: ¿verdad? / couchando 
+
+E: claro claro / ¿cuántos hijos tiene señor?
+
+I: como luego digo / yo soy muy juguetón ¿verdad? ¿eh?
+
+E: ¡ah! / está bien / eso está perfecto
+
+I: a veces me preguntan ¿cuántos hijos tienes? le dije / creo que cuatro 
+
+E: ¡ajá! / <risas = ”E”/> ¡ah! / okay 
+
+I: entonces no le fallo ese es es / es lo único que puede decirse / con toda certeza
+
+E: claro / claro / sí
+
+I: todo lo demás es / suposición 
+
+E: mjm / sí creo que sí 
+
+I: es dogma
+
+E: claro ¿y ustedes viven aquí también? / aquí ésta es su casa / muy bien / entonces / es es / ¿es de ustedes de su familia? o es / cómo
+
+I: es / ¿el desarrollo? 
+
+E: ¡ajá!
+
+I: es de / bueno lo iniciamos / de hecho aquí que / teníamos esta propiedad de hace tiempo / y este / aquí los hijos terminaron de crecer
+
+E: mjm
+
+I: en otro en otro / en otro / y e / mi mujer y yo siempre / pues / como que / teníamos la ilusión de / hacer eh / como un pueblito 
+
+E: mjm
+
+I: <tiempo = “5:26”/> en esto
+
+E: mjm
+
+I: y esto es lo que resultó / mira no sé si quieras asomarte para acá
+
+E: sí claro 
+
+I: mira 
+
+E: ah 
+
+I: ¿me entiendes? 
+
+E: sí claro 
+
+I: pues está esto / están las casas que viste en la entrada / la de / la doctora 
+
+E: mjm
+
+I: la dos 
+
+E: mjm
+
+I: hay ocho casas allá arriba / acá hay otras diez / allá entre los árboles vivimos nosotros muchos años
+
+E: ¡ajá!
+
+I: y está este edificio y viene otro edificio de departamentos
+
+E: mjm
+
+I: y quisimos hacer esto / pues algo muy especial // no tanto por el entorno pos ya ves que es un entorno bonito
+
+E: mjm
+
+I: el mejor aire de / de de la zona
+
+E: mjm
+
+I: lo tenemos aquí / los aires soplan del Golfo / por donde nace el sol 
+
+E: mjm
+
+I: y fluyen / hacia acá y el sol también 
+
+E: mjm
+
+I: entonces casi todas tienen una orientación hacia / favorable hacia el viento y hacia el sol 
+
+E: mjm mjm
+
+I: minimizando su impacto / y / pues la otra característica es que / quisimos dejar mucha á rea verde 
+
+E: mjm
+
+I: entonces contrario a fraccionamientos que tu puedas encontrar / aquí tienes el ochenta por ciento del área / es común / entre un sesenta por ciento de área verde como la que ves así 
+
+E: mjm
+
+I: y un veinte por ciento de lo que es la casa club / aquí abajo
+
+E: ¡ajá!
+
+I: aquí abajo hay instalaciones hay alberca hay cuarto de vapor / hay gimnasio hay / en fin 
+
+E: mjm
+
+I: ¿verdad? / o sea muy / e / ecológicamente ¡vaya!
+
+E: claro
+
+I: no / quiero decir vas tu solo sin calificar
+
+E: sí claro
+
+I: ¿me entiendes?
+ 
+E: sí
+
+I: sino / con cierto / amor a la naturaleza ¿verdad?
+
+E: y supongo que la gente que vive aquí tiene que / fervientemente sentir ese amor por la naturaleza también
+
+I: compartir / compartir los valores que nos animan ¿verdad? / que son valores por / por cuidado del medio ambiente 
+
+E: mjm
+
+I: contrario allá mira
+
+E: sí / claro
+
+I: mira la luz
+
+E: claro
+
+I: este / aquí / ese bosquecito que ves allá 
+
+E: mjm
+
+I: está hecho por / la mano del hombre con la ayuda de dios / por nosotros
+
+E: mjm
+
+I: todos estos pinos / y todo esto que ves aquí es
+
+E: esto / eso fue de ustedes
+
+I: todo / sí / lo mismo todos los de allá
+
+E: sí / sí sí
+
+I: este / los árboles que viste en la entrada allá tan bien que van / son / son de la especie del encino 
+
+E: ¡ajá!
+
+I: doble encino / que es este / sumamente / frondoso / y así van a ser esos árboles son nuevos / esos árboles tendrán / ocho años o diez años
+
+E: <tiempo = “08:21”/> ¡ajá!
+
+I: cuando tengan veinte treinta años podrían
+
+E: ¿cuáles? ¿éstos que están aquí abajo? 
+
+I: sí
+
+E: ¿están chiquitos? / o sea / ¿me refiero de edad?
+
+I: de edad / sí este / tu podrías calcularle / pulgada / por diám- / eh el diámetro / ¿sí el diámetro?
+
+E: mjm
+
+I: es correcto ¿el diámetro? ¿sí?
+
+E: sí
+
+I: pulgada por año / pos tú ves un tronco / como estos de acá
+
+E: ¡ajá!
+
+I: aproximadamente de cuatro / cinco años ésos que están 
+
+E: ¿los más pequeñitos?
+
+I: pues no
+
+E: bueno los medianones / mjm
+
+I: ¿verdad? / aquellos tienen un poco más / en fin ¿verdad? / eso es lo que / dicen que uno debe de / este / para trascender ¿qué es lo que trasciende del hombre Eduardo?
+
+E: yo creo que / el espíritu y los ideales 
+
+I: primero el espíritu
+
+E: mjm
+
+I: ¿verdad?
+
+E: sí
+
+I: o nuestras creencias
+
+E: claro 
+
+I: ¿segundo? 
+
+E: lo que / bueno / supongo yo que es una parte del espíritu pero lo que deja / lo que deja en la tierra
+
+I: los hijos
+
+E: ¡ajá! claro / sí sí sí / este / el fruto / sí
+
+I: ¿verdad? / luego vienen ideas / tam- / obviamente / bueno es parte de lo espiritual / algunos grandes pensadores que / todavía / a través de los siglos este / pues están ahí
+
+E: claro claro / con ide- / por ideas
+
+I: por ideas / en fin / entonces este / eh / eh / eso es lo que nos anima ¿verdá? / y es una comunidad donde aquí para pertenecer a ella
+
+E: mjm
+
+I: este / tienes que pasar una solicitud donde te acepten 
+
+E: mjm
+
+I: los que están / aceptan a los que vienen
+
+E: ¡ah! okay ello / es la gente que está aquí la que acepta
+
+I: a los que vienen 
+
+E: mjm
+
+I: y / a compartir esto / a compartir / el vivir / con orden 
+
+E: mjm
+
+I: civilizadamente 
+
+E: claro
+
+I: <tiempo = “10:39”/> porque / este / las leyes es la única manera / que una comunidad tiene para vivir como tal
+
+E: claro / en común / unidad
+
+I: en común ¿verdad? 
+
+E: mjm 
+
+I: y las que / y las cosas de tipo / este la / la / la / la moral este / la moral es este / son paradigmas / que es lo que nos anima a nosotros los paradigmas 
+
+E: claro
+
+I: o o que nos sirven para tomar decisiones / entendiendo por paradigma / ciertos / parámetros de creencias que nos llevan a decir esto está bien esto está mal 
+
+E: mjm / mjm
+
+I: esto puedo esto no puedo esto debe ser / esto no debe ser
+
+E: mjm
+
+I: y eso desde que / con nuestros genes y desde que nacimos / nacem / se van / se van creando como un software en una computadora / que toma decisiones 
+
+E: mjm
+
+I: y son los que te sirven para tomar decisiones / los paradigmas
+
+E: sí claro
+
+I: por ejemplo los paradigmas nuestros no son iguales a los paradigmas de una persona que creció / en el arroyo / allá este / abandonado o / viviendo de lo que puede
+
+E: por supuesto
+
+I: en el mar / los paradigmas de nosotros no son iguales por ejemplo / a los cazadores de cabezas de brasil las tribus que habían o existen vamos a decir todavía
+
+E: sí
+
+I: donde para ellos pos no no / qué tiene que ver / matar al enemigo 
+
+E: claro 
+
+I: y cortarle la cabeza y
+
+E: y hacerla chiquita / ¡ajá!
+
+I: ¿eh?
+
+E: sí ya sé <risas = “E”/> 
+
+I: <observación_complementaria = “viento”/> entonces todos son paradigmas / y es / ahí está
+
+E: ¿y qué pasa cuando hay choques o hay encuentros de paradigmas?
+
+I: bueno / hay las rupturas que se dan y lo estamos viviendo en nuestra sociedad 
+
+E: mjm
+
+I: cada día más / así a nivel este / global / pues simplemente / los paradigmas del mundo occidental contra el islámico
+
+E: <tiempo = “12:33”/> claro / sí que
+
+I: para acabar pronto <observación_complementaria = “para no alargar tanto el tema”/> 
+
+E: sí sí <entre_risas> claro </entre_risas> qué mejor ejemplo
+
+I: a nivel global
+
+E: sí sí sí
+
+I: luego si lo bajas un poquito más a / lo que hemos vivido a través de la historia / los choques este / religiosos que siempre se han dado en el mundo y siguen dándose
+
+E: se seguirán dando
+
+I: en sí es un paradigma
+
+E: sí
+
+I: porque ¿qué es la religión sino un paradigma?
+
+E: claro
+
+I: que te dice esto está bien / o esto está mal 
+
+E: claro
+
+I: si haces esto vas al cielo si no haces esto te vas al infierno / <observación_complementaria = “viento”/> y ahí los traemos / son los que nos / guían / pero cuando ha habido diferencias / paradigmáticas
+
+E: mjm <risas = ”E”/> 
+
+I: pues ha habido / pues hay / hay católicos y hay cristianos y hay / pentecosteses / y hay evangélicos y hay bautistas 
+
+E: mjm
+
+I: que dentro del cristianismo / a través del tiempo pues han ido aprendiendo a convivir
+
+E: mjm
+
+I: que no siempre ha sido así / ya ves el caso de Irlanda / donde católicos y protestantes hasta hace poco / seguían 
+
+E: sí sí sí / e / ¿usted es una persona de fe?
+
+I: e / ¿religiosa dices?
+
+E: mjm
+
+I: no exactamente
+
+E: ¿no?
+
+I: no / e / yo te podría decir que / mi señora y yo somos más bien ¿cómo diríamos? / libres pensadores 
+
+E: mjm
+
+I: donde / creemos que la religión / es buena sirve 
+
+E: mjm
+
+I: para algunas gentes le sirve 
+
+E: claro 
+
+I: la religión / como para / sostenerse en momentos de / pues de necesidad ¿verdad? 
+
+E: sí 
+
+I: que / eventualmente / dan gracias por todo lo que ven y dan 
+
+E: ejerce cierto control también / moral
+
+I: y entonces sí es que no / pos no negamos que la religión tiene un propósito y una / utilidad 
+
+E: mjm
+
+I: y también una manera de de / de manipular
+
+E: <entre_risas> claro / claro </entre_risas> 
+
+I: ¿verdad? pero bueno / el que se deje
+
+E: mjm
+
+I: pero nosotros decimos bueno hay / hay hay / valores superiores ¿no? / a la misma religión // primero pos la creencia / de un creador / pos que eso pos no no no lo podemos quitar 
+
+E: claro
+
+I: <tiempo = “ 14:48”/> segundo este la creencia de que lo que hagamos / bien o mal / tiende a revertirsenos 
+
+E: claro
+
+I: a la tierra le hacemos mal / y nos / ¡va devolviendo! 
+
+E: sí / sí sí sí / y mas rápido de lo que pensamos 
+
+I: y le hacemos bien / y eventualmente / lo mismo a las personas nosotros / sembramos el bien / y y y nos va a rodear el bien ¿verdad? 
+
+E: mjm
+
+I: hacemos mal y / en los / en nuestras personas o / o nuestros seres queridos no necesariamente en forma directa / pos creemos también en el imperio de la ley / o que debería imperar la ley
+
+E: ¿del hombre?
+
+I: una ley del hombre
+
+E: mjm
+
+I: en una ley / justa / equitativa 
+
+E: mjm
+
+I: que a veces no se da 
+
+E: no
+
+I: y creemos también en el respeto a las personas / a sus creencias / a sus / a sus pertenencias / ¿verdad? 
+
+E: claro / claro
+
+I: por ahi van / o sea dentro / arriba de la vida de la religión tú puedes encontrar la mística / que está está / arriba de la religión
+
+E: por su puesto
+
+I: es común / todos decir así o pudiera ser común a la religión
+
+E: claro
+
+I: algo / más allá de la religión / entonces pues sí creemos en / obviamente / este / nosotros los que / de alguna manera para efectos / civiles decimos que este / soy católico
+
+E: claro 
+
+I: practicante / no / católico / sí / ¿porqué? porque / pos carajo tengo que ponerme algún / alguna etiqueta
+
+E: ¡ajá! <risas = “E”/> 
+
+I: ¿eh? 
+
+E: claro
+
+I: pero nada más / oye que / definitivamente Cristo / como tal / Jesús como tal / pues lo que heredamos de él es / lo / lo / fundamental / eh su / fin 
+
+E: mjm
+
+I: es la esencia del / de de / del cristianismo / a veces salen ahí libros y artículos y demás y / donde oye pos si Cristo fue casado o no fue casado 
+
+E: claro / que si tuvo más hijos 
+
+I: cristo / tuvo hijos o no tuvo hijos
+
+E: <tiempo = “17:11”/> murió y resucitó 
+
+I: bueno / eso / eso es lo de menos 
+
+E: claro / claro
+
+I: lo / lo que vale es / son / sus enseñanzas ¿verdad? / eso es / lo que nosotros / contestan / tratando de contestar 
+
+E: claro claro / la creencia / y eso es lo que usted trata de transmitir a sus hijos supongo / o en algún momento 
+
+I: e como con sí / sí sí sin man- / sin ninguna manera de / de / ¿qué te dijera? de / imponerte ni mucho menos / pues / en comentarios expresamos nuestra opinión expresa / reconocemos / también lo que ellos creen y todo eso que ellos 
+
+E: mjm
+
+I: este al menos / pues de los cuatro hijos / practicantes debemos tener / dos hijos 
+
+E: mjm 
+
+I: practicantes otro más o menos / y otro / igual que nosotros 
+
+E: muy bien 
+
+I: bueno pos está bien
+
+E: e / en cuanto a las / costumbres de / de su familia / ¿qué / cómo festejan por ejemplo esos eventos que son / pura bueno / o que en algún momento son puramente religiosos? / por ejemplo como la navidad 
+
+I: e / la navidad regularmente / nosotros / ya / mayores / respetamos por ejemplo que los hijos / que quieran pasarla con / s- los / la familia del cónyugue 
+
+E: claro / ¡ajá!
+
+I: lo hagan 
+
+E: mjm
+
+I: no tenemos que estar nosotros en / la navidad / todos juntos porque ellos / pos unos van con la suegra otros van con
+
+E: sí
+
+I: no / vayan / ¿verdad? / en la medida que podamos bueno estamos juntos un rato etcétera etcétera / dando gracias a dio s / por todo lo que nos ha da do de edad / deseándonos bienaventuranzas en fin / igual en / año nuevo 
+
+E: mjm / cuando / en el casos en los que vienen sus hijos 
+
+I: o vamos
+
+E: o ustedes van / a sus / a casa / a la casa de ellos 
+
+I: a la casa de ellos / eventualmente vienen aquí 
+
+E: mjm
+
+I: pero regularmente ya nosotros vamos a casa de ellos 
+
+E: mjm
+
+I: somos ella y yo solos / ellos son más
+
+E: claro
+
+I: entonces la masa crítica se inclina hacia allá 
+
+E: claro / totalmente
+
+I: y para las once ya nos retiramos mi señora y yo / adiós / ya 
+
+E: aquí esto se acaba temprano
+
+I: nos acostamos / siempre / normalmente / yo a las cinco me despierto
+
+E: mjm
+
+I: salgo a caminar a las cinco / está oscuro aquí / las luces de la calle 
+
+E: mjm
+
+I: voy por la orilla del río y camino / y siempre / este / festejando un nuevo día ¿verdad? / festejando / como siempre / no siempre / no sólo navidad no o sea / todos los días 
+
+E: mjm
+
+I: te amo / como una oportunidad de / de crecer / fortalecerse / ¿en qué dimensiones? / pos fortalecer tu espíritu principalmente 
+
+E mjm
+
+I: tratar de mantenerlo centrado / todos estamos expuestos a / depresiones / prolongadas o / de corto tiempo 
+
+E: <tiempo = “20:35”/> mjm
+
+I: hacemos bucitos / no hay quien se escape de ellos 
+
+E: sí
+
+I: pues tratamos de que nuestros bucitos sean / cortos 
+
+E: claro 
+
+I: y este / mantenernos centrados / de / un espíritu fuerte / porque hay espíritus fuertes y hay espíritus débiles / generalmente los débiles / pos son los que más sucumben a las / a los vaivenes de los tiempos / a las depresión es
+
+E: mjm 
+
+I: eh / tienden a mantenerse menos en / en en / en la lucha 
+
+E: mjm 
+
+I: tienden más a rendirse / el espíritu / que el espíritu / nosotros creemos que el espíritu no piensa / el espíritu siente / te sientes bien o te sientes mal
+
+E: claro
+
+I: o en términos / modernos / estás high o estás / <risas = “E”/> / ¿eh? 
+
+E: ¡ajá!
+
+I: con o sin / ayuda 
+
+E: mjm
+
+I: nuestro espíritu debe estar / arriba / digo 
+
+E: ¿siempre ha sido una persona tan optimista?
+
+I: regularmente 
+
+E: mjm
+
+I: del pasado sólo para aprender 
+
+E: pero ¿sí lo voltea a ver? 
+
+I: para aprender 
+
+E: mjm
+
+I: e / pos el espíritu / este centrado / fuerte / pero a la vez sereno / lo fuerte no se pelea con lo sereno / lo fuerte / tranquilo
+
+E: mjm
+
+I: perceptivo // hay algo que me perturba / hay veces siente uno perturbación espiritual / y a veces sabes por qué / y a veces no sabes por qué / ¿qué es lo que me inquieta? / y el espíritu siente más / lo que podemos hacer es / entrar al siguiente / nivel que es la mente / la mente sí piensa
+
+E: claro / ese es su trabajo
+
+I: sí / donde radica el software / de paradigmas / y es la que debe encargarse de decir / espérame espérame / yo voy a ver / qué es lo que / está pasando / yo voy a diagnosticar / yo voy a ver / a llegar a un buen diagnóstico de la situación / y voy a encontrar alternativas y escoger aquella que / permíteme
+
+E: claro que sí 
+
+I: buenas tardes ah qué tal / ¿cómo estás? / todo muy bien gracias a dios / gracias / no / no no / dime // a ver / mjm ¡ajá! / ¿cuándo fue eso? / ah ayer viernes / ¡ajá! bueno / ¿tienes los teléfonos de Flavio // de Vale o alguien de ellos porque pues // por que yo personalmente poco / eventualmente Vale puede ayudarte / nomás que si decirte que no adentro evidentemente es bueno realmente sabemos que eventualmente / bueno / ahorita ¿cuántas? cuarenta y dos / no no / Flavio / es el cero cuarenta y cuatro ochenta y uno ochenta cincuenta y uno / cuarenta / cuarenta y dos / aquí vive / y si no pues se puede a Vale y si no a Juan / para servirte / que estés bien / bye / permíteme Juan 
+
+E: <tiempo = “25:11”/> claro que sí
+
+I: entonces en la meditación diaria / de esas horas que anda uno / caminando
+
+E: ¡ajá!
+
+I: pide fortalecer uno su espíritu con esas características / que su mente se conserve // abierta / diáfana / transparente / sin emociones / que ahí es donde la / la mente pierde 
+
+E: sí
+
+I: ¿verdad? 
+
+E: sí claro
+
+I: y este bueno también / trabaja sobre / fortalecer tu cuerpo o este / mantenerlo / funcionando / bien como decía mi médico cuando / en nuestra revisada anual / le llevo todo mi expediente de análisis de esto del otro y pues hay detallitos ahí que / la presión pues un poquito acá 
+
+E: claro
+
+I: y lo otro acá y / me dice está muy bien / muy bien / cómo dices que estoy bien mira / mira / dice / ¿no ha vendido un carro usado? / sí le dije hace poco vendí el de / mi mujer / de cinco años 
+
+E: claro
+
+I: ¿qué tal estaba el carro? / ¡hombre! pues para los cinco años estaba muy bien / pos así está usted ¡hombre! <risas = “E”/> / usted está como nuevo me dijo 
+
+E: claro / claro 
+
+I: ¿eh? <risas = “todos”/> 
+
+E: esas sabias palabras
+
+I: trabajamos sobre nuestro cuerpo 
+
+E: mjm
+
+I: y también trabajamos / somos / muy creyentes nosotros / de que / la realidad / está en tu mente 
+
+E: como que todo es percepción
+
+I: todo es percepción / cuando coinciden las percepciones / de varias personas / o de una multitud de personas / es cuando más o menos se acerca a la realidad 
+
+E: cuando coinciden
+
+I: o cuando coinciden / sí
+
+E: mjm
+
+I: cuando / coinciden / pero / la realidad la percibimos diferente
+
+E: por supuesto
+
+I: y construimos / nuestra vida sobre la realidad / percibida / realidad / percibida 
+
+E: ¡ajá!
+
+I: que es una percepción
+
+E: ¿en eso creen?
+
+I: sí / sí / oye esto este / ¿es bueno o es malo? / ¿es bonito es feo? / oye / este / ¿me caes bien o no me caes bien? / aquel la persona no sé qué hizo / y son puras percepciones 
+
+E: <tiempo = “28:54”/> mjm
+
+I: matizadas a través del sentimiento que le acaba de dar en la torre <observación_complementaria = “dañar”/> a las cosas
+
+E: mjm / un poco / pues prejuicios pueden también / intervenir / ¿cómo hace? bueno me da la impresión / e / evidentemente que es una persona muy tranquila / pero también una persona muy emprendedora / y / y muy trabajadora y / y muy en sus negocios / yo pensé que esas cosas no se
+
+I: no 
+
+E: no se juntaban / ¡ajá! / o sea tengo una percepción yo de la gente que es muy emprendedora y muy trabajadora / que es una / es gente que siempre está acelerada 
+
+I: ¿bidimensional?
+
+E: sí / sí sí
+
+I: bueno este sí eh / realmente si concebimos a la / personalidad como un a esfe- / un círculo / donde los radios / son las diferentes dimensiones 
+
+E: mjm 
+
+I: de la personalidad / el círculo no es perfecto 
+
+E: no claro / no / qué aburrido sería vivir así
+
+I: digo porque / no puedes tener / las diferentes dimensiones de tu personalidad / en el mismo grado de 
+
+E: claro / claro / claro
+
+I: entonces pos todos tenemos ¿verdad? este / si tu concibes el círculo y luego / el radio 
+
+E: ¡ajá!
+
+I: que indican las dimensiones de la personalidad pues tenemos uno / chiquito y otro más grande y / entonces es una / pues ni siquiera estrella digo eso es algo 
+
+E: sí / amorfo totalmente / pero ¿siempre ha sido / siempre ha tenido ese equilibrio usted / o siente que ahora lo ha adquirido más? 
+
+I: no definitivamente más sí 
+
+E: mjm
+
+I: totalmente / pos en / en algo / no en balde <observación_complementaria = “sin propósito o motivo”/> pasan los años ¿verdad? ¿eh? 
+
+E: claro / claro claro / em / en cuanto / o bueno volviendo un poco / a las / tradiciones de / de usted y de su familia / ¿qué otra cosa festejan / ustedes? 
+
+I: pos como te digo este / nosotros básicamente / todos los días este / decimos / yo luego / acostumbro / este / bromear / ¡ah! todos los días son domingo 
+
+E: <risas = “E”/> / ¿cómo es un domingo?
+
+I: pues se / se concibe / el domingo como un día de / pos de fiesta de esto de lo otro / alegría de pasearse y este
+
+E: mjm
+
+I: así es / todos los días
+
+E: mjm / se lo merece ya supongo / después de su trabajo 
+
+I: e / digo pos es saludable ¡hombre! / ¡qué caray! 
+
+E: mjm
+
+I: ¿sí? / oye / este / sobre todo yo que no tengo horarios / puedo ponerme a trabajar a las / dos de la mañana / las tres de la tarde / cuatro / cuando me viene la / dicen que por eso / los artistas y / la gente que se mueve en la farándula
+
+E: mjm
+
+I: necesitan la droga / para / para / para estar en 
+
+E: ¡ajá! 
+
+I: ua ua ua / porque si dejas que la ven a / literaria o artística // se manifieste
+
+E: mjm
+
+I: o necesitas esperar que se manifieste / como el pintor / tengo ganas de pintar pinto / no tengo ganas de pintar no pinto 
+
+E: no 
+
+I: a veces ten / me paso dos días sin comer / digo el / el artista 
+
+E: mjm
+
+I: expresándose / y a veces se pasan las semanas sin hacer nada / como podría / mantenerse siempre pos / chupándole por eso es que recurren a la droga / para estar high 
+
+E: en ese caso específico / mjm
+
+I: cuando no necesitas estar ahí / pues cuando venga la verdad / ¿eh? / cuando venga
+
+E: claro
+
+I: que / tú puedes desarrollar habilidades / para / saber manejar / el estado / mental / porque la mente / trabaja / en ciclos donde / las frecuencias cerebrales / se manifiestan / diferente si / se expresa gráficamente / eh dependiendo de / en un sueño profundo 
+
+E: <tiempo = “33:37”/> mjm
+
+I: las ondas / cerebrales se manifiestan como // como dunas / como
+
+E: sí
+
+I: como
+
+E: onditas 
+
+I: ondas / wav / sueño perfecto donde el cuerpo / el hipotálamo y no sé qué otras glándulas / generan / las hormonas del crecimiento / especial para / que son las que nos mantienen / más o menos
+
+E: mjm
+
+I: nosotros pos todos los días / desechamos células no sólo por la piel las uñas el cabello 
+
+E: mjm / mjm 
+
+I: internamente también / se mueren / las recoge el sistema linfático / los mete / las mete a las venas / las venas las meten al riñón el riñón / las filtran y siguen los años más o menos limpias / pero ahí van / células muertas / que hay que renovar / y la vejez / pos no es más que / una / e / falta de capacidad para regenerar nuestras células / la vejez física 
+
+E: mjm
+
+I: pos cuando se da un sueño / profundo / perfecto / es cuando se generan las hormonas del crecimiento / ¿verdad?
+
+E: mjm
+
+I: luego vienes tú / e las ondas alfa / que es unas ondas / poq- también suavesonas <observación_complementaria = “suaves”/> pero / no tanto como ondas delta / donde estás así adormilado / estás me dio
+
+E: entre que estás y no estás 
+
+I: entre que estás y no estás / ahí en el delta 
+
+E: mjm
+
+I: tranquilo / luego tienes las / eta- // que ésas son las especiales para / para / rediseñarse uno mismo / para reinventarse uno mismo / para / para / para hacer que tu misión de la vida / se fortalezca / y tienda a convertirse en realidad / es el / es el estado ideal para / reprogramarnos / o remodelarnos 
+
+E: mjm
+
+I: ¿sí? / y es el estado así / en donde te conviene o conviene uno / eh tratar de definir / o redefinir o fortalecer / la visión / des de la vida / en sus diferentes dimensiones / es donde me veo yo este / como campeón o me veo / derrotado 
+
+E: mjm 
+
+I: es donde me veo en armonía con mi medio me veo / es donde / donde / donde trato de visualizar con todo detalle a todo color ésa / la visión en sus / en en / en todo / en mi trabajo / mis relaciones con la familia / mi estado de salud / mi estado de ánimo / y dicen que lo que tú puedes concebir en tu mente / es más fácil convertirlo en realidad / lo que no puedes concebir en tu mente / ¡es más difícil! / hacerlo real
+
+E: claro / porque ni siquiera está en su primer paso
+
+I: pos sí tú quieres una casa vas a hacer una casa en la medida en que tengas / el detalle de esa casa / con todos sus rincones y en todos sus lados / mas fácil la puedes hacer 
+
+E: mjm 
+
+I: cuando dices casa
+
+E: <risas = “E”/> quiero una casa / entonces ¿funciona decir quiero una casa así y así y así / en tal lugar?
+
+I: tiende a / a que te / que / tú te vayas a / que eso se / se dé 
+
+E: mjm
+
+I: porque te mueve / a ti 
+
+E: claro
+
+I: hay un ejemplo que usaba cuando / cuando teníamos un ranchito mis hermanos y yo / me gustaba mucho / arar con tractor 
+
+E: mjm
+ 
+I: tractoriar / entonces en una parcela / si tú te subes a un tractor o a un automóvil / y fija / y te vas / quie- / dices voy a voy a / a roturar la tierra / pero vas viendo / así / a corta distancia / que el surco te sale todo
+
+E: <tiempo = “38:11”/> ¡ajá!
+
+I: chueco y todo / ¡ah caramba! me vine chueco hombre y mira nomás qué
+
+E: mjm
+
+I: en cambio lo que / hacíamos o lo que hacía yo que hacen muchas gentes así con ésos // tú vas con un tractor / y fijo la vista / en un punto / el punto de aquí a / coge un punto / allá / aquella palma que está allá detrás / de aquella 
+
+E: sí ya la vi / mjm
+
+I: y mantengo la vista fija ahí / y simplemente mantengo el tractor así / y sale derecho 
+
+E: ¿tiene esto que ver con los planes a corto y largo plazo / o esto es aparte? 
+
+I: están interrelacionados porque / aquí entramos a planeación de vida / y planeación de vida / incluye planeación de carrera
+
+E: sí
+
+I: entonces cuando entras tú a planeación de vida / a veces nos saltamos o a veces brincamos / primero / nuestros valores / pero valores / axiológicos / no valores / cardinales / o sea / valores axiológicos / ¿qué tiene para / valor para mí? / bueno pues tiene valor para mí este / la familia / la salud 
+
+E: la salud 
+
+I: en fin / trabajo y y empiezas / pos son / y hay maneras de dar / valor / a esos valores / un valor relativo no un valor absoluto / valor uno dos tres y cuatro y cinco
+
+E: claro
+
+I: hay manera / de ponderar / y cierta metodología para ponderar y decir / este vale / treinta puntos / y este vale / diecinueve puntos y este / no no es uno dos tres 
+
+E: mjm 
+
+I: cuando tienes tus valores claros ya estás en condiciones de decir bueno / qué objetivo quiero / para cada uno de esos valores / tratando de cuantificar y / o expresar / por un parámetro con qué 
+
+E: cómo hacerlo una meta
+
+I: hacer una meta / y luego pasas de estrategias / cómo / ¿me entiendes?
+
+E: sí
+
+I: y otra vez / metas más chiquitas más chiquitas hasta que llegas / metas del día / hoy / tengo / que / ir / a / buscar trabajo / hoy / pero ¿en función de qué? / de aquello que tú
+
+E: que yo ya había visto / ¡ajá! 
+
+I: ¿me entiendes? / entonces eso es / va de la mano una cosa con otra y de ahí se desprende pues las visión que quieres ver 
+
+E: ¿cómo se evalúa usted? 
+
+I: en / en 
+
+E: en / por ejemplo / ahorita que ya dice / este / llega en un punto en el que pasó como dice la estafeta a su hijo / las acciones ahora supongo yo que son / menos sistemáticas que antes o sea / sus días / o / o / ¿es igual?
+
+I: mjm / yo trabaje treinta años para una empresa
+
+E: mjm 
+
+I: trabajé veinte años en cervecería Cuauhtémoc 
+
+E: mjm 
+
+I: desde abajo hasta nivel dirección y luego / me pasé otros diez años desarrollando los socios 
+
+E: mjm
+
+I: fueron días / tremendos / de de
+
+E: de trabajo
+
+I: de trabajo / ¡olvídate! de todo lo que estamos hablando 
+
+E: sí claro / por supuesto / por supuesto
+
+I: ni idea tenía / treinta años / fue hasta a los / cuarenta y tantos / que / dando vuelta / ya los hijos ya estaban / en faculta d
+
+E: mjm
+
+I: ya estaban saliendo / y ya / empezamos a / y creamos un modelo de nuestra vida / una visión de nuestra vida
+
+E: ¿usted en con conjunto con su esposa? 
+
+I: <tiempo = “42:19”/> compartimos / compartimos 
+
+E: mjm 
+
+I: a ella le pido / su opinión siempre / y bien este / me retroalimenta y / y ella tiene sus / sus cosillas mira ella orita anda en un / curso taller o seminario yo no sé qué / me burlo de ella porque digo no / andas / con los alcohólicos anónimos <risas = “E”/> / no no / anda en un diplomado de / no sé qué / de autovaloración
+
+E: ¡ajá!
+
+I: va / una vez al mes se va en la mañanas ¿sí? por ejemplo / viernes sábado y domingo se va temprano y viene hasta en la noche / pues mientras ando yo viendo / voy / bajo a la oficina / las oficinas están aquí 
+
+E: mjm
+
+I: voy por un rato porque no me quieren ahí 
+
+E: ¡ah! ¿no? 
+
+I: oye papá ¿no tienes nada qué hacer papá? <risas = “todos”/> / eso es lo que / bueno no no / está bien ya me voy nomás / esto y esto y esto y esto y esto y / ya les señalo cuatro o cinco puntos / ¿verdad? / y este / y ya / me retiro / a mis habitaciones <risas = “E”/> / me pongo a trabajar / me paso varias horas / en mi laptop ahí / y este / como te digo me levanto a las cinco / me levanto a las cinco / hago ejercicios a las seis / seis y media 
+
+E: mjm 
+
+I: recojo el periódico Flavio / me ayuda a recoger pero / él recoge más tarde los de los demás yo voy por el mío a la puerta 
+
+E: mjm
+
+I: leo el periódico / me meto a ver las noticias eh / las noticias / que salieron en el día / a nivel mundial / las más sobresalientes 
+
+E: mjm
+
+I: ya / me tomo mi desayuno todopoderoso que tengo muy especial un desayuno / ¡superpoderoso! / y no / es todo lo que hacemos 
+
+E: ¿a qué se refiere con poderoso?
+
+I: es un licuado / tremendamente balanceado
+
+E: mjm
+
+I: desde el punto de vista de / carbohidratos proteínas y grasas
+
+E: mjm
+
+I: todo natural
+
+E: mjm
+
+I: ya me tomo mi licua do / me preparo mi termo de café / y empiezo a jalar / y allá ti ti ti ti hasta la una / te hablo de ocho a una / mano 
+
+E: mjm
+
+I: ya es la una ya / empiezo a ver que hay de comer / me caliento // media hora de siesta / ya con la fresca de las tres abro un ojo y / y ahí es / la parte más pesada mío / de tres a / seis
+
+E: ¿qué pasa en ese / tiempo?
+
+I: como que / yo me fija / como que estoy ya programado para hacer muchas y / soy sumamente creativo / sumamente eficiente y eficaz // de ocho a una
+
+E: mjm
+
+I: soy / tremendo / genero / todo 
+
+E: mjm
+
+I: todo el día pa / pa / pa / y ya de las tres a las seis / es un punto del día donde / ya / ya no no me da por / por / por crear / vuelvo a bajar a la oficina <risas = “E”/> / y al ratito me corren <risas = “E”/> / ¿eh? / ando viendo / sin rumbo viendo aquí y allá / llegan las seis de la tarde / y entro a mi televisor
+
+E: mjm
+
+I: ¡ah! / ocupo / ése de tres a seis / cuando no hay más así por eso / tengo siempre dos tres libros de cabecera <risas = “I”/> 
+
+E: ¿qué está leyendo ahorita?
+
+I: y orita / estoy muy ocupado / por un libro que se llama las / estrategias de la guerra 
+
+E: <tiempo = “46:39”/> ¡ajá!
+
+I: que / siempre había / ya había leído un poco a Maquiavelo y todo eso pero ora hay un autor y se ha vuelto muy popular últimamente / de de / de cómo guerrear / pero sí / aquí la guerra es / es constante / la guerra / es permanente / la guerra / tu principal enemigo eres tú mismo
+
+E: okay 
+
+I: entonces todo reto es una guerra / ¿sí? no hay que tomarlo literalmente 
+
+E: sí todo reto es una guerra / tú tratas de convencer a alguien / ya es una guerra
+
+E: claro
+
+I: tratas de posicionar 
+
+E: tu idea
+
+I: sí / en la mente del otro
+
+E: mjm
+
+I: y hay una guerra / en fin / hasta guerras de / de a de veras <risas = “I”/> 
+
+E: mjm
+
+I: entonces dice ahí una serie de estrategias / y / se ha hecho / ese / debe ser / el libro / de las treinta y tres estrategias de la guerra / extraídas allá de / de los chinos y de Maquiavelo 
+
+E: mjm
+
+I: y te ejemplifica mucho / las guerras / bélicas
+
+E: mjm
+
+I: cómo se jugaron y cómo / guerras políticas / por ejemplo
+
+E: qué interesante
+
+I: es / está entretenido y / quiero hacer una sinopsis de eso 
+
+E: mjm
+
+I: bueno una sinopsis de eso / luego también me pongo a escribir / tengo algunos / articulitos / me / yo escribo para mí mismo
+
+E: sí
+
+I: entonces tengo un / un artículo que / de cómo modelar mi vida / porque yo eso que te estoy diciendo lo tengo escrito / porque tengo un artículo sobre eso
+
+E: mjm
+
+I: tengo otro artículo sobre el poder / donde te vas al poder corrompe / y el poder absoluto corrompe / ¡absolutamente! / tengo otro artículo donde digo / los que más tenemos somos los que más contaminamos
+
+E: mjm
+
+I: axioma / es axioma / no es discutible / espérame espérame / no / el que más gana / tiene más recursos // el que tiene más recursos / demanda más productos y servicios
+
+E: mjm
+
+I: todo producto y servicio para ser producido / todo todo todo
+
+E: mjm
+
+I: en el noventa y nueve por ciento / consume petróleo o carbón
+
+E: sí
+
+I: al consumir petróleo y carbón contaminas / la contaminación no / no respeta fronteras
+
+E: no
+
+I: contaminamos al vecino y al vecino y al otro país y por eso
+
+E: sí tan es así que precisamente acabo / compré la / una verdad inconveniente y / Estados Unidos es el país que más contamina / ahí está
+
+I: porque está más consumiendo 
+
+E: claro 
+
+I: ¿sí? 
+
+E: claro
+
+I: entonces tengo un / un articulito sobre eso y cómo / los que / por eso es una razón muy fuerte para que los que más / tenemos debiéramos pagar más impuestos 
+
+E: mjm
+
+I: pero que / vigilemos que esos impuestos / en buena parte se orienten / a la / a la / a la / a la / mejoría del medio ambiente
+
+E: mjm
+
+I: a restañar las heridas que causamos
+
+E: claro específicamente
+
+I: específicamente
+
+E: mjm
+
+I: por eso / me cayó / tremendamente bien / primero que el impuesto sobre de la gasolina se haya puesto
+
+E: mjm
+
+I: el que más / gaste gasolina que pague más 
+
+E: claro
+
+I: y que eso se oriente a / a a a / al medio ambiente / donde / parte del medio ambiente / algo que tenemos nosotros sumamente mal es el transporte colectivo
+
+E: mjm
+
+I: donde / por qué tenemos que usar tanto un auto cuando pudiéramos usar transporte colectivo 
+
+E: mjm
+
+I: como en otros países desarrollados
+
+E: claro
+
+I: y entonces a nivel personal tú terminas este / bueno / termino concluyendo que mientras pongamos por delante / a nivel personal o a nivel país / el crecimiento económico / antes que el bienestar / inexorablemente vamos // a aceptar a la humani- / a otros 
+
+E: sí / por supuesto / ¿cuántos años tiene usted discúlpeme?
+
+I: <tiempo = “51:27”/> setenta
+
+E: setenta / hace / no sé / cuarenta años / cincuenta años / ¿cómo era usted? / ¿se recuerda todavía bien?
+
+I: sí pues estaba / hace / hace / hace veinticinco años / estaba yo desarrollando los Suburbia era una locura 
+
+E: mjm
+
+I: una locura tremenda de / en en / en mi trabajo 
+
+E: mjm
+
+I: de creatividad 
+
+E: mjm
+
+I: de crear / porque siempre me ha / no sé siempre me he / visto impelido yo a crear / y esa es la razón por la que tomé los OXXOs <observación_complementario = “tienda de conveniencia”/> cuando empezaron / ¡muy difícil! muy difícil negocio en serio ¿eh? / este / de crear algo / grande / el hacer esto / pues es crear algo
+
+E: claro
+
+I: primero / un beneficios / en segundo lugar / yo para mí / y menos lograr porque siquiera lo voy a disfrutar yo <risas = “E”/> 
+
+E: no pero de alguna manera / pos como usted me lo dice lo ha disfru- / lo está disfrutando a lo máximo
+
+I: estamos disfrutando el hacerlo
+
+E: mjm / muy bien / ¿alguna vez ha estado en peligro de muerte señor?
+
+I: sí / sí me tocó un / un terremoto muy grande no me acuerdo ni en que año fue en México 
+
+E: mjm / ochen- / el / ¿el más grande el del ochenta y cinco?
+
+I: sí
+
+E: mjm
+
+I: sí yo estaba en la ciudad de México / y este / regularmente yo por motivos de negocios llegaba a un hotel / el Camino Real que está cerca del / del parque Chapultepec 
+
+E: mjm
+
+I: que / que es muy bajo 
+
+E: mjm
+
+I: son cuatro pisos y / y / es muy bajo muy bajo / y pos llegaba ahí porque me levantaba a trotar iba al parque / y esa vez me pidió mi jefe que fuera / a encontrarme con él / en el Hilton 
+
+E: <tiempo = “53:27”/> mjm
+
+I: ahí por reforma / que tenía sus tres torres / el Hilton era un hotel de tres torres 
+
+E: mjm
+
+I: y este / bueno llegué ahí / nunca había ido ahí / y le digo a / al administrador / deme / deme un piso de abajo / dijo no tengo más que en el cuarto piso / bueno / échame el cuarto piso 
+
+E: mjm
+
+I: y entonces llegamos / trabajamos esa noche / hasta como a la una de la mañana / y fue a la siete que se vino el terremoto y yo / regularmente ya estaría levantado y hubiera ido a trotar / pero me había desvelado
+
+E: claro
+
+I: y fue cuando este / pos se colapsó esa torre / eran doce pisos y y todo moviéndose
+
+E: eso lo despertó
+
+I: sí
+
+E: mjm
+
+I: y este / ¡ah! y / y moviéndose la cama / y los vidrios tronando / balanceándose todo
+
+E: y usted en el cuarto en medio 
+
+I: y tratas / tratas de abrir la puerta y no puedes porque se traba
+
+E: mjm
+
+I: no podía abrir la puerta / entonces me puse en un rincón así / pasé revista a toda mi vida me arrepentí de todos mis pecados pero ¡así! en / diez segundos compadre / todo / pasa a una velocidad de película / ¿eh? / pasa mí vida / te pasa la vida / total me encomendé a / me encomendé a dios y a mi familia ¡ah! y / volví a forcejear con la puerta hasta que la abrí / salgo al pasillo todo / lleno de polvo a oscuras y la fregada / yo ya sabía donde estaba la puerta porque siempre / este me había / habituado a / a decir / antes de llegar / donde están las salidas de escape
+
+E: ¡ah! muy bien
+
+I: ¡ah! pos aquí está / en fin / sí la tenía loca 
+
+E: mjm 
+
+I: siempre / siempre no sé por qué / siempre he sido
+
+E: mjm
+
+I: y me voy a la / a tientas a la escalera y ca- / y había otros tratando de abrirla / y no podían por lo mismo / total entre todos la abrimos y caían / muros / y caían / vidrios / llovía así / aquí así caían caían caían / entonces queríamos salir / y pos no nos aniba- / animábamos 
+
+E: mjm
+
+I: porque / moviéndose todo y cayendo / escombro
+
+E: ¿pedazos muy grandes?
+
+I: muros completos / total ya le / se para / y este / y descanso obviamente / justo me puse un pantalón / y bajar la escalera / y como se había roto / y había quedado la escalera / pues a lo mejor a la altura de la / teja / no sé 
+
+E: mjm
+
+I: pos había que saltar <risas = “I”/> / pos a saltar descalzo / sobre vidrios y escombro 
+
+E: ¡agh! 
+
+I: afortunadamente sólo me herí poquito en los pies
+
+E: <tiempo = “56:38”/> mjm
+
+I: con los vidrios / y ya me fui a / a Reforma / contemplar aquello ahí / pesado / tremendo / muertos y // y ahí tuve / ahí ahí sí la vi muy cerquita
+
+E: ¿cuánto tiempo estuvo ahí después del / del terremoto?
+
+I: no / en eso ya fueron por mí porque ya habían quedado de ir por mí / las gentes de / la empresa / y ahí estoy yo afuera haz de cuenta los perritos de la pradera así arriba de los escombros <risas = “E”/> / y llegan y este / me llevan / y ya / me llevan a Cuernavaca 
+
+E: ¿ya no supo más? / no pero qué difícil entonces eso de que ver la vida pasar uno así es verdad / ¿y supo que era un terremoto? / o sea ¿en ese momento que estaba pasando sí piensa // es un terremoto? 
+
+I: sí porque / porque / ya me había tocado otros ligeros donde / yo había esta d o varias veces ahí en / la ciudad de México y cuando / de repente y bueno / qué tengo en la vista o algo porque ves que empiezan las cosas / a moverse / a la primera vez dices bueno tan / estoy / mal 
+
+E: estoy mareado o algo / sí 
+
+I: pero ya después dije no pues / se está moviendo 
+
+E: qué impresión / ¿tiene usted? / eh / ¡vaya! / tiene supongo que / metas / personales todavía / que // no ha alcanzado / ¿y todavía existe un deseo para usted / un deseo de mejora económica? / ¿ya no?
+
+I: per sé no / a lo mejor indirecta / lo que / y nosotros buscamos / terminar el desarrollo / nos falta un edificio / estamos empezando 
+
+E: mjm
+
+I: pero ese edificio se va a llevar no menos de unos cinco años más 
+
+E	: mjm
+
+I: <tiempo = “58:31”/> entonces orita / orita la orientación es a terminar el desarrollo / con las consecuen- / digo que traiga lo que tenga que traer
+
+E: claro claro 
+
+I: pero no por el / dinero / sí a veces piensa uno / que este a veces dicen los padres no / voy a trabajar muy duro para dejarle a los hijos / a los hijos hay que dejarles formación 
+
+E: mjm
+
+I: educación que no es igual
+
+E: claro / educación en la escuela y supongo que formación es dentro de la casa
+
+I: bueno sí / educación así // yo creo / es más que nada / información
+
+E: claro
+
+I: erudicción / y formación tiene que mán- / ver más con / con madurez con / sabiduría
+
+E: mjm
+
+I: tú dices / ¿quién es más sabio / este / el que se gradúa de / la universidad / o el campesino? / puede ser más sabio el campesino 
+
+E: sí claro que sí / sí sí sí 
+
+I: ¿quién sabe más? / pos el que se gradúa de la universidad pero no necesariamente es el más sabio / ¿quién es el más rico? / el que menos necesita / yo tengo / cuatro / de mis hijos
+
+E: mjm
+
+I: hice un modelito para ver quien era más rico de los cuatro
+
+E: mjm
+
+I: y la más rica de mis hijos es / mi hija que está en Toronto
+
+E: <tiempo = “60:06”/> mjm
+
+I: en Canadá / son tan simples en su vida / son / se conforman con tan poco
+
+E: mjm
+
+I: material / que si a yo todos / dejara lo que tengo por partes iguales / ella es la más rica / porque le permitiría vivir ¡más años! con lo que le deje / que los otros / que con lo mismo que les deje / vivirían menos años porque gastan más para vivir
+
+E: ¿hay una relación entre lo que gastas y lo que vives?
+
+I: si tú les / si yo les dejo a cada uno / un millón 
+
+E: mjm
+
+I: pero uno vive // con diez mil pesos
+
+E: mjm
+
+I: y otro necesita para vivir / cincuenta mil 
+
+E: mjm
+
+I: ¿a quién le dura más / el millón?
+
+E: a / a quien gaste diez mil pesos / por supuesto
+
+I: es el más rico
+
+E: mjm
+
+I: tienen igual / un millón / dices ¿son iguales de ricos? / no / ¿ves el concepto de la riqueza?
+
+E: sí / sí sí // pero / ¡vaya! / este / y voy a ser muy atrevido yo al hacerle esta pregunta pero / viniendo de una persona / que tiene / que está en una posición económica bien / ¿no es como / no sé si lla- / cómo llamarle / egoísta / o / o / pretencioso pensar que el dinero no hace la felicidad?
+
+I: ¿qué si no es pretencioso?
+
+E: ¡ajá! / o / o ¡vaya! / o poco humilde o no sé como llamarlo / ¿me explico? / no sé si me esté explicando 
+
+I: bueno / yo / a ver si te entiendo
+
+E: mjm
+
+I: definitivamente el dinero por sí mismo no hace la felicidad
+
+E: no / no
+
+I: el dinero por sí mismo
+
+E: mjm
+
+I: hay otras cosas que son / la verdadera / felicidad / que si de además la aderezas con dinero bueno pues
+
+E: claro / a a / okay / entiendo / ya / es es / a eso quería llegar / muy bien
+
+I: no se excluyen / pero lo fundamental no es el dinero
+
+E: mjm
+
+I: ayuda / absolutamente <risas = “I”/> 
+
+E: ¿y eso lo aprendió a / después de un tiempo / o siempre tuvo eso en mente?
+
+I: pos nunca tuve chanza de pensar <risas = “E”/> / en aquellos años no / no tenía chanza de pensar
+
+E: mjm
+
+I: yo estaba en una organización n / tuve la oportunidad de estar en ella / me dieron chamba <observación_complementaria = “trabajo”/> / empecé a / a trabajar / me / me premiaban mis / mis logros / seguía para arriba y seguía escalando la pirámide
+
+E: mjm
+
+I: cuando escalas una pirámide // de dinero / de poder y todo eso llega un punto donde llegas allá arriba y dices / ¿y ahora para qué? 
+
+E: ¿y luego? ¡ajá!
+
+I: y ves otra pirámide allá / que es más alta y te vas / empiezas a escalar escalar / escalar / escalar / escalar / pisando / golpeando / llegas arriba y dices ya llegué a donde / no / ¡hay otra! más grande / nunca / acabas / de / escalar / la pirámide más alta
+
+E: <tiempo = “63:52”/> claro
+
+I: es la más alta que tienes a la vista / pero no es la más alta que pueda haber / ¿cuál es el cerro más alto? / ¿éste?
+
+E: ¿de dónde? / ¿de aquí?
+
+I: ¿éste? / pos sí éste / sí pero / en ¿relación a las Himalayas?
+
+E: claro / no no no / claro
+
+I: no las ves / te subes aquí al cerro y ves la sierra más alta allá / te subes a la sierra y ves allá / y 
+
+E: y ¿cuándo paras?
+
+I: nunca
+
+E: y ¿es sano no parar nunca?
+
+I: si no / ¿cuál es tu principal objetivo? / tu principal objetivo al escalar la montaña es / una / sentir el poder de esc / de de a / de de escalar / de llegar a la cima / o disfrutar el camino de 
+
+E: yo creo / yo creo que es eso 
+
+I: ¿hm?
+
+E: sí porque luego se acaba y es // ¡ah! / ya se acabó // sí tiene toda la razón / claro que sí
+
+I: oye Eduardo no te he dejado hablar a ti ¡hombre!
+
+E: no yo no tengo que hablar de hecho / es la idea / y ya estamos por terminar yo le agradezco que me esté compartiendo estas cosas y le agradezco / mi atrevimiento que realmente hay una / por cuestión personal yo se lo estoy preguntando porque / sinceramente le digo me parece una persona muy impo- / ¡muy muy! interesante / y de quien / hay mucho que aprender / de verdad / entonces este / por eso esas preguntas pero realmente sí yo ya me estoy saliendo un poco <risas = “E”/> / pero / para regresar y / este / una anécdota y aho / ahora sí un poco más específico / una anécdota importante / en su vida / que sienta que le haya cambiado la vida
+
+I: ay / ay / ay
+
+E: o una de las / no sé diez quince que haya tenido / no tiene que ser una la / ésta / pues como que la más / que sienta que le haya cambiado la vida
+
+I: sí / ¿trascendentes dices tú? 
+
+E: mjm mjm
+
+I: porque hay anécdotas divertidas
+
+E: claro <risas = “E”/> 
+
+I: ¿verdad? / hay este anécdotas de aventuras / hay / anécdotas profesionales / pero que haya influenciado mi vida ¿verdad?
+
+E: de alguna manera
+
+I: ¡caray!
+
+E: o que recuerde / con mucho agrado
+
+I: bueno definitivamente cuando encontré a mi mujer
+
+E: mjm
+
+I: porque este / yo allá en mi pueblo / pos la realidad / tenía buen pegue yo <risas = “E”/> / y este / pero / mi papá que / pos teníamos cierto nivel / económico / vivía abajo de su nivel económico mi papá / como debe ser / nos hacía trabajar / nos hacía barrer / teníamos / la calle / nos hacía barrer la calle / nos hacía / hacer pozos / mi hermano y a mí teniendo / doce años yo y él once nos hizo hacer una noria // sacar agua / de un pozo 
+
+E: <tiempo = “67:26”/> <risas = “E”/> ¿en serio?
+
+I: este era / era / mi padre era carajo / bien bueno pero nos trataba así / de veras / de / trabajar / físicamente
+
+E: mjm
+
+I: tremendo / muy cortos en lo / tan / y lue- / el colmo de él fue que / este / nos puso / en el colegio en el pueblo / más / haz de cuenta el Irlandés 
+
+E: mjm
+
+I: que no correspondíamos económicamente al nivel de esa escuela
+
+E: mjm
+
+I: estaba / estaba más allá 
+
+E: ¡ajá!
+
+I: y / pero nos puso ahí / entonces nosotros entramos a un ambiente / que no nos correspondía / ni económicamente 
+
+E: socio
+
+I: ni / socialmente / culturalmente / eran los ricos / riquillos del pueblo y muy ricos
+
+E: ¿en Piedras Negras?
+
+I: sí / eso / era canijo / entonces mi hermano y yo ¡chihua! nos sentíamos así / de veras / nos sentíamos mal 
+
+E: mjm
+
+I: y pero este pues / las muchachas / nos buscaban / estamos hablando de primaria 
+
+E: mjm / mjm
+
+I: nos mandaban recaditos que si querían ser tu novia / pero / qué / nos sentíamos / cohibidos
+
+E: mjm
+
+I: y así nos educó / este / él / entonces yo siempre veía / entramos a la secundaria / secundaria también / pues ya era ya era más / ya estábamos más revueltos ahí / socio / lógicamente / socioeconómicamente / pero seguía yo viendo / que aquellas muchachas / eran de otro nivel / y por alguna razón que / que / me / aprendí yo / o lo intuí yo / no busques pareja así desnivelada // bueno / es recomendable
+
+E: sí claro / mjm / mjm
+
+I: que sea alguien / de tu pelo / socioeconómicamente / culturalmente / pero ni así / ni asá 
+
+E: mjm
+
+I: porque a la hora de la hora
+
+E: sí / sí por más amor los problemas se vienen
+
+I: sí / te va a dar / si / si pescas una de un nivel socioeconómico / te va a traer así pues porque la tienen acostumbrad a a otra cosa
+
+E: un nivel de vida / sí
+
+I: y si te toca así una así / pues / muy humildita así / pos al rato tú vas a querer una compañera / pos que esté
+
+E: con quien puedas hablar al mismo nivel 
+
+I: sí / sí sí / incluso / que se te / que no te rinde 
+
+E: que te confronte 
+
+I: que no te rinda pleitesía 
+
+E: ¡ajá! / claro / mjm 
+
+I: a principios / a lo mejor que quiero así tenerla apachurrada allá / pero eso no va a durar 
+
+E: ¡ajá!
+
+I: tú vas a necesitar alguien que // entonces yo soñaba / con encontrar acá en Monterrey a a / a la que era / a la que iba a ser mi compañera / en mis sueños así en mi visión / y así pasó / y así pasó vine y la encontré acá y / ya
+
+E: ¿dónde la conoció?
+
+I: <tiempo = “71:19”/> la conocí en un baile 
+
+E: mjm
+
+I: la conocí en un baile / y este / yo creo que eso / pero con todo esa 
+
+E: claro claro
+
+I: antecedente que se da
+
+E: mjm / com / lo hacen
+
+I: sí / yo creo que / fue muy determinante para nosotros esa / esa manera en que nos educaron / ¿verdad? / que no nos educaron al nivel / socioeconómico / que había 
+
+E: mjm
+
+I: que no / bájate para abajo / no no no hacíamos tareas / ¡tremendas! / lo que te platique es poco lo que nos ponía a trabajar mi papá / mi papá tenía / criaba gallinas / y y / y huevos y / una avícola / pues unas mil gallinas / pero era la creencia que no debían estar en jaulas / si no que debieran andar así / pescando piedritas y gusanitos y animalitos 
+
+E: mjm 	
+
+I: tienen huevos realmente / orgánicos 
+
+E: mjm
+
+I: no se usaba esa palabrita // y entonces / pos todavía andaban las gallinas en un área así bastante grande / pero pues / como que él veía yo creo que se acababa de / el alimento así
+
+E: mjm
+
+I: y un buen día dijo / tenía un tractorcito de esos de motor que va uno atrás
+
+E: mjm
+
+I: dijo / ábranme surcos así / a todo lo largo / pos ahi andábamos mi hermano y yo / bueno / ya / ¿ya están los surcos? / ¿ya están? / arados // y un buen día // llega mi papá / acostumbraba silbar silbaba muy fuerte
+
+E: mjm
+
+I: ¡eh! / vengan para acá / vengan / y venía un camión entrando de reversa / esos de volteo
+
+E: mjm
+
+I: llega / y le jala la palanca para que levante la caja
+
+E: mjm
+
+I: voy y que abre aquello / vientres / de vaca / de res <risas = “E”/> sí con / la / la panza /¿has visto alguna vez? 
+
+E: sí 
+
+I: ¿las has visto? / ¿eh?
+
+E: sí
+
+I: ¿sí? / unas bolsotas así
+
+E: sí
+
+I: unos diez vientres cayendo del camión / ¿eh? / ¡hijuesu! 
+
+E: y ¿eso para qué? 
+
+I: y entonces / ¡traigan la carretilla! y en la espalda / ¡pésquenlos bien! / y a / y a pescar aquellas cosas / difíciles de 
+
+E: sí / sí / sí 
+
+I: de agarrar así / estábamos nosotros / doce años / diez / a tirarlas en lo que habíamos arado / reventar aquello <risas = “E”/> / taparlo para que se generaran gusanos que las gallinas se comieran 
+
+E: <tiempo = “74:26”/> se co ih /¡trabajando para las gallinas! 
+
+I: in / su madre / ¡qué bárbaro! 
+
+E: ¿y sí funciona?
+
+I: pos no sé / todos la la / la jay sosay de ahí de Piedras Negras / iba a comprarle los huevos que se producían en la / las gallinas de ahí
+
+E: qué / impresión
+		
+I: ¡nombre qué va! / ya te digo haciendo norias haciendo pozos haciendo / albañilería en general / pintura en general / todo eso hacíamos nosotros mi hermano y yo / pero / pos te / te hablo de / de chavitos / doce años / no / a los quince años me mandaron a Monterrey / cuando me dijo oye ¿qué quieres estudiar? / pos no sé / allá en la frontera es una vida muy especial en broncas / de 
+
+E: sí
+
+I: chucheritos / desde burdeles 
+
+E: sí sí 
+
+I: pos no no no / bueno ¿no quieres ser este / arquitecto? / y conocía un arquitecto que / que le estaba construyendo una casa a mi papá 
+
+E: mjm
+
+I: pues muy finito él así 
+
+E: mjm
+
+I: no / no <risas = “E”/> / bueno / ¿no quieres ser este / abogado? / y así a / a una cuadra vivía un abogado / grandote / nunca / ¿te acuerdas de Pedro el malo de los monitos?
+
+E: sí
+
+I: haz de cuenta / Pedro el malo
+
+E: <risas “E”/> macizo 
+
+I: no / le dije no / bueno / ¿no quieres ser doctor? / en la secundaria / teníamos alberca y para usar la alberca necesitábamos credencial / y para tener credencial teníamos que ir con el doctor de la escuela / y el doctor nos daba unas manoseadas / ¿quieres ser doctor? / no <risas = “todos”/> / ¿eh? / ¡a la fregada! / entonces / ¿quieres ser contador? / y tenía / había / y pro- / iba a comprar huevos / señor Cedillo / señor así bien puesto / de buena presencia / sí quiero ser contador 
+
+E: ese fue su examen profesional 
+
+I: sí <risas = “I”/> / ¡hazme el favor hombre! / ¿eh? / entonces son anécdotas / si algo te sirve <risas = “I”/> 
+
+E: claro que sí 
+
+I: algún día 
+
+E: y ¿fue contador?
+
+I: sí / pero / me gradué de contador / y sacaba buenas calificaciones 
+
+E: mjm
+
+I: copiando 
+
+E: hm <risas = “E”/> 
+
+I: y / sacaba de veras nos / nos daban trabajos de contabilidad / nos daban una carpeta / que traía ahí / pues que cheques y / por / pasen esto / a los libros / ¡chin! / yo por andar de novio no / entonces le decía / a mi amigo / oye / pásame / el trabajo / ya me pasaba los libros / hechos / yo me dedicaba a copiarlos / y sacaba mejor calificación / hey / ¿por qué tú? / <risas = “E”/> / pos es que mejoré tu letra güey <risas = “todos”/> / ¿eh? / y este total ya me recibí / me mandan a hacer este / me metí a una / un despacho 
+
+E: <tiempo = “78:05”/> mjm
+
+I: y iba a ir a / Casa la Daga / donde había que hacer la auditoría / y había que hacer las conciliaciones bancarias / ora ponte a hacerlas / no supe // bueno pasé una vergüenza enorme / pasados los años / y empezando esto / comenzamos con esa casa 
+
+E: mjm
+
+I: y un compadre me trajo / al rector del tecnológico
+
+E: mjm
+
+I: y viejito viene el ingeniero García Roel / y lo trajo aquél pos para ver si quería vivir aquí / total vio ahí mi título / ¡ah! dijo entonces tu fuiste / alumno mío / alumno de el pero / bueno / como rector
+
+E: mjm
+
+I: dije sí ingeniero / ¡mira! / entonces te recibiste de contador / sí ingeniero pero / estuve apunto de demandarlo <risas = “E”/> / y ¿por qué? / porque fui un fraude / me hicieron fraude ustedes / me dijeron que era contador 
+
+E: no era cierto 
+
+I: <risas = “I”/> y así vivo diciendo
+
+E: ¡ajá!
+
+I: y luego ya en mi carrera nunca fui contador / la carrera profesional / y vivo diciendo eso ¡n’ombre! yo andaba demandando por fraude a estos cabrones <risas = “I”/> / y antenoche me dice un vecino no pero tú eres contador me dice / de papeles compadre <risas = “todos”/> / sí / ¿eh?
+
+E: qué bien / qué bien / e / bueno / ya para pasar ahora / este / le voy a hacer unas preguntas y ya / ahora sí es / va a ser más 
+
+I: ora sí 
+
+E: pregunta y respuesta ¿verdad? pero sí realmente sí necesitamos este preámbulo para / para luego ya poder continuar / e / su nombre completo ¿es? 
+
+I: ________ 
+
+E: mjm
+
+I: ________ con u 
+
+E: mjm
+
+I: <tiempo = “80:05”/> __ __ _____ 
+
+E: mjm // setenta y / ¿qué me dijo?
+
+I: setenta
+
+E: setenta / ¿es casado?
+
+I: sí 
+
+E: ¿cuál es la dirección de usted?
+
+I: Camino Real dos noventa y ocho guión cincuenta 
+
+E: dos noventa y ocho 
+
+I: Faisán
+
+E: guión cincuenta colonia
+
+I: colonia El Faisán
+
+E: mjm // ¿esto es Santiago?
+
+I: mjm
+
+E: ¿su teléfono es?
+
+I: ocho dos / seis seis / cero cinco / cero dos
+
+E: ocho dos / seis seis / cero cinco / cero dos // entonces son / civilmente católicos
+
+I: civilmente católico
+
+E: entonces usted es originario de Piedras Negras ¿trabajó en / este / en / estando allá en Piedras Negras?
+
+I: no
+
+E: no solamente lo que hacía / el trabajo que hacía en su / bueno solamente en su casa
+
+I: sí / esclavo de mi papá 
+
+E: mjm <risas = “E”/> / <risas = “I”/>¿aparte de Monterrey y Piedras Negras ha vivido en algún otro lugar? / ¿de dónde / era su papá?
+
+I: de Eagle Pass Texas 
+
+E: mjm / ¿y su mamá?
+
+I: lo mismo
+
+E: igual / mjm / su abuelo paterno ¿sabe de dónde era?
+
+I: ¡ha y compañero! / mi / es la primera vez que / que me pongo a pensar en eso / la realidad no sé
+
+E: ¿no? / ¿no sabe? / y de ninguno de sus abuelos
+
+I: sí / de mis abuelos maternos 
+
+E: <tiempo = “82:21”/> mjm
+
+I: son de Piedras Negras
+
+E: okay / okay / ¿en su lugar de origen cuando usted / eh / en el momento que usted se vino para acá para Monterrey había escuelas?
+
+I: sí
+
+E: sí / ¿de todos los niveles? / ¿primaria secundaria preparatoria / técnicas?
+
+I: hasta preparatoria y técnicas
+
+E: mjm / ¿tenían servi-? 
+
+I: normal 
+
+E: ¿mh?
+
+I: había una normal
+
+E: mjm / ¿servicio de luz?
+
+I: sí
+
+E: ¿bancos?
+
+I: sí
+
+E: e / ¿algunos / el / o alguna clínica o algo así?
+
+I: que yo me acuerde no
+
+E: ¿carreteras?
+
+I: sí
+
+E: ¿teléfono?
+I: sí
+
+E: ¿internet? 
+
+I: no
+
+E: claro / entonces ¿cuánto tiempo lleva viviendo en Monterrey?
+
+I: cin- / cuarenta y seis y siete cincuenta y tres años
+
+E: mjm / ¿se vino a vivir aquí por educación? / primero 
+
+I: mjm
+
+E: mjm / ¿tiene alguna / afición / o pasatiempo?
+
+I: leer 
+
+E: mjm
+
+I: bueno / este / e / caminar
+
+E: mjm 
+
+I: leer
+
+E: mjm / eh / ¿acude usted al cine?
+
+I: rara vez
+
+E: mjm
+
+I: pero si me dices que si vemos películas / vemos bastantes / ya sea de / por DVD 
+
+E: ah okay / eso / ahorita / sí / sí / sí le voy a preguntar eso / entonces al cine casi nunca va / y cuando llega a ir / ¿prefiere películas mexicanas o extranjeras / o de las dos?
+
+I: extranjeras // de // costumbristas 
+
+E: mjm
+
+I: o de suspenso
+
+E: mjm
+
+I: m / comedias 
+
+E: mjm
+
+I: no / Arnol Chuarsenager ni Silvestre Stalón 
+
+E: ¡ah! qué bueno <risas = “todos”/> 
+
+I: no / dramas
+
+E: mjm / okay / ¿escucha usted la radio?
+
+I: no // noticias no 
+
+E: no ve noticias tampoco ¿de verdad? / y pareciera que está / extremadamente informado del mundo
+
+I: por periódico e internet sí 
+
+E: es por periódico / mjm / mjm / mjm y ¿sí ve televisión?
+
+I: sí / más de lo que
+
+E: ¿más de una hora al día?
+
+I: sí 
+
+E: mjm / ¿qué tipo de programas ve en televisión?
+
+I: me gusta / te voy decir que veo
+
+E: mjm
+
+I: me gustan las de / las de / este por ejemplo / La ley y el orden ¿las conoces?
+
+E: ¡ajá! / sí como una / cuestión / de investigación 
+
+I: de investigación
+
+E: mjm
+
+I: me gustan también ahí te va las de / ¿has visto las de CSI? 
+
+E: sí / investigación forense
+
+I: <tiempo = “85:45”/> ¡ándale! 
+
+E: mjm
+
+I: me gustan ésas / e / lo de / detectives médicos
+
+E: sí
+
+I: esos / o / una película como la que te dije / por ejemplo / yo soy un / un fan / yo creo que es el único fan que tiene aquí en México / Antony Queen / ¿conociste a Anthony Queen 
+
+E: sí / bueno / lo / no lo cono / lo conozco pero no / ¡ajá!
+
+I: este no / yo tengo / bajé de internet su biografía 
+
+E: mjm
+
+I: todas sus películas / ¡qué caray! / ¡qué bárbaro! 
+
+E: mjm 
+
+I: todas las interpretaciones que hizo eso este hom- 
+
+E: ¿era mexicano verdad?
+
+I: de / Chihuahuense 
+
+E: mjm
+
+I: con / Irlandesa / algo así 
+
+E: mjm 
+
+I. este / unas peliculonas costumbristas / desde La Escala / ¿me das chance? 
+
+E: sí por favor 
+
+I: buenas tardes / así es / sí / dime mano / ah / ah ¿la casa que está en renta? / ¿está en venta y en renta verdad? / te / te / sí / pero ¿te explicó David que está habitada? / no te explicó que estaba / bueno / entonces / debe de / debe de / debe de / debe de ser unos seis meses / pero te pue- puedes manejar ahí una opción / oye / me interesa / y este cuando se de / se desocupe yo entro por ella ya / mira / este un condominio ¿sí? bueno / entonces la parte privativa son como doscientos cincuenta y la parte o copropiedad son otros doscientos cincuenta / vamos ha vamos hablando de unos quinientos metros por unidad // eh jardines / casa club // mjm / que son propiedad de los vecinos / porque aquí no son jardines públicos / entiendo / sí / sí / sí / ahí enfatiza bien eso / por que eventualmente dice / oye el precio no conviene / bueno / no conviene / porque es la casa más el costo de el resort alrededor exactamente / xac- exactamente / ________ ________ / para servirte / bueno / vamos a ver 
+
+E: <tiempo = “88:57”/> mjm
+
+I: ¿en dónde íbamos? 
+
+E: ah en las películas de Anthony Queen 
+
+I: entonces te decía / es un pela d o que llegó a interpretar al papa 
+
+E: mjm
+
+I: en Sandalias del Pescador / llegó a interpretar / Zorba el griego ¿no?
+
+E: no ésa la verdad no
+
+I: un griego de / también del siglo antepasado
+
+E: mjm
+
+I: llegó a interpretar este / en Los cañones del Navarone a un soldado italiano / llegó interpretar este / en Lawrence de Arabia a / también un beduino / árabe / llegó a interpretar / la ul- de las últimas Un Paseo por las Nubes con / ¿se acuerda?
+
+E: sí sí sí
+
+I: ya fue secundario su papel / es un tipo tan polifacético / llegó a interpretar a unos esquimales / salvajes inocentes / o inocentes salvajes / de vida / de una vida de esquimal 
+
+E: mjm
+
+I: ¡fenomenal l compañero! / entonces ¡híjole mano! / todas esas películas me encantan a mí
+
+E: mjm
+
+I: el otro muy bueno también / fuera de / de los de acción del cero / cero siete / Sean Connery 
+
+E: mjm
+
+I: donde tiene una / que / que / que me encanta no sé / ¿en El Nombre de la Rosa? / que es / es una investigación policíaca en la edad media en un convento / que se morían los monjes
+
+E: no no no ¿El Nombre de la Rosa? 
+
+I: sí / de Sean Connery / ¡no caray! 
+
+E: entonces / ¿le gustan mucho las películas?
+
+I: de ese tipo 
+
+E: mjm
+
+I: no precisamente de acción 
+
+E: mjm
+
+I: no de acción / sino de trama
+
+E: con estrategias
+
+I: con trama / sí / ¿me entiendes?
+
+E: claro / m / cuando ve películas / en televisión / ¿las prefiere ver mexicanas / extranjeras / mexicanas y extranjeras?
+
+I: pues desgraciada / mira las película / me gustan mucho / pero el el / las películas mexicanas de antaño 
+
+E: mjm
+
+I: oye tienes tú / digo grandes películas acá nuestras de / Joaquín Pardavé 
+
+E: claro
+
+I: Pedro Infante / ese tipo de cosas así eran buenas 
+
+E: mjm
+
+I: cosas muy bonitas ¿no? / y unas muy buenas este / también este / Mauricio Garcés <risas = “E”/> 
+
+E: súper cómico
+
+I: ¡fenomenal! / ahi tengo una / Modisto de Señoras
+
+E: sí <risas = “E”/> / sí la conozco
+
+I: digo / realmente / bien bonitas ¿no? 
+
+E: mjm
+
+I: digo / picarescas y 
+
+E: claro 
+
+I: y entonces dices / ¿quién es la artista que te despertó tus instintos salvajes por primera vez? / no sabes / era una rumbera que se llamaba Ninón Sevilla / que salía / bailando / pero mira / te traía 
+
+E: <entre_risas> sí claro </entre_risas> 
+
+I: <tiempo = “91:52”/> orita / orita
+
+E: no / ahorita no trae nada
+
+I: andaba súper arropada / pero ¡cómo me engarraba ver esa mujer! / buenas tarde s / sí / sí Ismael dime / ¿más o menos a que hora Ismael? / son las cuatro / bueno este ¿has estado aquí en Villa Dorada? / bueno / mira este / nuestra entrada normal es por Las Misiones / por el paso a desnivel de Las Misiones / sin embargo ahorita lo están reparando con drenaje y no sé qué más / vas a entrar / por el Faisán al lado del OXXO / explic- explica / sí / a tu izquierda / ahí hay un OXXO y una gasolinera entras por ahí / explícale a tu cliente que ésa es entrada provisional por que ni no desde ahí ya la perdimos compadre <risas = “I”/> entonces / mjm / te vienes por la carretera pasas en Barro / el siguiente retorno es el Faisán / tomas a tu izquierda ahí donde está el OXXO eh eh / dos cuadras topas con el Antiguo Camino a Santiago al tu la a tu derecha trescientos metros y está Villa Dorada / ¿verdad? / ¿vienes para acá? bueno está bien / en la fa la otra entrada normal / entras ahí donde rentan motos / ¿sabes dónde? / ah / pasando el Barro / a cien metros a tu derecha hay un paso a desnivel por debajo de la carretera / para ahí entras a las Misiones llegas al a rotonda de las Misiones y nosotros estamos más al sur / pero ahorita está bloqueado porque están reponiendo el drenaje / sí / sí // el Faisán / a tu izquierda / topas a las dos cuadras / al topar a dos cuadras a tu derecha / trescientos metros / vas a encontrar ahí dos palmas en el / en la entrada hay unas rejas eléctricas / llegando ahí me pones el cero cero cuarenta y uno / me marcas en el tablero cero cero cuarenta y uno / o si no me marcas al celular segundo cesu- celular que aparece por ahí en la entrada en papel / ¿sí? / muy bien // va a venir
+
+E: bueno / nos damos prisa entonces / este / cuando ve películas / extranjeras / ¿le gustan dobladas o con subtítulos / o sin subtítulos? 
+
+I: <tiempo = “94:57”/> me gusta con subtítulos
+
+E: mjm / ¿cuentan con videograbadora?
+
+I: sí 
+
+E: ¿dvd?
+
+I: sí
+
+E: ¿consola para videojuegos?
+
+I: no
+
+E: eh m ¿tiene usted Cable / Sky / Multivisión?
+
+I: desgraciadamente Sky 
+
+E: mjm / <entre_risas> ¿por qué desgraciadamente? </entre_risas> 
+
+I: mugrero cabrón / antes tenía Direct TV estaba mejor
+
+E: sí pero se nos fue
+
+I: mira / el problema con Sky es algo fundamental es que en las películas en Direct TV tu ponías la sinopsis y decía los artistas 
+
+E: mjm
+
+I: y muchas veces el nombre no te dice nada
+
+E: mjm
+
+I: ni la sinopsis / pero dice Jodie Foster / ¡ah! está
+
+E: claro
+
+I: eso no lo tiene Sky 
+
+E: eso es verdad / eh / ¿cuántos televisores hay en su casa?
+
+I: dos
+
+E: lee el periódico me dijo / ¿qué periódico lee?
+
+I: desgraciadamente hubo / no no no desgraciadamente / El Norte / El Norte es 
+
+E: mjm 
+
+I: este / despierta algunas
+
+E: de los más decentes de por acá
+
+I: tiene buenos reportajes y / y / y denuncia y / se rige / en defensa / pero también es medio canijo cabrón
+
+E: ¿lo lee a diario?
+
+I: sí
+
+E: ¿qué secciones lee? / o ¿que secciones no lee? / si se le hace más fácil
+
+I: ¿las secciones que no leo?
+
+E: mjm
+
+I: son gente 
+
+E: mjm
+
+I: sociales 
+
+E: empresas 
+
+E: mjm
+
+I: pos creo que es todo 
+
+E: okay 
+
+I: lo que no leo ¿verdad? 
+
+E: mjm / sí sí claro / okay ¿lee usted revistas?
+
+I: n o 
+
+E: mjm / usa usted internet me dijo 
+
+I: mjm
+
+E: ¿en dónde lo usa casa trabajo escuela?
+
+I: casa
+
+E: mjm / ¿cuántas computadoras hay en su casa?
+
+I: me da pena // decirte
+
+E: ¿por qué?
+
+I: por que son tres
+
+E: ¡ajá!
+
+I: mi mujer quiere la de ella 
+
+E: ¡ajá!
+
+I: y usa la de ella 
+
+E: ¡ajá!
+
+I: y no me deja que use la de ella <risas = “E”/> / y no quiere usar la mía / y tenemos una para cuando vienen los nietos y se ponen 
+
+E: que no usen ni la de usted ni / nadie / muy bien / este 
+
+I: no / no / son diferentes generaciones / la primera era de los nietos / y luego / y luego le compré una a ella / y luego me compré yo la mía 
+
+E: mjm
+
+I: al final
+
+E: eh / ¿para que usa el internet? / enviar correos / buscar información / hacer tareas / hablar por escrito / hablar con voz o video
+
+I: ahi te va 
+
+E: mjm
+
+I: otra vez / échale 
+
+E: mjm / enviar correos
+
+I: sí
+
+E: ¿diario?
+
+I: sí
+
+E: mjm / buscar información 
+
+I: sí
+
+E: ¿qué tanto?
+
+I: muy poco
+
+E: mjm / ¿una vez por semana / una vez por mes?
+
+I: una vez por semana
+
+E: mjm / hacer tareas o trabajos pendientes o cosas de su trabajo
+
+I: sí
+
+E: ¿qué tanto?
+
+I: igual
+
+E: eh utilizar el Messenger o algo así
+
+I: no
+
+E: no / hablar / eh / conversaciones vía voz / video
+
+I: no
+
+E: cualquier otro que usted / me diga
+
+I: <tiempo = “98:15”/> pues / internet eso 
+
+E: mjm
+
+I: nada más
+
+E: okay / cuenta / teléfono fijo / tiene teléfono celular 
+
+I: sí
+
+E: mjm / ¿cuáles son los usos que le da al celular? / ya ve que ahora traen una infinidad de cosas
+
+I: ¡ah! no no no no / simplemente / este / poco / poc- muy poco uso para salir y hacer llamadas
+
+E: nada más / ¿no manda ni hace mensajes ni nada de eso?
+
+I: no
+
+E: okay / ¿visita museos?
+
+I: m eventualmente
+
+E: mjm / ¿una vez por mes / dos veces al año / una vez por año / una vez por semana?
+
+I: dos veces al año
+
+E: mjm / ¿asiste usted a conciertos / ya sea en teatros en 
+
+I: dos veces al año
+
+E: mjm / ¿asiste usted al teatro?
+
+I: no
+
+E: ¿viaja usted por placer?
+
+I: una vez al año
+
+E: mjm / ¿su último grado cursado fue?
+
+I: maestría
+
+E: mjm / ¿maestría en qué? 
+
+I: administración 
+
+E: ¿en dónde estudió eso?
+
+I: en Tec 
+
+E: mjm / este ¿en que fecha la terminó?
+
+I: ¡n’ombre qué bárbaro! / pregunta muy difícil <risas = “E”/> // pues si bien me va / allá por el / setenta y cinco por / por decir algo
+
+E: no entonces / tampoco se acordaría de cuando terminó la primaria y la secundaria / entonces no nos agobiemos con esas preguntas / este / actualmente // ¿está trabajando?
+
+I: a medias 
+
+E: mjm
+
+I: medio tiempo
+
+E: ¿desde qué año trabaja usted / <risas = “I”/> bueno / igual y podemos tomar
+
+I: trabajos parciales / desde que me acuerde compadre
+
+E: mjm
+
+I: trabajos parciales porque / aún cuando yo estaba estudiando / trabajaba para / lleva / para invitarle / una / una / una leche malte- / una malteada / a mi / a mi novia
+
+E: claro / mjm / okay con respecto / este / percibe usted un este ingreso / con respecto a su ingreso / ¿en dónde lo ubicaría usted de estos rangos?
+
+I: pues aquí 
+
+E: mjm / ¿cuántos focos hay en su casa? 
+
+I: te voy a recomendar a propósito hay / una página / a mí me / me encanta así lo de ecología y
+
+E: mjm
+
+I: contaminación como te digo / y hay una página que se llama Concientízate de Natural / ¿la conoces?
+
+E: mjm / sí / hicimos un trabajo para una materia que se llama ciencias del ambiente y / anduvimos por ahí
+
+I: está incipiente el modelo 
+
+E: mjm
+
+I: todavía le falta 
+
+E: mjm
+
+I: pero te pregunta / este / cuántos en tu casa / cuántos kilowatts consumes 
+
+E: ¡ajá! las horas
+
+I: cuánto consumes / caminas en tu auto / cuánto rinde tu auto y te saca / tantos metros / cúbicos de contaminación 
+
+E: mjm
+
+I: ¿verdad?
+
+E: mjm / sí
+
+I: ahí es / sí / es interesante / creo que todavía le falta para que el modelo sea todavía mejor 
+
+E: mjm
+
+I: muy interesante / lo recomiendo y lo estoy / propag- / que lo use más gente 
+
+E: mjm
+
+I: con esa advertencia de que / de que más de / contaminamos más de lo que salga ahí 
+
+E: mjm / mjm
+
+I: porque no te contabiliza / tu gasto / tipo de / simplemente el que va a Las Vegas 
+
+E: mjm
+
+I: Las Vegas / es el centro de contaminación más / <risas = “E”/> puro / que puede haber / ¿eh?
+
+E: sí tanta luz
+
+I: bueno / volviendo aquí a nosotros 
+
+E: <tiempo = “102:41”/> mjm
+
+I: este / ¿cómo podríamos expresar? / tenemos áreas aquí donde nunca se prenden 
+
+E: mjm
+
+I: ¿o quieres todos los focos?
+
+E: pos igual los que tenga usted en uso
+
+I: los que más se usan / ahi te van // uno dos tres // cuatro // cinco / seis / ocho
+
+E: mjm / eh / quie- vive nada más aquí su esposa con usted / ¿algún otro idioma que maneje aparte del español?
+
+I: inglés 
+
+E: mjm
+
+I: al ochenta
+
+E: ¿el último grado cursado de su esposa?
+
+I: facul / profesión 
+
+E: mjm
+
+I: facultad
+
+E: ¿actualmente trabaja su esposa?
+
+I: no pero anda en / muchas cosas 
+
+E: cuestiones de / de ella / ¡ajá! / bien / pues este / ya terminamos ya nada más le voy a pedir por favor / que si me hace el favor de leer 
+
+I: sí / sí / sí 
+
+E: ésta carta / que es en donde
+
+I: que jure / que dije la verdad y toda la verdad
+
+E: <risas = “E”/> no precisamente es más bien / para que sepa de qué se trata / lo que estamos haciendo
+
+I: ¿grabaste o no grabaste?
+
+E: sí / sí grabé
+
+I: bueno / nada más que porque luego
+
+E: no / sí sí grabamos / no por eso ya cuando lo ven me dicen / no no estoy de a cuerdo en que me hayas grabado / pues ya / le apagamos / y / santo remedio 
+
+I: / muy bien 
+
+E: bueno / si está de acuerdo / su nombre y firma / en estas dos
+
+I: te las voy a firmar / Eduardo y ¿tú hiciste todo esto? 
+
+E: sí / lo entrevisté yo ahorita 
+
+I: ¿eh?
+
+E: mjm
+
+I: qué bárbaro chingado cuando / vayas a la cárcel / no es nada esto a lo que te van a preguntar / que espero no vayas nunca 
+
+E: <risas = “E”/> ¿por qué?
+
+I: pues es interrogatorio 
+
+E: ah / okay / ya <risas = “E”/> 
+
+I: sí / no / me la había puesto mal quien sabe como Lidia por qué no porque estamos para analizar las inflexiones y los usos y las reglas hay caray dije ¿pos cómo le hace? ¿las dos? 
+
+E: sí / las dos por favor
+
+I: tenía un amigo / un amigo que tengo / lo que lee se le queda 
+
+E: mjm
+
+I: entonces se recibió él / de mecánico administrador / bueno / se recibió / se metió a estudiar / sacó una maestría en administración 
+
+E: mjm
+
+I: siguió estudiando sacó una maestría en psicología 
+
+E: mjm
+
+I: siguió estudiando y sacó una maestría en biología / y así / multidimensional y
+
+E: sí / sí / sí
+
+I: le hacía yo la / la preg- / así / mire le presento a mi amigo / está sacando una maestría en Biología / está haciendo un estudio para ver dónde quedó un bicho que solía habitar en la saliva de las moscas <risas = ”todos”/> 
+
+E: bueno <risas = “I”/> / pues muchas gracias / eh / de verdad / esto / eh aparte de que yo esté trabajando para / éste / estudio es un placer personal / eh me disculpo si en algún momento fui o muy atrevido más allá 
+
+I: no / cuando se te ofrezca algo me llamas 
+
+E: pero muchísimas gracias ¿eh? / y no sé si haya algo que usted quiera agregar 
+
+I: <tiempo = “106”26”/> pues no nomás este / cuando quieran / un poco / de con toda confianza
+
+E: pues muchísimas gracias / ¿eh? este y todo el éxito en todos los ámbitos / con permiso ¿eh? / eh / ya / bajo / ya no recuerdo cómo llegué aquí
+
+I: pones elevador 
+
+E: mjm
+
+I: el uno 
+
+E: okay okay / gracias 
+
+  Fin de la entrevista
+
+
+
+
+
+

@@ -1,0 +1,1267 @@
+﻿<Transaudio_filename=”MONR_M32_HMP095.MP3” xml:lang=”español”>
+<Datos clave_texto = “MONR_M32_HMP095” tipo_texto = “entrevista_semidirigida”>
+<Corpus corpus = “PRESEEA” subcorpus = “ESMXMONR” ciudad = “Monterrey” pais = “México” / >
+
+<Grabacion resp_grab = “Yazmín Mayela Carrizales Guerra” lugar = “domicilio del informante” duracion= “01:02:48´´” fecha_grab = “2007-02-27“ sistema = “MP3” / >
+<Transcripcion resp_trans = “Kurt Lester Benze Hinojosa” fecha_trans = “2007-05-17” numero_palabras = “9709” / >
+<Revision num_rev = “1” resp_rev = “Raquel Rodríguez de Garza” fecha_rev = “2008-09-04” / >
+<Revision num_rev = “2” resp_rev = “Mayra Silva Almanza” fecha_rev = “2010-07-04” / >
+<Revision num_rev = “3” resp_rev = “Cynthia Martínez del Ángel” fecha_rev = “2011-11-25” / >
+<Revision num_rev=”4” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2012-01-11 / >< / Datos>
+
+<Hablantes>
+<Hablante id = “hab1” nombre = “María del Carmen Villa Jiménez” codigo_hab = “I” sexo = “mujer” grupo_edad = “3” edad = “56” nivel_edu = “2” estudios = “carrera técnica" profesion = “bancaria" origen = “Distrito Federal" papel = “informante" / >
+<Hablante id = “hab2" nombre = “YazmínMayelaCarrizales Guerra" codigo_hab = “E" sexo = “mujer" grupo_edad = “1" edad = “31" nivel_edu = “3" estudios = “estudiante de maestría en Ciencias especialidad en Lengua y Literatura” profesion = “estudiante y traductora" origen = “Monterrey" papel = “entrevistador" / >
+<Hablante id = “hab3" nombre = “César" codigo_hab = “A2" sexo = “hombre" grupo_edad = “desconocido" edad = “desconocido" nivel_edu = “2" estudios = “carrera técnica (controlador tráfico aéreo)” profesion = “controlador de tránsito aéreo" origen = “Distrito Federal" papel = “audiencia" / >
+
+<Relaciones rel_ent_inf = “conocidos" rel_inf_aud1 = “familiares” rel_ent_aud1 = “conocidos” / >< / Hablantes>< / Trans>
+
+
+I: formales 
+
+E: es para quien hace declaración anual
+
+I: mjm / no pero yo tengo que hacer recibos formales / todavía no los mando hacer 
+
+E: pero ¿ya está dada de alta como / independiente?
+
+I: sí 
+
+E: entonces eso quiere decir que ya debería estar pagando impuestos // ¿ya está cobrando o qué?
+
+I: el problema es que no estoy cobrando / pero ya tengo 
+
+E: ¿entonces hasta que no cobres / no puedes hacer n- / hacer declaración?
+
+I: mjm
+
+E: bueno // primero que nada muchas gracias por / por echarme la mano <observación_complementaria = “ayudarme” /> con esta tarea
+
+I: no te preocupes
+
+E: y espero no estorbarla mucho mientras hace la comida
+
+I: no sabes que no mejor si quieres a otro lado porque si no / sí nos va a interferir el ruido y todo
+
+E: no / es ruido normal 
+
+I: no no te preocupes // luego lo hacemos / al cabo no se tarda 
+
+E: ¡no se tarda! / como una hora 
+
+I: no la / comida
+
+E: ah / las ventajas de la cocina moderna ¿verdad?
+
+I: exactamente 
+
+E: pues así asé está el asunto
+
+I: ya creí que me iba a pedir la receta le digo ¿pos cuál? aquí es la casa de la comida rápida <risa = “I” /> 
+
+E: eso / eso de hacer la comida se vuelve tan lento a veces
+
+I: es / es un arte cuando uno lo hace todo 
+
+E: mjm 
+
+I: desde moler tomate / los chilitos todo / eso es un arte / ahora ya con toda la comida rápida / ya no hay problema / ya no / ya no funciona / ¿a poco ésa es tu grabadora?
+
+E: sí ésa es mi grabadora mire 
+
+I: no tuv- / no estuvo mal porque 
+
+E: bueno // en sí // el programa trata de / de costumbres / de anécdotas
+
+I: mjm
+
+E: no / no vamos a preguntar nada que sea / del otro mundo
+
+I: okay 
+
+E: ¿okay? // me podría dar su nombre completo por favor
+
+I: _____ / ___ ______ / _____ _______ 
+
+E: siem- / siempre siempre me ha / me ha / llamado la atención // que / usted es _____ _______ y sus chicos son / _______ _____ 
+
+I: _______ _____ / ¡ajá!
+
+E: <tiempo = “02:04” /> ¿su edad?
+
+I: cincuenta y seis 
+
+E: cincuenta y seis años / estado civil casada
+
+I: casada
+
+E: mmm / la colonia es San Jemo ¿verdad?
+
+I: San Jemo
+
+E: siempre la confundo con San Jerónimo / ¿la religión? católica
+
+I: católica
+
+E: hasta donde tengo entendido // ¿y usted nació aquí en Monterrey?
+
+I: no yo nací en México Distrito Federal
+
+E: ¡ajá! / ¿y a qué edad se vino de allá?
+
+I: me vine de México cuando tenía veintisiete años
+
+E: ¿y a qué se dedicaba allá en / México Distrito Federal?
+
+I: en México trabaja / en / una oficina / como secretaria / auxiliar de / administrativo 
+
+E: perfecto / ¿nada más ha vivido en México Distrito Federal y aquí?
+
+I: no / de chica viví / siendo niña / m / aquí en Monterrey / durante un año y cacho y / en Saltillo / durante cinco años / cuando tenía yo / siete / años más o menos
+
+E: en Saltillo cinco años
+
+I: sí
+
+E: ¿su papá de dónde era?
+
+I: mi papá era de / de San Gabriel el Alto Jalisco 
+
+E: y / ¿su mamá?
+
+I: mi mamá es de Valle de Tezontepec / Hidalgo
+
+E: cómo escribes Tezontepec <risa = “I” /> 
+
+I: con zeta / y lo demás como suena / Tezontepec / ahorita ya / muy poco cebo- / cebolla <risa = “I” /> 
+
+E: ¿su / abuelo paterno era de?
+
+I: mi abuelo paterno / era de Jalisco también / de San Gabriel el Alto 
+
+E: <tiempo = “04:05” /> ¿y su abuela? 
+
+I: ta- / también / los dos eran de / de ahí 
+
+E: ¿y su abuelo materno?
+
+I: mi s abuelos maternos los dos eran de / Tenancingo Estado de México
+
+E: ¿con ce?
+
+I: sí 
+
+E: okay // / ¿en México Distrito Federal hab- / había primarias?
+
+I: sí 
+
+E: ¿secundarias?
+
+I: también
+
+E: ¿preparatorias?
+
+I: sí
+
+E: ¿escuela técnica?
+
+I: sí
+
+E: e / ¿luz?
+
+I: sí 
+
+E: ¿bancos?
+
+I: sí 
+
+E: ¿seguro social?
+
+I: también
+
+E: ¿ahí cuando usted era joven había carreteras?
+
+I: sí 
+
+E: ¿teléfono?
+
+I: sí 
+
+E: ¿internet?
+
+I: no // eso es muy moderno 
+
+E: mucho // ¿y desde que se cambió para acá? / ¿cuánto tiempo ha vivido aquí?
+
+I: veinti- / casi // veintinueve años
+
+E: casi veintinueve años
+
+I: no / veintinueve años / casi treinta
+
+E: ¿se mudaron en el setenta y siete?
+
+I: en el siete y siete / mjm
+
+E: ¿por qué se mudaron?
+
+I: por / cuestiones de trabajo / nos venimos porque el trabajo de César es muy estresante / en esa época era / muy estresante la Ciudad de México / aquí era más tranquilo / y decidimos mudarnos para acá
+
+E: ahorita ya deben estar a la par ¿no?
+
+I: pues sí y no / porque / sí hay mucho tráfico aquí / pero también ha / ha crecido muchísimo el tráfico en la Ciudad de México / entonces como quiera sigue siendo más tráfico allá
+
+E: pues sí
+
+I: tráfico aéreo
+
+E: no me quiero imaginar la torre de control de México Distrito Federal ha de estar de locos <risa = “I” /> 
+
+I: la verdad yo no / he subido a la torre de México hace muchísimos años / pero me imagino que sí // si aquí se ven aterrizar / aviones constantemente y despegar / en México debe de ser mucho más
+
+E: ¿no ha extrañado / el Distrito Federal?
+
+I: la familia / únicamente // la familia
+
+E: <tiempo = “06:07” /> ¿con cuántos de familia cuenta?
+
+I: somos / cinco hermanos / dos casados // mi mamá / mis sobrinos que son / ¿cuántos son? / dos / cuatro seis / ocho / once / once sobrinos
+
+E: mjm / un buen número
+
+I: sí / dos casados ya también / dos sobrinos nietos
+
+E: ¿ya la hicieron tía abuela?
+
+I: ya somos tíos abuelos / así es 
+
+E: y en sí / de la familia ¿qué es lo que extraña?
+
+I: la compañía // somos una familia bastante unida / entonces sí extraño / los domingos familiares por decir ¿no? / que estemos todos / en la familia / los hermanos / mi mamá
+
+E: ¿en qué consisten los domingos familiares? / a ver / veamos
+
+I: los domingos familiares eran una tradición / cuando mi papá vivía / cuando éramos todos solteros // de llegar todos a comer a la casa / inclusive todos co n / los novios las novias amigos / nosotros / en casa / siendo cinco hermanos / y / mis papás / los domingos comíamos alrededor de quince personas en la casa todos los domingos <risa = “E” /> / porque / decía mi papá cuando éramos menos / que por qué tan poquitos / si estábamos ya acostumbrados / mamá no sé cómo le hacía porque siempre / había comida para todos
+
+E: eso es lo que es ser una buena ama de casa <risa = “E” /> 
+
+I: sí / sí porque muchas veces ni siquiera era gente que ya estaba programada digamos para ir a comer ¿no? / iban llegando / llegaba uno con un amigo y otro con dos y así // y todos comíamos ahí
+
+E: era una muy buena convivencia
+
+I: sí // eso es lo que se extraña la convivencia familiar
+
+E: y sin embargo aquí ha encontrado algo que sustituya esa convivencia o 
+
+I: sí / digo bueno la familia nunca va a ser sustituida pero afortunadamente / hemos encontrado muy buenos amigos / que nos han hecho / sentirnos / como / con familia también aquí en Monterrey ¿no?
+
+E: <tiempo = “08:05” /> no se siente uno tan desprotegido cuando tiene buenos amigos
+
+I: exactamente // tenemos gracias a dios muy buenos amigos / que en los momentos // que es necesario siempre están ahí
+
+E: eso es ideal
+
+I: sí
+E: ¿tiene usted alguna afición
+
+I: la televisión / antes era leer últimamente ya no <risas = “E” /> / la televisión ahora realmente / es mi afición 
+
+E: ¿y qué / qué es lo que ve en la televisión / qué / tipo de programas?
+
+I: las / me gustan mucho las series / las series en // americanas lo que en Estados Unidos llaman las telenovelas de ellos ¿verdad? / que son más bien series // para mí son como series
+
+E: ahí / ahí noto / una diferencia 
+
+I: sí
+
+E: noto una diferencia // pero bruta / están las soap operas / que son // a como lo entiendo son / nuestras / María la del barrio 
+
+I: mjm
+
+E: y tienen se / y tienen series que son más / menos cómicas / y luego tienen un punto en medio que le llaman el sitcom // es la comedia situacional
+
+I: m / probablemente sí sea lo que me / me atrae entonces las series / y / y la / la comedia ¿no?
+
+E: mjm / pero / más bien / las series / hay de varias // hay científicas / hay 
+
+I: me gusta mucho las policiacas
+
+E: ¡ajá!
+
+I: las cómicas
+
+E: mjm
+
+I: también son / muy agradables // científicas / no tanto // a la mejor no sé cómo podríamos llamarle / vivenciales de / lo que presentan situaciones a la mejor de la vida diaria
+
+E: mjm ¿estilo Laura en América o estilo el Discovery Channel? <risa = “E” /> 
+
+I: no estilo Laura en América no / Laura en América no me gusta <risas = “I” /> / se me hace / mucho circo / no más bien digamos de / que presentan situaciones familiares diarias / o cosas de ese tipo ¿no?
+
+E: ¡ah! ya
+
+I: que pudiera suceder en cualquier lado digamos / ¿no?
+
+E: ya veo // ¿y con qué frecuencia / qué tanto tiempo le dedica usted a la televisión?
+
+I: será a la mejor unas / tres horas diarias // que / que creo es bastante
+
+E: <tiempo = “10:11” /> más de lo recomendado por el mundo <risa = “E” /> // en la televisión / ¿ve películas?
+
+I: sí 
+
+E: ¿de qué tipo?
+
+I: de todas
+
+E: ah me refiero / mexicanas / japonesas / alemanas belgas
+
+I: no más bien cine americano
+
+E: ¿cine americano?
+
+I: sí
+
+E: ¿con subtítulos o en español?
+
+I: con subtítulos
+
+E: el doblaje no 
+
+I: el doblaje no me gusta
+
+E: ¿no?
+
+I: no me gusta / este / sé que hay muy buenos doblajes / y hay muchas que son / inclusive / a la mejor mejores / m / traducidas / por que / las traducen un poquito al / al estilo de cada país ¿no? // pero me gusta / más bien escucharlas en inglés / tratar de entender / lo que dicen en inglés / y / ayudarme con los subtítulos
+
+E: para las frases que no se comprendan
+
+I: exactamente 
+
+E: ¿más que nada la la / el fin / es tratar de / mejorar el inglés? 
+
+I: pos tratar de entenderlo porque / pos / como no lo practico / la verdad es que se me ha estado olvidando
+
+E: esas cosas pasan / a mí me está pasando con el francés <risa = “I” /> / ¿con qué frecuencia ve // en la televisión las películas?
+
+I: los fines de semana
+
+E: ¿más que nada?
+
+I: más que nada / sí entre semana no / entre semana más bien veo series y eso pero / los fines de semana sí veo películas
+
+E: o ka y / ¿y al cine? // ¿va usted al cine?
+
+I: sí 
+
+E: ¿más o menos con qué frecuencia?
+
+I: m / pudiérase decir que cada quince días
+
+E: cada quince días / ¿qué es lo que le llama la atención del cine?
+
+I: me agrada ver las películas // en el cine las pantallas grandes / y este / y el día de campo las palomitas / el refresco todo 
+
+E: <tiempo = “12:03” /> es que cine sin palomitas 
+
+I: no hay cine / exactamente <risa = “I” /> 
+
+E: yo en eso coincido
+
+I: sí entrar al cine sin palomitas no / sería como no ir al cine
+
+E: una gran pelea que tengo con papá cada vez que vamos al cine 
+
+I: igual yo con César / porque él no come palomitas // entonces / las tengo que comprar para mí solita 
+
+E: qué cosas / no / qué triste <risa = “I” /> / pobrecito // a lo que me / a lo que voy es esto / hay / de películas como de gustos / para todos
+
+I: mjm / mjm
+
+E: pero / ¿qué tipo le gustan a usted?
+
+I: me gusta n / las comedias / principalmente // me gusta el suspenso // mas no / las películas muy sangrientas por ejemplo ¿no? / pero el suspenso sí / mucho
+
+E: averiguar quién es el asesino
+
+I: sí / aunque es muy obvio normalmente lo adivina uno desde el principio
+
+E: esas cosas pasan con frecuencia / ¿alguna película que usted recuerde? pero especial / porque / no sé / se relaciona con algo 
+
+I: no que se relacione pero una película / que me gustó / muchísimo // ¡ay! / ¿cómo se llama? / ya se me fue la onda <risa = “E” /> / era que la 
+
+E: bueno pero ¿de qué trataba?
+
+I: la la he visto varias veces en la televisión / son tres hermanos / que viven en / en Canadá // en / uno de ellos se / se va a la guerra y el otro / lo // va también a al guerra para cuidarlo sin embargo el hermano / que era el más chico y que decide irse a la guerra muere / y el otro se siente culpable // de hecho es con Brat Pitt la película / y Anthony Hopkins / Leyenda de pasiones / se llama
+
+E: Leyenda de pasiones
+
+I: Leyenda de pasiones // muy bonito tiene muy bonitos paisajes / muy bonita música / un actor guapísimo
+
+E: en suma es una película muy bien lograda
+
+I: así es / puede decirse que es una de mis favoritas 
+
+E: <tiempo = “14:07” /> yo no / bueno / no sé si esto es la casualidad pero / varias cosas en mi vida están relacionadas con el cine
+
+I: okay 
+
+E: no sé si se los dijo / acá su hijo
+
+I: no 
+
+E: pero se me declaró en me- / en el intermedio de la película
+
+I: qué romántico 
+
+E: sí / y luego ni se dio cuenta que le dije que sí <risa = “I” /> / así es ahí
+
+I: distraído 
+
+E: como de costumbre / no pero sí / el fin de semana / bueno no el fin de semana que a nosotros nos sacaron a mitad de la película de Oliver y su pandilla // porque / mi abuela / había / había fallecido / o sea / varia / varias anécdotas de mi vida / acontecimientos importantes digamos / en medio del cine // y es // curioso el asunto / ¿y usted qué puede considerar que son las cosas // bueno // tres cosas que sean / importantes en su vida // sea / tres acontecimientos que hayan pasado
+
+I: acontecimientos / pos / yo creo que uno de ellos es el nacimiento de mis hijos / que es algo que / pos nunca se olvida / desde luego // el matrimonio también / ¿y qué será? / y el / el cambio de ciudad ya casada
+
+E: sí
+
+I: dejar a la familia y emprender un / un camino / solos / digamos / sin apoyo / eso / eso fue muy importante
+
+E: uno de los / que nos cambian
+
+I: mjm
+
+E: en alguno de ésas // tantas experiencias de su vida / ¿no se ha visto usted / no sé en peligro / un choque / o algo parecido?
+
+I: sí 
+
+E: la verdad es que como maneja don César no lo dudo
+
+I: <tiempo = “16:08” /> sí / sí / varias veces / varias veces // sí / sí con su manera de manejar sí nos hemos visto / varias veces este // en situaciones / difíciles / afortunadamente / creo que tiene un / tiene o tenemos un ángel de la guarda muy grande / porque nunca nos ha pasado nada / pero sí / una vez estuvimos a punto de desbarrancarnos / en la carretera él y yo / hace muchos años yo estaba esperando / a Rodrigo de hecho
+
+E: ¿cómo fue?
+
+I: saliendo / tomó una curva demasiado rápido como acostumbra / íbamos a / a / a León / pero nos fuimos por la carretera de / de Zacatecas / saliendo de Co- / de Concepción del Oro en una de las curvas // derrapó el carro / y afortunadamente / y gracias a dios / a la hora que / que se fue como de reversa en lugar de irnos / sobre un lado que estaba / un barranco / que fue donde estaba plano / y pasó exactamente en medio de dos fantasmas
+
+E: ¿dos fantasmas?
+
+I: los fantasmas son los / los / e / los postecitos que están en / en la carretera
+
+E: ah / no creía / no había oído yo que les llamaran fantasmas 
+
+I: sí <risas = “I” /> / ésos / en medio de ésos pasó / el carro / y / y en plano además entonces ni al carro le pasó nada ni a nosotros / gracias a dios pero es una de las que más recuerdo
+
+E: bendito dios qué susto ha de haber sido eso
+
+I: bastante / bastante susto 
+
+E: mjm // ay dios de mi vida 
+
+I: sí // digo / realmente con la manera de / de manejar han sido pocas las que / que nos hemos visto / en ese tipo de situaciones / pero sí / sí es / muy / muy difícil / mjm
+
+E: pero // bueno / yo sé que eso es cuestión de gustos eso es cuestión de // ¿por qué / cree usted / que don César tiene / esa / manía por la velocidad podemos decir?
+
+I: una sus aficiones son las carreras de carros / de hecho él siempre soñó con tener un / un carrito de carreras / que lo tuvo alguna vez en su vida / como es un / hobby yo creo que demasiado caro de mantener / pos él / cree que las pis / las calles son pistas
+
+E: <tiempo = “18:04” /> bendito 
+
+I: y / de hecho hemos tenido algunos problemas / precisamente por eso / por la manera de manejar
+
+E: sí // cada / cada vez agradezco más que Rodrigo maneje como abuelito
+
+I: sí <risa = “I” /> / que no maneje como su papá / de hecho cuando ellos empezaron a manejar que les prestábamos el carro / una de las cosas que yo les dije / si alguna vez los veo manejar como su papá / es el último día que se llevan el coche 
+
+E: creo que Rodrigo
+
+I: lo tomó muy en cuenta Rodrigo <risa = “I” /> / Octavio un poco menos / y es genial
+
+E: cada vez que me subo al auto con su esposo // me acuerdo tanto de mi hermano // pero mi hermano maneja así por bruto no porque le guste la velocidad / sino porque no la siente 
+
+I: es un problema con los coches actuales / en los coches modernos no se siente la velocidad / de repente voltea uno a ver el velocímetro sobre todo en carretera / y se da uno cuenta que va a ciento sesenta
+
+E: bendito // mi hermano / no sé / siempre trae camioneta // y yo siento la velocidad 
+
+I: él no la siente
+
+E: no la sentía en un vocho menos la iba a sentir en una camioneta
+
+I: no pos no // en el vocho sí se siente / fuerte <risa = “I” /> 
+
+E: de / de ese pelo es mi hermano <risa = “E” /> / por suerte mis hermanas son más tranquilas
+
+I: qué bueno
+
+E: pero así es // ¡qué caray! // aquí en su casa // aparte de usted y su esposo ¿quién vive?
+
+I: mis dos hijos
+
+E: a ver cuénteme de sus hijos / sea / sea mamá cuerva
+
+I: <risas = “I” /> ah eso definitivamente / creo que / bueno son / dos muchachos / de veintiséis y veinticuatro años // yo digo que son / buenos muchachos // los dos son trabajadores / creo que son honestos / son guapos / mamá cuervo 
+
+E: mamá cuervo sí
+
+I: sí // e / yo creo que tienen buenos principios // son ayudadores / son buenos muchachos en general
+
+E: <tiempo = “20:06” /> en general // a ver / ¿qué me puede decir / de Rodrigo? que es 
+
+I: Rodrigo / es / muy acelerado // es creativo / es un poco flojo // es muy desordenado / pero / tiene muy buenos sentimientos / yo creo que / es el / de las cuatro personas que vivimos aquí es / es el que tiene los / sentimientos más nobles / de to- / de todos // 
+
+E: 
+
+I: sí / es un pan de dios / es explosivo / pero en el momento que haya / que salir a defender algo él va a ser el primero / siempre
+
+E: y / José Octavio que es el otro
+
+I: José Octavio es / de / es el reverso / es bastante ordenado // es el más tranquilo aparentemente sin embargo es de carácter más fuerte / es / no violento porque / él no / no / sale de sus casillas así fácilmente / pero sin embargo él / él es / m / ¿cómo podría decirlo? // reflexivo en las cosas // y / y trata de / de // no de vengarse porque no es venganza lo que / lo que hace sino 
+
+E: más bien ajustar las cosas
+
+I: exactamente / ajustar cuentas de man- de manera / e / no violenta digamos ¿no? / sino / pero sí es / es de / de bastante / de bastante fuerte carácter / aunque no lo aparenta / o sea la mayoría de las personas // en un principio nunca me creyeron que / que Octavio pudiera tener carácter / fuerte / pero sí / sí lo tiene / es / de chico por ejemplo / cuando estaba enojado no hablaba // él / se callaba se sentaba en un rincón / y no hablaba hasta que se le pasaba el enojo
+
+E: es de ira fría
+
+I: <risa = “I” /> / así es / en cambio Rodrigo / por cualquier cosa explota // son los contrastes / típicos
+
+E: es curioso que dos hermanos sean tan diferentes
+
+I: <tiempo = “22:04” /> tan diferentes 
+
+E: o más bien // uno es po- / uno es el positivo y el otro es el negativo y al revés
+
+I: <risa = “I” /> sí son / son muy muy opuestos en todo / en todos sus gustos en todo / en todo // sí pos Rodrigo es / artístico le gusta // dibujar / obviamente / le gustan mucho cosas artísticas / y Octavio no Octavio es / le gustan los números // bueno para las matemáticas 
+
+E: a Octavio le veo el perfil mercantil por todos lados
+
+I: sí / sí / así es
+
+E: está hecho para los negocios
+
+I: sí / mjm // alguna vez en su vida cuando empezó a / a pensar en qué / carrera iba a estudiar / como le gustaban mucho los animales // pensó en veterinaria y después pos no porque dijo está en medicina y no me gusta / y terminó siendo // financiero
+
+E: pero / le gusta lo que hace / así es ventaja 
+
+I: sí / sí claro / sí / sí creo que es muy importante que uno haga lo que le gusta
+
+E: mjm // su esposo // ¿hasta qué grado fue el último / grado de licenciatura que llegó? / o sea / ¿cuál fue su último grado de estudios? / perdón porque se me 
+
+I: él / lo que él estudió fue una carrera técnica / es e- / después de la preparatoria / estudiaba controlador de tránsito aéreo // en esa época era una carrera técnica / la acaban de hacer licenciatura // pero como a él no le tocó todos los estudios necesarios para hacer la licenciatura / por experiencia lo que les dieron fue un reconocimiento como técnicos universitarios
+
+E: un / ¿grado equivalente?
+
+I: mjm / sí / de hecho lo acaban de dar después de / treinta y tantos años de trabajo su cédula profesional
+
+E: ¡genial! // ¿más o menos / en qué rango está el salario de don César? // tomando en cuenta de que el salario mínimo son dos mil ochocientos más o menos
+
+I: no pos bastante más arriba
+
+E: cinco seis 
+
+I: no / nunca me he puesto a pensar / a ver realmente cuánto pero / no debe estar sobre unos treinta
+
+E: treinta // qué bien les pagan 
+
+I: y están mal pagados en comparación de los controladores del mundo
+
+E: <tiempo = “24:09” /> es que por el trabajo tan estresante que es
+
+I: exactamente 
+
+E: y / Tavo / ¿está trabajando en el / Santander?
+
+I: Tavo trabaja en Santander Serfín 
+
+E: mjm // bueno ya nada más es Santander / que los promovieron a geren- / ¿a qué?
+
+I: es oficial de caja / o sea encargado de las cajas
+
+E: ¡ajá! / lo de la sucursal / suena interesante el trabajo pero 
+
+I: es / creo que / dentro de los bancos / el trabajo de cajero / o de oficial de caja son los / los puestos más bajos digamos ¿no?
+
+E: mjm
+
+I: sin embargo son los que tienen mucha responsabilidad porque están / manejando el dinero // y cantidades fuertes o sea / muy fuertes de dinero manejan diariamente
+
+E: y con la cantidad de asaltos que hay
+
+I: sí no / es peligroso
+
+E: es / es un trabajo de altruismo
+
+I: sí <risa = “I” /> 
+
+E: debería de estar mejor pagado 
+
+I: exactamente / no debería ser el / el trabajo por // pos más bajo / del banco / prácticamente
+
+E: ¿más o menos como cuántos salarios mínimos ganaría // Tavo?
+
+I: pos como dos
+
+E: como dos salarios mínimos 
+
+I: dos / mjm
+
+E: ¿aquí en su casa // qué idiomas?
+
+I: español <risa = “I” /> 
+
+E: español
+
+I: espa- bueno / César en su trabajo / utiliza el inglés // César Rodrigo / habla un poco de inglés que ha aprendido realmente / por su cuenta // teóricamente / yo soy secretaria bilingüe / pero como no lo he practicado // puedo entenderlo / lo entiendo al leerlo pero / le batallo mucho para hablarlo
+
+E: y / ¿Tavo?
+
+I: y Octavio español / entiende algo de inglés pero / nunca le gustó / una materia que nunca le gustó / por más que le / le dijimos que era muy importante / creo que orita es cuando se está dando cuenta y es cuando quiere estudiar
+
+E: <tiempo = “26:09” /> mjm // a ver si no le pega muy duro la 
+
+I: espero que no <risa = “I” /> // orita / estudia una maestría quizá cuando termine la maestría pueda / meterse a estudiar inglés
+
+E: ay caramba // bueno / vámonos con / con las preguntas este / sobre usted // ya preguntamos sobre su familia / ahora vamos a meternos un poquito con usted // nomás tantito // ¿okay? / ¿usa usted el internet?
+
+I: sí
+
+E: ¿y en dónde?
+
+I: en / normalmente en la oficina / en la casa / bueno en la casa también pero poco / más poco
+
+E: ¿aquí en su casa cuántas computadoras hay?
+
+I: dos // no tres / hay tres porque Octavio tiene su laptop 
+
+E: ¿más o menos con qué frecuencia utiliza el internet?
+
+I: yo lo utilizo a la mejor una vez a la semana / lo que / lo que es en sí el Internet // el correo electrónico sí lo utilizo diariamente
+
+E: mjm / ¿para qué le sirve el internet / en su trabajo?
+
+I: el internet en mi trabajo / realmente no lo uso tanto / lo uso más bien para cuestiones personales / buscar páginas o // y aquí en la casa pos / también lo utilizamos mucho para / para entrar a / a la / a la página del banco hacer pagos y todo en lugar de ir al banco / a pesar de que trabajo en el banco
+
+E: ¿y hacer pagos venía siendo / una vez al mes / o una vez a la semana?
+
+I: no / yo creo que m / pos sí entramos una vez a la semana 
+
+E: fíjese que no es un / no es un uso que se le dé con mucha frecuencia
+
+I: ¿al internet?
+
+E: al pago por Internet / mucha gente le tiene miedo al fraude
+
+I: de hecho sí al principio yo le tenía miedo al fraude pero / después de haberlo ya / practicado constantemente / ya me di cuenta que es seguro / que no pasa nada // y es mucho más cómodo / que estar haciendo / que estar haciendo una fila en el banco / entrar y sentarse cinco minutos en la te- / computadora y hacer todo lo necesario
+
+E: <tiempo = “28:12” /> y se acabó
+
+I: mjm // también lo utilizamos ahora / para / por ejemplo checar / vuelos boletos de avión / porque para empezar / sí hay que pagarlos con tarjeta de crédito pero salen mucho más baratos / que ir a una oficina / de las líneas aéreas / o al aereopuerto
+
+E: ¿en serio?
+
+I: sí
+
+E: ¿a qué se debe ese descuento? 
+
+I: no sé quizá porque / como no están pagando empleados 
+
+E: 
+
+I: pero sí salen más baratos si se consiguen ofertas que no hay en las agencias de viajes / ni en las líneas aéreas / más que por internet
+
+E: sí // últimamente se se ha estado dando esa / esa tendencia
+
+I: sí
+
+E: a la venta por Internet
+
+I: así es
+
+E: ¿qué opina / sobre eso? / digo / son muchos empleos / que se pueden perder ahí
+
+I: es un arma de dos filos porque sí es cierto hay muchos empleos / hay muchos empleos que / que se pierden porque / pues / eso podríamos este 
+
+A1: hola
+
+E: buenas 
+
+A1: buenas
+
+I: si hubiera oficinas / obviamente / sería una creación de empleo sin embargo de esa manera // pues sale más barato para uno / pero no está pensando realmente / en que / le está quitando uno / el trabajo / a las personas que pudieran estar en una oficina
+
+E: mjm / sí / no me acuerdo en qué artículo creo fue de selecciones // de que / la culpa / la culpa del desempleo la tiene el consumidor 
+
+I: ¿cómo? // pos visto desde ese punto de vista tienen razón / porque uno busca el ahorro / y el ahorro está ahí / en donde no hay empleados
+
+E: ¿su teléfono celular para qué le sirve?
+
+I: mi teléfono celular me sirve / para emergencias // e / para mandar e / mensajitos / para mis hijos / prácticamente nada más o sea no lo utilizo para / para grandes cosas
+
+E: <tiempo = “30:13” /> en sí / son las necesidades de comunicación pero las más emergentes
+
+I: sí / sí las básicas o sea / yo trabajo / todo el día // con teléfono en la oficina / entonces la verdad lo menos que quiero es traer un aparatito sonando en mi bolsa después de eso // entonces realmente lo tengo para emergencias
+
+E: ¿usted trabaja / con muchos teléfonos en su oficina?
+
+I: sí <risa = “I” /> 
+
+E: a ver ¿cómo es?
+
+I: ¿mi trabajo?
+
+E: explique / explíqueme en qué consiste su trabajo
+
+I: mi trabajo es telefónico / prácticamente / mi trabajo / mira yo trabajo en el departamento de inversiones / en un banco // e / manejamos e e / no directamente / al / a los clientes / sino a los ejecutivos de las sucursales // to- / todas las / las inversiones que manejamos nosotros / se cierran por teléfono
+
+E: ¡ajá!
+
+I: entonces recibimos / constantemente / desde las ocho de la mañana / hasta / la hora de cerrar / llamadas telefónicas de los ejecutivos / ya sea para inversiones en sociedades de inversión / para operaciones de nuestro dinero para inversiones de / de / de ventanilla para los de ventanilla / todo / todos los / los ejecutivos nos hablan siempre para pedirnos tasas autorizaciones / todo / y nosotros todo lo hacemos vía telefónica // entonces sí recibimos / un buen número de llamadas al día // además de que todo está grabado / precisamente como protección // para / e / checar / cantidades errores lo que pudiera haber / todo está grabado
+
+E: es un buen método
+
+I: mjm
+
+E: no es tanto el / el problema de calidad sino / para evitar el error humano
+
+I: el error humano exactamente
+
+E: ¿qué tanto / y qué tanto daño es el error humano en su empresa / sea / en su / trabajo?
+
+I: el error humano / para nosotros // es de / pérdida monetaria / porque puedo / sobregirar un cliente / digamos que / el ejecutivo me dice que el cliente va a invertir un millón de pesos / y yo le pongo un cero de más / pos le voy a cargar a su chequera diez millones en lugar de un millón / eso le va a crear al cliente un sobregiro / y un problema / muy serio
+
+E: <tiempo = “32:08” /> sí
+
+I: porque le están faltando nueve millones de pesos en su chequera / que lo más probable que no los haya tenido // y entonces / ese tipo de problemas / e / cuestan dinero / le cuestan dinero / a la empresa / problemas al cliente / y es lo que tratamos de evitar
+
+E: okay // ¿desde cuándo trabaja usted / cuándo empezó a usted con la vida laboral? / más o menos el año
+
+I: en mil novecientos sesenta y nueve
+
+E: mil novecientos sesenta y nueve / ¿dónde / fue su primer trabajo?
+
+I: mi primer trabajo fue en el Banco de México // en la Ciudad de México
+
+E: ¿y qué tal era cuando estaba usted ahí empleada en el Banco de México?
+
+I: era muy bonito // era bonito ambiente // el trabajo era / agradable / el ambiente laboral también // las prestaciones / que nos / que nos daban también muy buenas / en sí / muy / muy a gusto / no / no puedo decir que haya trabajado en un lugar que no me haya gustado / siempre / he estado trabajando / afortunadamente
+
+E: eso / es un lujo en estos tiempos // ¿en aquel entonces qué puesto / desempeñaba?
+
+I: yo empecé a trabajar como secretaria
+
+E: ¿y ahora qué puesto es?
+
+I: ahora soy / gerente de operaciones / de la mesa de 
+
+E: gerente de operaciones / ¿es un puesto de mucha responsabilidad?
+
+I: sí / porque / de mí de / de mí dependen / tasas / inversiones // y la supervisión de todo lo que hacen los muchachos en la oficina
+
+E: ¿cuánto tiempo ha sido usted gerente?
+
+I: tengo en la gerencia / aproximadamente diez años
+
+E: y aquí viene la pregunta indiscreta / no me gusta pero la tengo que hacer <risa = “I” /> // ¿dónde cataloga su sueldo?
+
+I: <tiempo = “34:08” /> ¿en relación a?
+
+E: al salario mínimo
+
+I: al salario mínimo // unas / ocho veces / nueve veces el salario mínimo / nueve veces
+
+E: okay // ¿qué prestaciones le dan a usted ahí?
+
+I: tengo un seguro médico muy bueno / que yo creo que es de lo / de lo mejor que / que hay de la / principal prestación / porque no pagamos médico ni medicinas / de ninguna clase / y tenemos servicio médico para todo / médicos generales / hospitales / todo / todo todo / e / créditos / créditos con tasas de interés / bajas // veinte días de vacaciones al año que ya no cualquier empresa los tiene
+
+E: no 
+
+I: sí / bonos de aguinaldo / son las principales
+
+E: ahora viene la pregunta de los veinticuatro mil // ¿cuántos focos tiene usted en su casa?
+
+I: quién sabe / una pregunta de los veinticuatro mil hay quien te diga no / quién sabe / a ver vamos a ver / dos / cuatro cinco / seis / siete / ocho nueve / diez once doce / trece catorce quince / como veinte
+
+E: como veinte <risa = “I” /> // esta pregunta me la he vivido peleando porque nunca / nunca sé para qué la preguntan 
+
+I: hace cuánto / qué tanto son los / de la casa 
+
+E: asiste usted al museo con una frecuencia / más o menos regular
+
+I: ya no / sí me gustan pero / últimamente no hemos asistido
+
+E: ¿y a los conciertos?
+
+I: pos / tampoco mucho / una vez al año a la mejor 
+
+E: ¿dependiendo del concierto / o dependiendo de alguna otra cosa?
+
+I: dependiendo del concierto / y del costo // desgraciadamente a veces los costos son demasiado elevados
+
+E: <tiempo = “36:15” /> hay un / aparato caduco que se llama videocasetera / ¿todavía tiene?
+
+I: sí <risa = “I” /> / casi no se usa pero ahí está
+
+E: le estaba comentando con mis sobrinos que / que en la entrevista tenemos que preguntar si alguien tiene videocasetera en su casa
+
+I: ¡ajá!
+
+E: dice / Luis Daniel que tiene / siete años casi va a cumplir ocho / ¿qué es eso? <risa = “I” /> / tengo DVD / le pregunté / pero / ¿sistema // por paga?
+
+I: sí
+
+E: SKY ¿verdad?
+
+I: SKY 
+
+E: perfecto / consola / m / ni pregunto / usted la tiene prohibida
+
+I: sí / nunca / nunca hemos tenido / nunca se la compramos porque es demasiado / metido con ese tipo de cosas y pensamos que si / se la comprábamos / lo íbamos a tener veinticuatro horas en la consola con / ahora que él trabaja
+
+E: no sé por qué pero no lo dudo
+
+I: <risa = “I” /> ahora que él trabaja dice que se lo va a comprar pos bueno ya ahí sí / es cosa de él <risa = “I” /> 
+
+E: mjm / ¿lee usted el periódico?
+
+I: no mucho
+
+E: ¿más o menos cada cuánto?
+
+I: una vez a la semana tal vez 
+
+E: casi casi nada más la del domingo 
+
+I: el sábado más bien
+
+E: ¿qué periódico es el que leen aquí en su casa?
+
+I: el Norte
+
+E: ¿alguna sección que le pa- / eh que le / llame la atención cuando / lo lee?
+
+I: pos / por el / trabajo busco la de Negocios / y por los chismes la Gente <risa = “I” /> / los espectáculos
+
+E: ¿revistas?
+
+I: no
+
+E: ¿no?
+
+I: muy de repente un Selecciones
+
+E: pero muy de repente
+
+I: sí / sí ya no
+
+E: ¿el radio?
+
+I: en el carro // en el carro normalmente / traigo noticias
+
+E: mjm // ¿alguna estación este / alguna estación este / que le inte- / que / le parece 
+
+I: este / normalmente traigo / el programa de Pedro Ferriz / que pasa en // Imagen // es ¿qué? / no me acuerdo qué / que números / pero son porque lo tengo grabado en el carro pero 
+
+E: <tiempo = “38:27” /> ¿es Imagen?
+
+I: sí 
+
+E: ay / qué pregun- / esta pregunta me faltó caramba // ¿de qué nacionalidad prefiere las películas en el cine?
+
+I: americanas
+
+E: americanas / ésta / ésta es la mitad del gorro
+
+I: creo que / en el / en la pregunta de / del salario de / de César / si es en relación al salario mínimo / exageré no son treinta salarios mínimos lo que gana <risa = “I” /> / no serán / este / once
+
+E: ojalá / porque dije // suena mucho
+
+I: sí 
+
+E: no hay problema 
+
+I: no es nada que no se pueda corregir
+
+E: exactamente / esos niños / quién diría que ellos son semejantes / parece que fue ayer cuando nacieron <risa = “I” /> / alguna anécdota que tenga de Rodrigo / una anécdota especial
+
+I: bueno Rodrigo siempre se anda metiendo en líos / porque / fue hiperactivo de chico // entonces / pos sus anécdotas son / de / las escuelas / que me llamaban / mañana tarde y noche / ¿por qué? porque además de ser hiperactivo / por la misma característica de la hiperactividad es muy inteligente // entonces / terminaba de entender rápidamente lo que le estaban diciendo y pos se ponía / a divagar o a hacer otras cosas / y terminaba fuera del salón // siempre / una vez en / en un campamento de scouts lo hicieron enojar <risa = “I” /> / y fue y les tiró las carpas a todos los demás <risa = “I” /> 
+
+E: <tiempo = “40:16” /> así de explosivo es
+
+I: sí / y además / como / precisamente por lo mismo explosivo / a los / los niños así son / les gustaba / hacerlo explotar / entonces / porque además tiene / tenía mucha paciencia / para explotar era porque ya lo había n estado molestando mucho tiempo / y estaban los demás / moleste y moleste hasta que lo hacían explotar y luego corrían / sálvese quien pueda <risa = “I” /> 
+
+E: sí / me ha tocado verlo en dos ocasiones / en todo el tiempo que llevamos juntos en dos ocasiones verlo explotar
+
+I: sí ya no es como / de chiquito sí explotaba con mucha más facilidad / ahorita él aprendió muy bien a controlarse
+
+E: mjm // sí tiene una paciencia y un sentido del humor / que al menos yo se lo envidio <risa = “I” /> 
+
+I: de hecho es / es aunque no parezca muy parecido a su papá / o sea / a César es muy difícil verlo enojado // sin embargo yo realmente en treinta años de matrimonio / realmente enojado enojado lo he visto una sola vez / y cuando explota / se sale de sus casillas / precisamente por lo mismo aprendió a controlarse
+
+E: ¡ah! okay 
+
+I: creo que le pasa lo mismo a César Rodrigo
+
+E: mjm // alguna ventaja tenía que ser que Tavo y yo más o menos tuviéramos lo mismo / somos de ira fría
+
+I: sí
+
+E: guardamos / y luego ya lento 
+
+I: yo / después viene la mía / tranquilamente // sí no César Rodrigo / por ejemplo / nunca gateó / sus primeros pasos los dio corriendo / siempre // vivía en el suelo pero igual / se levantaba y seguía corriendo / nunca se golpeó la cabeza siempre metió las manos o levantaba la cabeza // nunca <risa = “I” /> 
+
+E: entonces sí se / sí se golpeaba con todas las de la ley 
+
+I: sí / César Rodrigo era el tremendo que andaba para arriba y para abajo / y sin embargo / el que se fracturó y todo fue Octavio / de chiquito 
+
+E: <tiempo = “42:03” /> bendito sea dios <risa = “E” /> / ¿cómo se fracturó Octavio? 
+
+I: Octa- / bueno una vez no fue / no fue culpa de él / él // realmente / lo llevaba César en la bicicleta / pero lo sentó en el cuadro / y / metió el pie entre los rayos / la piernita / entonces al / al girar la / la bicicleta
+
+E: oh
+
+I: se le fracturaron la tibia y el peroné / tenía dos años
+
+E: bendito 
+
+I: estuvo dos meses enyesado
+
+E: eso debió doler
+
+I: yo creo que sí / bastante // César Rodrigo un día se cayó de la barda / aquí afuerita / estaba ando al perro / y quiso / detenerse / un pie en la barda y otro en la pared para avisarle a su hermano que se asomara / y se fue hasta abajo no le pasó / nada // obviamente yo me asusté / lo llevé con el doctor de volada dije más vale que me lo chequen / lo revisó de todas todas el doctor le mandó sacar una radiografía de la cabeza por si las dudas lo que fuera / y terminó preguntándome / si ya había revisado el piso
+
+E: caramba // no no no / eso ya es demasiado
+
+I: <risa = “I” /> sí / sí era demasiado demasiado inquieto / ahora ya no / ahora ya es bastante tranquilo
+
+E: me da curiosidad // ¿cómo es que / terminaron juntos don César y usted?
+
+I: los opuestos se atraen yo creo 
+
+E: supongo 
+
+I: sí / somos muy diferentes <risas = I” /> 
+
+E: bueno pero / ¿en qué situación?
+
+I: a mira / fue una cosa muy curiosa // él / fue vecino de / de / de unos primos unos primos míos durante muchos años // y una prima cumplió quinceaños // me invitaron de dama para el / la / la fiesta / y a él lo invitaron de chambelán / originalmente yo iba a bailar con mi primo // pero / le / lo habían castigado a mi primo él y yo nos llevábamos muy bien / y le / él recibió el castigo de no bailar conmigo porque reprobó una materia
+
+E: bendito sea dios / en aquel entonces cuando se castigaban de reprobar una materia 
+
+I: <tiempo = “44:02” /> exactamente / estamos hablando de / mil novecientos sesenta y ocho / e / entonces me tocó bailar con César ya por / realmente por estatura no me debería haber tocado bailar con mi primo él era alto / yo era de las más bajitas // y después de / ya cuando se acomodó el asunto me tocó bailar con César / y nos hicimos amigos
+
+E: mjm
+
+I: después él se fue a vivir a Mazatlán / regresó / seguimos siendo amigo y ahora aquí treinta años casados
+
+E: ¿y cuándo se tomó la decisión de hacer una familia? 
+
+I: cuando / regresó de Mazatlán / fuimos novios durante un tiempo / después / terminamos / sus papás están divorciados / estaban divorciados / y él como que / no / le tenía mucha confianza al matrimonio / entonces cuando vio que las cosas como que se estaban enseriando dijo más vale aquí corrió que aquí quedó // y después de un tiempo regresó / nos vol- / me volvió a buscar y fue cuando ya decidimos / que / que si íbamos a regresar era para casarnos // eso fue por allá en el setenta y cinco / finales del setenta y cinco y nos casamos en el setenta y seis
+
+E: pos muy bue na temporada
+
+I: bastante 
+
+E: y los / los matrimonios orita ya no duran tanto / son raros
+
+I: es raro porque / creo yo que ahora / el / la mujer se casa con la idea de que si me / si me va mal me divorcio / no con la idea de sacar adelante el matrimonio / como era antiguamente / antiguamente decía uno me caso para toda la vida / claro / tampoco / uno aguanta situaciones / que no deben de ser ¿verdad? / pero 
+
+E: no / no es lo mismo aguantar a un golpiador / que aguantar las i- / las idas y venidas del carácter de alguien 
+
+I: exactamente / cre- / y creo que lo básico // que ahora mucha gente no se fija / o / lo hace porque lo he escuchado con las compañeras jóvenes en la oficina // que se casan con la idea de cambiar las costumbres de la persona y eso es imposible / sea uno no va a cambiar nunca a la persona / se va a adaptar / a vivir con esa persona // no a cambiar
+
+E: mjm
+
+I: y creo que ésa es una de las cosas más importantes que a uno le enseñaban antes y que ahora ya no lo toman en cuenta
+
+E: <tiempo = “46:09” /> es / sueño / es el sueño romántico / me ama y por mí va a cambiar / no funciona 
+
+I: no / eso no es cierto / no es cierto / nunca lo ha sido / y nunca lo será / una persona tiene su carácter marcado // puedo a la mejor fingir durante un tiempo / para lograr un objetivo y / pero al final de cuentas va a regresar a ser la misma persona / entonces uno tiene que conocer a la persona / y adaptarse / más que otra cosa
+
+E: mjm // de todas maneras / aventarse el compromiso es
+
+I: es difícil
+
+E: es / eso es un compromiso
+
+I: es difícil es un compromiso // así es / sí es / este // al principio / uno llega con la idea de que ay sí que / como el cuento de hadas ¿no? vivieron felices para siempre / las personas se van dando cuenta que las cosas no son así / son lo / la felicidad / digamos que como uno la / la sueña de chiquitos / pos obviamente no existe / son momentos / momento s / bonitos / no porque sea / sea malo / afortunadamente nunca nos ha ido mal / malos ratos todos los tenemos ¿verdad? / definitivamente 
+
+E: mjm
+
+I: y el que diga que / en su matrimonio ni un sí ni un no pos / la verdad no es cierto
+
+E: más tarde o más temprano va a haber un / una diferencia de opiniones
+
+I: así es / y tiene que haberlo porque si no qué aburrido / además
+
+E: pos sí / pero una vez que entra el orgullo se va la razón // lo digo y lo repito y lo sostengo / y eso sé // las peleas de pareja // no sé // a veces siento que son como los dolores del parto el parto / <risa = “I” /> te preparas para algo más grande
+
+I: puede ser
+
+E: será que he crecido en mi casa donde mis padres pelean y con frecuencia <risa = “I” /> / por un quítame ahí esas pajas <risa = “I” /> 
+
+I: es parte de la vida <risa = “I” /> / como dice Octavio cuando estamos alegando su papá y yo / eso es todos los días <risa = “I” /> 
+
+E: <tiempo = “48:06” /> como el niño del comercial
+
+I: así es
+
+E: ¡ay ese Tavo! // ¡qué tantas colecciones no tiene Tavo!
+
+I: Tavo es chacharero // a él le gusta / tener cositas coleccionar / le encanta ir a los mercados / a buscar / ora sí que chácharas / le encantan tiene colección de piedras y de monedas y de billetes tiene 
+
+E: y de tortugas 
+
+I: tiene <risa = “I” /> cochecitos y 
+
+E: y de bonsáis al paso que va
+
+I: sí / sí le gusta / le gusta coleccionar cosas / es chacharero // de / y desde chiquito / cuando íbamos a la playa siendo muy chiquito / en lugar de meterse al agua / él estaba todo el tiempo buscando conchitas / en la playa
+
+E: válgame / ¡ay! / ¿cuánto tiempo va a completar ya el Frodo?
+
+I: tres años / tiene ya tres años con nosotros
+
+E: tres años // y antes de ése Sapi
+
+I: Sapi / que nos duró / nueve
+
+E: un pastor alemán blanco ¿verdad?
+
+I: sí / y antes de él tuvimos un bóxer
+
+E: bóxer
+
+I: bueno dos // nomás que uno se escapó tenía nadamás como un año con nosotros / y se escapó y ése no supo regresar / lo atropellaron
+
+E: au
+
+I: y después el otro bóxer sí era muy listo / ése sí / salía pero regresaba de volada / también de repente se escapaba / pero regresaba y a Frodo también de repente se da sus escapadas y regresa
+
+E: ¿y de todos los perros que han tenido // cuál ha sido el más memorable?
+
+I: yo creo que todos / todos han tenido lo suyo // el bóxer era un perro muy bonito / muy buen guardián / muy lindo con los niños / Sapi era un perro / muy listo también / era muy querendón muy juguetón // y éste pos / sálvese quien pueda / destruye todo lo que / encuentra a su paso <risa = “I” /> 
+
+E: es un canguro 
+
+I: sí / éste al madurar necesitamos que / cruzarlo para que termine de madurar
+
+E: o sea ¿eso es lo que le falta?
+
+I: mjm / así es
+
+E: <tiempo = “50:05” /> sí / yo todavía / todavía lo veo muy acachorrado
+
+I: sí / sí le falta / le falta que lo crucemos de hecho / Octavio le ha estado buscando / una perrita para cruzarlo para que termine de madurar y se tranquilice
+
+E: ¿y de dónde viene esa / esa / idea de que / le hace falta la cruce?
+
+I: Octavio lo leyó en algún libro / o lo vio en algún programa / algo 
+
+E: ah aquél tan detallista que es
+
+I: sí / por ahí lo buscó
+
+E: a ver veremos / mmm / todavía no terminamos
+
+I: <risa = “I” /> 
+
+E: no / todavía no terminamos
+
+I: tú dirás 
+
+E: ¿tiene usted // no sé // encima de usted algún puesto que quisiera / obtener?
+
+I: fíjate que ya no / ya no yo creo que / este / pues el puesto que sigue es una subdirección // es un puesto / obviamente de mucha más responsabilidad / no le temo a la responsabilidad / pero es un puesto de / de estar viajando / de estar viajando a toda la regional / porque nosotros no nada más / manejamos las inversiones de Monterrey / manejamos las inversiones de toda la región del norte / desde / Tamaulipas hasta Baja California / entonces e / sí sí él / a veces mi jefe viaja / un día / se va en al mañana y regresa en la tarde a una ciudad y al día siguiente va a otra y así está / entonces además de que es muy pesado // sí ya no / ya no me gustaría estar así / viajando y / separándome tanto de la casa y todo / como lo hacen ellos / obviamente es una persona joven // que está empezando su carrera // que es un jefe de familia / pues sí les / les interesa mucho crecer / en / en el trabajo / creo que orita yo estoy / prácticamente terminando / me falta poco tiempo para poderme jubilar / no me interesa jubilarme de momento / pero tampoco tener más responsabilidades orita ya estoy en una estación digamos cómoda
+
+E: 
+
+I: en un buen puesto con un buen sueldo / donde trabajo y hago lo que me gusta / y lo que sé hacer desde hace muchos años / que sí / todos los días salen situaciones diferentes / el departamento ha crecido mucho tenemos más cosas que / qué ofrecer / y qué aprender nosotros // pero dentro de todo / está cómodo
+
+E: <tiempo = “52:17” /> ya se sabe qué terreno se pisa
+
+I: exacto
+
+E: y aun así no deja de haber sorpresas
+
+I: exactamente / se / se siente uno un poco se / seguro hasta cierto punto ¿no? porque nadie tiene / tiene comprado ahí la chamba ni mucho menos
+
+E: mjm 
+
+I: pero ya es / es de / demasiado // demasiada experiencia la que tenemos en el trabajo que estamos haciendo ahí ¿no? 
+
+E: mjm
+
+I: y afortunadamente nos ha ido bien
+
+E: y sus compañeras de trabajo ¿cómo las ve?
+
+I: mis compañeras de trabajo son muchachas jóvenes / e / algunas de ellas con mucho empuje / que quiere n / crecer y salir adelante / otras están trabajando / digamos que / para pagar la casa o algo / sin / más pretensiones // no les gusta por ejemplo quedarse cinco minutos más / se // normalmente llegan diez quince minutos tarde / sí están conformes con lo que tienen ahí / y no les importa crecer / algunas
+
+E: algunas
+
+I: pero las otras sí / las otras sí / personas de empuje / hay unas / dos ó tres chicas / que quieren / saber de todo aprender cosas nuevas crecer y / salir adelante / a la mejor les importa un poquito más el trabajo que su casa
+
+E: en este mundo financiero / ¿qué diferencia ve entre la mujer que trabaja y el hombre que trabaja?
+
+I: ninguna
+
+E: ¿ninguna?
+
+I: ninguna / creo que // afortunadamente en el banco / está abierto para todos / obviamente sí tenemos muchos más directores hombres que mujeres pero sí hay directores mujeres // que han sabido / salir adelante muy bien / es más difícil trabajar con una jefa mujer que con un jefe hombre
+
+E: ¿en serio?
+
+I: sí <risa = “I” /> 
+
+E: ¿por qué? / ¿cuál es la diferencia vital ahí?
+
+I: <tiempo = “54:01” /> la / jefa mujer / normalmente es más dura // es más fría / lo que / contra lo que pudiera pensarse / es más fría para tomar decisiones / si yo te tengo que correr te corro / ¿m? // y sin embargo el hombre a veces lo piensa más
+
+E: que eso lo hiciera una jefa
+
+I: pues no / así es // ahora / muy probablemente es porque le costó más trabajo llegar a donde está // porque es cierto también eso aunque sí hay oportunidades para todos / sí e / el hombre tiene ma- // mayores oportunidades que la mujer // sin embargo / si uno ve // cuántos empleados hombres y cuántas mujeres hay en el banco a la mejor está / muy repartido mitad y mitad / pero en los puestos altos / sí hay ma- / mucho más hombres que mujeres
+
+E: ¿cree que con el tiempo cambian las prioridades de la / de la mujer dentro del mundo / laboral en que se mueve?
+
+I: sí / de hecho yo estoy viendo / ahorita / muchachas jóvenes / co n niños pequeños / que creo // que les importa más el trabajo que su casa y el niño // por ejemplo / lo que no pasaba antes / antes uno / sí salía a trabajar pero / procuraba uno trabajar medio tiempo / estar al tanto de los niños / estar siempre con ellos / y ahora no / ahora las muchachas trabajan hasta en la tarde / las niñas están en guardería / o con las abuelitas / y las ven / los ve n / los fines de semana / prácticamente
+
+E: ¡caray!
+
+I: sí me doy cuenta a veces por ejemplo que / organizan una / actividad // fuera de la oficina / digamos / un juego de boliche
+
+E: okay 
+
+I: ¿m? / y se me extraña que l / las dos muchachas que son casadas / y que terminan / que tienen bebés de uno y dos años / terminan de trabajar / pudiera pensarse que uno quiere salir corriendo y llegar a su casa / ir a ver a su bebé // y no irse a jugar boliche / y sin embargo salen de la oficina y se van a jugar boliche / y llegan a su casa a las once y media de la noche / obviamente sus niños van a estar dormidos
+
+E: <tiempo = “56:01” /> obviamente / a esas horas sí
+
+I: y si salieron de su casa a las ocho de la mañana / ¿cuánto tiempo los vieron? // entonces sí están cambiando las prioridades // y curiosamente / las dos / tienen un hijo y no quieren tener más
+
+E: ¡ay caray! / estilo ja- / estilo chino
+
+I: de plano / ¡ajá! <risa = “E” /> // así es
+
+E: no sé es muy 
+
+I: sí es curioso / es curioso porque sí ya son situaciones que / no se veían antes
+
+E: ¡ajá! / no sí // bueno se / será que / bueno / al menos / mis hermanas son / son otra condición arena de otro costal <observación_complementaria = “aparte” /> se mueve en medios diferentes // pero mi hermana y yo / varias veces ha chocado con tal de llegar a su casa para ver a sus hijos
+
+I: exacto / es lo que pudiera uno pensar / por ejemplo / cuando mis hijos estaban chiquitos yo trabajaba medio tiempo nada más
+
+E: mjm 
+
+I: salía bueno tres años no trabajé cuando nació César Rodrigo yo dejé de trabajar / inicié a trabajar cuando Octavio tenía un año // y medio tiempo / yo salía a las dos de la tarde / y las tardes eran para ellos totalmente / eran / llevarlos al club / o al / al futbol a lo / a las actividades que tuvieran / empecé a trabajar tiempo completo cuando ya estaban grandes / bueno grandecitos que ya / no me necesitaban
+
+E: ¿más o menos en la secundaria / o algo así?
+
+I: sí / ya / sus tareas las hacían solos / todo eso lo hacían solos ¿no? entonces / pos ya / ya no necesitaban la presencia de la madre ya / más bien les estorbaba la presencia de la madre <risa = “I” /> 
+
+E: a esas alturas / a los adolescentes les estorba la presencia de la madre 
+
+I: así es 
+
+E: caray
+
+I: pero sí sí ha cambiado / un buen
+
+E: uno espera esas actitudes de un hombre no sé por qué pero uno las espera
+
+I: sí / no de la mujer / mjm
+
+E: y los pre- / y los compañeros que son padres // ¿cómo / cómo reaccionan ellos?
+
+I: de hecho creo que están más preocupados por salir corriendo para convivir con sus hijos 
+
+E: ¿en serio? 
+
+I: tengo un compañero que tiene cuatro hijos / e la más chiquita / bueno ya es una niña como de / diez once años / pero son los ojos de él ¿verdad? entonces sale corriendo a ver qué le lleva y qué le consigue y el dulce y todo para llegar corriendo a verla // y mi jefe que tiene dos niñas / fue capaz de vestirse de pirata para ir a contarle un cuento a su salón
+
+E: <tiempo = “58:13” /> bendito no / qué / qué curioso que los padres sean tan dedicados 
+
+I: claro / <risa = “E” /> / claro también él / pos viaja mucho y las ve poco / entonces yo creo que también compensa / cuando está aquí / tratar de / de / de estar con ellas
+
+E: mjm / bueno / esa es una situación muy / muy especial pero // no sé la idea del padre ausente / es / prácticamente estereotípica en México
+
+I: sí / el papá se va a trabajar la mamá se queda en casa / ya no es así // el papá se va a trabajar la mamá se va a trabajar // el bebé se queda / en la guardería o con la abuelita // estoy viendo que ahorita las muchachas / se apoyan demasiado / por las mamás / para que les cuiden a lo / a los niños / e / creo que está mal / sea porque el niño no es de la abuelita es de la mamá pero / tampoco tiene la culpa la mamá / si no la culpa la tenemos las abuelitas / que / que / estamos dispuestas a todo ¿no? / bueno no me incluyo porque / no creo que yo vaya a ser así / quién sabe <risa = “I” /> 
+
+E: una cosa es que / cuides al bebé / una tarde
+
+I: sí
+
+E: se van al cine dos horas / tres horas / regresan
+
+I: sí / a / a decir tráemelo todos los días y yo te lo voy a cuidar para que tú vayas a trabajar / no creo que yo vaya a hacer eso / pero hoy estoy viendo que muchas mamás lo hacen // muchas // y / las oigo porque tengo amigas que lo hacen / las oigo y dicen no es que pobre de mi hija yo con eso le ayudo // yo simplemente les hago la pregunta / ¿cuando tú tenías a tus bebés de esa edad quién te los cuidaba? / y todas dicen / yo / ¿sí?
+
+E: mjm // bueno / es / es que eso ya es tradición en mi casa
+
+I: ¿sí?
+
+E: o sea / yo prácticamente fui criada de abuela
+
+I: mjm 
+
+E: cuando era / chiquita / me dejaban con la abuela // se dedicaban a lo suyo / a las siete estaban por mí // pero la excusa era / acompañas a la abuelita 
+
+I: <tiempo = “60:06” /> sí
+
+E: mam / mi madre no tuvo entonces mucha paciencia <risa = “I” /> / y no creo que vaya a tenerla con los míos nomás porque sean los míos
+
+I: <risa = “I” /> pos yo tampoco tengo / tengo mucha paciencia nunca he sido muy muchachera / pero la verdad a los míos sí los cuido / todo el tiempo / y más en la situación en la que estábamos nosotros / con muy buenos amigos pero sin familia aquí / entonces era o los cuidábamos o los cuidábamos
+
+E: pues sí
+
+I: años sin ir al cine por ejemplo // porque / me molesta llevar un bebé al cine
+
+E: molesta mucho cuando llevan un bebé al cine
+
+I: exacto / mjm
+
+E: y por eso uno no lo hace
+
+I: entonces / e / no hagas lo que no quieres que te hagan ¿verdad? entonces nunca lo llevamos además de que el cine no es un lugar adecuado para un bebé // es molesto el bebé empieza a llorar y todo el mundo te está voltiando a ver te callan te / tienes que salir corriendo / no
+
+E: ¿y qué piensa usted de las funciones especiales para mamá?
+
+I: nunca he ido a una / sé que existen y que son en la mañana ¿no? / bueno pos es una buena / opción ¿no? / si quiero ir al cine pos me voy nomás que no voy a ver lo de la película voy a estar oír llorando todo el tiempo <risa = “I” /> / entonces pues / se / se decir decir que fui al cine y no vi la película seguramente ¿no?
+
+E: mjm / m me contaron por ahí / no me crea / un rumor / que anda n / pensando en el cine con guardería // que tú dejas al bebé / ves la película / recoges al bebé
+
+I: pues es una opción / a la mejor buena / no sé qué tan segura
+
+E: e / eso es lo que me da pendiente a mí
+
+I: de dejarle a mi bebé a cualquier gente que ni siquiera conozco / pos / tampoco ha de ser muy agradable <risa = “I” /> cómo lo van a tratar qué van a hacer no / o no <risa = “I” /> 
+
+E: pues no <risa = “E” /> 
+
+I: aunque esté muy bien regulada y todo no no creo que sea una / una opción agradable / no / no me parece tan buena
+
+E: ay caray
+
+I: uno anda buscando precisamente cuando los niños son chiquitos // si los va a dejar con alguien que sea una persona segura / conocida / todo / irlos a dejar así namás porque quiero ir al cine / mejor me espero el rato y rento la película y la veo en mi casa / después
+
+E: mjm / no / me parece una opción más seria pero // cuando se lo dije a un amigo que acaba de tener bebé / a él le pareció genial ya quería que le die- / quería que le diera la dirección
+
+I: <tiempo = “62:17” /> pues sí / como las guarderías nocturnas ¿no? / para que podamos ir al baile / ir a dejar a los bebés a la guardería nocturna / tampoco me gusta la idea / soy moderna pero no tanto / me considero moderna pero / con limitaciones 
+
+E: y por más moderna que sea / no sé / siento que / siento que tu niño es tuyo
+
+I: sí / y con nadie va a estar mejor / mejor cuidado
+
+E: realmente
+
+I: así es
+
+E: creo que aquí la dejamos / muchísimas gracias por su ayuda
+
+I: ¿de qué?
+
+E: pues <risa = “E” /> / tarea es tarea ¿qué se le hace?
+
+I: no está bien / hay que hacerlo
+
+E: mjm // gracias de nuevo
+
+I: de nada
+
+ Fin de la entrevista
+
+

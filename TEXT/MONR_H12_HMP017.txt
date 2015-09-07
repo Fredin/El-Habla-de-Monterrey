@@ -1,0 +1,2231 @@
+﻿<Trans audio_filename=”MONR_H12_HMP017.MP3” xml:lang=”español”> 
+<Datos clave_texto=”MONR_H12_HMP017” tipo_texto=”entrevista_semidirigida”/>
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México”/>
+ 
+<Grabacion resp_grab=”Alejandro Castillo Villarreal” lugar=”en un cubículo de la Prepa Tec” duración= “58´03´´” fecha_grab=”2007-11-12“ sistema=”MP3”/>
+<Transcripcion resp_trans=”Mayra Janeth Reyna Mora” fecha_trans=”2008-03-04” numero_palabras=”11388”/> 
+<Revision num-rev=”1” resp_rev=”Raquel Rodríguez de Garza” fecha_rev=”2008-08-15”/>
+<Revision num-rev=”2” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-10-05”/>
+<Revision num-rev=”3” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-07-17”/></Datos>
+ 
+<Hablantes>
+<Hablante id="hab1" nombre="Jorge Antonio Tueme Ruiz" codigo_hab="I" sexo="hombre" grupo_edad="1" edad="21" nivel_edu="2” estudios="estudiante de Lic. En Comunicación” profesion="auxiliar de dirección" origen="Monterrey" papel="informante"/>
+<Hablante id=”hab2” nombre=”Alejandro Castillo Villarreal” codigo_hab=”E” sexo=”hombre” grupo_edad=”1” edad=”29” nivel_edu=”3” estudios=" Licenciado en Letras Españolas" profesion="maestro de preparatoria" origen="Monterrey" papel="entrevistador"/>
+ <Hablante id="hab3" nombre="desconocido" codigo_hab="A1" sexo="mujer" grupo_edad="desconocido" edad="desconocida" nivel_edu="desconocido" estudios="desconocido” profesion="desconocida" origen="desconocido" papel="audiencia"/>
+
+<Relaciones rel_ent_inf = "desconocidos" rel_inf_aud1="desconocidos"
+rel_ent_aud1="no/>
+</Hablantes> </Trans> 
+
+E: sí / no igual al igual aquí / déjame acomodarle bien / bien / hola ¿cómo estás?
+
+I: ¿ya se está grabando?
+
+E: sí ya se está grabando / ahí mero
+
+I: okay 
+
+E: ¿cómo estás? / ¿qué haciendo?
+
+I: nada nada aquí / contigo en la entrevista <risas = “I”/>
+
+E: y qué / no no ¿no sientes que haga frío?
+
+I: no no / para nada / quedé muy acostumbrado al calor / este / el frío también me gusta pero ya como que / aquí te acostumbras a los tiempos / extremistas más que nada
+
+E: mjm 
+
+I: este / ¿qué te puedo decir? a ver qué 
+
+E: y ¿cuál? ¿cuál crees que te gusta más / el frío o el calor?
+
+I: la verdad el frío porque el calor siempre va a estar / y como que con el frío ya como que dices tú bueno / es una etapa de relajación / algo / inusual aquí en la ciudad
+
+E: mjm 
+
+I: pero este / como que se / requiere / porque el calor todo el tiempo / te aburre o / te lastima la piel 
+
+E: sí
+
+I: o / cosas ya de que dices tú / ya / es mucho calor / ya / quiero aunque sea una lluvia algo <risas = “E”/> / un viento cálido 
+
+E: sí ya se / igual y cuando trabajas así en lugares cerrados 
+
+I: bueno adentro no se siente ¿verdad? / pero ya cuando sales al infierno como quien dice <risas = “E”/> / dices tú ¡chin! / otro día lo mismo ¿no?
+
+E: y luego / ¿a qué te dedicas?
+
+I: bueno yo / yo soy estudiante de comunicación trabajo aquí en la prepa Tec / este / me gusta la comunicación me quiero dedicar a reportear 
+
+E: ah
+
+I: por la ciudad / medios masivos de comunicación 
+
+E: ¿qué es lo que te gusta de la comunicación de los reportajes?
+
+I: me gusta más que nada / el / la educación que le puedo dar a la gente / transmitirles la confianza
+
+E: ajá
+
+I: porque / Monterrey se ha convertido en un / en una ciudad este muy / muy amarillista 
+
+E: ajá
+
+I: o sea sacan provecho de las notas este / y en lugar de informar y educar y / persuadirles algún bien / este / ciudadano este lo estamos / ¿sabes qué? estamos yéndonos a la / a la / a la típica ciudad de que el amarillismo es donde predomina y vende más el que dice más notas sangrientas ¿no? 
+
+E: mjm / sí
+
+I: o sea y / no ese no es el caso de la comunicación 
+
+E: y que ¿qué tipo de periodismo te gustaría?
+
+I: este / me gustaría mucho el policíaco más que nada 
+
+E: ¿ah sí?
+
+I: porque es un algo / una rama muy interesante que no cualquiera entra
+
+E: mjm
+
+I: y aparte ya es tiempo de quitarle la venda a la sociedad
+
+E: mjm 
+
+I: ya es tiempo de decirle a la gente oye / abre los ojos a lo que está pasando 
+
+E: mjm
+
+I: <tiempo = “02:15”/> y si tú ves algo / no te calles / alza la voz / precisamente por eso surgió la / campaña de publicidad
+
+E: ajá / ¿cuál? ¿cuál campaña de publicidad?
+
+I: este la lanzó Televisa 
+
+E: mjm / a la de alza la voz
+
+I: y los medios / y los medios este de / desarrollo este / empresarial que / este / alza la voz no te calles sé honesto / los valores primordiales de la sociedad 
+
+E: y ¿de qué se trata?
+
+I: este se trata de que / tú como persona / o lo dice de la misma frase “tienes el valor o te vale” 
+
+E: mjm
+
+I: si tú ves que algo está mal / ¿por qué lo callas? 
+
+E: mjm
+
+I: o sea / en lugar de cooperar para un México mejor 
+
+E: mjm
+
+I: este lo estás hundiendo / y tienes que salir adelante y no sabes cómo y / tu manera de salir adelante es diciéndolo / ¡dilo! / aunque te / aunque juzguen por chismoso o no sé / este porque eres distinto a los demás / te voy a decir una frase muy famosa este / tú te puedes reír de mí porque soy distinto a ti pero yo me río de ti porque eres igual a los demás 
+
+E: mjm
+
+I: y yo pienso que tenemos que sobresalir / para que esto / evolucione hacia algo mejor 
+
+E: y y ¿cuáles tipos de / de periodismo hay? / el periodismo cultural el 
+
+I: pos es el cultural / el / el deportivo
+
+E: aja
+
+I: el policiaco
+
+E: mjm
+
+I: este el amarillismo / que / pues bueno ya se hizo el más <risas = “I”/> / el más vendido más que nada 
+
+E: ¿es así como el de espectáculos?
+
+I: el de espectáculos / es el más codiciado
+
+E: mjm / ¿por qué?
+
+I: es el más este 
+
+E: ¿por qué?
+
+I: el más peleado porque / te pagan más / y aparte / dicen también / puras zonceras no sé con tal de vender 
+
+E: mjm
+
+I: pero es una rama que a mí la verdad no me interesa mucho 
+
+E: y / me ¿me podrías decir cómo es el reportaje / eh / policial? o sea
+
+I: bueno lo que es el / el / policiaco te dedicas a investigar 
+
+E: mjm
+
+I: eres como un investigador privado / persigues sin que te des cuenta te vives escondiendo de la gente este / de los mismos narcos 
+
+E: mjm
+
+I: de tu misma gente porque 
+
+E: mjm / mjm
+
+I: se supone que / tú eres el / el / medio por el cual / sacas la información para comunicarlo a los demás ¿no?
+
+E: mjm
+
+I: y / te m / o sea te metes con lo que es la policía / narcos te metes este co n / mucho riesgo
+
+E: eres así como un investigador 
+
+I: un investigador privado / ¡ándale! <risas = “todos”/> / exactamente / lo cual es muy divertido pero también muy arriesgado 
+
+E: sí
+
+I: es lo que te digo o sea si / yo quiero un México mejor donde / para mis futuros hijos o mis nietos o para esta sociedad 
+
+E: mjm
+
+I: tienes que quitarle la venda 
+
+E: sí
+
+I: <tiempo = “04:27”/> o sea ya / Monterrey es una ciudad que / que / dejó de ser un ranchito de el norte del / del país / y evolucionó la metrópoli industrial / lo cual este cada vez / este / pasa lo que ya / una metrópoli ya algo / algo ya este / internacional 
+
+E: mjm
+
+I: o sea ya estamos evolucionando este / ya no es el parámetro del rancho / o sea ya es algo que dices tú bueno / vienen o sea a invertir aquí pero ¿cómo quieren invertir si hay mucha violencia? 
+
+E: mjm
+
+I: hay que quitar esa esas /
+
+E: eh
+
+I: esos / ríos de / de inseguridad y que se piensa ¿verdad?
+
+E: y ¿qué? ¿qué? ¿qué preferirías tú / tener / vivir aquí así en un Monterrey que fuera chiquito / como era antes / o como está ahorita?
+
+I: mira yo cuando era niño este <risas = “I”/> / hace tiempo / este yo veía por ejemplo que podías salir a las / dos de la mañana y no pasaba nada 
+
+E: mjm
+
+I: ahorita sales a las dos de la mañana y te va / ya / te asaltan 
+
+E: mjm
+
+I: o ves muchas patrullas / ves a gente rayando las paredes 
+
+E: mjm
+
+I: o sea ya / es mucha droga en la ciudad
+
+E: mjm / y ¿a qué crees que se deba?
+
+I: más que nada el / la sobre población de la misma / este / el mismo México / no sé la gente de Oaxaca / San Luis Potosí / por buscar un mejor futuro se vienen para acá 
+
+E: sí
+
+I: estoy de acuerdo que / o sea es correcto / que busques este el mejor estilo de vida 
+
+E: mjm
+
+I: este mejor economía
+
+E: sí
+
+I: pero desgraciadamente / la misma gente crea sus propios / ¿cómo te diré? grupos 
+
+E: mjm
+
+I: y esos grupos / pues / son este distintos a lo que se ve aquí
+
+E: mjm
+
+I: este yo te puedo decir que por ejemplo o sea / lo que es una típica carne asada / anteriormente este / podía ser este / algo / una convivencia familiar ¿no? 
+
+E: ajá
+
+I: ahora es para ponerse borracho <risas = “E”/> / este / tirar despapaye o 
+
+E: sí
+
+I: y todo cambió
+
+E: ¿y cre crees que haya sido por / porque la ciudad es más grande?
+
+I: yo pienso que es más que nada por distorsión regional o sea te digo o sea / vienen grupos este / foráneos 
+
+E: mjm
+
+I: y a lo mejor quieren compartir o sentirse regios están / están en todo su derecho 
+
+E: mjm
+
+I: este pero / yo no estoy de acuerdo con que rompan este / esquemas que ya estaban establecidos en cuanto a / tradiciones 
+
+E: <tiempo = “06:37”/> pero pues igual / es normal que / cuando llegas a un pueblito bien 
+
+I: es normal / es como si yo fuera / es como si yo fuera al DF y te dijera ¿sabes qué? este / dame una chaqueta porque este / tengo frío / y allá chaqueta es otra cosa que aquí en Monterrey es muy distinta dices tú ¡ah canijo! <risas = “I”/> 
+
+E: sí
+
+I: es como también o sea si un / si un este / una persona de / de Chiapas viene aquí y te dice oye ¿sabes qué? este / dame una / una goma de mascar / tú bueno aquí es chicle 
+
+E: mjm
+
+I: son 
+
+E: diferentes 
+
+I: son diferentes este el mismo / el mismo lenguaje con distinto significado o sea / son sinónimos / y y 
+
+E: y tú / ¿tú te irías a / a otra ciudad en busca de mejorar tu situación económica? / ¿o cómo le harías? / tú
+
+I: sí claro / o sea por supuesto incluso no sólo otra ciudad sino países también
+
+E: mjm 
+
+I: este nomás que aquí en / en el norte / del país / estamos influenciados por la cultura / norteamericana y / la verdad la cultura norteamericana / con todo respeto / es una mentada de madre allá <risas = “E”/>
+
+E: ¿no no / no te gusta mucho?
+
+I: no me gusta mucho
+
+E: ¿por qué no te gusta?
+
+I: porque son muchas culturas 
+
+E: mjm
+
+I: juntas / y no llegan a nada 
+
+E: mjm 
+
+I: si llegasen a u / algo / bueno okay / está bien son varias que / tienen un punto / final o sea algo / algo a donde llegar pero / yo veo que / en los Estados Unidos son este / no sé mexicanos / japoneses / los mismos este / americanos latinos 
+
+E: mjm 
+
+I: los mismos latinos que están allá ya nos tiran a nosotros la pedrada de que no vayamos para allá
+
+E: mjm 
+
+I: o sea en lugar de ayudar / ¡órale! / no entres
+
+E: sí
+
+I: dices tú bueno / ya es cuestión de pensamiento de cada quien pero dices tú bueno / ¿qué / qué hago?
+
+E: mjm / y ¿tú tienes / eh / planeado / quedarte a vivir aquí / desenvolverte profesionalmente aquí o te gustaría 
+
+I: profesionalmente sí me gustaría pero también me gustaría irme a estudiar a Canadá o Estados Unidos / otro idioma 
+
+E: mjm 
+
+I: o sea ya para mejorarlo y regresarme porque fue preparación
+
+E: y ¿por qué crees que estudiar otro idioma / es mejor?
+
+I: bueno / más que nada porque / ya / ya el mundo ya es uno mismo 
+
+E: mjm 
+
+I: o sea ya / el idioma básico / de tu país / ya no te puedes abrir porque vas a regresar con personas de otro / de otros países el idioma universal / hasta ahorita ha sido el inglés
+
+E: mjm
+
+I: <tiempo = “08:48”/> al rato va a ser el / el chino o / o el alemán
+
+E: sí
+
+I: o sea el que tenga / la mayor potencia en cuanto a economía y en cuanto a ejército y / todas esas cosas ¿no?
+
+E: mjm 
+
+I: este y / pues me gustaría aprender el inglés porque ya / requiero dominarlo bien 
+
+E: mjm 
+
+I: más de lo que ya puedo dominarlo 
+
+E: y sabes
+
+I: sé lo básico 
+
+E: practicarlo
+
+I: y lo puedo practicar pero sí / ocupas mejorarlo
+
+E: ajá 
+
+I: y así como es el inglés como / puede ser el japonés 
+
+E: mjm
+
+I: y del inglés te vas al francés al japonés y ahí te vas o sea mientras más sepas más vales como quien dice pero / también hay otra cosa / tampoco el que más sabe tampoco no / vale también / ocupas este como te muevas 
+
+E: mjm
+
+I: pues relaciones
+
+E: sí relaciones / sí 
+
+I: más que nada o sea tú puedes ser el / el / chavo más inteligente de tu salón de tu escuela / pero si eres muy antisocial 
+
+E: mjm
+
+I: de nada te va a servir porque no te mueves con las personas 
+
+E: sí
+
+I: que son con el trato que tú vas a dar 
+
+E: mjm
+
+I: y eso este / tiene mucho que ver 
+
+E: y ¿sí has? ¿sí has tenido la la oportunidad de ir a otras partes / a otros países a otros estados? 
+
+I: he tenido la oportunidad de ir a San Antonio este / una vez y / es otro / otro mundo 
+
+E: mjm
+
+I: a comparación de aquí de México 
+
+E: ¿por qué? / ¿en qué se diferencia?
+
+I: se diferencía en cuanto al trato / la misma gente ves / varias culturas / aquí en México si te vas al Six Flags de México del Distrito Federal / vas a ver a pura gente mexicana
+
+E: mjm
+
+I: y el trato no es el mismo que te dan allá / por ejemplo aquí en el Six Flags te dicen / no / súbete a los juegos / te pongo el cinturón y ahí te avientan 
+
+E: mjm
+
+I: ahí no te explican el movimiento / oye vas a hacer esto vas a frenar así 
+
+E: mjm
+
+I: este va a tardar tanto / esto se creo en / tanto tiempo 
+
+E: ajá
+
+I: o sea te dan 
+
+E: o sea todo el proceso 
+
+I: sí 
+
+E: mjm
+
+I: yo siento que / la diferencia entre un México / con otros países que desarrollados / es de que México hace todo al / a <risas = “I”/> / al tanteo o sea
+ 
+E: mjm
+
+I: como salga
+
+E: mjm
+
+I: y no es perfeccionista 
+
+E: mjm
+
+I: si fuéramos perfeccionistas sería otra cosa
+
+E: mjm / entonces ¿tú crees que / que eso ayudaría mucho?
+
+I: ayudaría demasiado 
+
+E: a México / oye entonces dices que te quieres ir a otra parte / por un rato pero 
+
+I: por un rato y regresar
+
+E: y ¿te gustaría quedarte aquí en Monterrey a vivir?
+
+I: yo este / amo mi ciudad amo mi país / y aunque tenga sus defectos también tiene sus virtudes
+
+E: mjm / ¿como cuáles?
+I: como / la religión somos muy este / muy apegados a una religión 
+
+E: <tiempo = “11:03”/> ¿tú eres muy religioso?
+
+I: este no / no soy tan apegado pero por ejemplo lo que es en el sur sí
+
+E: mjm
+
+I: o sea en el sur si tú / dices esta virgencita de Guadalupe cómo puede ser virgen después de tantos años ¡n’ombre! ahí te linchan me cae 
+
+E: ajá 
+
+I: este aquí no tanto porque estamos tan pegados al
+
+E: sí 
+
+I: lo que es este Estados Unidos 
+
+E: ajá 
+
+I: pero / en el sur / hay mucha tradición 
+
+E: sí / igual en las en las fiestas las / el dos de muertos se celebra bien diferente
+
+I: exactamente / los altares / este 
+
+E: ¿sí has visto cómo celebran / el día de muertos?
+
+I: mmm / me han contado / no lo he vivido <risas = “todos”/> / pero sí este / <risas = “I”/> las lloronas el dos de noviembre
+
+E: por ejemplo en navidad / y eso ¿tú tú tú qué haces en navidad? / ¿qué es lo típicamente qué / qué haces aquí en navidad? 
+
+I: en navidad pos me junto con mi familia este convivimos 
+
+E: mjm
+
+I: recordamos a / los seres queridos que ya fallecieron que en paz descansen / este
+
+E: mjm 
+
+I: platicamos las odiseas tanto buenas como malas y reflexionamos 
+E: ajá / y o sea las cosas que te pasan en la vida
+
+I: sí / y bueno / es nuevo año y ya / o sea vamos a acabar bien 
+
+E: mjm
+
+I: este / y por ejemplo en el sur me imagino que / no celebran lo que es este / el santoclós / celebran a los reyes magos 
+
+E: si verdad el nacimiento de Jesús
+
+I: exactamente / aquí es otro / o sea hay dos tipos de México <risas = “I”/> en el sur y norte es muy distinto
+
+E: sí 
+
+I: tienen un fin en común / que es este / la economía y el sí mejorarlo
+
+E: sí / y ¿en tu casa / hacen la onda esa de / de la posada y rosario y todo eso?
+
+I: sí / sí sí lo hacen 
+
+E: y / eh ¿y tú tú participas o nada más estas ahí
+
+I: pues participo pos qué otra me queda <risas = “todos”/> / no sí / si tengo que participar 
+
+E: mjm
+
+I: es una convivencia familiar 
+
+E: mjm
+
+I: o sea / no vas a hacer a un lado por / por una tontería de esas de dices tú bueno / no te vas a alejar de la familia por 
+
+E: de que si crees o no 
+
+I: exactamente / digo o sea / mis papás son creyentes / yo también creo pero / el dominio que le da la iglesia / no <ininteligible/> / o sea yo puedo creer que hay un dios pero no te puedo creer en la iglesia
+
+E: mjm / ¿por qué no?
+
+I: porque / desgraciadamente / la iglesia / quieras o no maneja dinero y <ininteligible/> 
+
+E: mjm
+
+I: y puede ser una potencia / económica muy fuerte / agarrada de la sociedad 
+
+E: mjm
+
+I: digo / yo te creo en un dios te creo en la virgen / pero
+
+E: mjm
+
+I: yo no te puedo creer a un sacerdote que me diga / gasté tanto en un carro blindado para esto / y tú / ¿de qué te ocultas?
+
+E: sí
+
+I: pero bueno / ya es cuestión / de / pensar 
+
+E: <tiempo = “13:19”/> sí / de criterio / y y este ¿y qué es lo que hacen de / de de comer / preparan en tu casa en navidad?
+
+I: bueno el típico pavo <risas = “I”/> 
+
+E: si
+
+I: este / pavo el / el puré de papa 
+
+E: mjm
+
+I: este / espagueti
+
+E: mjm / ¿tú sabes cocinar algo?
+
+I: pos me defiendo <risas = “I”/> 
+
+E: ¿qué sabes hacer?
+
+I: o sea / pescado a la plancha / lo más básico un huevito este 
+
+E: ¿el pescado a la plancha cómo lo preparas?
+
+I: le pongo un aluminio 
+
+E: mjm
+
+I: este papel aluminio / mantequilla / el filete lo envuelvo y a / ¡órale! / al sartén
+
+E: ¿al sartén?
+
+I: y ya 
+
+E: ah pero así como en / calor 
+
+I: exactamente
+
+E: y ¿sí le le haces a eso de la discada y la carne asada?
+
+I: fíjate que sí sé asar la carne pero no sé prender el carbón / y soy regio <risas = “I”/> / y o sea 
+
+E: sí
+
+I: digo o sea son cosas que te dices tú bueno 
+
+E: okay ¿cuando te juntas con los amigos así no? 
+
+I: fíjate que yo no me junto tanto con los chavos / yo con / yo 
+
+E: no eres muy amiguero 
+
+I: soy amiguero / pero el problema es de que / yo no me llevo tanto con los de mi edad 
+
+E: mjm / ¿por qué?
+
+I: no sé por qué o sea tengo un rango / por ejemplo yo tengo veintiún años 
+
+E: mjm
+
+I: y me llevo con los de diecisiete dieci / nueve años
+
+E: mjm
+
+I: pero de veinte a veintidós años no me llevo con nadie porque soy
+
+E: porque
+
+I: pensamos muy distinto 
+
+E: porque
+
+I: o sea porque yo / mi vida si / mi vida en sí / es el estudio / el trabajo y mis hobbies ¿no? 
+
+E: mjm / ¿cuáles son tus hobbies ?
+
+I: y mis hobbies es has de cuenta este / escuchar música irme de antro este / platicar con la raza / este / no sé / ver revistas 
+
+E: mjm
+
+I: estar en el internet chatiar cosas así 
+
+E: mjm
+
+I: pero / yo siento que la / la juventud de ahora está muy mimada / por ejemplo un chavo de veintiun años / mira / con ponértelo así / a mis quince años me decía un maestro / para que tú tengas dinero en tu cartera ocupas estudio y trabajo 
+
+E: mjm
+
+I: es cierto / todo se mueve a base de dinero aunque / duele aceptarlo 
+
+E: mjm
+
+I: este / pero orita me pongo a pensar / digo la raza de mi edad / que trabaje y estudia / se me hace muy inmadura hasta cierto punto porque / ya la juventud se extendió hasta los treinta años se me hace
+
+E: <tiempo = “15:32”/> mjm
+
+I: o sea anteriormente terminábamos la / la carrera a los veintiuno o veintidós años y ponte a trabajar y trabájate tú o sea ya mantente 
+
+E: mjm
+
+I: y orita / un chavo termina la carrera a los veinti- / ¿qué te diré? veinticin- / promedio veinti- / cuatro veinticinco años 
+
+E: mjm
+
+I: te pones a trabajar / a los treinta estudias la maestría y ya / sigues con tu vida ¿no?
+
+E: mjm 
+
+I: y digo yo bueno se extendió la / la juventud 
+
+E: sí
+
+I: y digo ¿qué está pasando? / o sea también ahora las relaciones se me hacen muy tontas / o sea las relaciones sentimentales o sea un noviazgo formal ya no lo quieren 
+
+E: mjm / ¿tienes novia?
+
+I: quier- no / tenía
+
+E: mjm
+
+I: este / y / realmente / me sorprendió mucho el hecho de que / de estar / con una persona / eh bueno en mi caso tres años y medio / o sea significaba mucho para mí y de repente / decirte / ¿sabes qué? ya no siento nada por ti por esto por esto por esto / son cosas que se pueden solucionar pero / ya la juventud te dice ¿sabes qué? / cortamos 
+
+E: ya mejor
+
+I: cortamos / este / somos amigos / y si / ando con una persona y no me late vuelvo contigo ¿está bien? / dices tú / o sea ¿qué está pasando? anteriormente yo recuerdo que / una novia / o cortabas y cortabas y cortabas 
+
+E: mjm
+
+I: o sea ni siquiera una palabra / ahora los ves ahí en la prepa y dices tú / ¿de qué se trata? 
+
+E: mjm
+
+I: o sea / andan / andan una semana / cortan / y / ay el mejor amigo 
+
+E: mjm
+
+I: y anda con otro chavo o sea en su cara y dices tú / ¿qué está pasando? <risas = “E”/> / pero ora son opiniones nuevas 
+
+E: sí
+
+I: o sea es el nuevo / la nueva libertad 
+
+E: sí 
+
+I: pero / que para mi es libertinaje ¿verdad? pero bueno <risas = “I”/> 
+
+E: y tú / ¿tú no eres así?
+
+I: no yo soy más este 
+
+E: ¿por qué? / ¿por qué tu crees que se deba?
+
+I: por la educación que reciben / más que nada yo este / de toda la vida / yo estoy acostumbrado a que / a una chava se le respeta 
+
+E: mjm
+
+I: este / yo estoy acostumbrado a que para las dos de la mañana tienes que estar en tu casa 
+
+E: mjm 
+
+I: por seguridad propia y seguridad de los demás
+
+E: mjm / pero ¿crees que esa educación te la dieron en tu casa tu familia o? 
+
+I: me la dio la familia 
+
+E: mjm 
+
+I: más que nada / más que nada me la dio la familia este en sí / y / no me arrepiento que me la hayan dado
+
+E: mjm
+
+I: porque orita a como están las cosas / digo yo / o sea no puedo / no puedo decirte que soy un santo / porque <risas = “I”/> tampoco no lo soy 
+
+E: aja
+
+I: <tiempo = “17:45”/> pero este / sí te puedo decir que el nivel de educación de este de cuanto a / a lo que es este la moral en la persona 
+
+E: mjm
+
+I: también la persona sí / sí puedo decir que soy muy educado o sea yo no puedo llegar y decirte / este oye tú hijo de tu ¡gua gua! este / ven para acá 
+
+E: mjm
+
+I: no se me hace onda / además que estamos este / este infringiendo la / la ley de / de la / de la / de la / de la prensa este / ya las leyes este realmente no valen para pura <risas = “I”/> 
+
+E: sí 
+
+I: para puro cacahuate ¿verdad?
+
+E: pero ¿tú dices que como quiera te gusta ir salir 
+
+I: o sea me gusta de / me gusta ir de antro a donde tú quieras
+
+E: ¿a dónde vas de antro?
+
+I: te voy mucho al Barrio Antiguo 
+
+E: mjm / ¿qué lugares frecuentas?
+
+I: frecuento mucho lo que es La Casa amarilla 
+
+E: mjm / ¿cómo es ahí?
+
+I: la Casa amarilla es un / bueno empezó / como un bar / y galería a la vez
+
+E: mjm
+
+I: orita ya es más comercial 
+
+E: mjm
+
+I: este era / todo era a base de arte y se vendían obras 
+
+E: mjm
+
+I: de arte era música / no comercial / orita ya cambió su / su 
+
+E: giro
+
+I: su giro / ya es este más comercial / más electrónico / más lounge <risas = “I”/> / este 
+
+E: mjm 
+
+I: tú bueno / pero no te quita el sabor de las bebidas ellos / las bebidas son muy buenas
+
+E: ¡ah! ¿sí? / ¿los mojitos o qué? 
+
+I: la bebida que te puedo este / recomendar 
+
+E: ¿cuál te gusta más?
+
+I: es este / es // lo que es el / vampirito 
+
+E: mjm 
+
+I: y el vampiro azul / hay un vampiro que
+
+E: ¿cuál es la diferencia entre vampiro?
+
+I: el sabor / el vampiro azul sabe a mora azul y vampiro este / es el vampiro común
+
+E: ajá
+
+I: te lo sirven y dices tú achis vampiro azul / y tú <risas = “I”/> bueno 
+
+E: y sí / ¿sí sabes cómo prepararlo / qué le echan?
+
+I: no / no nomás digo que lo prepare en mi cara 
+
+E: no prepararlas
+
+I: no / no o sea / también en ese aspecto de que / tráeme una cerveza y me la destapas aquí en la cara porque no / no sabes qué te puedan poner
+
+E: ¡ah! ¿sí? 
+
+I: sí yo soy muy desconfiado
+
+E: que te echen algo y eso
+
+I: sí
+
+E: oye y / lue- ¿cuan- cuan- cuánto falta para que termines en la escuela?
+
+I: ya en diciembre / este ya acabo
+
+E: ah ¿de veras?
+
+I: ya / ya me recibo
+
+E: y ¿qué es lo que van a hacer para graduación? 
+
+I: este / aún no se tienen planes / este porque estamos presionados con los finales pero 
+
+E: mjm
+
+I: al parecer juntarnos / este en un / un antro / pasarla bien
+
+E: mjm 
+
+I: <tiempo = “19:53”/> o irnos a un viaje todos juntos en bola 
+
+E: mjm / ¿a dónde te gustaría ir de viaje?
+
+I: fíjate que yo mucho deseo una playa 
+
+E: mjm / y en diciembre más chido 
+
+I: diciembre / pasar el año nuevo 
+
+E: sí 
+
+I: con mis amigos
+
+E: ajá / ¿sí sí / sí has pasado año nuevo fuera de tu casa?
+
+I: fíjate que no 
+
+E: no 
+
+I: me da cosa 
+
+E: ¿por qué?
+
+I: porque / mis abuelos son muy este de que / cómo puede ser posible que / la familia te vayas a celebrar borracho / y quién sabe qué <risas = “todos”/> / digo no tomo pero / son mis abuelos muy sentimentales 
+
+E: mjm
+
+I: digo no pos me da cosa / claro que / cuando tenía novia hasta me decían / no te vayas / a qué vas con la familia y sí cierto o sea / cuando / corté con ella sí me di cuenta de muchas cosas que 
+
+E: mjm
+
+I: cometí errores que ya no quiero cometer o sea 
+
+E: mjm
+
+I: yo dejaba la navidad / dejaba mi familia este / a las doce para irme a / de doce a / tres de la mañana a casa de / a la / de mi chava 
+
+E: de tu novia
+
+I: o sea dices tú / no puede ser posible ya cuando cortaste y / vuelves a la realidad y dices tú / qué tonteras hice 
+
+E: mjm
+
+I: y valoro muchas cosas realmente 
+
+E: sí
+
+I: este 
+
+E: y de por ejemplo /en tu cumpleaños / que com- ¿cómo lo celebras?
+
+I: fíjate que mi cumpleaños casi no me gusta celebrarlo porque me pone / así como que / dices tú bueno un año más viejo pero 
+
+E: te agüitan
+
+I: sí / este ya no quiero crecer / o sea cuando eres chavo dices tú quiero tener la mayoría de edad
+
+E: mjm
+
+I: y ya cuando la tienes y ves las cosas dices ¡chincheros! ya no quiero crecer <risas = “E”/> pero por lo general me la paso con mi familia y mis amigos
+
+E: ah okay / en tu casa
+
+I: en mi casa / asamos una carnita asada o algo este / pedimos pizza y órale / atásquense <risas = “todos”/> / y hasta el día siguiente / algo muy 
+
+E: y ¿por qué te da miedo / la onda así de crecer? 
+
+I: fíjate que yo era muy rebelde
+
+E: mjm
+
+I: yo era muy terco / yo tuve que aprender a punta de / de trancazos bas basados en la vida 
+
+E: mjm
+
+I: por ejemplo a mí me dice / me decían este ponte a estudiar porque tu examen es este / el examen de química de prepa este
+
+E: mjm
+
+I: las fórmulas / yo decía ¡chincheros! / no / ¿para qué me va a servir eso? / o sea física / matemáticas en la vida ¿para qué la voy a utilizar?
+
+E: sí
+
+I: ahorita que ya tengo este / ya que pasé la prepa tres años / doy un giro muy / muy grande porque dices tú / lo que yo vi en prepa / y que no me servía / lo vas a ocupar en tu vida diaria 
+
+E: mjm
+
+I: <tiempo = “22:08”/> por ejemplo en mi caso este / tengo un hobby que / este / que es este / electrónica 
+
+E: mjm
+
+I: me gusta este fabricar y / hacer este / inventos de electrónica a base de audio 
+
+E: mjm
+
+I: y ocupas la física ocupas las matemáticas y dices tú / cómo puede ser posible que a / a la edad don / la / donde era tu / ¿qué te diré? tu cadillo 
+
+E: mjm
+
+I: no podías y orita te encanta 
+
+E: mjm
+
+I: o sea son co / son este evoluciones del mismo / ser y el mismo pensar
+
+E: sí
+
+I: por ejemplo a mi no me gustaba leer / pero en la carrera de comunicaciones tengo que leer 
+
+E: mucho / y ¿qué es lo que has hecho de que / de inventos y? 
+
+I: o sea me gusta mucho fabricar cajones para carros este 
+
+E: de / de sonido
+
+I: de sonido
+
+E: ¡ah! / ¡órale! 
+
+I: este me gusta ese / esas ondas / lo hago más que nada porque me / me evita malos pensamientos <risas = “E”/>
+
+E: te distrae
+
+I: me distrae / es como mi / mi droga 
+
+E: mjm
+
+I: o sea en lugar de estar pensando en los / hay un cigarrito este / una chevecita 
+
+E: mjm
+
+I: una chava que está en / pos en los tugurios y no dices tú / en lugar de perder el tiempo en tantas babosadas 
+
+E: mjm
+
+I: mejor ponte a hacer algo de provecho 
+
+E: y y ¿lo haces para ti o para ?
+
+I: lo hago para amigos pero esas veces lo hice para mí este 
+
+E: mjm
+
+I: más que nada / es un hobby que te / dices tú bueno / te divierte te gusta y además hasta te pagan por eso
+
+E: sí 
+
+I: este claro que no cobro muy caro porque son amigos 
+
+E: claro
+
+I: pero a fin de cuentas te diviertes / y además es lo que te digo o sea mi intención como / como futuro periodista si llego a serlo 
+
+E: mjm
+
+I: este / es educar a la misma sociedad 
+
+E: mjm
+
+I: o sea porque / desgraciadamente 
+
+E: ¿por qué dices / es educar a la gente? / ¿cómo?
+
+I: mira si tú ves este los / lo s / los noticieros este / Monterrey se ha convertido en / en la metrópoli de la noticia
+
+E: mjm
+
+I: o sea / anteriormente la noticia empezaba a las / ¿qué te diré? / ocho de la mañana / a / a once / y orita desde las cinco de la mañana hasta las once están en friega en friega en friega / este / va a haber un momento en que / Monterrey va a ser la ciudad / que va a empezar la noticia a las cinco de la mañana / va a acabar / a las / veinticua- / doce de la noche 
+
+E: mjm
+
+I: <tiempo = “24:17”/> este y / para las tres de la mañana / otra vez
+
+E: mjm
+
+I: por actividad nocturna o sea ya / Monterrey te digo ha evolucionado tanto que / anteriormente era / la noche para dormir / ahorita / para muchos la noche es trabajo 
+
+E: mjm / y ¿te te te interesa el periodismo así de / de la tele / o de o el impreso / así / el periódico?
+
+I: cualquier / me interesa cualquier medio masivo / que su intención sea / persuadir / informar / y educar
+
+E: mjm 
+
+I: este / te digo o sea si tú te echas un clavado este / en la leyes de / radio y televisión / cine / prensa / te vas a dar cuenta que / por cualquier cosa este que hagas / vas a cometer un delito 
+
+E: mjm
+
+I: y como dice <risas = “I”/> este la / la iglesia por palabra / obra / omisión 
+
+E: mjm
+
+I: o sea / como quiera estás frito
+
+E: mjm
+
+I: este / y siento que las leyes mexicanas son muy paternalistas en ciertas cosas
+
+E: mjm
+
+I: por ejemplo o sea yo / yo / puedo cometer un delito o un robo / y me acojo al artículo veinte / y dices tú / bueno y ¿qué es el artículo veinte? o sea que el / el / la persona que cometió el delito / tiene derecho a callarse
+
+E: mjm
+
+I: y no declarar / hasta que él quiera / o hasta ciertos días 
+
+E: mjm
+
+I: dices tú / bueno / la ley te protege pero también / en determinada / situación / se ve reflejado el paternalismo hacia el / hacia el mal
+
+E: sí
+
+I: digo / hay muchos / muchos puentes este / derrumbados en la misma constitución y también 
+
+E: ajá
+
+I: pero ya es cuestión de / de mejorarla / cumplirla / o entrarle 
+
+E: mjm / oye y y dices que estudias ahí en en el ICAM?
+
+I: en el ICAM
+
+E: y este y ¿ahí es / facultad de comunicación?
+
+I: es facultad de comunicación exclusivamente
+
+E: órale / y cambiaron de campus ¿no?
+
+I: cambiaron este / estaban en una casa se pasaron a otra casita y están construyendo otro campus este 
+
+E: ¿cómo es el nuevo campus?
+
+I: este por lo que se ve / este ya va a haber más diversidad de carreras / agarraron mercadotecnia periodismo 
+
+E: mjm
+
+I: <tiempo = “26:22”/> y / creo que administración 
+
+E: ¡órale! 
+
+I: más aparte la comunicación 
+
+E: mjm
+
+I: este / lo que me gustó de esa escuela es de que / somos pocos y su enfoque es más que nada / práctico 
+
+E: sí / es más 
+
+I: más práctico
+
+E: sí 
+
+I: este yo he visto / este formatos de materias en cuanto a la Uni en cuanto al Tecnológico de Monterrey 
+
+E: mjm
+
+I: son muy respetables y son muy cultos eso sí no lo puedo negar / este pero / se me hace que le falta mucho / mucha práctica 
+
+E: mjm / ¿a ti te interesa mucho? 
+
+I: sí / sí / yo pienso que / un libro no te va / te va a enseñar lo que 
+
+E: claro / la calle
+
+I: la calle / la misma vida / la profesión
+
+E: ¿y sí / sí has si has tenido la / la oportunidad de trabajar?
+
+I: estuve en medios masivos / estuve este / en MVS radio 
+
+E: ah sí
+
+I: haciendo mi servicio social en la mejor cuando empezó la mejor FM / pero / es puro mugrero <risas = “I”/> 
+
+E: ¿por qué?
+I: no es que ahí te digo o sea / un locutor que te di / le dice a una chava oye mamacita estás bien buena / y la chava dice ¡ay! sí mi rey o sea / dices tú / bueno uno como comunicólogo / eso que dice es de guasa 
+
+E: mjm
+
+I: pero la gente también coopera para esas estupideces
+
+E: sí / se presta 
+
+I: sí o sea dices tú no puede ser posible que te estén metiendo a la radio tú ¡ah! ¡hey! ¡gracias! <risas = “E”/> / adelante / no / o sea no / también estuve / este / antes de estar aquí en Garza Lagüera estuve en TV Azteca en noticias 
+
+E: mjm / y ¿qué hacías? 
+
+I: este / eh me encargaba de / lo que son este las / las encuestas a nivel este / estatal de / partidos políticos 
+
+E: ah okay 
+
+I: este / entre el PRI y el PAN
+
+E: ¿tú hacías encuestas?
+
+I: este / hacía encuestas / tabulaba las encuestas para ver quién iba ganando claro que / a fin de cuentas el medio manipula su / a su conveniencia
+
+E: mjm
+
+I: y claro que / que si TV Azteca dice que Madero / va a ganar 
+
+E: mjm
+
+I: este / claro que Madero va a ganar / si dice que / no sé / Natividad González está mal / claro que Natividad va a estar mal ¿por qué?
+
+E: mjm
+
+I: porque el medio es muy influenciable o sea te puede destruir como te puede dar este / la corona 
+
+E: mjm
+
+I: y yo pienso de que / eso está muy mal 
+
+E: y ¿nunca has trabajado así de / de reportero andar en la calle?
+
+I: no no he tenido la oportunidad / quisiera / quisiera empezar a moverme por esos / esos caminos 
+
+E: sí / y en dices que en TV Azteca / eras el responsable de las encuestas
+
+I: <tiempo = “28:39”/> este / estaba / mediante un equipo / de noticias este / de / jóvenes que estudiamos comunicación y uno del Tec / uno de la Uni / uno del ICAM / otro de la UR / este / manejábamos las encuestas / claro que las personas este / políticamente se interesan mucho 
+
+E: mjm
+
+I: o sea ya sabes quién 
+
+E: pero eran encuestas de teléfono
+
+I: vía telefónica
+
+E: ¡órale! / y ¿ustedes las hacían o ?
+
+I: las hacíamos y luego llegábamos a una conclusión / la tabulábamos 
+
+E: mjm
+
+I: y le dábamos el resultado / claro que / como información confidencial este / si el jefe de noticias / si conoce al / al / no sé al gobernador 
+
+E: mjm
+
+I: y / y el gobernador es del PRI / claro que le va a dar el el 
+
+E: o sea crees ¿crees que hay ahí favoritismo? 
+
+I: yo / creo que sí hay favoritismo en el medio / más que nada porque son muchos este / hay muchos de veras que / dices tú / por más que te esfuerzas / ¿qué haces?
+
+E: no es que eso de la política es de puros amigos y 
+
+I: yo pienso que / mira / si ponemos una cancha de fútbol / ponemos en el lado izquierdo / este / lo que es este / la política / en el centro el medio masivo de comunicación para / este / comunicarnos / los hechos / y del otro lado / este / ponemos este / a lo que es la sociedad / y hay un equilibrio / pero si un equilibrio falla 
+
+E: mjm
+
+I: ¿qué pasa? / todo se derrumba / y ¿a qué llegamos? / a que / si yo político digo / este / yo voy a poner no sé / tantos kilómetros de carretera / para que la carretera se / Monterrey Saltillo ya no sea tan peligrosa / y si el / medio me tiene coraje va a decir / oye / tú dijiste esto / de la carretera / esto esto y mira cómo está / y ya la remodelaste y mira cómo está 
+
+E: mjm
+
+I: bueno / ¿a quién le creemos?
+
+E: sí
+
+I: digo uno como 
+
+E: y ¿crees que la percepción de la gente de la política / está muy influenciada por los
+
+I: sí / depende mucho del medio 
+
+E: mjm
+
+I: demasiado o sea / bueno yo pienso que en cualquier institución o sea si / ¿cómo te puedo decir? / el departamento de comunicación no se de / de la Uni dice que 
+
+E: mjm
+
+I: <tiempo = “30:51”/> que es la mejor escuela de comunicación / y tiene pruebas para dem / o sea lo demuestran / okay / pero qué pasa si / de repente llega el ICAM y dice ¿sabes qué? tú tienes esto pero yo tengo / no sé este / tantos contactos acá / este tengo más práctica por acá 
+
+E: mjm
+
+I: y te demuestro que también este / este / soy mejor que tú ¿no? / y tú como estudiante dices / bueno / ¿a quién le crees? 
+
+E: mjm
+
+I: digo / o sea todo es este / todo relativo todo depende de algo 
+
+E: sí / ¿pero crees que entonces los medios de comunicación / tapan cosas que hace el gobierno / o favore- o les dan cierta como
+
+I: mira hace tiempo
+
+E: popularidad que no tienen o los unen con 
+
+I: hace tiempo había una empresa de / creo que de seguros / Moving Publicity creo / no no / era de carros / Moving Publicity 
+
+E: ah si de los que te daban
+
+I: este / los coches que te daban no sé este / en la agencia te costaba no sé / cien mil pesos un carro / y / Moving Publicity te decía ¿sabes qué? / tú / carga / mi carro blanco con la publicidad / te lo vendo en cincuenta / pos claro que te vas por el color o sea el color vale queso lo importante es que te muevas ¿no?
+
+E: mjm
+
+I: y resulta que / Multimedios / y / Televisa lo / era este patrocinador de ellos / de / del mismo noticiero
+
+E: mjm
+
+I: sucede el / el famoso fraude 
+
+E: fraude
+
+I: y ¿qué pasa? lo que te mantenía / en el alto / mando / de / lo que es la fabricación este la / la venta de carros / el mismo medio / vio que tú ya no eres tan / fuerte para publici- / para darte promoción 
+
+E: mjm
+
+I: y para darte el dinero para seguir este / vendiendo / ¿qué hizo? / ¡ah! miren / Moving Publicity cometió este fraude y el encargado fue éste éste éste y / pasó esto / dices tú / bueno / ¿de qué se trata? / si / ayer / la vez pasada me tenías en lo más alto / ocurre algo que no te conviene a ti / por tu famita 
+
+E: mjm
+
+I: o por tu / rating / ahora le tiras la pedrada a él / o a la / misma empresa / y tu jefe te quiere porque / ah eres muy honesto 
+
+E: sí
+
+I: <tiempo = “33:04”/> o sea ya no tienes a un corrupto / pero son intereses que la gente no ve
+
+E: mjm / sí 
+
+I: más que nada
+
+E: oye / y luego / ¿estás estudiando en el en el ICAM y estás trabajando aquí / medio tiempo? 
+
+I: medio tiempo 
+
+E: y ¿qué es lo que haces aquí?
+
+I: aquí este me dedico / pos de todo soy auxiliar de dirección 
+
+E: mjm
+
+I: y me dedico / en secretaría / a llevar a los maestros a que saquen sus copias este me dedico a verificar los datos que estén puntualmente en sus clases o que / todo esté bien
+
+E: mjm
+
+I: en dirección a veces este / me dedico a / a informar al inge- / al director general de aquí de la prepa este qué pasa con / con situaciones de alumnos 
+
+E: mjm
+
+I: este / coordinación este 
+
+E: mjm
+
+I: cosas que puedan pasar o que puedan / este dañar la imagen de la / la misma prepa 
+
+E: de la prepa
+
+I: sí 
+
+E: ¡órale! / y ¿cuánto cuánto tiempo tienes aquí?
+
+I: voy para el año / trabajando medio turno / este y si / y si / la suerte <risas = “I”/> y / todo me per- me favorece este pienso ser maestro y también trabajar este en los medios
+
+E: ah órale 
+
+I: después
+
+E: y ¿maestro de / de qué clase te gustaría?
+
+I: fíjate que me gustaría dar este algo de / lo que es desarrollo integral
+
+E: mjm
+
+I: este también me gustaría algo de / de / política 
+
+E: mjm
+
+I: o Sociología 
+
+E: mjm
+
+I: y también / historia de México 
+
+E: órale / ¿todas esas clases piensas dar?
+
+I: digo / una aunque sea ¿verdad? pero / me gustaría / no todas pero sí me gustaría una 
+
+E: y este / entonces dices que / ¿tienes un año? / ¿cuánto tienes trabajando aquí?
+
+I: un año aquí tengo en la prepa 
+
+E: alguna experiencia / alguna anécdota que me quieras contar de lo que ha pasado
+
+I: anécdota <risas = “I”/> / sí hay muchas 
+
+E: mjm
+
+I: este cuando inicié / aquí a trabajar bue- / bueno que empecé a trabajar 
+
+E: mjm
+
+I: este / la raza no me conocía los maestros no me conocían este / y los mismos vigilantes me negaban la entrada 
+
+E: ajá
+
+I: es que tú no trabajas aquí tú eres estudiante de otra parte / le digo a ver pe- esperate tranquilo aquí tengo mi credencial / y decían que era falsa / y yo / ¿cómo va a ser falsa? <risas = “I”/> 
+
+E: mjm
+
+I: y ya este ya que se dieron cuenta que sí cierto o sea que trabajaba aquí ya este / ahorita a cada rato nos saludamos pero al principio sí fue algo como que muy / incómodo porque
+
+E: mjm
+
+I: <tiempo = “35:15”/> has de cuenta que pasaba así / ¡eh! / ahí va el cuatro / o sea el cuatro era yo / yo ni en cuenta hasta que ya me dijeron / y cada rato ahí va el cuatro ahí va el cuatro ahí va el cuatro y / ¿quién es el cuatro? / pos el intruso <risas = “E”/> / y yo <risas = “I”/> / gracias / este / otra cosa que me sucedió también / este por tratar de / de que los / alumnos no perdieran clase claro que fue un error fatal / este les dije ¿saben qué? / el maestro / va a llegar tarde se me hace que no va a llegar a la clase / y por decir se me hace que no va a llegar a clase 
+
+E: mjm 
+
+I: se anotaron se apuntó y el maestro / llegó / no pos el maestro fue conmigo / ¡oye que les diste la salida! le dije no espéreme / yo les dije a los alumnos que sí / que iba a llegar tarde y que a lo mejor no llegaba / pero se me hace que lo malinterpretaron y se fueron <risas = “I”/> 
+
+E: sí 
+
+I: este / y claro que a mí me pusieron como campión 
+
+E: mjm 
+
+I: y ya pos entre otras / también este / un salón estaba este / amaneció / mojado porque el clima falló 
+
+E: mjm
+
+I: y / estaba todo un chorreadero ahí de agua / y este / no que no que no va a haber clase porque está el chorreadero de agua no / ¿cómo que no va a haber clase? / vamos para el cuarto piso de / de / hay cuatro aulas aquí en la prepa 
+
+E: mjm
+
+I: y ellos tocaban este en la aula uno / pero había una chava este que tenía este / una pierna rota 
+
+E: mjm
+
+I: fracturada / claro que la chava / los mandé al cuarto piso y la chava no podía / y allá va otra regañada para Jorge <risas = “E”/> / pero bueno o sea por tat- por tratar de hacer cosas buenas pos también viene lo malo 
+
+E: y en y ¿en este año / ha ha cambiado la infraestructura de la prepa?
+
+I: este / se está haciendo nuevo estacionamiento nuevas canchas / se ha cambiado a 
+
+E: ¿cómo era antes?
+
+I: bueno anteriormente este / yo yo estudiaba en lo que era la Emilio Guzmán
+
+E: mjm
+
+I: estaba conectada con Garza Lagüera / este y Garza Lagüera tenía / tres aulas nada más 
+
+E: mjm
+
+I: este creo que hace como / cinco o seis años se construyó las aulas cuatro con laboratorio de ciencias 
+
+E: mjm
+
+I: este lo cual cambió mucho la calidad de estudio del mismo estudiante porque ya no es / ya las / ciencias / ya no son las mismas de que a ver / H2O significa esto / no / ora dices tú H2O significa esto / y es por esto porque lo vi en el laboratorio
+
+E: mjm
+
+I: <tiempo = “37:29”/> este / anteriormente las canchas estaban este / amontonadas ahora / ya hay más este snack / se construyó la cafetería / la matriz 
+
+E: sí
+
+I: que es / el borrego / este y ora ya este / ya / hay tres snacks / este lo cual / la población de estudiantes ha crecido / o sea también el tecnológico ha crecido mucho 
+
+E: mjm
+
+I: yo me acuerdo que anteriormente comunicación / en el Tecnológico de Monterrey / era nada más / este un piso con / diez salones
+
+E: mjm
+
+I: y ahorita es un edificio / con muchas aulas este / equipado / o sea / lo más último en tecnología 
+
+E: mjm
+
+I: y / anteriormente creo que eran / cuatro mil / cinco mil / alumnos en total / orita son diez mil <risas = “I”/> se me hace / de toda / de todo 
+
+E: de todas las prepas 
+
+I: todo / campus y / todo o sea / la comunidad Tec ha crecido mucho
+
+E: mjm 
+
+I: este 
+
+E: entonces dices que / te gustaría ser profe dedicarte a 
+
+I: sí fíjate que no estaría mal probarlo por un semestre o dos semestres a ver cómo me va ¿verdad? / también depende cómo sea <risas = “I”/> / calificado 
+
+E: ajá 
+
+I: pero / sí me gustaría / enfocarme en eso está padre 
+
+E: oye y / y en en ya hablando como de de de otra cosa ¿alguna vez a eh has este has estado cerca de la muerte / en peligro de muerte? / que te hay pasado accidente o algo
+
+I: fíjate que / bueno / de la muerte / he tenido accidentes / fractura de brazo
+
+E: mjm
+
+I: este con una patineta me di en la torre y / me fra- me fracturé el brazo pero no / tuve un dolor intenso y lo cual este / pero / sólo la fractura ¿no?
+
+E: mjm
+
+I: e n / cuanto a cuestión de / estar cerca de la muerte / fíjate que no pero / en sueños sí 
+
+E: ¿cómo? <risas = “E”/> / ¿por qué?
+
+I: en sueños / clásico / que se te sube el muerto o sea 
+
+E: ah sí
+
+I: sientes este que / abres los ojos pero no te puedes mover y 
+
+E: sí
+
+I: dices tú ¡chin! / ¿qué te pasa? o sea 
+
+E: mjm
+
+I: y también / he tenido sueños de los cuales este me he quedado muy sorprendido porque / ¿cómo te diré? has de cuenta que en el sueño me muero / me matan 
+
+E: mjm
+
+I: <tiempo = “39:37”/> este / y / me despierto y digo ¡achis! o sea ¿volví a la vida o qué pasó? / porque has de cuenta que / una vez me asaltaron / este 
+
+E: ¿en realidad?
+
+I: en vida en vida real me asaltaron este y
+
+E: ¿cómo fue?
+
+I: y / también me sentí cerca de la muerte pero / porque vi el cuchi / vi el arma o sea vi un cuchillo 
+
+E: ¿cómo fue eso? cuéntame 
+
+I: este / iba / en la avenida Garza Sada
+
+E: mjm
+
+I: a las ocho de la noche en / en / horario de verano aún de día / este y dos chavos se me acercaron uno me preguntó la hora y uno se fue para atrás y este / pos me volteo / veo el arma y digo
+
+E: y ¿qué era?
+
+I: era cuchillo este de 
+
+E: carnicero
+
+I: Carnicero o sea de esos grandes dices tú ¡ay cabrón! <risas = “I”/> / ¿de dónde lo sacaste?
+
+E: mjm
+
+I: y ya este o sea / me uno me mordió y 
+
+E: te mordió <risas = “E”/>
+
+I: me mordió pos / es que / cuando me volteo / al chavo que / trae el cuchillo pos / le doy un puñetazo y saltó el cuchillo ¿vedá? 
+
+E: mjm
+
+I: y fui / y la / o sea pateo el arma para que / esté lejos ¿no? 
+
+E: sí ajá
+
+I: y el otro vio como que com- / era más chaparro que yo y <risas = “I”/> / más débil este / como que vio la desesperación que me trato / me mordió 
+
+E: ajá
+
+I: y pos fui contra la pared y / y me fui corriendo
+
+E: mjm
+
+I: pero / fíjate que / así sentir la muerte no / sentía miedo más que nada
+
+E: ajá
+
+I: pero la muerte no
+
+E: pero ¿no dijiste ya aquí quedé?
+
+I: no no no
+
+E: ¿ya aquí no la libro?
+
+I: no
+
+E: ¡órale! que loco / yo nunca había escuchado / alguien que lo asaltaran / así en Monterrey 
+
+I: fíjate que
+
+E: cuando fui al DF
+
+I: no / no ya o sea / ya / Monterrey es como un mini DF
+
+E: mjm
+
+I: o sea / ya cualquier lugar es inseguro / siempre y cuando estés este / alerta ¿no?
+
+E: mjm
+
+I: si no estás alerta pos ya valiste queso ¿no? / pero / me han pasado también accidentes automovilísticos que 
+
+E: ¿cuál?
+
+I: o sea iba por / Lázaro Cárdenas este / y recuerdo que el / era una camioneta Lobo / hace dos años fue de hecho / yo venía con mi papá / este / esa camioneta Lobo has de cuenta que / como que venía tomado / bueno venía tomado el chavo / y se cruza de carril / y no sé / y al / al carro le pega / en la parte trasera y lo gira 
+
+E: mjm
+
+I: pero / este / atrás venía un / creo que un vocho <observación_complementaria = “automóvil de la marca Volkswagen el modelo es el sedan”/>
+
+E: mjm
+
+I: <tiempo = “41:50”/> era un vocho / y / pero de frente ¡bolas! / te detienes y dices tú ¡chincheros! / pero en esos instantes dices / como que la vida se te viene en un segundo 
+
+E: mjm
+
+I: y piensas en todo 
+
+E: mjm
+
+I: ya cuand- / o sea como que de / mueres este / conscientemente 
+
+E: ajá
+
+I: o sea has de cuenta que / donde tú / donde pasó el impacto / yo me golpeo / cierro los ojos / y / la vida se te pasa / en un segundo o sea / desde que eres chiquito / hasta lo que eres orita 
+
+E: mjm
+
+I: abres los ojos y dices tú / ¿qué pasó? / o sea / ¿cómo sucedió? o sea ¿qué fue? / pero / eso / pienso que es una mini agonía una pre agonía 
+
+E: mjm
+
+I: pero cerca de la muerte no 
+
+E: así / directamente no
+
+I: directamente no 
+
+E: ajá / pero como quiera te han pasado 
+
+I: me han pasado / este cosas que dices bueno 
+
+E: sí
+
+I: este pero no / muerte así no
+
+E: y bueno / entonces dices que / ya vas a acabar la escuela ¿en en en diciembre?
+
+I: en diciembre ya
+
+E: igual y le das un tanto al / a profe y luego ya 
+
+I: a profe y luego ya / reportero a ver qué onda <risas = “todos”/>
+
+E: y ¿qué qué / qué / cuál es cómo / tu plan para / desarrollarte profesionalmente? económicamente mejorar
+
+I: bueno este / tengo varios / este / mi abuelo tiene un dicho que es muy cierto / afortunado en el juego desafortunado en el amor / afortunado en el amor desafortunado en el juego 
+
+E: y tú ¿tú qué te consideras?
+
+I: yo me considero que / desafortunado en todas partes chinga <risas = “I”/> / bueno / es por la edad misma o sea
+
+E: mjm
+
+I: no puedo exigir ganar cincuenta mil pesos tan joven este 
+
+E: claro
+
+I: sin experiencia
+
+E: claro 
+
+I: como al igual también no puedo exigir en determinado tiempo que me contraten para un / un trabajo de jóvenes que / la verdad no / no / no coincides ¿no? 
+
+E: sí
+
+I: este en cuestiones de / de / una visión / pues me gustaría empezar este como te digo como reportero después poner una agencia de publicidad o sea / me gusta mucho esto / o sea me gusta mucho moverme 
+
+E: mjm
+
+I: me gusta mucho crear 
+
+E: mjm
+
+I: pero también sé que corro un riesgo porque / si yo / me meto este en el periodismo / volviendo al tema o sea policíaco 
+
+E: mjm
+
+I: yo no puedo tener una familia 
+
+E: ¿por qué?
+
+I: <tiempo = “44:04”/> me sentiría muy culpable o sea si / si yo descubro un nexo con un narcotráfico y el narcotráfico me descubre / este / mi / ¿cómo te diré? mi sentimiento mi / mi incluso mi sentencia a pagar sería que me quedara sin familia o sea / si yo tengo dos hijos 
+
+E: o que los dejaras sin 
+
+I: exacto o que me mataran a mí por un reportaje que / costara no se medio millón de pesos 
+
+E: mjm
+
+I: o sea qué / si te si van a matar a tu familia o te van a matar a ti /¿de qué sirve el dinero? 
+
+E: mjm
+
+I: es lo que te digo o sea / arriesgas muchas cosas / por otra parte si / yo sé que si me meto / con este rollo de cine y publicidad / voy a ganar bien
+
+E: mjm
+
+I: claro no tanto como un / como un / un empresario ¿verdad? 
+
+E: mjm
+
+I: pero / voy a estar solo / o sea te digo o sea se corre / orita estoy en la / en el tiempo de que corro mucho riesgo de que no sé / qué es lo que quieres y / y si lo que quiero / es pensarlo bien o sea / la verdad no quisiera estar solo en esta vida / me quisiera casar tener mi familia te 
+
+E: claro
+
+I: cumplir metas este / no sé este / seguir adelante / o sea / gozar la vida 
+
+E: mjm
+
+I: pero si voy a estar en el periodismo / voy a sacrificar esas cosas / por dinero 
+
+E: mjm
+
+I: y lo cual también está muy tentativo o sea / es una balanza que dices tú / primero fama / o familia y estabilidad 
+
+E: mjm / y ¿cuál prefieres tú?
+
+I: te digo quiero las dos pero <risas = “todos”/> / orita no sé cuál de las dos <risas = “todos”/> 
+
+E: sí / oye pos bueno / ora ora te voy a hacer una enc- / un cuestionario
+
+I: claro
+
+E: sobre / este / consumo cultural / ¿cuál es tu nombre / completo? 
+
+I: _____ 
+
+E: mjm
+
+I: _______ 
+
+E: mjm
+
+I: _____
+
+E: ¿cómo?
+
+I: es te u 
+
+E: aja
+
+I: e 
+
+E: aja
+
+I: eme / e / _____
+
+E: aja
+
+I: Ruiz
+
+E: ¿de dónde es ese apellido?
+
+I: es árabe / viene de allá
+
+E: ¿tienes descendencia árabe? 
+
+I: tengo ascendencia
+
+E: digo ascendencia
+
+I: no / también ya porque ya la quiero <risas = “todos”/> 
+
+E: ¿edad? 
+
+I: edad tengo veintiun años 
+
+E: veintiun años / ¿estado civil?
+
+I: soltero 
+
+E: tero dirección / ¿cuál es tu dirección?
+
+I: es Camino del Bosque //
+
+E: mjm
+
+I: <tiempo = “46:19”/> número cuarenta y siete trece 
+
+E: cuarenta y que
+
+I: siete trece
+
+E: mjm
+
+I: colonia Cortijo del Río 
+
+E: ciudad de Monterrey
+
+I: Monterrey 
+
+E: ¿teléfono?
+
+I: ochenta y tres
+
+E: mjm
+
+I: cuarenta y nueve
+
+E: mjm
+
+I: cincuenta y nueve
+
+E: sí
+
+I: treinta y cuatro
+
+E: mjm / ¿religión católica?
+
+I: soy católico 
+
+E: procedencia / de ¿de dónde eres?
+
+I: de Monterrey 
+
+E: ah mmm / ¿tu papá tu mamá tus abuelos / ¿son de de Monterrey todos?
+
+I: todos son de Monterrey 
+
+E: ¿todos?
+
+I: todos 
+
+E: o sea 
+
+I: todos 
+
+E: nadie viene de 
+ 
+I: no ya murieron que en paz descansen
+
+E: ah okay ¿tus abuelos ya se ya murieron todos? 
+
+I: pero tengo los / maternos / que son de Monterrey 
+
+E: pero todos
+
+I: sí son de aquí
+
+E: y tu lugar de origen / bueno no pos no eres de otra parte ¿tienes alguna afición o pasatiempo? / y me dijiste ya que sí la
+
+I: sí lo que es la / la electrónica automovilística lo que es sonido / audio 
+
+E: ¿automotriz? 
+
+I: automotriz 
+
+E: okay / ¿asistes al cine?
+
+I: no tan / es que no tan frecuentemente voy cada mes verdad
+
+E: mjm / sí pero / ¿una vez al mes?
+
+I: una vez al mes 
+
+E: okay ¿de qué nacionalidad prefieres las películas / extranjeras mexicanas o las dos? 
+
+I: las dos 
+
+E: este / ¿de qué nacionalidad prefieres las películas extranjeras en el cine?
+
+I: americanas 
+
+E: okay / este a ¿qué tipo de de de películas ves? / ¿cuáles son como las las que más / te inclinas?
+
+I: por decir ¿los géneros o 
+
+E: sí géneros
+
+I: okay / este son este / acción 
+
+E: mjm
+
+I: este me enfoco mucho por el romanticismo también 
+
+E: mjm / como come 
+
+I: comedia romántica 
+
+E: comedia romántica
+
+I: no pos nada más
+
+E: este / ¿escuchas el radio?
+
+I: este / muy poco / ponle no o mejor no / casi no
+
+E: ¿menos a / menos de una hora?
+
+I: menos de una hora 
+
+E: y ¿qué tipos de / estación escuchar / tu música?
+
+I: este me gusta mucho el hip hop 
+
+E: mjm
+
+I: y baladas 
+
+E: <tiempo = “48:36”/> sí / eh ¿tu estación preferida?
+
+I: FM tú 
+
+E: ¿qué tipo de programas te gusta escuchar en la radio / de música o de / de noticieros / de más acción de chismes?
+
+I: este / noticieros 
+
+E: mjm
+
+I: y música
+
+E: música / ¿ves ves la televisión?
+
+I: sí 
+
+E: ¿con qué frecuencia / mucho o poco?
+
+I: a diario 
+
+E: ¿qué tipos de programas ves en la tele?
+
+I: Tercer Grado este / me gusta mucho lo / lo que es este / noticias
+
+E: mjm
+
+I: noticiero 
+
+E: mjm
+
+I: este de repente / el ocio / que es MTV / D99 este 
+
+E: mjm / de música y eso 
+
+I: sí más que nada este / veo la televisión este como un medio de / información
+
+E: mjm
+
+I: para / o sea me relaja / o sea llego / llego / todo estresado / me doy un baño ceno veo la televisión me relajo y me duermo órale 
+
+E: mjm
+
+I: pero regularmente veo mucho lo que son noticias
+
+E: okay / y ¿con con qué frecuencia ves la ves películas en la tele?
+
+I: mmm / sábados y domingos nada más / o sea cuando tengo tiempo
+
+E: mjm / ¿de qué nacionalidad te gusta ver las películas en la tele?
+
+I: mexicanas y americanas
+
+E: ¿te gustan dobladas o con subtítulos?
+
+I: no / subtítulos 
+
+E: aquí ¿en tu casa tienes videograbadora / DVD / consola para videos?
+
+I: tengo nada más DVD 
+
+E: DVD 
+
+I: este 
+
+E: okay ¿y a sistema de / de cable? 
+
+I: es cable
+
+E: cable / ¿cuántas televisiones hay en tu casa?
+
+I: cuatro
+
+E: ¿lees el periódico?
+
+I: mmm / espontáneamente / o sea sí / pero muy así de volada porque <risas = “I”/>
+E: bien rá / rápido
+
+I: o sea nada más así
+
+E: ¿cuál periódico lees?
+
+I: El Norte 
+
+E: mjm / pero ¿con qué? / ¿qué tanto lees el periódico? / poco ¿no?
+
+I: o sea 
+
+E: diario pero 
+
+I: diario pero / poco o sea nomás lo que me interesa
+
+E: mjm / sí ¿qué sección del periódico te gusta?
+
+I: nacional 
+
+E: mjm
+
+I: internacional 
+
+E: mjm
+
+I: este / y lo que es este / automotriz / nada más
+
+E: okay / eh / revistas ¿lees?
+
+I: sí
+
+E: <tiempo = “50:45”/> ¿qué tipo de revistas?
+
+I: de carros 
+
+E: ¿de coches?
+
+I: de coches 
+
+E: ¿qué tanto lees revistas? / ¿frecuentemente o a veces?
+
+I: cada quincena compro una o sea 
+
+E: mjm
+
+I: pos sí frecuentemente 
+
+E: eh / ¿usas internet?
+
+I: sí
+
+E: ¿para? / ¿en dónde lo usas? en tu casa
+
+I: en mi casa trabajo
+
+E: en tu casa en el trabajo / ¿hay computadoras en tu casa?
+
+I: sí
+
+E: ¿cuántas?
+
+I: hay dos
+
+E: ¿para qué usas el internet?
+
+I: chatear 
+
+E: mjm
+
+I: para sacar información 
+
+E: mjm
+
+I: y / más que nada distraerme
+
+E: mjm
+
+I: como distracción o sea como algo / no sé / como comunicación vamos a decir 
+
+E: mjm / bueno / eh ¿tienes teléfono fijo en tu casa? si verdad
+
+I: sí
+
+E: ¿celular?
+
+I: sí
+E: ¿cuáles son los usos que le das al celular? / ¿recibes llamadas / o haces llamadas?
+
+I: las dos 
+
+E: ¿recibo y hago muchas llamadas? / o 
+
+I: no recibo na- / o sea recibo y hago po- 
+
+E: no sé / ¿y tomas fotos / y videos?
+
+I: no fíjate que no 
+
+E: nada más / para llamar y 
+
+I: sí nomás para lo que es
+
+E: okay / vi eh ¿visitas museos?
+
+I: mmm / no tan frecuentemente / anteriormente sí pero 
+
+E: ¿como una dos veces al año / o menos?
+
+I: ponle tres veces al año 
+
+E: concie- ¿vas a conciertos?
+
+I: no 
+
+E: eh / ¿asistes al teatro?
+
+I: no
+
+E: via eh / ¿sueles viajar por placer?
+
+I: quisiera pero no me dejan <risas = “I”/> no
+
+E: este / eh tu grado máximo de estudios es profesional ¿verdad? 
+
+I: sí
+
+E: este ¿estás trabajando ahorita?
+
+I: sí 
+
+E: este / ¿desde cuándo trabajas? / ¿de qué año? / ¿dos mil seis?
+
+I: dos mil seis
+
+E: este / eres empleado / actividades se realizan / bueno se da un servicio ¿no?
+
+I: sí 
+
+E: la educación / ¿qué puesto desempeñas? 
+
+I: auxiliar de dirección
+
+E: auxiliar / ¿desde cuándo? / desde el dos mil seis / con respecto a tu ingreso o salario mensual con respecto a tu ingreso / o salario mensual / ¿en qué rango lo ubicarías / menos del mínimo / que son dos mil ochocientos / o el mínimo / o entre dos o tres veces el mínimo / o entre cuatro o seis veces el mínimo / o entre cinco y diez veces el mínimo / o más de diez?
+
+I: <tiempo = “53:24”/> el mínimo es el
+
+E: dos mil ochocientos
+
+I: dos mil ochocientos / no / el mínimo 
+
+E: ¿qué prestaciones recibes en tu trabajo?
+
+I: seguro
+
+E: servicios médicos / ¿vacaciones?
+
+I: vacaciones 
+
+E: ¿cuántos focos hay en tu casa?
+
+I: ¡a la! <risas = “todos”/> / ¡híjole! / ¿cuántos focos?
+
+E: sí
+
+I: ¡híjole! / como unos / entre / catorce y quince 
+
+E: mjm quince / eh / bueno eh / ¿tú vives con tus papás no?
+
+I: sí
+
+E: tu papá / él habla español
+
+I: mjm 
+
+E: ¿último grado cursado por tu papá? 
+
+I: carrera profesional / ingeniería 
+
+E: él trabaja ¿en dónde?
+
+I: IMPAC
+
+E: ¿tienes un aproximado de cuántos salarios? 
+
+I: ¡híjole! no
+
+E: no okay / tú mamá / ¿ella el último grado de estudios?
+
+I: maestría 
+
+E: eh / ¿dónde trabaja? 
+
+I: en el Tec 
+
+E: ¿salario? tampoco ¿vives con tus hermanos? 
+
+I: sí 
+
+E: cuan ¿cuántos hermanos?
+
+I: tengo una hermana 
+
+E: mjm / y ¿ella / hasta en hasta e / dónde estudió? 
+
+I: está / está en prepa 
+
+E: ¿en dónde?
+
+I: en el Tec 
+
+E: el tec / okay y ¿tienes algún otro hermano?
+
+I: no 
+
+E: ya nada más es tu hermana 
+
+I: ya nada más / aja 
+
+E: bueno entonces / más o menos / el ingreso familiar de de tu casa en estos rangos / ¿cuál? ¿cuál sería? / o sea éste es el tuyo no pero
+
+I: ¡hijole! es que / yo no 
+
+E: no te das cuenta
+
+I: no no / no pregunto realmente cuánto ganan 
+
+E: mjm
+
+I: o sea no / cosa que digo yo / como que no me incumbe <risas = “I”/>
+
+E: pues sí / bueno / igual y ya / gracias por la / okay bueno / entonces lo último que te voy a pedir es por favor
+
+I: ajá
+
+E: es am / y / es una carta 
+
+I: mjm
+
+E: que / eh / estás / como que tú / aceptando que fuiste entrevistado y todo lo que dijiste aquí pos lo dijiste tú / y que si esto se utiliza para una investigación se publica un libro que tú este / das tu consentimiento para eso <risas = “I”/> 
+
+I: <tiempo = “55:59”/> okay 
+
+E: igual y y si quieres yo lleno esto
+
+I: ah okay 
+
+E: con tu / nombre y así nomás / la firma aquí 
+
+I: okay 
+
+E: que al cabo ya / ya me diste tu nombre completo / y son dos copias 
+
+I: ah okay 
+
+E: bueno ¿algo más que quieras agregar? contar sobre ti sobre
+
+I: no / nada
+
+E: cualquier cosa 
+
+I: que espero que esté bien el caso que dije de / este Moving Publicity porque creo que estuvo así la onda ¿verdad? estuvo así medio / chisquis 
+
+E: el fraude / sí estuvo bien extraño eso 
+
+I: pos digo o sea / anteriormente los / los medios masivos de comunicación como te pueden tumbar como te pueden <risas = “I”/> dar el reino 
+
+E: sí / y es así / pues / bien / dicen que no le creas mucho lo que / lees 
+
+I: exactamente
+
+E: o lo que ves en la tele ¿no? o sea / de alguna manera tiene como que 
+
+I: es que más que nada / este / ¿sigue grabando verdad?
+
+E: sí
+
+I: más que nada este / ¿cómo te explico o sea / hay ciertas cosas que 
+
+A1: hola
+
+E: hola
+
+A1: no esta Misalina
+
+E: no no todavía no llega a clase
+ 
+A1: eh
+
+E: no esta en clase
+
+A1: ah okay 
+
+E: entonces igual y no se si la esperas tantito ahorita llega
+
+A1: ah okay 
+
+E: órale
+
+A1: gracias
+
+E: bye 
+
+I: yo este / te digo / a lo mejor yo como comunicólogo y tú como profesionista sabes qué onda ¿no? 
+
+E: mjm
+
+I: pos la gente que / es humilde / es ma- es muy fácil de manipular 
+
+E: sí
+
+I: si yo pongo una foto de Maderito <observación_complementaria = “personaje político de nombre Adalberto Madero que fue alcalde de la ciudad de Monterrey”/> por photo shop / no se van a dar cuenta que es photo shop 
+
+E: ajá
+
+I: y yo sí o sea yo sí porque pos sabes qué onda 
+
+E: mjm
+
+I: pero sí <risas = “I”/> / si tú llegas con una foto de Maderito / no sé / este / hecha por photo shop / así de esos montaje
+
+E: mjm
+
+I: pero si tu lo publicas en El Norte / El Sol / el periódico amarillista / la gente va a decir mira este cabrón anda así / anda así guara guara guara guara y / tú me entiendes ¿no?
+
+E: mjm
+
+I: pero bueno / esas ya son cosas / muy / muy de la sociedad ¿no?
+
+E: sí / pos bueno / entonces esto es todo muchas gracias
+
+I: órale / órale
+
+ Fin de la entrevista
+
+

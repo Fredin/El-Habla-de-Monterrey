@@ -1,0 +1,1758 @@
+﻿ <Trans audio_filename = ”MONR_M23_HMP069.MP3 xml:lang = ”español”> 
+ <Datos clave_texto = ”MONR_M23_HMP069” tipo_texto = ”entrevista_semidirigida”> 
+ <Corpus corpus = ”PRESEEA” subcorpus = ”ESMXMONR” ciudad = ”Monterrey” pais = ”México” / > 
+
+ <Grabacion resp_grab = ”Myrna Liz Flores Mercado” lugar = ”domicilio de la informante” duracion = “02:33’20´´” fecha_grab = ”2007-11-10“ sistema =”MP3” / > 
+ <Transcripcion resp_trans = ”Myrna Liz Flores Mercado” fecha_trans =”2008-04-07”
+numero_palabras = ”10113” / > 
+ <Revision num_rev = ”1” resp_rev = ”Raquel Rodríguez de Garza” fecha_rev = ”2009-11-23” / > 
+ <Revision num_rev = ”2” resp_rev = ”Anahí Eugenia Domínguez Flores” fecha_rev = ”2010-07-22” / > 
+ <Revision num_rev = ”3” resp_rev = ”Mayra Silva Almanza” fecha_rev = ” 2010-08-16“ / > 
+ <Revision num_rev = ”4” resp_rev = ”Cynthia Martínez del Ángel” fecha_rev = ” 2011-08-03“ / > < / Datos> 
+ <Revision num_rev = ”5” resp_rev = ”Dalina Flores Hilerio” fecha_rev = ” 2011-11-25“ / > < / Datos> 
+
+ <Hablantes> 
+ <Hablante id = ”hab1” nombre = ”Lorena Mayra Leal Isida” codigo_hab = ”I” sexo = ”mujer” grupo_edad = ”2” edad = ”44” nivel_edu = ”3” estudios = "Licenciatura en Administración de Empresas" profesion = "maestra de música" origen = "Monterrey" papel = "informante" / > 
+ <Hablante id = "hab2" nombre = "Myrna Liz Flores Mercado" codigo_hab = "E" sexo = "mujer" grupo_edad = "1" edad = "29" nivel_edu = "3" estudios = ”estudiante de Maestría en Ciencias con especialidad en Lengua y Literatura” profesion = "maestra de Inglés" origen = "Monterrey, Nuevo León" papel = "entrevistador" / > 
+
+ <Relaciones rel_ent_inf = "desconocidos" / > 
+ < / Hablantes> < / Trans> 
+
+
+E: hola 
+
+I: no / no no no / pásale por aquí
+
+E: gracias / qué lindas flores 
+
+I: adelante / ¿les ofrezco algo?
+
+E: gracias / no muchas gracias / qué amable / aquí está bien
+
+I: sí /  / sinceramente ¿verdad? / que creo que habían venido antes / hace como veinte años creo que me dijo y yo no me acuerdo / pero pos / le pregunté de qué se trata y me dijo que yo no me preocupara / que me iban a preguntar algunas cosas / y / y yo lo único que iba a hacer era contestar 
+
+E: pues sí / bueno es una plática sobre / cómo somos en Monterrey
+
+I: sí / muy bien
+
+E: sobre / por ejemplo qué es lo que hace en un día común / este / ¿cuáles e / cuáles son sus rutinas de?
+
+I: ¿mis actividades?
+
+E: sí / sus actividades / así es
+
+I: vas a tomar alguna nota de ello o
+
+E: no / se va a grabar
+
+I: ah! / a ver ¿qué me vas a preguntar? / ¿me vas a preguntar o yo te voy a platicar?
+
+E: pues yo le pregunto algunas cosas / pero pues lo que quiera platicarme / este / todo es este / yo después la escucho / y podemos hacer una plática sobre ese tema / en general no hay nada / este / nada así como que / específico 
+
+I: ajá
+
+E: ¿sí?
+
+I: mjm / mjm
+
+E: bueno / por eso le decía que me platique cómo es su vida / qué hace en un día / este / común
+
+I: en un día común / ¿qué hago?
+
+E: sí
+
+I: en primer lugar / soy mamá de dos hijas 
+
+E: mjm
+
+I: adolescentes las dos / una tiene dieciocho años y la otra tiene dieciséis años / y / este / antes tengo que comentarte qué es lo que / porque / te comento primero lo de las hijas pues porque también mi vida gira entorno <risas= “E” / > / a ellas ¿no?
+
+E: ajá
+
+I: este ¿qué es lo que hago en un día común? / ¿desde que me levanto? / ¿sí?
+
+E: ajá
+
+I: <tiempo = “2:29” / > bueno mira / haz de cuenta que mis días empiezan como a las seis / cuarenta de la mañana / seis cuarenta / este / es levantarme / e / también estar al pendiente de que se hayan levantado mis hijas / porque / e / la más chica / la que está en preparatoria / yo todavía la / la llevo a ella a la escuela / la que está / de dieciocho años ella solita se va al colegio / va y viene / y entonces a partir como a las siete quince / la paso a dejar a la escuela / y / e / yo trabajo como maestra de música / soy maestra de / de piano / en / dos colegios / y estoy también con mis clases particulares / y por ejemplo / cuando yo me regreso de llegar / de / cuando ya regreso de dejar a mi hija / este / ¿qué es lo que hago desde en la mañana? / pos / desde / bañarme / bañarme / arreglarme / aunque para ira la clase este / tengo que salir de la casa a las doce del día / porque empiezo a trabajar / las doce cuarenta 
+
+E: mjm
+
+I: lunes y miércoles / siempre me gusta como que / optimizar mucho el tiempo / entonces / desde que ya terminé de / la voy y la dejo / regreso me baño / y ya me arreglo como voy a andar todo el día 
+
+E: mjm
+
+I: este / porque no dispongo / o sea / como que tengo todo muy organizado / mis horarios
+
+E: mjm
+
+I: ¿sí? / este / procuro / acabo de cambiar mi / mi rutina porque / hasta este año / ciclo escolar pasado / estuve dando clases también temprano / en / en un horario de ocho a diez de la mañana / en un colegio / en el Motolinía / y / este / ahí sí tenía que cambiar muchísimo mi / mi / más relajada que tengo / ahorita porque / ahorita estoy dedicándome / a estudiar primero me pongo mi / mi estudio de las / estoy estudiando piano / este / tiene uno que / volver a ver / a / eh / practicar y todo para estar / y luego ya empiezan mis actividades / a partir de las doce / el lunes y el miércoles / y / termino de dar clases / bueno / trabajo con niños / trabajo con / un grupo de / niños / e / de / edades entre los cinco y los / doce años / me gustan muchísimo / mis actividades que hago / me gusta mucho dar clases / doy clase de piano / e / la clase / es en grupo / este / el grupo que tengo son / grupos de / entre cuatro / y diez niños máximo / lo que puedo tener en cada grupo / e / tengo la característica de que m / bueno yo digo que me toca la suerte ¿verdad? / de tener alumnos siempre muy capaces / y / también / si no son capaces los hacemos <risas= “E” / > / los hacemos capaces / y / ¿qué más? / y así es / lunes y miércoles en el / en el American Institute of Monterrey y luego / el martes tengo mis clases particulares aquí / vienen los alumnos aquí a la casa / tengo también / tengo horas aquí en la casa / me fascinan las clases / a gente / ya / señoras / la gente mayor / porque / por ejemplo los niños / estudian piano por una cosa / después adolescentes por otras / y los adultos ya están en un etapa / en que ya vivieron muchas cosas / y yo creo que son los que más disfrutan las clases / porque están / retomando algo / que habían hecho de jóvenes / o ven que este / se están dando / hasta orita / la oportunidad de hacer lo que siempre / habían querido hacer 
+
+E: claro
+
+I: ¿verdad?
+
+E: mjm
+
+I: y entonces yo no / esto es lo que generalmente hago / este / la comida / los / martes y jueves es cuando yo hago de comer / los lunes y miércoles y viernes hace de comer la señora que me ayuda en la casa / siempre procuramos / los únicos / no / no comemos mis hijas y yo todo el tiempo juntas / este / lo que sí procuramos hacer juntas es la cena 
+
+E: ajá
+
+I: ¿verdad? / este / y ahí / es cuando salgo de dar clases / llego a mi casa ¿qué será? / como a las / siete / ya entonces me quedo aquí / ya después haz de cuenta como una / vida de / de / familia por decirlo así yo estar al pendiente de / ¿qué necesitan? / ¿qué van a hacer? / ¿qué quieren de cenar? / todas esas cosas / y no / básicamente ese es mi día 
+
+E: <tiempo= “06:51” / > ¡ay qué bien! / ¿y los sábados? / ¿también da clases o?
+
+I: sí fíjate que acabo de empezar / o sea yo tenía mis sábados más libres / pero / este ciclo escolar / e / hay alumnos que me han pedido clases / en sábado / porque ya ves cómo están orita las / prisas de todo / mucha gente que entre semana con todas las / actividades de las escuelas / no tienen tiempo / y entonces / estoy empezando a dar clases también los sábados / pero generalmente / ¿qué te diré? me desocupo para la una y media dos de la tarde / y luego ya tengo el resto del día / por decir un poquito más libre / e / sin embargo a veces / me invitan o / o / a tocar a algún evento / una misa o algo y entonces hago / hago eso ¿verdad? 
+
+E: ah qué bien / mjm 
+
+I: mjm / y por ejemplo los sábados / los sábados / es más este / familiar pero / tú sabes que con / las hijas adolescentes ellas tienen ahorita sus propios planes o sea que / sale con el novio la mayor / quieren salir con los amigos / ahorita / ellas es así / este y ¿qué te digo? / nosotros / e / e / tengo tres hermanas / y mi mamá que es la casa de mi mamá / y / e / nos juntamos / e / para platicar / pero ya desde hace como / dos años y medio / o tres / haz de cuenta que nos / estamos optimizando los tiempos / aprendimos a tejer desde / chicas / entonces ahora lo que hacemos es / a tejer tejer tejer que cada quien sabe / porque por ejemplo / de todas las cosas que vamos / tejiendo / vamos a poner un bazar navideño / cosas así / pero
+
+E: ¿y en dónde van a poner el bazar?
+
+I: va a ser en casa de mi hermana / mayor / ahí vivimos por el sector Colinas / y / pero bien padre <observación_complementaria = “ divertido o agradable” / > fíjate porque / nuestra intención / es / no hacer / bueno / a / estamos aprovechando el tiempo 
+
+E: claro
+
+I: cuando tú estás tejiendo / no necesitas estar bien concentrada en el tejido / y puedes estar concentrada en la plática / y estamos aprovechando / el tiempo 
+
+E: claro
+
+I: y entonces bien padre / porque te puedo decir que / tú ves las cosas tejidas ahí / y sin embargo / no fue nada más la hora dedicada / a tejer / sino fueron las horas que te llevaste / son como / el producto / así ponerlo / físicamente 
+
+E: ajá
+
+I: las horas / que has estado también en convivencia con tu familia ¿verdad? 
+
+E: claro
+
+I: y / y digo / la familia / es importante porque por ejemplo / somos puras mujeres / y de alguna u otra forma / platicamos de muchas cosas que nos atañen a / a todas / para el bien de nuestra propia familia / de nuestros hijos / ¿verdad?
+
+E: ajá / qué bien / y / ¿qué es lo que van a vender en el bazar?
+
+I: en el bazar mira hicimos / este m / e / bufandas 
+
+E: ajá
+
+I: bolsas / chalecos / ¿cómo se llaman éstas? / chalinas / este / capas / muchas cosas de ese tipo / que / todo lo que estamos haciendo son / ¿qué te diré? / cosas que se están / que se van a / o que se están / usando actualmente / o que se / que se van a usar / este / a una de mis hermanas a mi hermano mayor / e / como ella es psiquiatra 
+
+E: mjm
+
+I: y tiene / ahorita sale mucho / de viaje porque / a conferencias y todo eso / le / gusta comprar las revistas / entonces se trae revistas de otras partes / y es muy padre porque / aunque ya las revistas las consigues aquí ¿no? / pero es bien padre porque / este / te vas a estancar / así se usa acá en / en Europa / entonces ya empezamos a hacer todas las cosas / pensamos digo / pensamos que tenemos cosas muy / diferentes ¿verdad? <risas= “E” / > pero eso es lo padre / igual de novedades 
+
+E: ah pos me daré una vuelta por ahí / vivo también por aquí
+
+I: ah ¿así? / vamos / luego vamos / vamos a estar cerquita de / Soriana <observación_complementaria = “ cadena de supermercados” / > / en la privada San José por aquí
+
+E: sí
+
+I: por donde están las / privaditas ahí 
+
+E: mjm 
+
+I: ¿mjm?
+		
+E: ah / okay / sí ya conozco por ahí / ya he ido / a ver precios <risas= “I” / > 
+
+I: sí hay de todos / los precios porque / tenemos de todo tipo de estambres / y tú sabes bien que mucho tiene que ver / en / en cuanto al material que se utiliza / depende pues el precio de las cosas 
+
+E: ajá
+
+I: pero estamos utilizando de todo tipo de material muy padre / precisamente para que / este / todo tipo de / público y de gente pueda comprar las cosas / para / para ora / para regalar en navidad / para todas las personas 
+
+E: mjm / señora / ¿cómo celebra la navidad / usted?
+
+I: <tiempo= “20:59” / > bueno nosotros celebramos la navidad / aquí en familia / mira / este / tenemos la costumbre de / de reunirnos / hasta este / antes yo / me acabo de / volver / a casar / ahora en abril porque / estuve divorciada mucho tiempo / entonces me acabo de volver a casar / y durante todos estos años anteriores dieciséis años de mi vida <risas = “E” / > / este en los años anteriores de mi vida / e / mis hijas y yo pasábamos / siempre la navidad / aquí en casa de / de mi mamá que es donde nos reunimos / mi papá falleció hace / quince años / no / hace doce años / y este / mis hermanas / primero antes de venir a casa de mi mamá / van a casa de sus / suegros / y luego ya vienen aquí a la / a la casa 
+
+E: mjm
+
+I: acostumbrábamos / hasta el año pasado / antepasado perdón / a que / e / este / cooperábamos / entre todos / y / económicamente / y e / se compraban las cosas / y generalmente mi mamá preparaba la / la cena / pero ya este año pasado lo hicimos diferente / porque / pues era muy / pesado / que todo el trabajo lo hiciera nada más / mi mamá ¿no? 
+
+E: mjm
+
+I: y la cosa es que / también / como costumbre vimos / que era algo que hacía / nuestra mamá / pero / qué es lo que estábamos haciendo nosotros / para que vieran / nuestros hijos ¿verdad? / entonces ahora / ahora le cambiamos / repartimos / qué es lo que se va a hacer / la cena 
+
+E: mjm
+
+I: ¿verdad? 
+
+E: mjm
+
+I: ¿qué es lo que vamos a cenar / ¿qué es lo que va a traer cada quien? / seguimos haciendo la cooperación / entre todas haz de cuenta que se compra / todo 
+
+E: mjm
+
+I: ¿ves? entonces / se se / se / reparte cada tarea / ahora tú haces esto / tú haces aquello / y así / y entonces / pues bien bonito este año pasado empezamos con eso / porque / ahora involucramos / a / nuestros hijos / a que nos ayuden / a cada quien / en su propia casa / a hacer / lo que se va a cenar / en casa de la abuelita / ¿verdad?
+
+E: ajá
+
+I: y fíjate / todo el tiempo ha sido bien bonito porque / desde que nuestros hijos estaban chicos / los acostumbramos a que es muy / muy musical esa casa / nuestra familia / y este / desde que nuestros hijos estaban chicos / los acostumbramos / a que / después de cenar / ¿verdad? o / o antes de cenar / ellos tenían que preparar / y mi mamá también / todos preparábamos como una especie de / presentación / en donde cada quien tenía que hacer / algo / lo que / saben / ¿tú sabes declamar? / pos declamabas este / si te gustaba el baile / tenías / bailar / o cantar / o lo que tú quisieras / pero cada quien hacía algo ¿verdad? / y entonces este / para / tener una / un pequeño como si fuera / un recital / o algo navideño o cosas así padres / y como muchos / muchachos ya son / ya están grandes / se quedaron con esa costumbre
+
+E: mjm
+
+I: ¿verdad? / y / es bien bonito porque / e / por ejemplo tenemos / videos de cuando estaban más chiquitos / y que salían / se disfrazaban de de / de que de Santa / y todo eso ¿verdad? / y ahorita ha cambiado mucho / las cosas que hacen / pero / sigue esa / esa ¿cómo te diré? / la idea / de / estar en familia / de convivir / de pasársela bonito / de / de cenar rico 
+
+E: mjm
+
+I: de que todos estemos / de alguna forma cooperando para estar creando ese / ambiente
+
+E: ajá 
+
+I: ¿verdad? / y ahora / este / pues se necesitan agregar / en caso de que los sobrinos o / las hijas que / tienen novio / entonces se invita también a ellos ¿verdad? 
+
+E: mjm
+
+I: entonces se va haciendo como que / la familia más grande para empezar / y / pero la / la tradición / sigue / siendo la misma / hubo un tiempo en que acostumbrábamos / a m / hacer la posadita / ¿verdad? y que con las / velitas / unos afuera y otros adentro / y eso / lo hemos cambiado un poquito / pudiera pensarse que / como que se ha perdido / en función de que / cuando los niños estaban más chiquitos / pienso yo que los / no / no que los manejabas / porque parecería que los estábamos manipulando pero no era manipulación / sino que sí podías controlar más las cosas que hacían / y ahorita / ya no hacemos / tanto de / en el nombre del cielo <observación_complementaria = “la informante cantó la frase citada” / > / ¿así no? / sin embargo / sí hacemos nuestra oración / antes de sentarnos a cenar / a la mesa / este / y que por ejemplo también / este / el nacimiento de Jesús / un lugar / importante de nuestra vida ¿verdad? 
+
+E: sí / no pues qué bien / qué bonito que se junten así 
+
+I: ajá
+
+E: será que / nosotros / en mi familia / bueno no / convivo con mis tíos y / yo creo que es porque como no tuvimos abuelitos / ya ve que todos se reúnen 
+
+I: yo creo que 
+
+E: por los abuelos ¿no?
+
+I: así es
+
+E: y como no tuvimos / pues / nos veíamos cada / a veces en cumpleaños o algo así / que / en navidad nada más mis hermanos / mis papás / y ya
+
+I: <tiempo = “16:06” / > fíjate / eso / eso / de lo que nosotros hemos estado haciendo / todos los años / de / un tiempo para acá / te voy a decir orita que mencionas lo de tus abuelitos / qué importancia / es / por ejemplo / la / la cabeza de una familia 
+
+E: mjm
+
+I: y a veces es / este los abuelitos la pareja o nada más / uno de los dos / pero qué importante / cuando / yo estaba chica / me acuerdo muy bien que nos juntábamos / con mis tías y todo / en casa de mi abuelita 
+
+E: mjm
+
+I: tú sabes que cada familia tiene una educación / diferente / aunque procedas de una misma / persona / que van saliendo de / de la misma familia porque esa persona va pensando diferente / este / después ya cuando se casan / los pensamientos y los valores de la familia se van haciendo también diferentes ¿verdad? / y entonces / e / nosotros nos juntábamos en casa de mi abuelita / y había veces / como / que / sí a todos se les apreciaba y a todos se les quería y todo / pero / e / con los cuales / mi papá / mientras mi abuelita estuvo viva / sí / lograba llevarla en paz y todo / con todos / y a veces / pasaba de largo ciertos detalles que como que no eran tan / propicios 
+
+E: sí 
+
+I: porque ya sabes que hay mucha gente que aprovecha / desafortunadamente / ocasiones / que están juntos / para / reñir / para / ofender / para todo eso ¿no?
+
+E: mjm
+
+I: y era de las cosas que a mi papá no le gustaban / y entonces / e / el año / que / fallece mi abuelita / e / que fue / mi papá dijo / ¿verdad? / ahora sí / a partir de este año / ya no nos vamos a juntar / ¿verdad? / y / el hermano que / o la hermana que quiera venir / a visitarnos / en navidad / tiene / abiertas / las puertas de / de nuestra casa ¿verdad? / pero / ya no vamos / a juntarnos con el resto de los hermanos / ¿por qué? porque / si yo / me mantenía a ir a estas / en estas / en estas reuniones / era por mi madre / decía mi papá / fíjate bien curioso / ¿por qué? / porque nosotros / fuimos de los primeros / en que / empezamos / como a hacernos / un poquito / a separarnos / y pudiera haberse pensado / que fue / o sea que no queríamos juntarnos / es verdad / pero no / era más que todo para salvaguardar / los valores / y las cosas que / que nosotros / considerábamos en mi papá / considerábamos que era importante
+
+E: <tiempo = “18:38” / > mjm
+
+I: lo que tú dices ahorita / este / yo digo que / que de alguna manera es importante porque / te digo / aunque mis / hijas / o mis sobrinos / se quieran / ir / o que quieran reunirse más tarde / ellos aprovechan el año nuevo / para irse con los amigos / para hacer planes en / año nuevo / pero / ellos en la navidad no / la navidad es / con la familia / y en casa de su abuelita / ¿verdad?
+
+E: mjm
+
+I: entonces / afortunadamente tenemos viva a nuestra mamá / y este / y yo sí sé / que / el hecho de tener / así a / a los abuelitos / eso une mucho / a la familia ¿verdad? 
+
+E: mjm / sí / exacto / no pues / yo como te comento no / pero sí / yo creo que e]s por eso porque sí era muy / diferente la manera de pensar de mi papá / como quiera la pasábamos muy bien 
+
+I: sí
+
+E: porque tuve / cinco hermanos
+
+I: ¡ah! / qué bien
+
+E: entonces imagínese súper grande la familia y
+
+I: ¿hombres y mujeres?
+
+E: sí / dos hombres y / tres mujeres / y yo la de en medio / entonces / imagínese
+
+I: la pasan muy bien 
+
+E: sí / sí nos la pasamos muy bien / y ahora que ya estoy casada / este / siempre entra el / el azar / el que dice si vamos primero con mi suegra / o con mis papás / yo creo que
+
+I: eso es bien difícil 
+
+E: sí
+
+I: fíjate que / yo no lo entendía / bueno yo / me acuerdo / me acabo / de casarme / digo ahora en abril / mi esposo / no es de aquí / es de Jalapa / y de hecho él viaja mucho / orita está en Bélgica / porque él es violinista y entonces / haz de cuenta que / nos conocemos de hace muchos años / muchísimos años / y / y nos acordamos / acordamos / no es porque nos acordáramos / acordamos entre los dos / de que / si nos esperábamos a algún momento de la vida en donde pudiéramos estar todo el tiempo juntos / a lo mejor / nunca iba a suceder 
+
+E: mjm
+
+I: entonces ya decidimos que / oye vamos a casarnos / y nos vemos ahora sí / y / no estamos todo el tiempo juntos porque él viaja mucho / porque yo tengo mi vida / está hecha aquí ¿verdad? / porque aquí están mis hijas ¿verdad? / a la mejor / dentro de un tiempo / sí vamos a poder estar todo el tiempo juntos / pero bueno / yo no tengo / ese problema / no tuve ese problema anteriormente / y / este mi esposo / que / no siempre estuvo aquí en las navidades / porque era / amigo de la familia / a veces / de vez en cuando venía a pasar la navidad con nosotros 
+
+E: mjm
+
+I: ¿sí? / pero bueno / pero qué problema es / para mis hermanas <risas = “I” / > / ¡híjole! / ¡híjole! / ¿por qué? / porque no / primero / a la casa de / de tu mamá / y luego a la casa de mis papás / y luego que / ¡híjole! / yo creo que / es un problema que / es una / suerte cuando llegan a venir ¿verdad?
+
+E: <tiempo = “21:18” / > sí / a mí me da algo así de ¡ay! / así es que llega navidad / y ay / ¿qué voy a hacer? / y ya / o sea / este / lo que hacemos es / hablar oye a ver / ¿es primero tu familia / o mi familia? / lo que sí también es problema es dónde comer / ¿dónde comemos? / porque sí por ejemplo en mi casa son de que / les gusta comer más tarde / bueno / en las dos / pero / como / también con mis suegros / van / mis otros cuñados que son también casados / o sea / es también / ¿a qué horas van a ir ellos? / para estar también con ellos / ¡ay no! / es un lío 
+
+I: sí / sí es bien difícil
+
+E: y a veces le digo a él / ¿sabes qué podemos hacer? / ir / o sea turnándonosla / navidad con tu familia y año nuevo con la mía / a ver como queda ahí pero mi mamá / ¡ay! ¡cómo no te voy a ver en navidad! <observación_complementaria = “la entrevistadora finge la voz” / > / y empieza el drama ¿no? <risas= “E” / > 
+
+I: sí / sí es bien difícil / yo digo que de alguna forma / este / debería de haber acuerdo / bueno por ejemplo mi hermana mayor / este / porque siempre era / el problema con / con / todas las navidades con su esposo / o con la familia de su esposo / mira / hay gente que tiene la costumbre de / los veinticuatro / es cuando se juntan / y hay gente que / los veinticinco / ¿verdad? / y entonces / la reunión de cierre de nosotros era / o son los / del veinticuatro / entonces / mi hermana se le ocurrió / a mi hermana mayor la brillante idea / de / no sé cómo le hizo / para modificar la / ella empezó / con sus suegros / el decirles oigan / bueno / y si en la noche / por ejemplo que está la cena / a veces no comemos todos / porque / pos venimos de la otra familia / de la otra reunión ya no comemos / por qué mejor / no lo hacemos ya / así se los dijo / se los planteó / no lo hacemos ya de costumbre / el que todos el veinticinco / comamos juntos / oye eso se los / planteó hace como / tres años / la idea / y les funcionó de maravilla / siempre / van un ratito / el veinticuatro / de ¿qué te diré? / están de ocho a diez de la noche / ¿sí? / y luego a las diez ya se vienen acá / y están hasta bien tardecito ¿verdad? / y luego ya / ora sí / el veinticinco a medio día pero / ¿qué te he de decir? a las dos de la tarde / están toda la familia de / de ellos con los esposos y todos reunidos en casa de los suegros ¿verdad? / les ha funcionado te lo paso como tip <risas = “todos” / > / ¿cómo es con tus papás?
+
+E: con mis papás es más difícil porque mi mamá / o sea como te digo / ya somos / nada más nosotros / entonces si falta uno / como que se sienten / que algo falta ¿no? / de hecho cuando me casé fue la lloradera de todo mundo porque
+
+I: ¿eres la más chica?
+
+E: la de en medio / <risas = “E” / > soy la de en medio / pero como quiera / como / le digo también / si ya me iba / ¡ah! porque le digo / a mi novio / cuando éramos novios / como que no le hablaban mucho y / eran bien malos / y le digo es que como que somos bien unidos / pero por lo mismo / como que entra alguien / y yo era así también con el esposo de mi hermana / yo no le hablaba / bueno pues es que yo era una niña pero / sí somos así como que / batalla / alguien entrar al / a la familia ¿no?
+
+I: mjm
+
+E: pero cuando se trata de que alguien está en el hospital / o de cualquier cosa / ahí estamos todos ¿no?
+
+I: mjm
+
+E: entonces haz de cuenta que como que para la navidad sí es muy difícil / o a comer con mi suegra por ejemplo / pero con mis / con mis papás no / y aparte que / yo soy la única que está casada / mi hermana se casó / pero se divorció
+
+I: ajá
+
+E: y vive con ellos / entonces / por ella no hay problema / ahí está 
+
+I: <tiempo = “24:47” / > mjm
+
+E: la que queda mal soy yo <risas = “E” / > 
+
+I: sí / sí / también / yo te digo / son de las cosas que / este / son / problema / ¿verdad? / yo te digo / orita yo no he / experimentado el hecho de que / ¡ah! bueno hasta orita no me ha tocado / no sé cómo vaya a pasar este año / pero yo estoy segura de algo por ejemplo / este año pasado / este / no / él vino a navidad aquí / a / a Monterrey / y / no estábamos todavía casados / y luego nosotros nos fuimos / mis hijas y yo / y él nos fuimos / a Jalapa / este / casi para el día último / y entonces / m / él me comentó que / en su casa sí se juntan en navidad / pero como saben bien / que / el / los / los hermanos de él / son como / siete hijos ¿verdad? / pero están en México y están repartidos en la república mexicana <risas = “I” / > / entonces haz de cuenta que ellos ya saben que cuando sí se van a encontrar / es para fin de año / entonces ya para mí es un alivio 
+
+E: mjm
+
+I: ¿verdad? pero / pero sí yo creo son una de las cosas que uno debe de / de planear bien / porque ya ves que uno por esas fechas / anda medio sensible 
+
+E: mjm
+
+I: y / o / susceptible ¿no? / y luego pasan este tipo de detalles / ¡ay! que te sale toda la neurosis 
+
+E: sí <risas = ”E” / > 
+
+I: y lloras / y ¡no! / y con el problema y digo ¡ay no dios mío! <risas = “todos” / > 
+
+E: <tiempo = “26:08” / > sí yo también / yo soy muy sensible / hasta había un anuncio en la tele / no sé si lo llegó a ver / de un árbol de navidad / que lo / lo tiraban a la basura / y esperaba que viniera el camión / y decía / ¡¿por qué me tiran?! / si yo estuve con ustedes y abrimos los regalos y no sé qué / y yo ¡hi! <observación_complementaria = “la entrevistadora hace un sonido como de asombro” / > / me daba así como que / como que se me hacían los ojos / como chiquitos / ¡uy! / bien sensible y pues viene la navidad / por eso me decía mi esposo / ay eres bien grinch / y yo ¡osh! / ya viene la navidad / y le digo no es por la navidad 
+
+I: sí
+
+E: es por el lío de / a ver hasta qué vamos a estar con mi mamá / y luego de que / por ejemplo / esta última navidad / sí estuvimos hasta las diez / y nos vinimos / y de que ¡ah! vamos a dar los regalos rápido / y a mi mamá le gusta abrirlos a las doce / entonces tuvieron que abrirlos a las diez porque ya me iba 
+
+I: mjm
+
+E: y luego de que los abrimos / ya muchas gracias los abrazos / y ya nos vamos <risas = “E” / > / y mi mamá así con la cara de / me pone cara de que me voy a ir para siempre / y yo ¡ay! 
+
+I: sí / es que te hacen las cosas más difíciles ¿no? 
+
+E: sí es bien raro / pero es que tampoco me dejo mucho / pero no 
+
+I: sí / pero no te canses / no te canses <risas = “E” / > / porque las mamás
+ a veces somos medio chantajistas / ¿todavía no tienes hijos o sí? 
+
+E: no / no imagínate cuando tenga hijos se los van a pelear 
+
+I: sí / y / no / te pregunto porque vas a comprender un poco más / o sea las mamás a veces las / las / artimañas que utilizamos para chantajear a los hijos / por ya que / hasta / que no seas mamá ¿verdad? 
+
+E: mjm
+
+I: por ejemplo / ahorita mi hija mayor está estudiando psicología / y mi marido bien tranquilo muy / muy inteligente te digo porque yo estuve / estuve divorciada durante dieciséis años ¿no? / entonces / estuve yo sola con mis hijas desde / la chiquita / la grande tenía dos años y medio cuando me divorcié / y la chiquita era una bebé de cuatro meses / entonces / todo el tiempo pos las cuidé / yo / o sea digo yo bien padre / o sea no era nada padre por supuesto / y mucho menos padre eran las navidades / las primeras navidades eran / ¡horribles! a ver espérame déjame le abro
+
+E: sí / claro 
+
+I: <tiempo = “28:54” / > sí / a ver déjame checo / ah okay / mi hija pero te puedo atender en otra hora? / ándale / bueno / hablamos / gracias / i.e. / ah / muy bien / sí muy bien / ándale gusto en verte / sí / bueno déjame lo apunto para que no se me olvide / sí / claro que sí / ándale gracias / hasta luego este / como te iba diciendo / no digo que haya sido bien padre / este ay ya ni me acuerdo qué te estaba diciendo ¿en dónde me quedé? / ¿qué te dije? / ¿qué estaba diciendo? 
+
+E: me comentaba de que sus hijas / que una es psicóloga
+
+I: ah / ahorita está en psicología / te digo que / son bien / bien / diferentes / desde / desde chicas / porque / yo era la que le decía así como ¡no! / tú no me vas a decir qué hacer este / y luego la acostaba y que cuando / estaba chiquita y así / es más / saben ellas / mira te digo saben nomás empieza la navidad / y ya saben que conmigo van a tener con quien / y me conocen tan bien / que pasamos en navidad por Julio Cepeda / y ven los juguetes <risas = “E” / > / y dicen / y digo yo / me acuerdo / y dicen / que cuando estaban chicas / que y era navidad / sí ya me sé toda la historia ¿eh? / no empiecen a revivir / o si no empiezan a ver que empiezo que / no lloro / pero empiezo así a / y / ya / ya vas a empezar / y todo es / las puras imágenes / todo lo que veo / y me recuerda / antes / ¿verdad? / pero / ellas / bien curioso fíjate / me acordé de esto por lo que te decía que hacen madres / ellas / eh / yo les decía / oigan a los mejor ustedes se sienten mal / porque en navidad / estamos reunidas / y sus primos están con su papá / y ustedes nunca han / ven a su papá / y esto y el otro / y mi hija / la grande / tenía como / ocho años / un día / íbamos como para Vista Hermosa / antes de llegar aquí a la casa / y entonces dice / mira mamá / te voy a decir algo / la que de seguro ha de extrañar / a mi papá / eres tú / porque nosotras / no podemos extrañar a alguien que no conocemos / pero fíjate / a los ocho años ¿eh?
+
+E: mjm
+
+I: / no podemos extrañar / a alguien que no conocemos / si tú te fueras en este momento / y nos dejaras en casa de mi abuelita solas / solas a las dos / entonces sí nos la pasaríamos muy mal / porque te extrañaríamos / pero a nadie / a alguien que no conozcamos / no lo podemos extrañar / ¡hiii! / la gordita / ¡a los ocho años! / diciéndome así / ésas cosas / fue la última navidad! / que hice / mi reunioncita / antes la llevaba / antes del veintitrés oye pos las invitaba en navidad a cenar o hacer algo / así solas / para hablar y según yo prepararlas <risas = “I” / > / para cuando vinieran a la reunión / que no fueran a sentirse tristes / hasta que ella me lo dijo / y sí / entonces / tengo la ventaja por un lado / de que ellas / difícilmente / se enganchan conmigo / difícilmente / que digo a mí si me vas a ver enganchada y me llega a funcionar / que si les veo en la cara que algo le mortificó / ay / por eso es bueno platicar 
+
+E: sí
+
+I: te desahogas y vemos qué podemos hacer
+
+E: <tiempo = “31:46” / > sí / es por eso que así como que / ni modo le digo / fue el azar / lo decidimos en general / lo siento mucho / a tal hora me tengo que ir / o desde que llego / o antes / ¿sabes qué? voy a estar de tal hora a tal hora / y luego me voy / y ya sabes / pero como quiera me hacen caras / pero no puedo hacer nada / porque 
+
+I: sí / y tenemos que entender / o sea / sí / porque / alguna / la única forma / yo pienso que es / te lo digo / como mamá / o sea / a mí mis hijas me han preguntado / es decir hay muchas cosas que a lo mejor yo / las aprendí de una forma diferente 
+
+E: ajá
+
+I: ¿sí? / y / cuando / uno tiene a sus hijos / te das cuenta que / no puedes / en cosas / lo que son valores / lo que son principios / ya es una cosa diferente / pero en cuanto a los modos / los modos de la comunicación / los modos de cómo funcionen las cosas / aprendes / bastantísimo uno / de lo que ellos mismos te transmiten / no vamos a ceder en lo / que no se debe / pero sí tienes que ser flexible en algunas cosas / ¿verdad? / fíjate te lo digo como comentario / es muy curioso / pero / mi mamá / este / ahorita vas y escuchas pláticas / con nuestros hijos / y / platica con ellos / tan libremente / y puede escuchar que ellos se expresen / hasta con palabras / este / malsonantes / tan libremente / cosa que no lo permitía / con nosotros 
+
+E: mjm
+
+I: y / yo siento / que / en cuanto mi mamá me ha transmitido / esa oportunidad / de ser flexible 
+
+E: mjm
+
+I: ¿sí? / en esa medida sus nietos / se han acercado más con ella / y le pueden hablar de cualquier cosa / y de cualquier tema / y a la mejor ellos pueden decir / que se le escape la mala palabra / pero nunca le están / faltando / el respeto / es cosa diferente 
+E: claro
+
+I: ¿verdad? / y a veces escuchamos nosotros a mi mamá / hasta que dice las / las cosas así como de los jóvenes 
+
+E: ¿ah sí?
+
+I: o sea / este / ¿qué tipo de palabritas te dice? / no te dice unas palabras que a veces te das cuenta como / una vez vino un sobrino a visitarla porque / en el ratito del día / que estás con ella / y / y utiliza las / las palabritas que / que ellos dicen entonces no <risas = ”I” / > / entonces digo que es no hay que perder la cordura / y hay papás que / que en ese sentido / que son bastante rígidos / que quieren siempre / no perder su postura / no perder / que quieren siempre así deben de ser las cosas / y como mucha rigidez / en todo / y a veces / no permiten el / a veces no son los hijos / entonces a ver que te va a tocar con tu mamá
+
+E: sí / a ver / a ver qué tal <risas = “E” / > / ahorita llevo tres años de casada 
+
+I: poquito
+
+E: pero sí pienso que cuando tenga niños / pues todavía falta
+
+I: ¿y todavía te vas a esperar más?
+
+E: sí / este / sí / porque estoy en la maestría / entonces yo creo que la acabo en un año y medio y
+
+I: pues sí / al cabo estás joven
+
+E: sí como quiera sí me dan muchas ganas / de repente estoy así como que / me pongo a pensar yo / ah quiero un bebé <risas = “E” / > 
+
+I: ¿qué edad tienes?
+
+E: veintiocho
+
+I: estás muy joven / te ves más joven ¿eh? / todavía / ¿sí? / ¿te han dicho?
+
+E: sí / sí me han dicho / de hecho todos en mi casa / nos vemos bien jovencitos / yo creo que como somos bajitos
+
+I: sí pero no tu / tu piel / así todo tu / tu expresión de / y / y / este la expresión de tus ojos / es todo como / muy sano todo muy de niña / así muy / como que a vece es la actitud / la forma de ser de las personas / o las actitudes que tienes / ante la vida de todo / claro que también tiene que ver la textura física / la complexión y todo / como que / l / lo hacen ver / a uno / diferente / vaya / en lo de la 
+
+E: sí gracias / me da miedo porque a veces / digo no se me vayan a venir de repente todos los años de golpe / y de repente / no estoy preparada para verme tan grande
+I: no / pero yo creo que no / yo creo que no yo creo que / ¿cómo te diré? / es parte de la / de la / complexión / de cada quien / y / no sé / en qué consistirá pero hay gente que se ve mucho más grande / cuando están jóvenes fíjate / que / las personas que / así se ven / más grandes / yo creo que es algo las personas traga años / yo creo que / los va a acompañar / siempre <risas = “todos” / > 
+
+E: sí / no / y más porque yo soy mayor que mi esposo / entonces / mi mamá es cinco / seis años / menor que mi papá / y como un par de veces le dijeron / ¿cuánto eres mayor que tu esposo? / y mi mamá así de ¡ay! / una vez / en una piñata / iba con mi hermana mayor / tenía como unos seis años / y un payaso / grosero le dijo / ¿cómo se llama tu abuelita? <risas = “todos” / > / dice ¡ah no! / y mi mamá / no me importó / es que es muy canosa / entonces aunque se lo pinte / le empiezan a salir / entonces / aparte ella es muy blanca / y su piel se empezó / o sea por el sol a mancharse / y / entonces sí tiene muchas arruguitas / desde siempre ha tenido arruguitas / entonces se ve mayor que mi papá / mi papá es muy moreno / entonces 
+
+I: hi la gente de piel morena / ¡híjole! son traga años a morir / traga años a morir / ¿cuántos años eres mayor tú que tu esposo?
+
+E: yo soy mayor un año 
+
+I: ¡ay!
+
+E: no / pero si lo ves a él / cuando estaba en la pre- / fuimos novios desde la prepa / y claro que yo lo veía y yo decía / ay ¿qué quiere ese fósil aquí? 
+
+I: ¡ah! / ¿se ve más grande?
+
+E: sí / muchísimo más / pero también / es muy blanco / y tiene mucha barba / siempre ha tenido mucha barba y bigote / entonces
+
+I: ¡imagínate en la prepa! cuando todos están <risas = “I” / > 
+
+E: sí yo lo veía más grande / y pensaba / que pase las materias / ¿qué hace aquí ese viejito? 
+
+I: <risas = “I” / > y luego nada <risa = “I” / > / que te tocó a ti
+
+E: sí / de hecho nos conocimos porque le pregunté cuántos años tenía / tenía curiosidad / a mí me sorprendía / decía está bien guapo ese señor 
+
+I: pero muy grande
+
+E: <tiempo = “38:05” / > pero bien grande / y cuando me dijo que tenía / creo que me dijo que tenía quince años o dieciséis no me acuerdo / y yo ¡qué! / <risas = “E” / > ¿por qué tiene tantos pelos? / o sea / tenía la camisa / la playera / y se le salía todo el pelo <risas = “todos” / > en el pecho / y me dice que iba a la secundaria con bigote / y las maestras / detrás de él ¡ay! quítate ese bigote 
+
+I: pero ¿qué puedes hacer cuando la gente es así de velluda?
+
+E: dice / se rasura los domingos para ir a trabajar y el lunes en la mañana / y ya empieza así de puntitos de que le va a salir 
+
+I: ajá
+
+E: me dice / le digo no ya va a haber que pagarte la depilación
+
+I: ¡mira! <risas = “todos” / > / precisamente / la otra vez estábamos jugando mi hija / la de dieciséis años y yo / este / que / ella me dice / ese artista que / no me acuerdo ni cómo se llama ese artista / el que anuncia Neo Skin 
+
+E: ajá
+
+I: que a mí me cae mal fíjate / no lo tolero / es un tipo / en el cual yo nunca me fijaría no ni / ¡para nada! o sea / se me hace como una / que es muy cerrado / que raro de esos que le encantan yo creo que a cualquier mujer pero no no / no es mi tipo / oye / este ya / en definitiva / ya / con ese anuncio del Neo Skin yo creo que ya le / depilaron todo / y lo peor que pueden / pudieron haberle hecho / yo creo que a un hombre lo peor que pueden hacerle / es / quitar / su / su pelo / que tiene en la cara 
+
+E: mjm
+
+I: porque / igual es una época / o sea es una moda / de que ahorita me lo quito / pero el hombre es varonil / pregúntale a un hombre por qué le gusta una mujer / pos porque tiene el pelo largo / porque tiene curvas / y nosotros la mujer / ¡ay que las bolas! / eso es lo bonito / ellos tienen la cadera recta y nosotros tenemos una bolita en la cadera y / nosotras asustadas que por el color que se nota o la bolita que se ve / pero es la diferencia 
+
+E: claro
+
+I: ¿verdad? / y los hombres / imagínate / o sea / de que / ellos que piensan de que me voy a depilar y todo esto / ¡ay no! / le quitan la parte de lo / o sea / esas cosas no se hicieron para ellos / lo que los distingue de la mujer es que no tienen pelos ¿verdad? 
+
+E: sí 
+
+I: y entonces / hacerle a un hombre eso le quitan la / eso de ver la diferencia en ellos ¿no?
+
+E: <tiempo = “40:10” / > yo creo que me gustó / todo se hace inconsciente ¿no? / porque mi papá también es así / muy / muy de mucha barba / no de mucho vello / pero sí barba / entonces él se la deja así poquito / y venía / me agarraba mi cara y me besaba y a mí me 
+
+I: y te raspaba 
+
+E: y me gustaba mucho / y yo ¡ay otra vez! <risas = “E” / > / y me acuerdo de la sensación más que de / cómo lo hacía ¿no? 
+
+I: sí
+
+E: entonces yo creo que por eso los hombres peludos sí me gustan <risas = “todos” / > 
+
+I: sí / ¿verdad? / sí / te digo / y además es cierto / a ver / por qué de niña te gustaba / a lo mejor te gustaba que tu papá hiciera eso / precisamente porque / tú ves la diferencia / ponte el contacto con tu mamá / la piel lisita / la piel así / y de los papás / el pelo / y te picaba y todo así ¿verdad? / entonces / eso no me parece natural 
+
+E: sí / no se ve natural / no / sí / y a parte / en invierno / le encanta dejarse la barba así como / este Paul Mccartney no sé si lo llegó a ver así 
+
+I: sí
+
+E: así en videos así de los / con todo el pelo como / parecía el hombre lobo / a mí me encanta que ande así / la barba / me da mucha risa / a los / a los bebés los asusta 
+
+I: sí
+
+E: parece Santa Claus / pero a mis sobrinos así lo ven / que lo quieren agarrar pero no / a lo mejor / por los pelos / se ve bien / sí me gusta / pero me da risa como pobrecitos / es miércoles y ya está otra vez todo peludo
+
+I: sí / y lo peor / que se tienen que rasurar / pero con pelo / no no / no sé / no se deben de depilar los hombres 
+
+E: mjm
+
+I: desde mi punto de vista
+
+E: sí / y ahora que fue / este / cambiando de tema / ahora que fue la / día de muertos / hizo alguna celebración? / ¿o halloween ? / algo así
+
+I: yo no / fíjate que no / este año no / no hicimos nada / no todavía no / como te digo / todavía el año pasado / o el antepasado creo que fue / en Halloween / no / ahorita no hemos hecho nada porque / el / quince de septiembre la fiesta / el grito medio que / nos juntamos / este año no lo hicimos / hasta / el año pasado sí lo hicimos / nos juntábamos / y teníamos qué venir vestidas de blanco verde rojo / o algo que trajera cualquiera de ese tipo de combinaciones / y cada quien traía diferentes discos de piano o cuartillas / y luego el / este año no sé qué tendría yo / o qué pasó / que no lo hicimos / ¿verdad? / pero por ejemplo en halloween / no / cuando los niños estaban más chicos sí / nos juntábamos / y que íbamos a pedir halloween / el día de los muertos / no hicimos este / nada / no / no nos juntamos en esta ocasión
+
+E: ah okay / pues este
+
+I: tenemos / este / ¿qué te diré? / para juntarnos / m / en ocasiones especiales / son los cumpleaños / son los cumpleaños / de los hijos / los cumpleaños de las / hermanas / de los esposos a veces no te dejan porque / no te dejan ¿verdad? <risas = “E” / > / pero / pero nada más por lo regular que nos juntamos
+
+E: está bien / em / aquí me dice que vive su mamá 
+
+I: ajá
+
+E: que todavía vive
+
+I: sí
+
+E: ¿en otro municipio / o aquí?
+
+I: no / aquí mismo / en el mismo / ella vive como a cuatro cinco cuadras de aquí
+
+E: mjm / este / bueno ¿desde cuándo vive aquí su mamá?
+
+I: <tiempo = “43:36” / > aquí nos cambiamos en el ochenta y cinco
+
+E: desde el ochenta y cinco / hace como / veinte años
+
+I: veintidós años
+
+E: ¿cómo ha visto los cambios aquí en la colonia en ese tiempo?
+
+I: híjole / inmensamente rápido / y / y te digo honestamente / cuando / nos cambiamos a aquí / estaba nada más la casa de enfrente / aquella casa / y esta casa / aquí estaba todo esto aquí alrededor / estaba solito / y / este / no había / nada / de las avenidas así como las ves ahorita / orita ya no / bueno / ya en este sector / no hay este / es difícil que te encuentres / un terreno solo 
+
+E: mjm
+
+I: ¿verdad? / y ha crecido muchísimo la colonia / pero creció / rapidísimo 
+
+E: ¿y qué tal se lleva con los vecinos? / este / bueno / su mamá / o usted / ¿platica con ellos?
+
+I: <tiempo = “44:26” / > sí / o sea / fíjate que siempre hemos sido / este / yo digo que algo especial porque / l /  / especial / no / que seamos diferentes / pero / la cosa es de que / nos llevamos siempre con los vecinos / de / mucho respeto que / ¡hola! ¿cómo estás? / de / si se te ofrece algo aquí estoy para servirte / o lo mismo a / con otra persona / este / pero / no somos muy íntimos de los vecinos / porque yo veo por ejemplo a los vecinos que se juntan / y a veces se juntan cada mes o cada dos meses en la casa de uno de ellos y / se van / así que reuniones / pero en esta familia nosotros no nos juntamos / ¿verdad? / a lo mejor / una de las cosas que influyeron es la de que / mis papás cuando se / se / que nos cambiamos aquí / no eran / vecinos de nadie ¿verdad? / que la gente que fue llegando al principio / eran más jóvenes / y luego ya vinieron / también / otras personas / de la edad de mis papás / bueno esos vecinos / sí tienen las mismas costumbres que mis papás / que no hicieron en sí / como los vecinos jóvenes / como que la gente joven / cuando llega a algún lugar / hacen luego luego / buscan asociación porque / saben bien que se / se les puede ofrecer como que ya son / diferentes las relaciones ¿verdad? 
+
+E: ajá
+
+I: eso es / de lo que / por lo que respecta a mí / con mi casa / con los vecinos de / de los lados de mi casa / de mucho respeto / nos llevamos bien / haz de cuenta que desde un principio / yo /  / y desde que llegaron / fue el / por ejemplo invadían mi cochera / invadían el lugar donde yo me estacionaba / y todo eso / y me acuerdo llegué / este / yo me / me presenté / y / les dije / que bueno yo ya estaba ahí viviendo / y que llevaba más de tres días / que yo iba a / que jamás / fueran a / que si alguna vez / los / e / les invadía algún lugar / sin querer / o alguna de la gente que me visitara / que me disculparan / que yo procuraba siempre / tanto la gente que me visitaba / como / nosotros mismos / no invadir / las cocheras / ni los / espacios de estacionamiento de ellos / y que yo les iba pedir lo mismo / ¿verdad? / y haz de cuenta que / fue bien curioso porque / ha servido también fíjate / desde esa vez como que / no / es decir / nos llevamos bien / no nos invitamos a las fiestas / pero sí ¿qué tal? / ¿cómo estás? / escuché un ruido / pasé para ver / oye ¿pasó algo? / ¿se les ofrece algo? / pero con mucho respeto / pos bien padre / porque / de mi parte / yo como que sí tengo un límite en el aspecto territorial ¿verdad?
+
+E: sí
+
+I: vamos a respetarnos de esa manera
+
+E: <tiempo = “47:02” / > sí está bien porque / yo creo que / cuando te haces amigo de un vecino / luego / te pasan cosas como por ejemplo / este yo / digo por mi / por mi suegra que / se enoja porque la vecina pone / su basura en donde / ella pone su basura / en su espacio 
+
+I: sí
+
+E: y pues es su amiga / y ya no halla cómo decirle / entonces con la otra / que no es su amiga / sí le ha comentado cosas / oye / que vienen y se estacionan y me tapan / o algo ¿no? / y a la otra no le puede decir porque es su amiga / porque tiene miedo / a ofenderla / no sabe cómo decírselo / que la fuera a ofender entonces / este / digo es lo malo / sí es bueno llevarse bien pero / lo malo es cuando te haces amigo de los vecinos y
+
+I: y lo que pasa que / que por ejemplo a veces / la gente confunde
+
+E: es que de la amistad / puede pasar que te hagas / enemigo de la persona / entonces / ahí sí / vivir con una persona con la que estás enemistada / ha de ser bien feo / entonces mejor llevarte bien / nada más tranquilo / que / tener una amistad que se pueda perder / ahí sí
+
+I: sí / yo te digo / yo no / yo no me llevo / más allá con / con mis vecinos / este / y / no me afecta / y te voy a decir también / porque yo pensando a lo mejor que es como / egoísmo pero no / lo que pasa que / tengo mi círculo de amistad / y la cosa es de que / dejo mis espacios libres / también no / no te da / como el conejito de Alicia en el País de las Maravillas tiempo / para nada / ¿verdad? pero / la cosa es de que / no sé a veces / hay gente que le gusta llegar / y quitarte / el tiempo 
+
+E: mjm
+
+I: y entonces / a veces hay vecinas así / si no está el / con quien platicar o ya se cansaron de hablar por teléfono / y van y buscan a una vecina / y el chisme / y te empiezan a contaminar de todas sus / problemática o sea / entonces yo siempre como que / que yo prefiero marcar una rayita / ¿verdad? / ¿para qué? / para / porque no dispongo / o sea de / de tiempo / porque generalmente / el tiempo que yo pueda tener / prefiero tenerlo / y escuchar a mis hijas / o ir con mi mamá / a / para ver cómo están / por eso / ¿verdad? sí pero pareciera que es egoísta / pero no es así / es que si no / pones / desde el principio / o marcas / las prioridades / la gente a veces / abusa de tu tiempo
+
+E: así es / sí 
+
+I: y te digo / me ha funcionado porque a veces me sucede / de que / e por ejemplo el otro día / este / que llegó un amigo de los vecinos / y / estaba / adentro el carro de mi / de mi hija pero / el mío / no lo podía acomodar / y entonces luego luego fui con él / uno de los invitados del vecino / ¡ay! Discúlpeme / no le estoy / o sea que ya / yo no quiero / no quiero que piensen o que digan / o ahí viene la bruja / o ahí viene la neurótica / o la vecina loca / no sé / pero lo que sí no quiero que invadan mi lugar / discúlpeme / ¿sí va a mover el carro? / ¡ah! no sí /  / ¡ah! sí no se preocupe ¿verdad? / pero digo yo / no tiene importancia que me digan la bruja / la neurótica / la loca de la vecina ni nada / eso no me preocupa pero sí / ya saben que no quiero que / no invaden mi lugar / ya sé que / que / procuran ¿verdad? / pero en cierto modo no es que yo los incomodo / simplemente / sí fue lo que yo / aprendí a decir 
+
+I: claro / sí es muy importante 
+
+E: y sí dije yo / tengo / ahorita que voy llegando / más vale que entre porque si no / a mí sí me enoja mucho llegar a mi casa / y no tener dónde estacionarme / porque está el carro estacionado / el carro del vecino
+
+I: <tiempo = “50:50” / > mjm / oiga señora / este / una pregunta / a mi / a mi esposo / le gusta mucho la música / él toca / él cuan / es lírico / él cuando / su abuela tenía un piano / y / se ponía a tocar / escuchaba música / y aprendió a tocarlo / por el oído / y luego un tío tenía un estudio / y él iba ahí / y se ponía y / agarraba las guitarras y se ponía a tocar con él / entonces él sabe tocar guitarra / bajo / algo de piano / este / y hace música / ya ves que hay programas / que puedes hacer música / y él hace música / pero nunca estudió / porque su mamá / no creo que / no tenía la educación de que fuera algo importante ¿no?
+
+I: mjm
+
+E: y cuando estábamos en la / elección de / de profesiones / él quería estudiar música pero su mamá no lo / no lo dejó / o sea no que no lo dejara pero sino dijo / ay / te vas a morir de hambre <risas = “I” / > / no vas a tener dinero / entonces pos él también lo pensó / y entonces si / él es ingeniero 
+
+I: <tiempo = “51:54” / > mjm
+
+E: y le gusta / lo que hace entonces / le llamaba la atención la electrónica / la Instrumentación y fue lo que estudió / y sí / es muy feliz en su trabajo / pero tiene el hobbie de que toca / de que lo hace a su gusto / de hecho / los fines / cada quince días va a un bar a tocar / este / con unos amigos / e / tod / no / uno de ellos / no / son cuatro / dos estudiaron música / uno en la licenciatura / otro técnico en música / y el otro también se fue como él a estudiar la carrera / este / más / este más / ¿cómo se dice? / supuestamente de la que se le saca / más provecho / pero sí sí le ha ido muy bien / ¿es difícil / a / vivir / como músico?
+
+I: mira yo creo que todo depende / de cada quien / de cómo te administras y todo eso / porque por ejemplo / hay / gente que dice / en el caso de la gente que quiere / que va a estudiar música / ¿de qué vas a vivir? / o algo así / fíjate lo que te estoy diciendo / en el caso mío / fíjate que / no ha sido / difícil / y te / y te lo / sí / te lo voy a decir abiertamente / es porque / por ejemplo / esta es la casa de mis papás / y mis papás / honestamente tuvieron una preparación que tuvieron los papás en esa época / o sea / a los papás no les tocó la fortuna de tener una educación de / licenciatura / mi papá tuvo una carrera técnica / y / y mi mamá / terminó / su primaria / ¿verdad? / y entonces ellos sí se dieron mucho a la tarea de educarnos a nosotros / y por ejemplo / cuando / cuando mi mamá / estaba ayudándole a mi papá / estaba trabajando y mi mamá también tocaba piano de joven / y se puso a trabajar en un kínder y todo eso / pues para ganar dinero / teníamos nosotros una casa / en una colonia y luego / juntaron para comprar un terrero ¿verdad? todo eso / bueno / pero eso sí / pero por ejemplo yo / te diré / yo me divorcié / cuando / mi hija tenía dos años y medio la grande / y la chiquita tenía / cuatro meses / y / de esa época / hasta actualmente / yo / he / sacado / adelante / a mis hijas 
+
+E: <tiempo = “53:38” / > mjm
+
+I: el papá de ellas / desapareció / el papá de ellas / cuando dejó de estar / de / de / cuando nos divorciamos haz de cuenta que / no / los compromisos de darles sus necesidades / haz de cuenta que / él no / no tuvo hijas / sí / sí / te lo digo honestamente / o sea / yo / compré mi casa anterior / con mi / sueldo / o sea que con mis clases de piano / tocando en eventos / de mis clases de piano / como que / mamá / con dos hijas / de 
+
+E: mjm
+
+I: sola / ¿si? sola / y entonces / yo tenía mi fondo <observación_complementaria = “la palabra fondo, se refiere a un fondo de ahorro del cual la informante disponía” / > / y orita tengo / esa casa la había comprado en la colonia Del Prado / allá por donde está la plaza de toros 
+
+E: ajá
+
+I: y luego / la vendí esa casa / y hace tres años / compré una casa / aquí / yo! / me acabo de casar en abril / esta casa no la compró mi esposo / yo / la compré yo 
+
+E: ajá
+
+I: y / y te lo / te lo digo no / con el afán de presumirte / sino con el afán de que tú misma te des la respuesta / ¿sí? / tengo / dos carros / el de mi hija / y el mío / ¿sí? / y tengo / este / dos hijas / en escuelas particulares / ¿sí? / y eso está pagando la universidad / entonces / yo no sé / si será / mucho / o si sea poco lo que gano / a lo mejor sí he sabido mucho / administrar / y más que todo / que como saber a qué / a qué le das importancia 
+
+E: <tiempo = 55:23” / > mjm
+
+I: este yo me acuerdo que cuando mis hijas estaban chicas / este / bueno tuve la fortuna de que como yo trabajaba en el Motolinia / que / que mis hijas estaban estudiando ahí / y que / durante un tiempo / tenían un porcentaje de beca y luego ya las pusimos en otra escuela porque tenían beca completa / trabajaba también como / profesora para que mis hijas estuvieran becadas / he sido muy afortunada en muchos aspectos / pero / este / he sabido / como qué / a qué darle prioridad / mis hijas me decían cuando estaban chicas / ¡ay! tú nos dijiste que nos ibas a comprar / yo quiero zapatos <observación_complementaria = “la informante finge la voz como una niña” / > / y esto y el otro / y yo les decía / bueno / pos okay / si quieren esto y el otro / pero no podemos entonces / tener aquello / ¿aceptan el trato? / sí / bueno para poder irnos de vacaciones / tenemos qué / dejar de gastar en esto / ¿quieren estos zapatitos verdad? / ¿sí? / entonces hay que dejar de gastar en lo otro / entonces / ahorramos eso / para poder juntar para lo otro / después me di cuenta que / yo no sé / o sea / yo tengo compañeros que viven la música / que viven de la música bien / pero / tengo de los mismos compañeros de / de / la música / muchos de ellos / a mí me han dicho / que se sorprenden / conmigo / porque soy mujer / porque he podido vivir con lo de la música hace mucho tiempo / y porque / por ejemplo yo vivo en un sector diferente al / al que viven ellos 
+
+E: mjm	
+
+I: ¿verdad? / y ¿cómo lo podías hacer? / y te diré / yo vengo / de una familia / donde hemos sido / muy trabajadores / y muy / tenaces en las cosas / pero mis papás / no era gente que / que tuviera así / tantísimos recursos / no / entonces / ahí tenía una ventaja / ahora / me voy a ir al otro lado / ahorita hay muchísima ventaja / que yo digo / o mucha gente sabe / te vas / a un / a a / a un tipo / m / los tipos dan ganancia porque es / ¿sí? / los de tipo orita ganan / fenomenal /  / si ellos tenían que ganar / o el empresario pero no / pero ganan / de que ganan / un mundo de dinero / ganan un mundo de dinero / entonces / la cosa mía no es por la / por / la cosa mía es por la música clásica / y te digo / o sea se vive
+
+E: sí / y es que no hay cultura / entonces por eso / no hay cultura aquí en Monterrey porque somos muy prácticos y nada más quieren / hacer dinero ¿no? / entonces / la cultura y las artes / siempre las hacen a un lado / ¿no? / y si le dices a tus papás que vas a ser pintora / que vas a estudiar letras / que vas a estudiar / este / música así como que / ay te vas a morir de hambre / es lo primero que te dicen
+
+I: sí / fíjate / que ahora sí es bien contradictorio / porque ahorita / con tanta carrera que hay / con tanta este / digamos que / la gente que estudia las carreras / em / muchos jóvenes estudian la misma carrera / batallan para / para conseguir trabajo / y / qué absurdo / eso es / absurdo / o sea / precisamente porque no hay tanta gente que se dedica a la música / a la pintura al arte / ¿sí? / es un campo / todavía fíjate / virgen 
+
+E: mjm
+
+I: ¿sí? / y entonces / aquí nada más lo hay / y la gente no ve / si simplemente / si vas a estudiar una carrera / donde hay muchísima / competencia en esas cosas /  / entonces bueno pues sí vamos a batallar un poquito / ¿verdad? / y hay otras áreas / en donde si tú tienes la / la visión / de que / no de que te vayas a morir de hambre / si no de ver / la oportunidad que tienes ¿por qué? / porque falta eso / falta gente / ahora / dónde / dónde lo puedes aplicar / qué puede ser 
+
+E: ajá 
+
+I: pues / es nada más de conocer las cosas
+
+E: ajá / sí / no pues qué bien señora / me da mucho gusto 
+
+I: gracias 
+
+E: y <risas = “E” / > / la verdad qué orgullo ser sus hijas / de tener una mamá como usted 
+
+I: ay gracias / nomás es de que quieras
+
+E: sí / sí / sí qué padre ¿no? / qué bonito / bueno / pues a ver yo siempre animo a mi esposo / a seguir tocando 
+
+I: a seguir tocando / y te digo / por ejemplo a / hay ahorita / qué tanto / qué tan importante sería que se pusieran a estudiar orita / si él ha aprendido así las cosas / es mejor que siga así / y si él es creativo / y si él está componiendo canciones y música / es mejor que haga las cosas como lo está haciendo / muchas veces / eso es parte de la creatividad / y que la misma / ¿cómo te diré? / naturaleza / llevó / llámale como le quieras llamar / eso él lo / es un don / ¿sí? / y es como te digo / si él lo ha podido desarrollar / sin tener una / preparación profesional / en ese aspecto / ¿sí? / mientras que lo esté disfrutando / y esté siendo feliz con lo que está haciendo / eso es lo importante / porque sabes qué pasaría / si él empezara / a oír / a saber / saber las reglas de cómo componer y todo eso / y se diera cuenta / le va a coartar su / libertad / que tiene creativa / y entonces / realmente la creatividad es / algo que cuando tú tienes las bases / de que / eso / igual se te va a abrir / más / ¿verdad? / pero / pero / depende / porque ahorita / si él / viera todo / pudiera empezar de cero / de tal forma / que dejara de hacer / lo que está haciendo / y eso lo va a hacer / infeliz / entonces / aquí no se trata / que vas / a dejar de hacer tu creatividad / de sentirte libre / y entonces / digo no te vas a sentir feliz / con un don que traes / ¿verdad? / y que un día / eso no / o sea la sensibilidad es que / que / que normalmente de plano la vea / como / oportunidad de crecimiento / bueno eso va premeditado / pero / pero / no la vea / no le veas y que / corte la naturaleza que / que tiene
+
+E: <tiempo = “61:11” / > bueno / yo creo que eso lo aprendió cuando / eso empezó / cuando entramos a la licenciatura / íbamos a ver / a los / y así empezó él también / pero él es muy técnico / y muy / cerrado ¿no? / entonces / y fue cuando empezaron las clases / y lleno de hojas y todo / porque hay que estudiar / porque es muy técnico ¿no? / y lo que sí aprendió / y que lo agradezco mucho / fue cómo mover la mano con la guitarra porque creo que él nomás la movía de un lado / y que la tienes que mover de los dos / para a hacer otro tipo de sonido / pero de ahí de lo / técnico no aprendió nada / <risas = “E” / > puro gasto de dinero / porque decía ¡ay! no puedo / él se frustraba mucho porque no sabía notas / sí sabía de / no muy bien porque él tocaba en la estudiantina de la / de su secundaria / 
+
+I: sí
+
+E: entonces él iba / él tocaba una / como una guitarra chiquita / ¿cuál es el / ¿cómo es?
+
+I: e / la mandolina
+
+E: sí la mandolina / entonces de que / le enseñaron las notas / que aprendiendo eso / ya sabes tocar la guitarra / pero / leer las notas o sea si le pones así / eh / en una partitura / él no / no sabe / pero si le dices un do / así / sí lo sabe 
+
+I: sí sabe 
+
+E: pero verlo así / leer la partitura no sabe / y de hecho / con sus amigos que sí estudiaron música / le pasan a veces así como que partituras y eso / o hay un programa también que le prestaron / que es con partitura / y ¡ay! no / que no sé / mejor así de que / que no son notas sino que son símbolos / yo no le entiendo
+
+I: sí / son / es combinado / como que te los escriben / viene con letras / viene así como un signito de más / y luego te / minúscula / mayúscula / ge / así / son musicales / y te voy a decir algo importante / este / desafortunadamente / desafortunadamente / no toca / el músico que aprendió / música / a ver otra vez / el músico que aprendió música así de la forma de que / todo con el libro y todo así / este / y a veces está tan / tú lo dijiste muy bien / tan cuadrado / que no se salen de ahí / y no / no se ponen nunca / en el / en la posición / de una persona / que quiere saber música pero no para dedicarse a ello profesionalmente como / como un maestro 
+
+E: ajá
+
+I: ¿sí? / y desafortunadamente / los maestros a veces / no / no somos flexibles / y queremos que el alumno / se adapte a nosotros / y no nosotros al alumno / y a lo mejor él sabe / por ejemplo yo que estudié música profesionalmente / pues era imposible que pudiera decirle a mi maestro / este / póngame / el vals Adelina / ¿verdad? porque / hubiera sido un insulto / pero yo no quería aprender / o sea yo de hecho no quería aprender el vals Adelina / ¿verdad? / ni conocerlo / ¿verdad? / pero / pero / los maestros con los que yo estudié / no lo iban a hacer / ¿verdad? pero porque / porque / es / estás en un lugar en donde vas a ir / a que cantes algo para / para ellos / pero como tú ya estás / dando / talleres / cuando estás con alumnos particulares / cuando estás con / jovencitos / que actualmente / en vez de acercarse más al arte / tienden / a separarse / tú como maestro / tienes que aprender / a / atraer / y a seducir a los alumnos para que se acerquen de nuevo al arte 
+
+E: <tiempo = “64:37” / > pues sí
+
+I: y entonces / yo orita que enseño a alumnos / de cualquier edad / porque / me llegan alumnos que te dicen / este / ¡qué bueno! / y y / y yo / este sí / y / ¿para qué son las clases? / dice una señora / para que cuide mis hijos 
+
+E: ay no
+
+I: ¡ay! / mira qué bien / ahorita los traigo / no pues es que yo les pongo el examen / ¿verdad? porque / pos es que yo / gracias a dios / ya he llegado al nivel de decir / sal todo lo que quieras / diviértete pero tú vas a estudiar ahorita / pero por ejemplo / esa misma persona / se va / con el maestro / de mi misma edad / o más jóvenes que yo / o más grande que yo / ¿sí? / a querer aprender / y te vas a encontrar con los maestros / tradicionalistas / cerrados / ¡ah! no / ya ahorita no le voy a enseñar / ¡híjole! / ¡no! / y entonces / m / yo tengo / otra filosofía / diferente / ¿sí? / este / y / y / yo te digo / este / conozco a muchos maestros aquí / de Monterrey / en el á / en el área musical / en el aspecto musical / y / es gente / muy capaz / ¡muy profesional! / en su / en lo que hace / sí / pero a veces les falta / este / acercarse / y darle / a la persona / lo que la persona necesita / ¿sí? / si / si a tu esposo vamos a suponer / le / le hubiera gustado aprender eso / como una información ¡adicional! / que le ayude / a él / a hacer mejor lo que hace / ¿sí? 
+
+E: mjm
+
+I: no porque él se quiera / dedicar / como / guitarrista clásico / o / a dar conciertos por todo el mundo / ¿verdad? / o sea / dale / lo que él necesita / para / vivir / y sobrevivir / en el entorno / ¿sí? 
+
+E: así es 
+
+I: ¿sí?
+
+E: mjm
+
+I: pero ¡no lo frustres / ni lo hagas sentir / tonto! / ni lo hagas sentir mal porque cada quien tiene sus propias capacidades / y cada quien está muy consciente de ellas 
+
+E: yo a él / también lo respeto mucho / cuando éramos / novios / me acuerdo / y me da mucha risa / su hermano toca / bueno me contó que su hermano tocaba música / y de hecho su primer grupo lo quiso hacer con él / este / tocaba guitarra / de grupo de rock / lo clásico ¿verdad? / en la prepa / y / de que lo primero / pues obvio / él quería sacar una canción / y se suponía que no había estudiado / y no tocaba / nadie sabía que se metía con el tío a tocar la guitarra / nadie sabía / nada más él / entonces el / el hermano ahí estaba horas horas / con el / la Guitarra Fácil / de esas que venden / queriendo sacar una canción y no le salía y no le salía / como compartían el cuarto / dice ¡ay! así estaba toda la semana queriendo sacar la canción y no le salía / y en una de esas él agarró la guitarra y le dice “¡ándale mira! es así / bien fácil / ¡tócala así!” / el hermano dejó de tocar con él porque se quedó así como / que yo no sirvo para eso / dice ¡cómo tú que no estudiaste! / de estar escuchando la misma canción / o sea su / supiste cómo era / y yo no / no me sale ni / ni con notas / ni con la Guitarra Fácil / ni escuchando / le digo no es que tu oído de perro que tienes ¿verdad? <risas = “todos” / > / pero sí me da mucha risa / y / y / y no / me imagino que / el otro desesperado / de que no le salía
+
+I: ¡ah! no / eso sí <risas = “E” / > / fíjate pero / es / es / es verdad eso / y sabes / yo tengo una pequeñita / tengo una alumnita / que / está estudiando / violín / está chiquita / tiene como siete años / el hermano también está estudiando violín tiene como nueve años / o no me acuerdo cuántos años tiene / y empezó a estudiar piano conmigo / porque / la mamá decía que / ella quería que sus hijos estuvieran / relación o / en / contacto con la música / pero que la niña / ella sentía que la niña / e / le gusta la música / pero / que como que el violín / no / lo hacía / lo hacía pero que ella quería estudiar piano / tomar clases / y le digo no / hay que revisar bien / de que / a la niña le puede gustar la música / lo que pasa es que su hermano mayor / está más grande que ella / y de hecho tiene más tiempo tocando / y de hecho / toca / bien / toca / diferente a lo que ella escucha de la misma 
+
+E: mjm
+
+I: entonces si / si te está pidiendo / le dije a la mamá / si te está pidiendo que / ella quiere estudiar piano / escúchala / y deja que estudie piano / ¿por qué? / porque ahí donde la ves / a esta edad / ella ya está viendo / que no va a poder / tocar / igual que su hermano / y eso hay que entenderlo / sí porque él puede / sí mi hija / pero eso se lo tienes que repetir muchas veces / porque tu hermano es más grande que tú / y tiene más tiempo practicando / si ella lo está / sintiendo / que / a su hermano no nada más lo domina por ser el hermano mayor sino porque / ella está viendo que su hermano batalla menos que ella / pues tú como mamá escúchala ¿verdad? / la niña tiene dos meses conmigo / se ha aprendido como ¡seis! melodías / está / avanzando de una manera increíble / y lo más importante / está / feliz / sigue con las clases de violín / pero ya no se siente frustrada / ya no se siente / es que mi hermano le digo no pasa nada / ¿porqué? / porque ella se dio cuenta que / ella es buena para eso / y / a veces de su hermano le pregunto y ¿cómo le está yendo? / y dice / este / ¡n’ombre! muy bien / y mi hermano no puede <risas = “E” / > / y le digo no pero es que él es bueno para el violín / tú eres buena / buena para esto ¿verdad? 
+E: sí
+
+I: <tiempo = “70:00” / > pero fíjate / por ejemplo acá con / tu esposo toca el piano ¿verdad? / o a lo mejor terminó frustradísimo pero
+
+E: pos a la mejor nunca va a volver a tocar el piano porque / y fue al único que / mis suegros le compraron guitarra y su amplificador y lo llevaron a clases / porque a él también le gustaba mucho pintar entonces / ya sabe ¿no? / los prejuicios de los papás / él es el artista los demás son / que futbolista / y el otro / el mayor es dentista 
+
+I: ajá
+
+E: y cuando estaba chiquito se iba al consultorio de al lado de un vecino que es dentista / y le ayudaba a limpiar la instrumentación y todo / él sí / voy a ser dentista / voy a ser dentista / entonces ya los tenían así como que / categorizados / así / el mayor dentista / Alex / que es mi cuñado el que le comento / él es el artista / o sea es / todo / y Daniel es el futbolista y así como que / como era el más alto / o sea él es deportista / ya nada / todo así
+
+I: fíjate / eso es importante como / como / te decía / este / en cualquier parte de interés / lo que / hacemos los papás / ¿verdad?
+
+E: sí / también acá / es que siempre pasa / a mí con mi hermana / este / a mí siempre / Myrna la inteligente / Myrna Myrna Myrna / y si sacaba nueves / ¡ay! Myrna / tú eres para dieces / o sea como que no valía y yo / ¡ay! me costó / mi nueve me costó / y / es que tú eres muy inteligente / y los maestros igual / Myrna es muy inteligente / hay que exigirle más / y yo / no sé por qué tienen esa idea de mí / pero me están exigiendo / y como fueron exigentes ¿no? / y empecé a bajar de calificaciones / era lo que pasaba / y mi hermana / este / iba muy mal en la escuela / y cuando sacaba un siete un ocho / la llevaban a celebrar / y yo sacaba mis nueves y no me llevaban a ningún lado / porque yo debería de sacar dieces / entonces / imagínese era tal / pero / este aprendí con eso / a no ser tan prejuiciosa ¿verdad? <risas = “I” / > / pero bueno / así son los papás / digo yo / por eso nomás vamos a tener un hijo / para que no haya de que / comparaciones 
+
+I: <tiempo = “72:12” / > no / no no / porque / es importante que / entiendan / este es importante / el que / que el / el hijo también aprenda / esa familia a / a convivir / y a ser como / con un hermano / yo / yo / te digo porque / en mi opinión / yo quisiera / porque a mí sí me gustaría tener otro hijo / o / pero / mis hijas ya están grandes / digo / porque la más grande tiene dieciocho años la chica tiene dieciséis / imagínate qué padre que yo vaya a tener más hijos / y pagar el colegio de mis hijas y pagar el colegio de mis hijos / pero la verdad te soy sincera yo siempre quise / tener como cuatro hijos ¿no? / entonces si dios me diera esa oportunidad de tener cuatro hijos / pero por ejemplo yo digo / hasta eso digo ¿eh? / qué bueno que dios me diera la oportunidad de tener un hijo / pero luego digo no pobrecito con sus hermanas bien grandes y él chiquito solo / ¿verdad? 
+
+E: mjm
+
+I: entonces / y como que siempre estar al pendiente de / de él / y / y la verdad aunque también es una / forma de / de que / uno tiene qué aprender / este / como te dije hace ratito / como que a los hijos nos educan / y / y yo creo que en ese sentido también tenemos que aprender / yo he aprendido / a no compararlas / a / a respetar la individualidad / ahorita lo que me dijiste lo de las calificaciones de tu hermana / este m / mi hija más grande / me dijo / un día igual que tú / ¿verdad? / mamá / tiene noventa y cinco de promedio ¿eh? / tiene beca / en su escuela porque tiene un promedio alto muy altos / y siempre ha sido muy estudiosa y muy responsable / entonces dice / mamá / te llego / te digo / con noventa y seis / ¡ah! qué bueno mi hijita / qué bueno / y llega mi hermana / ¿sí? / mamá me saqué / ochenta y cinco / a / won qué padre / y un día pero me lo dijo así / llorando / y entonces / y a ella / le haces una fiesta y esto y el otro / y le digo / ven entérate por favor / quiero que veas esto / entonces / le digo / le muestro las calificaciones de su hermana / le dije / mira tu hermana / qué calificaciones trae ella / haz de cuenta que / de sesenta / setenta / y le digo / ¿sabes por qué? / haz de cuenta que me senté y / le digo / he sido injusta porque / no he reconocido / lo que tú haces / no te he dicho este / no te he llevado / ni me empeño ni te he llevado / como a tu hermana a pero en fin / pero entiende mi hija que / fue un error mío / pensé / que no lo necesitabas / a tu hermana le hago todo ese / escándalo / porque mira de dónde / viene / y por qué esto significa tanto para ella / quiero que vea / en ese aspecto / haz de cuenta de que / de que se siente igual que contigo tu hermana / se compara muchísimo contigo / porque tu hermana te ve / ella te ve como la que todo lo puedes hacer / la que en todo eres / muy hábil para todo / y en todo / te considera que eres mejor que ella / y entonces / discúlpame / pero necesito que me entiendas / y ahora / si acaso / pues ya / ya pasó poco a poquito / y le llamo la atención por algo / por ejemplo / de que ¿qué horas son? / ¿qué horas de llegar? y esto y lo otro / y entonces / yo diciéndole y llega / llega así / mira / pero con las lagrimonas que se le escurrían / ¡ay! / yo dije pos ¿qué? / dije ¿dónde le di y qué me va a decir? / dijo mira mamá // tú me regañas / porque se me hace media hora tarde / dice / hay mamás / que están regañando siempre a sus hijas porque / reprueban materias / porque se van con los novios / porque se meten drogas / porque están fumando / bueno ya me pintó todo el panorama y luego me dice / y tú nada más / me estás regañando / porque se me hizo / media hora tarde / a ver / tú nomás dime / dime / ¿qué hago yo mamá / como para que me llames la atención de esa manera? / ¡sopas! / dime / dime mamá / ¡sopas! / ¿sí? / este / le dije <risas = “E” / > discúlpame porque sí / a veces creemos que hay hijos que no necesitan cosas porque / son fuertes / porque no lo necesitan / porque les va bien 
+
+E: ajá
+
+I: pero también necesitan el reconocimiento ¿verdad? porque
+
+E: pero bueno / también yo era muy consentida / y mi papá me llevaba de compras / mi mamá siempre era la que nos llevaba de compras / y de que te falta esto y todo eso ¿no? / mi papá tenía mucho trabajo y no podía / y yo no veía eso / o sea / cuando eres niño no ves nada / mi papá llegaba del trabajo y vámonos vámonos / a comer tú y yo / y me llevaba a cenar / o el que / también así / vámonos vámonos / y me llevaba de compras / a que me comprara lo que yo quisiera / o que nos llevaban a todos / pero imagínate / cuatro mujeres de compras / terca uno 
+
+I: mjm
+
+E: y que mi mamá unos zapatos para cada quien / y si yo veía otros / ¡m! <observación_complementaria = la entrevistadora hace un sonido como si quisiera llorar” / > yo quiero para esos zapatos que están ahí papito 
+
+I: ah ¿sí? / y ¿sí te los compraba?
+
+E: sí / sí me lo daba ¿no? / entonces / por eso también le digo a Daniel que nunca reclamé o sea / eso de las calificaciones de que llega / o sea encima de todo lo que hacía mi papá / yo todavía quería que cuando llegara con la calificación / a mí me llevaran a que comprara algo ¿verdad? 
+
+I: sí / eso le pasa / claro que pasa o sea a todos / este / e / pero te digo / a veces sí / a veces / e / nos / o sea nos equivocamos / a veces cree uno que no es muy importante el / el equilibrio de lo mismo a todos / ¿verdad? 
+
+E: claro / pero / pos sí / eso debería de ser
+
+I: sí pero 
+
+E: pero es malo le digo a Daniel / es malo porque también / todos recibimos la información / de manera diferente 
+
+I: sí
+
+E: entonces / si no hubiera sido como ella / a lo mejor se me hubiera resbalado / pero era más / quizá una niña más egoísta / o más consentida / o más no sé / que / que sí me sentía ante / ante eso / o no sé / y ella era muy noble y muy así / que mi papá me llevaba y nunca reclamaba y no decía nada / siempre que platicábamos todas decían que era muy noble / muy noble / y / muy miedosa / entonces así como que su carácter no la dejaba decir muy bien las cosas 
+
+I: <tiempo = “78:35” / > y / mi hija / a la mayor siempre la he visto como alguien / fíjate siempre la he visto / como alguien muy fuerte / ¿sí? / pero / okay / ella puede ser muy fuerte / como yo / soy muy fuerte / pero / el ser fuerte / a veces cuando me ve / la gente / me / me acuerdo / últimamente he visto / a muchos compañeros y amigos / hombres / cuando / era / estaba en la primaria / y después de mil años te das cuenta de toda la gente que andaba por ti / y que luego dices tú / cuando estaba chiquilla / ¡ay a mí nadie me pela! <risas = “I” / > / y nada que ora dicen oye Lorena yo te quería / que yo / soñaba contigo / y que yo / ¡ay! que siempre salías en el periódico / que ganabas concursos / y que ganabas a cada rato / ahora es lo que dicen ¿no? / y entonces digo por qué no / me lo decían en ese momento / porque yo sufría mucho / decía yo y ¿por qué? / no se daban cuenta que yo existía / porque todas mis amigas / tenían sus amigos y les hablaban por teléfono / y yo / de sexto año / a / segundo de preparatoria / sufría tanto / porque / a mí nadie me pelaba / porque yo no era popular / ¿por qué a mí nadie? / y se me hacía que yo estaba bien fea y que yo no le gustaba a nadie / el problema era / de que no se me acercaba porque / al contrario porque decían ¡no no! / o sea la niñita / o sea la estrellita / la no sé qué más / y los que sentían miedo eran ellos / no sabían cómo llegar / a mí / pero / uno como mujer / uno como niña y adolescente no lo sabías / ¿verdad? 
+
+E: claro
+
+I: siempre eso les digo / yo a mis hijas siempre las he visto muy fuertes / como hay gente que a mí me ha visto muy fuerte / y es que / y confundimos / nomás / yo nomás / he confundido / el hecho de que / ¡ellas! / sean fuertes pero porque ellas tienen una fortaleza y que ellas puedan / pero eso no quiere decir / que no tengan / sensibilidad / son dos cosas diferentes / ¿verdad? / entonces ahí / yo / yo sí les sí les pido mucho a ellas / el que me digan / cuando algo / estoy / en una etapa / bueno porque estoy sola y necesito que me lo digan / yo porque mi esposo me lo dijo / que no me daba cuenta / que hablaba bien duro / y entonces <risas = ”I” / > / y por eso en vez de venir y de oírte así / sólo una / vez / la vez pasada me dijo / Lorena no sé si te has dado cuenta / que a veces hablas / duro / y hablas muy fuerte / y entonces / m / por eso tus hijas también / te contestan / fuerte / porque / ellas no saben hacer otra cosa más que responder / a la forma en que tú les estás hablando / y yo hablando con ellas fíjate / yo estoy hablando / con ellas y les digo / siempre que escuchen / que les dije algo / de una forma / no correcta / o fui dura / en el aspecto no de lo que te dije que dije / sino de que lo dije muy / duro / muy / sin adornarlo ni / así como ¡órale! / golpe / díganmelo / díganmelo / y hasta eso yo / conmigo misma para cambiar eso ¿verdad? / este / pero vuelvo a lo mismo / y no es sencillo verse a uno solo / me pueden ver como bien dura / por / por toda la serie de circunstancias anteriores ¿no? 
+
+E: mjm / sí me imagino / qué / qué difícil la vida ¿verdad? / de mamá
+
+I: <tiempo = “81:50” / > pues sí / te digo sí pero / pero sí / es difícil y es padre porque
+
+E: no hay que planearla / o sea
+
+I: así es / y cuando te das cuenta de que / de tu vida / siempre los padres van a pensar que están haciendo las cosas de la mejor manera / y realmente / o sea / e / los sentimientos / de todos los seres humanos en cualquier parte del mundo y / en cualquier circunstancia y en cualquier / nivel social / e / siguen siendo los mismos / entonces / el que los hijos en el momento que / que ve algo / que lo que le hicieron en su casa fue injusto / que que que / que veamos incluso los papás / veamos que lo que hiciéramos es injusto / que hayamos tomado alguna decisión injusta / que / que / que hayan formado a los hijos que se den cuenta que eso / es la vida / de una vida ¿verdad? / es parte de / el aprendizaje que va teniendo uno / como / como ser madres
+
+E: así es
+
+I: pero es padre / es padre porque / la otra cosa también / es que cuando eres mamá / y te vas a dar cuenta cuando / cuando seas / cuando eres mamá / te cambia completa / mente / completamente tu visión / de las cosas / lo que antes / era muy fácil / tomar una decisión porque nada más eras / por ejemplo tú y tu esposo / o tú y tu persona / porque incluso / si como te digo / de repente cuando tienes un hijo / haz de cuenta que eh // empiezas tú / a a / es otra cosa / dices ora / espérame / pues sí yo era responsable de mí / pero en este momento yo soy responsable de esa criaturita que no se puede mover / que no se puede / nada / o sea problemas / y entonces / entra / una serie / de cosas / dentro de uno 
+
+E: mjm
+
+I: pero que si / que si lo sabes capitalizar eso te convierten en una / o sea / en una mejor persona
+
+E: <tiempo = “83:42” / > así es / no pues que / que constructiva ha estado esta plática 
+
+I: <risas = “E” / > sí
+
+E: sí / sobre todo para mí <risas = “E” / > / a ver qué se me queda / cuando sea mamá
+
+I: vas a ver / te vas a acordar un día / eso y / que te acuerdes en buen plan / en buen plan / yo te sugiero / es lo que quieras / ésta es mi / sugerencia personal / este / si tienes la idea de tener un hijo piensa primero / en ti y en tu hijo / sí por eso a mis hijas les preguntan / y dicen / ay / me gustaría tener más hermanos / porque / ustedes bien padre mamá / cuando se juntan todas mis tías y tú / ¡hi! / ¡cuatro! / hermanas / y tu mamá / es que nosotros / nada más Mariana y yo / y por ejemplo / pasa una de las hermanas y dicen por eso y dice / pero mamá / Mariana y yo nada más / o Mayra / o Mariana / entonces fíjate / hasta / hasta los mismo hijos / cuando son poquitos / este / necesitan / el sentir así como / que tengo mi grupo / a donde pertenezco ¿verdad? / entonces / como que lo tienen
+
+E: fíjese / sí lo sientes / porque yo soy de una familia grande y sí es muy bonito / aunque siempre te estás peleando / pero al menos te desestresabas / pero ahorita ya / trabajo en un colegio también / y son / tres mil pesos mensuales los que les cobran ¿no? / digo yo / imagínate / dos niños seis mil pesos mensuales / y luego veo personas que llegan con la camioneta / y bajan a cuatro niños / y yo les digo ¡ah! son de diferente familia y dice no / son mis hijos los cuatro y yo ah! <observación_complementaria = la entrevistadora hace un sonido de admiración” / > / cómo le hace para pagar doce mil pesos / y obviamente que paga la casa / que paga el carro / que la tarjeta / yo no sé / no las deudas que debe de tener / tiene que ser / político / o algo así
+
+I: ya sé / mira te voy a decir algo / es un tip por si no lo sabes / trabajas en una escuela ¿como qué? / ¿como maestra? / ¿dónde está?
+
+E: sí / en el Cambridge / en Cumbres 
+
+I: sí / bueno / en primer lugar / aprovecha las ventajas que tienes como maestra / ¿sí? / como maestra por decir para una institución / la institución donde trabajas / te debe de ofrecer un porcentaje de beca para tus hijos / simplemente por ser / trabajadora de ahí / ¿sí?
+
+E: ajá
+
+I: entonces / te deben de dar becas para tus hijos / cuando te digo que yo entré a trabajar en ese colegio / este / afortunadamente me dieron beca para las dos / porque imagínate yo / divorciada / con las dos niñas / con un solo sueldo / jamás en mi vida / pensé / que mis hijas / iban a estar en un colegio particular 
+
+E: ajá
+
+I: y mucho menos / en una universidad particular / ¿sí? / pero ten a la mano el tip / como maestra / tienes la ventaja / que / tú nada más / desde el momento desde que nace tú puedes aprovechar tu trabajo / ¿sí? / entonces / tu trabajo te va a abrir / la oportunidad de las becas para tus hijos / en la mayoría de los colegios / si / los maestros en / la educación / del cien por ciento / de la beca / de un hijo / y a partir del segundo tercer hijo / setenta y cinco por ciento / y cincuenta por ciento / cuando te vayas / o sea te doy el tip para que lo tengas / cuando te vayas a embarazar / búscate / el que / ya estés trabajando en la institución que tú sepas que / que tiene unas prestaciones así / ¿sí?
+
+E: mjm
+
+I: sí / y que te gustaría por ejemplo estar ahí por mucho tiempo / y entonces / eso es / para que ya te estés asegurando / e / lo que viene / y ya te acomodas y así aprovechas / eso es por un lado 
+
+E: <tiempo = “87:20” / > ajá
+
+I: y por el otro lado / te voy a decir algo / lo mismo / cuando los / tienen los maestros hijos y otras oportunidades / les ofrecen / a los papás / no pagar lo mismo / por ejemplo en la Universidad de Monterrey / entre más hijos tengas / menos pagas ¿eh? 
+
+E: m
+
+I: ¿sí? / entonces / es lo que digo pero / pero / todas las cosas / salen / salen porque salen / cuando / tú eres una persona / que / trabajas y que haces tus cosas bien / claro / la situación / ahorita yo creo que a nivel mundial / están / difíciles las cosas / pero imagínate / qué triste / qué triste es / que tengamos incluso / los seres humanos qué remitir / si tenemos / o no tenemos hijos / que te hacen pleno como ser humano eso te digo 
+
+E: ajá
+
+I: que te haces diferente / simplemente por una situación económica mundial / no se vale porque está difícil y llegas a pensar cosas / pero si tú dices / oye / esto es lo que dios / o sea esto es lo que / dios quiere / esta es la forma en que / en que / debe ser la vida / esto es lo que / o sea / ¿a qué vengo al mundo nomás para estar trabajando y estar sacando dinero / ¿o qué? / te preguntas todo eso / entonces digo / sí tienes tú que ser consciente de la situación / pero no lo tienes qué / empaquetar / ni tienes que dejarte alarmar / por lo que está pasando / alrededor / porque / este / a veces las cosas no son como parecen 
+
+E: sí / no / bueno / siempre digo mi papá / o sea era técnico / y pudo darnos escuela particular a seis hijos 
+
+I: mjm
+
+E: este / y pues vivíamos bien / salíamos de vacaciones / normal 
+
+I: mjm / mjm
+
+E: este / digo ¿por qué yo no?
+
+I: claro / claro / y luego te voy a decir algo / yo pienso que en todo ¿eh? / en todo / es muy importante / la cuestión / de la / actitud / de lo que tú / esperes / de lo que tú estés dispuesta / a dar 
+
+E: ajá
+
+I: de lo que tú / de la forma en que tú / vas a / a / ¿cómo te diré? / o que tú pienses que la vas a hacer también / porque / por ejemplo / si yo me muero a lo mejor / pos mis hijas ya no tienen la deuda de la casa / que la universidad pues ya están becadas / pero pos mis hijas / igual si yo ya no estoy en la casa / ellas / salen / adelante / porque salen / adelante / pero ¿sabes por qué salen adelante? / por las cosas que han aprendido 
+
+E: <tiempo = 89:48” / > ajá
+
+I: y que vieron en mí / no porque yo les esté ayudando / tal vez si yo las hubiera protegido todo el tiempo / si las hubiera querido / y darles todo / no / no / no / si puedo / si te lo puedo dar / no que unas mamás / ¿qué quiere mi reina? / ¡ah! todo / lo que mi reina quiera yo se lo doy / les resuelves la vida / y darles todas las cosas / ahí sí / pobres / qué / qué dejan / a sus hijos
+
+E: ajá
+
+I: pero yo creo que / cuando tú te das cuenta / simplemente como dices tú / mi papá / como técnico / con cinco / hijos / nos ha dado esto y lo otro / tú ya traes eso como aprendizaje 
+
+E: mjm
+
+I: te aseguro / que tú / estás / haciendo lo mismo / y harías / lo mismo / que tus papás / lo mismo que viste en tus papá o en tu mamá / lo harías / te lo digo por una experiencia personal / y / así / algo muy / personal que / íntimo muy / importante para mí / fíjate que cuando / era / el año ochenta y dos / a mi papá / le detectaron un tumor / porque mi papá fumó mucho tiempo / desde los quince años fumó / y entonces este / en el ochenta y dos le detectan e / un cáncer / pulmonar / y entonces le dan tres meses de vida / en el ochenta y dos / tres meses de vida / ¿si? / y entonces / yo tenía en ese tiempo pos / te voy a decir mi edad porque no me importa / tenía yo diecisiete años / y entonces / haz de cuenta que m / era / cuatro mujeres / con una mamá / con el papá que trabaja / nada más / ¿sí? / y a partir de ese momento / yo estaba en preparatoria te digo / a partir de ese momento mi mamá dijo / hijas / estamos pasando por esta situación / ¿verdad? / y / tenemos que ponernos de alguna forma las pilas / en / con lo que sepamos hacer / con lo que podamos hacer / vamos a hacer esto y lo otro / muy bien / bueno / y entonces / empecé a dar clases de piano / empecé a dar esto / mis hermanas / todas / y seguíamos estudiando / todas / afortunadamente mi papá / vivió / trece años / más / hasta el noventa y cinco falleció / ¿sí? / y te voy a decir algo / en los últimos años de mi papá / haz de cuenta le dieron quimioterapia / le dieron muchas cosas / y estuvo / bien y todo / o sea / los últimos años / pos igual después de todo / le vuelve a / aparecer la enfermedad esta / pero ahora sí ya se le fue más grave por el tipo de enfermedad esa pero ora sí ya de lleno con unos cuadros muy duros / tenía unos dolores / tremendos / dolores / tremendos así / cosas / y todo / y mi papá tenía una / un negocio / un taller / no mecánico de carros / sino que hacían piezas / tornos y cosas de esas / hacían piezas para armar / y entonces / a / a una semana antes de que mi papá falleciera / ¿si? / él / hablaba / él / veía / él dirigía / él se levantaba / hiciera frío / hiciera calor / tuviera dolores o no tuviera / se levantaba / para ir / a trabajar / ¿si? / y ¿qué te quiero decir con esto? / a veces hasta lloraba / y te lo digo / y te lo puedo decir sin llorar / porque mucho tiempo lo decía / y lloraba porque me acordaba / ahorita te lo puedo decir sin llorar / a veces / había unos dolorones que le daban porque / al último ya le dieron hasta morfina / ¿no? / este / unos dolores que le daban / y me tocó / alguna vez / de / en donde me decía ¡ay! / tócame aquí / dame la mano por favor / y yo le decía / sí yo te / yo le / yo te doy la mano / y tú apriétame / no importa que me / al cabo a mí no me duele la mano / tú apriétame papito / si te duele tú apriétame / ¿si? / y entonces / eran unos dolores que le daban / en toda esta parte de aquí a aquí / y así / y como si fueran / contracciones / pero yo / le daba la mano / y entonces / decía ya / ya pasó / pero se le salían las lágrimas del dolor / y entonces / tomaba el teléfono / y era uno de sus empleados / y le decía yo papi / es Federico ¿qué quieres que le diga? / pásamelo / sí / sí Federico dime / ¿qué pasó? / ah no mira no te preocupes / las cosa es así esto y el otro / si no te pagó ese proveedor / esto que lo otro / con la voz / norma l / con el ánimo / las cosas tienen que salir / vamos adelante / le digo yo / a mi mamá / se lo digo / es que / me hubiera tocado / si me hubieran tocado unos papás / que se dieran por vencidos / a la primera / te lo juro / a veces sí / ¿por qué? / porque si yo hubiera visto a unos papás / que ante cualquier circunstancia de la vida / se dan por vencidos / yo me hubiera dado / me hubiera podido dar por vencida / me hubiera podido / ¿sí? / pero con esos papás que a mí me tocaron / en el cual / hasta una semana de que mi papá falleciera / lo veías con el ánimo / una cosa es que a él / él sentía / pero él no te iba a andar contando a ti para que tú no te sintieras mal / ¿sí? / entonces / la gente no creía que estaba enfermo / con eso te digo todo / ¿sí? / entonces / este te das cuenta tú / que / la actitud / de las personas / y / y esa forma de ser es lo que finalmente se te queda / que si te dejaron una casa / si te la dejaron que te / que lo que menos te importe como hijo / les digo a mí me pudieron haber dejado mil cosas / y no me regresan / a mi papá 
+
+E: mjm
+
+I: pero mi papá no está conmigo físicamente pero está conmigo / aquí / y en todas las cosas que hago está 
+
+E: mjm
+
+I: ¿verdad? y entonces / ¿qué te digo con eso? / o sea / te das cuenta que / de qué forma / de qué forma / vamos aprendiendo nosotros de nuestros padres / cómo tenemos que enfrentar la vida 
+
+E: ajá
+
+I: ¿verdad? / y eso es toda una lección / de vida es lo que te digo / qué afortunada / te digo yo / qué afortunada has sido tú / que has visto / unos papás así / que con las / capacidades que ellos tienen / y con los estudios que / que tengan / puedan / adaptarse a la vida / y salir adelante
+
+E: <tiempo = “95:38” / > ajá 
+
+I: ¿verdad?
+E: sí / así es 
+
+I: <risas = “I” / > ya dije todo eso / ya mejor hablamos de cosas menos tristes / ya mejor hablemos de otras cosas
+
+E: sí / este / bueno / ya me dijo usted de la situación de su papá / ¿usted alguna vez ha estado en peligro de muerte? / usted / ¿alguna enfermedad o algún accidente? / ya ve que ahorita / pasan muchos accidentes / este / frecuentes / automovilísticos o
+
+I: no / afortunadamente no
+
+E: no / ¿ninguna de sus hijas tampoco?
+
+I: no / hace como dos años me dieron / bueno / hace como un año y medio / me dieron un susto / ¡horrible! ¡horrible! / con / con / mi hija mayor / que había tenido / fíjate me hicieron una broma / espantosa / que habían tenido un accidente ella y sus amigas / y que me estaban hablando de un hospital / no sé qué / tipo de jóvenes / cómo sean educados no sé / no sé / yo no sé / quién pueda tener un corazón así / unos muchachos / me hablaron / para decirme / este / que acababa de tener mi hija un accidente / que estaba en el hospital / San José / con las amigas / y le digo yo / y ¿por qué me estás hablando tú / y no algún / una amiga de ella? / dice / y me / empezó a decir unas cosas / tú no sabes / ¡hi! <observación_complementaria = “la informante hace un sonido de admiración” / > / no / no sabes / me sentí / ¡mal! / me sentí mal me empezó a / a / me latía el corazón en la cabeza así / donde me empezó a sentir / todo / cállate / fue horrible / la cosa más horrible y yo / yo sola / yo aquí / y hablé con mi hermana / la doctora la mayor / le dije mira pasa esto / necesito que me lleves porque / la verdad es que no puedo / caminar / dice no te preocupes orita voy por ti / y como ella es doctora ahí / tiene muchos pacientes ahí / pacientes internados / y entonces / se informó / y hablaron al hospital y dicen / es que / o sea / me lo dijo después / es que no hay nadie / registrado con las características / ni con el nombre ni nada / y entonces ella me habla y me dice / oye / y no / se me ocurrió / nunca marcarle / al celular de mi hija 
+
+E: ajá
+
+I: y lo que yo hice fue hablar al / a la casa de una amiga / sabes ¿cuánto tiempo / fue una que estaba esto y lo otro y la mamá / ella se puso / yo / estaba bien tranquila / no tranquila / estaba / que me llevaba / haz de cuenta que me quería morir / pero / aún así de que me quería morir / hablé / y la mamá empezó a gritar como loca / le metí un susto fuerte que me sentí mal / y hablé con el esposo que ¿qué vamos a hacer? y así y así / y la localizan por teléfono / a la hija / y empieza la mamá / ¡es que me hablaron que habían tenido un accidente ¿qué? ¿cómo están? <observación_complementaria = “la informante hace un tono de voz como si estuviera gritando” / > / dice mamá / aquí estamos mamá / pero ¿Mayra? / ¿dónde está Mayra? <observación_complementaria = “nuevamente, la informante hace un tono muy alto de voz” / > / mamá / aquí está Mayra / mamá / está enfrente de mí ¿qué pasa? / y luego ya / ella le dice ¡es que a la mamá de Mayra le hablaron que habían tenido un accidente y que Mayra estaba muy grave! <observación_complementaria = “la informante hace ese comentario, con el mismo tono de voz” / > / y empieza una amiga / a hablarme por teléfono / señora aquí está Mayra / y cuando yo estaba apenas diciéndole me dice Mayra está aquí / no / a Mayra no le ha pasado nada / aquí está / yo estaba pensando / que / era otra persona hablando del accidente pero era / al revés / y entonces no / ya / haz de cuenta me lo dijo a mi y todo / y bueno / y ya haz de cuenta que pasó todo / ya cuando vi a mi hija / ya la vi bien / haz de cuenta que me solté / pero haz de cuenta / así / llore y llore que no me podía controlar / ahora que / bueno / me hizo tanto daño eso en el aspecto / emocional / y en el aspecto / físico / porque yo no sé qué fue lo que me afectó a mí tanto / que estuve / una semana / y media / que tenía que ir a trabajar / ¡órale! / que tenía <risas = “I” / > que tenía que hacer todo lo que tenía que hacer / todo lo hice / muchas cosas / todo lo hice / pero haz de cuenta / que me sentía / que no podía caminar / que no podía moverme / era como si / hubiera tocado yo / ¿qué te diré? / nosotros que tocamos piano / decimos / cuando terminamos de dar un concierto / te sientes tan agotada / porque no es en el aspecto físico / es el explotamiendo que das en el concierto que es mucha tensión / y entonces cuando uno termina de dar un concierto dices ¡híjole! / me siento como si me aventaron el piano encima 
+
+E: <tiempo = “99:48” / > ajá
+
+I: y así se siente / imagínate el piano encima que / ¡ay! / ¡como si me aventaron el piano encima! / bueno / así me sentía / durante una semana y media / afortunadamente no me ha pasado / afortunadamente / nada / malo / ¿sí? pero / sí / le / le digo yo / a mi terapeuta / fui a terapia de grupo / le dije a mi terapeuta mire / doctor / me di cuenta de algo / que yo no estaba preparada para eso / me dice / no mira / pero para eso / para noticias / así / y para accidentes de los hijos / para eso / ¡jamás! / vamos a estar preparadas 
+
+E: mjm
+
+I: ¿verdad? / ¡jamás! / ¿verdad? entonces digo / eso fue lo más / ¡irreal! / que me pasó pero / que me dolió / decía mi abuelita que duele más / decía mi abuelita que / que duele / le duele / como / mujer / a uno más / lo que les pasa a los hijos / decía / mi abuelita / era muy fuerte y linda mi abuelita / decía / yo he tenido / la muerte de mis padres / la muerte de mi esposo / y la muerte de una hija / dice / yo lo único que sé / que nada / nada / es tan difícil / de superar / como la muerte / de un hijo / ¿verdad? / y yo me acuerdo que en ese momento dije bendito sea dios que mi hija está bien / pero te lo juro que me acordé / de mi abuelita / me acordé dije yo ¡ay! / ¡híjole no! / de que digo no / no / dios nos libre de esas cosas pero / también qué duro para las mamás que / que no saben y que les toca ver / perder un hijo ¿verdad? 
+
+E: mjm / oiga / ¿y nunca supieron nada del muchacho que habló?
+
+I: no / yo lo que hice / de / eso / lo que hicimos inmediatamente / con las amigas que andaba mi hija / este / luego luego / era / identificamos a todas las amigas de mi hija / estaban aquí mismo en la colonia / quiero decirte ¿eh? / es que yo vivo / a dos cuadras de la Puerta del Sol / y estaban a la vuelta de mi casa como a cinco cuadras / y el muchacho me dijo de qué color fue el carro cómo se accidentaron y todo / y lo que les dije yo / era porque / había visto ese carro / y las conocía / a todas / y no se supo quién fue / pero cuando llegaron / haz de cuenta todas las muchachitas / estaban llorando así mira / y nada más que me vieron llorar / empezaron a llorar más / estaban peor / y les digo yo ¿saben qué? hablen por favor / háblenles a sus papás / y una de ellas me dice / tía / es que no sabes tía / que qué feo que te hicieron eso / pero le doy gracias a Dios que no le hablaron a mi papá a dar / a darle esa noticia / dice porque mi papá padece del corazón / si le hubieran hablado a mi papá / para darle esa noticia a mi papá se hubiera / muerto dice / ¿verdad? / entonces digo / ir / dice mi hija ¡ay! hubieras hecho algo lo que sea / pero si hubieras puesto / algo en el periódico / y que las personas como ese muchacho / que no tienen conciencia / sepan de qué forma / impactan / a las / a las familias ¿verdad? / no nunca lo hice / nunca lo hice 
+
+E: <tiempo = “102:41” / > sí / claro / ¿y su hija no tiene una idea de algún compañero pesado / o algo así?
+
+I: de hecho en ese momento no tenía / identificador / tenía identificador antes pero lo había suspendido / porque / nos hacían / me tenía que cuidar mucho / porque a veces había cosas así como que / acosaban / entonces haz de cuenta que lo quité / y después de cuando lo quité fue cuando pasó eso / y fui a la compañía telefónica a preguntar / y me dijeron que no me podían / no / no tenían forma de darme / más que con una orden de cateo de la policía y había que redactar una orden / para pedir / el registro de cuáles teléfonos habían hablado
+
+E: y como obviamente no hubo ninguna persona que se enfermara por eso / tampoco iban a hacer nada ¿verdad?
+
+I: no / no lo hice / ¿qué cosa me dices?
+
+E: no / lo digo por la policía 
+
+I: ah
+
+E: o sea que si tú vas y levantas una denuncia
+
+I: sí / no no / te digo / o sea qué triste / qué triste porque yo digo sí es muy triste si la / bueno / yo lo estaba viendo ya / bueno / me tocó a mí / y afortunadamente / no / no / no fue nada / y afortunadamente fue una broma / ¿sí? / pero por ejemplo tú ves / y te pones a pensar / lo que tú sentiste / si te pones a pensar / en toda la humanidad 
+
+E: mjm
+
+I: o sea toda la gente que está alrededor que pudiera pasar por lo mismo que tú 
+
+E: mjm
+
+I: y entonces / yo dije / esto no lo puedo dejar así / lo que hice es que / es lo que tú dices / vas / y lo levantas / y como no hubo daños / de ninguna manera / ¿cómo puedes comprobar que eso te perjudicó? / ¿cómo? / te tiran a lucas <observación_complementaria = “ese término se refiere a que la gente te ignora” / > 
+
+E: sí
+
+I: y no puedes hacer absolutamente nada / o sea cómo / vivimos / así / y es ahí donde te digo / vamos a dejar nosotros / que / que nos dicen / los hijos que tenemos / que nos digan / este los principios / o los valores que vamos a inculcar a la familia / o cómo vamos a compartir la navidad / porque la misma sociedad te está llevando por otro lado / pos no / es triste que así sea / pero haciendo lo que puedas por / que / tu familia / la gente a la que puedas / impactar / este / como maestra / como amiga / como no sé ¿verdad? / o sea / pero de alguna forma / hacer esa / esa cadena y / y / y tratar de hacer las cosas / este de una forma / que puedas sentirte que estás aportando algo / ¿verdad?
+
+E: ajá
+
+I: pero más no se puede porque / te sientes / como en / entonces / se siente uno bien / impotente
+
+E: así es / sí / qué feo / yo lo que me ha pasado con conocidos / eso de los supuestos / secuestros / que deposita porque tenemos a tu hijo / le pasó a un tío de mi esposo / pero el detalle de que hablaron / de que tenemos a tu hija Samanta / y la hija estaba al lado <risas = “E” / > / y entonces / la tenemos secuestrada / depositen nos / ¡ah! sí / al rato / o sea pero ¿qué haces? / no puedes / levantar una denuncia / ni nada // y ahí estaba la chica ¿no? / no iba a creer que estaba secuestrada ni depositar dinero / ¿verdad?
+
+I: pero fíjate / afortunadamente la hija estaba ahí si no ahí hubiera ido / que cuando tu escuchas / el nombre de su hijo / o por ejemplo / en otros casos / que a tu papá lo llaman ellos / lo primero que hacen / o sea / te pegan en la cuestión emocional 
+
+E: <tiempo = “105:49” / > ajá
+
+I: ¿sí? / y como es ya una cuestión emocional / es como que / como que de repente todo lo del cerebro se te nubla / todo se te nubla ya nada más estás / en la cuestión emocional / y ellos saben cómo le hacen ¿no?
+
+E: sí / y no y a parte el cerebro / es independiente / también hace poco / asaltaron la casa de / de mi el cuñado el dentista / de Gil / se supone que íbamos a cenar con unos tíos que habían venido de fuera / y estábamos cenando en un restaurant / y / como nadie contestaba por el ruido / más que mi esposo / que es el único que escucha 
+
+I: pues sí
+
+E: contestó su celular / y le habla la mi / cuñada este / bueno mi concuña / llorando / es que vine a la casa y que / y mi esposo / y Daniel puso la cara de ¿qué? / así / y mi suegra qué / ¿qué le pasó a mi hijo? / y se puso histérica bien en mal plan / o sea / de qué / nada más decía / espérate déjame escuchar / como ellos se suponía que también tenían que llegar ahí / ella ya se había imaginado / había chocado o
+
+I: 
+
+E: todo se lo imaginó ella sola / y luego se puso a llorar en el restaurant histérica / mira no sí / ahorita vamos / ya vamos a cenar / y orita vamos / tú no te preocupes ahorita va alguien / y a mi suegra / no / no pasó nada / están bien / sólo que asaltaron su casa / y este / van a ir a levantar la denuncia / y ahorita que terminemos vamos / pero mi suegra ya se había imaginado / nada más vio la cara de mi esposo así / súper seca / la expresión / y escuchó / que / y Gil ¿qué? / o sea si Gil ya está contigo / algo así / era lo que estaba diciendo 
+
+I: sí
+
+E: y ella ya se había imaginado que algo le había pasado
+
+I: eso es bien intenso / es / es bien ¿cómo te diré? / es bien
+
+E: básico / o sea como que ya
+
+I: no se puede controlar / porque es como si se te botara de repente / la inteligencia / el pensamiento / o no sé / y y / te entran / o sea te pegan / te pegan / en donde más te duele / o sea en / donde más te duele son los hijos / ¿sí? / bueno en mi caso de los hijos ¿verdad? / tu todavía no tienes hijos / donde más te duele son los papás / ¿sí? / entonces / este / la cosa es así / te digo y yo no sé / honestamente cómo / resistí ese momento / nomás lo único que me acuerdo es que me latía / yo sentía / yo decía es que / se siente todo como todo así / todo pero más acá / pero no era el corazón era / aquí sentía que la sangre / o sea todo / bombeando el corazón la sangre que sentía yo / aquí / y entonces ya cuando veo / a mi hija y todo eso / ya así estaba todo así natural / normal / se quedó conmigo mi hermana la doctora / y le digo / me siento muy mal / me siento muy mal / necesito que me examines / me cheques el corazón / me siento muy mal / es que me está latiendo algo / aquí aquí aquí / y me dice / tranquila / tranquila / a ver vamos a ver /  / y dice / estuviste conteniendo todas las cosas / ¿verdad? / y ya cuando la viste ahora sí / y digo yo no sé / afortunadamente la vi así y no de otra manera / igual si la hubiera visto de otra forma / hubiera estado yo / haciéndome la fuerte ¿verdad? / pero no / ya cuando me solté / fue cuando la vi que estaba / afortunadamente bien / ¿sí? 
+
+E: ay señora pues qué / qué plática tan interesante <risas = “I” / > / ya tomé algunos datos
+
+I: yo no sé pero / pero no sé si / te digo / ojalá que haya servido para las cosas que tienen que sacar de / de lenguaje o no sé qué cosas tienen que sacar ustedes / en la / en la
+
+E: bueno en realidad yo no soy la que / yo no lo hago / yo nada más este / soy la que estoy entrevistando / <risas = “E” / > así que no sé de qué se trate / mjm
+
+I: ¿alguna otra cosa que necesites?
+
+E: sí / voy a hacerte una encuesta 
+
+I: sí
+
+E: ¿me das tu nombre completo?
+
+I: ______ _____ / mira aquí está una pluma / te di / te di una al empezar / mira aquí la tienes
+
+E: gracias // ______ ______ / ¿con y griega?
+
+I: con y griega / ajá / Leal 
+
+E: aja
+
+I: Isida / i ese i de a
+
+E: ¿qué edad tiene?
+
+I: cuarenta y cuatro
+
+E: este / me dice que se acaba de casar
+
+I: así es / ajá
+
+E: ¿cuál es su dirección?
+
+I: Camino de los Bengalíes 
+
+E: ajá
+
+I: nueve cero cuatro / colonia San Jerónimo
+
+E: ¿qué teléfono tiene?
+
+I: ochenta y uno cuarenta y tres / noventa noventa y ocho
+
+E: ¿qué religión profesa?
+
+I: este / la católica
+
+E: ¿de dónde es usted?
+
+I: de aquí de Monterrey
+
+E: ¿y siempre ha vivido aquí en Monterrey?
+
+I: mjm
+
+E: mjm / ¿de dónde es / o era su padre?
+
+I: de / General Bravo
+
+E: ¿y su mamá?
+
+I: de aquí de Monterrey
+
+E: ¿su abuelo paterno?
+
+I: de General Bravo
+
+E: ¿y su abuela paterna?
+
+I: también de General Bravo
+
+E: ¿y su abuelo materno?
+
+I: mi abuelo materno / japonés / era japonés 
+
+E: ¿y su abuela materna?
+
+I: de Villa de Santiago
+
+E: sí / yo tenía un compañero de la licenciatura que también era / este / su abuelo era japonés / me decía que se había venido / para hacer un ferrocarril o algo así / y que se había quedado por este / por Carretera Nacional / por los pueblos que están por ahí
+
+I: ¿te acuerdas cómo se apellida?
+
+E: Currucaua 
+
+I: Currucaua / sí / mi abuelo se vino / haz de cuenta se vinieron / él / creo que los Currucaua / los Currucaua también en la / se vinieron sin saber / salieron como / pobrecitos / a los catorce años quince años / se escondieron / en un / barco 
+
+E: mjm
+
+I: y cuando los encontraron los pusieron a trabajar como fogoneros / en el barco / y cuando ya llegan / llegan a Veracruz sin hablar / nada de español / y entonces ya no tenían forma de regresarse / ya no tenían / y se quedaron aquí / entonces en forma de casa / y se vinieron un grupito / y eran como unos catorce muchachos / y se vinieron un grupito como de seis / aquí / a Monterrey / están los / Isida / los Currucaua / los Hau también / el / el / Jomu / los Jomu / y / no me acuerdo cuál más / mi mamá se acuerda de todos / se oye interesante 
+
+E: sí / bien interesante / bueno tú no tienes rasgos / pero él sí es / y me acuerdo que fuimos una vez a un congreso / que venían personas de todas partes del mundo / y estábamos hablando español y todo / y un japonés se acerca y nos escucha hablar / lo escucha / a él hablar / y le dice / “tú eres de Japón” / y mi amigo le dice / no soy de aquí de Monterrey / tus papás / él no / mis papás son de aquí / mi abuelo era japonés / dice te reconocí por los ojos y las orejas / le dice <risas = “todos” / > / estaba muy orejoncillo / <risas = “E” / > nos dio mucha risa / y él no hablaba japonés / y no le interesaba / y yo no / yo había escuchado que en la embajada de Japón en Monterrey te da becas / para que estudies si tú eres descendiente / aprendas japonés / pero no / no le interesaba / yo pienso que a lo mejor sentía / ya sabe usted que aquí / las burlas / yo pienso que por eso / no quería aprender 
+
+I: 
+
+E: ¿ella es su hija menor?
+
+I: no / es mi sobrina
+
+E: ah / bueno / este / ¿tiene alguna afición o pasatiempo?
+
+I: m / pos me gusta mucho tejer / te digo tejer / me gusta a mí tejer / y pues / m / ¿qué te diré? qué otra cosa / ¡ah! me gusta / mucho estar en el aire libre / sí me gusta / ir por decir / me gusta mucho la naturaleza y la música / porque es muy bonito
+
+E: me imagino que ha de ser muy bonito / poder trabajar también / bueno con la música / que es / como una afición pero aparte tu trabajo / te da para comer / haces tu trabajo / pero te gusta 
+
+I: y gozar de la música como de / una afición
+
+E: ajá 
+
+I: sí porque / por ejemplo / para mí la música sería todo / es fácil para mí / que es una profesión para mí / y es parte de mi vida entonces no lo hago por / lo hago porque me gusta / pero que a mucha gente le sirve / lo hace por hobbie / que para mí no es un hobbie / para mí es mi trabajo 
+
+E: bueno pero me imagino que cuando / ya se jubile o / bueno / aquí nunca va a haber jubilación en esto ¿verdad? 
+
+I: mjm / mjm
+
+E: o sea / la edad que tenga / tengo una vecina una señora mayor / que toca en el Residence 
+
+I: mjm
+
+E: y ella siempre nos está / bueno / este / en departamentos / con mis papás / y siempre estaba tocando / siempre teníamos música de la señora / toca bien bonito / todo el día / estaba tocando / y ya / bueno / a lo mejor yo cuando ya crecí / a lo mejor no es tan grande pero / se me hacía que se veía grande / y voy a casa de mis papás y escucho el piano / de la señora tocando bien bonito
+
+I: te digo como que es / parte de tu vida
+
+E: sí / mjm / ¿asiste usted al cine?
+
+I: sí 
+
+E: ¿con qué frecuencia?
+
+I: m / ¿con qué frecuencia? / ¿qué te diré? / yo digo que ha de ser como una vez al mes
+
+E: mjm ¿y de qué nacionalidad prefiere ver películas?
+
+I: de cualquier nacionalidad / que / no tengo preferencia por alguna en especial / porque realmente / voy a ver películas / que me ponen de alguna manera / yo he visto tanto / buenas películas mexicanas y he visto buenas películas francesas / de cualquier nacionalidad
+
+E: este ¿y las que usted prefiere? / así como que siente una motivación especial por ver
+
+I: ¿qué tipo de películas? / ¿el género?
+
+E: <tiempo = “116:11” / > este / sí el género / y también la nacionalidad / porque a lo mejor sí siente algún / algo más / fuerte por ver / cierta nacionalidad o cierto género / ¿o no? // 
+
+I: pues por ejemplo las europeas me gusta cómo / plantean / el / los aspectos / los aspectos de la / de la vida / ¿sí? / que es muy diferente al / al estilo / americano como por ejemplo de película / irreal / que todo termina muy padre o como todo / pues que no me gusta en realidad el cine / el comercial americano / o las novelas esas / de / pos que tienen un humor que / ni / ni compagino con ello ni <risas = “I” / > para nada el humor de / ni el humor de los / de las comedias de los americanos a mí no me gustan 
+
+E: mjm
+
+I: ¿sí? / entonces a mí me gustan / las europeas
+
+E: mjm / y bueno / ¿cuáles son así el género que más le gusta? / ¿el drama / comedia / ciencia ficción // romance?
+
+I: pues puede ser fíjate / de drama / y / el romance / y / pero / pero o sea / por ejemplo / ciencia ficción entendiéndose como / ciencia ficción de / todas esas / películas / no // porque / tengo en la casa y luego veo películas / infantiles / a mí de esas me encantan / por ejemplo me encanta ver este / La princesita / me encanta / y / ¿La princesita y esas en qué género entran?
+
+E: dibujos animados
+
+I: ah no / La princesita de Cuarón
+
+E: ¡ah! / La princesita
+
+I: ¿en qué género entra? porque por ejemplo / lo que te plantea ahí / en parte es fantasía / ¿sí? 
+
+E: sí
+
+I: y en parte / es un aprendizaje / de / de una situación real de la vida
+
+E: sí / yo pensaría que es un drama / esa película también me gusta mucho / será porque quiero mucho a mi papá / bueno la verdad es cuando quiere uno a su papá 
+
+I: sí / ¡está! / cuando
+
+E: cuando el papá no la reconoce / ay / la he visto como diez veces 
+
+I: sí yo lo mismo muchas veces / igual lloras / sí / y mis hijas igual / y luego / y mis hijas igual y la cosa es de que digo yo / ay yo no sé cómo piensen ellas porque ya ves no / no tuvieron nunca contacto con su papá / ¿verdad? pero bueno / estey es de fantasía / por ejemplo La Princesita / y me encanta sobre todo / porque / me encanta la actitud de la niña / que ante la circunstancia de todo está / pero ella / y cómo le gritaba ella / y las cosas diferentes al resto de las niñas ¿verdad?
+
+E: ah sí / que era una niña también que se defendía que no se dejaba / a mí me encanta la escena cuando le dice a la señora / cuando se burla de ella y le dice ay princesita en harapos / y le dice / todas las niñas somos princesas me dijo mi papá / ¿que a usted nunca se lo dijo? / así como que / ¡ay! me dio / ¡ay! Me encanta esa escena / también la de la Cenicienta con Drew Barrymore / la he visto no sé cuántas veces fíjese que / no me gusta mucho esa película pero me gusta que al final / triunfe el amor / el amor pero / el amor por sí mismo / pero me hace llorar una escena / cuando la hermanastra le tira todo / lo que ella tenía / que le había dado el papá cuando era niña
+
+I: <tiempo = “119:25” / > mjm
+
+E: ¡ay! / me acuerdo que fui al cine a verla con mi novio / éramos novios / bueno mi esposo / cuando éramos novios / traía una blusa de manga larga blanca / para que no me vieran <risas = “E” / > / y cuando salí / toda manchada de rimel / y los ojos también / según yo para que no me notaran / las líneas así / y la película no es que no me guste / no me gusta que al final / ella perdonara todo ella perdonara la muchacha después de que / que le hizo todo / después de la humillación que le hizo / pero esa escena de / las escenas así tristes de papá e hija / ay esas me trauman / o sea es un drama / de que me acuerdo / de eso <risas = “E” / > 
+
+I: sí / por eso son las que me encantan / me gustan
+
+E: mjm / ¿y escucha el radio?
+
+I: sí
+
+E: ¿qué / qué tanto tiempo escucha al día / radio?
+
+I: fíjate que poco / bueno ahorita te había mencionado que escucho cuando / me muevo de un lugar a otro / en el carro / este / ¿qué será? / a lo mucho / ¿qué será? / una hora máximo 
+
+E: mjm / y / ¿qué tipo de estación prefiere escuchar?
+
+I: mira / yo siempre estoy / escuchando música clásica / pero la verdad es que en mi carro se escucha todo tipo de estación / ¿por qué? / porque / te digo que me gusta también ser flexible / o sea / yo te escucho / la música que les gusta escuchar a mis hijas / cuando llevo a mis hijas sobre todo a la más chica / este / que la llevo a algún lugar / pos ella lo pone en / las estaciones ¿verdad? / con música / que / en inglés / por ejemplo las baladas / todo ese tipo de música que escuchan ellas
+
+E: ¿y radio hablado / de noticieros le gusta?
+
+I: sí me gusta / sí porque a veces por ejemplo sí / sí lo escucho me gusta oír las noticias / por / por radio 
+
+E: mjm / y de / ¿su estación preferida cuál es?
+
+I: e / ciento dos punto uno 
+
+E: mjm / mjm / entonces le gusta escuchar música y noticias / este / ¿algún programa como / de esos de revista pero que / de radio? / bueno / es que esos son más de México / pero los transmiten en en / como el de Fernanda
+
+I: ah / me gusta mucho escuchar ese programa 
+
+E: ajá 
+
+I: sí
+
+E: sí / ¿ve usted televisión?
+
+I: mjm 
+
+E: ¿con qué frecuencia / ve la televisión?
+
+I: digamos por ejem / que casi / casi todos los días / yo sí / yo / sí la veo / sí haz de cuenta que yo / ¿qué te diré? / depende de lo que vaya a ver / por ejemplo a mí me gusta muchos ver / programas culturales / y cuando son las cosas / programas culturales / a veces así como / como conciertos que pasan y / así que duran más tiempo / pero así en promedio / ha de ser / en promedio / como unas / dos horas al día 
+
+E: mjm // ¿y qué es lo que le gusta ver en la tele?
+
+I: en la tele los programas que te digo / por ejemplo me gusta mucho Semanal / me gusta el / el de / me gustan / cuando pasan películas padres también / me gusta el / ¿cómo se llama este otro? / el National Geographic el / o el / History Channel / Discovery Channel / y sí / y que quede claro que no veo novelas <risas = “todos” / > 
+
+E: ¿y con qué frecuencia ve películas en la televisión? / no en el cine / en la televisión / las que ponen en la tele
+
+I: con frecuencia / si hay una buena
+
+E: ¿y de qué nacionalidad son esas películas?
+
+I: francesas / europeas / orita acabo de ver una antes de que tú / vinieras fabulosa la película / me encantó / Vainilla y Chocolate se llama 
+
+E: Vainilla y Chocolate
+
+I: es actual ¿eh? / es muy nueva porque sale éste / el actor mexicano / guapísimo / Joaquín Cortés / ¿no la has visto esa película?
+
+E: <tiempo = “123:34” / > no / me suena / pero no la he visto / ¿no es un muchacho que es homosexual? / ¿no es ésa?
+
+I: no 
+
+E: la estoy confundiendo / okay / ¿le gustan dobladas / o con subtítulos?
+
+I: me gustan con subtítulos / me gusta más escuchar / aunque no entienda / cómo / el / de la forma en que el artista está diciéndolas / al doblar sí se pierden muchas cosas 
+
+E: a mí me gustan también / en el idioma original / con el idioma extranjero / pero veo la película aunque no le entienda nada / como sé un poco de francés / y sé inglés / pues más o menos ahí entiendo ¿no? / pero en las demás no entiendo nada es que es tan frustrante / aparte como que nunca van a tiempo los diálogos / o sea bueno / el lenguaje escrito / con el lenguaje verbal / y el lenguaje corporal del actor / y está viendo uno / y vas a terminar / y el lenguaje corporal del actor / y está viendo uno / y vas a terminar y la otra persona ya está hablando y / ay no / me desconcierta eso
+
+I: mjm / yo la que vi orita estaba en italiano / y / además el español y el italiano hay muchas cosas que se hablan igual / hay muchas cosas / y entonces / me gustó mucho / orita la que vi / sobre todo / este / me encantó porque / había muchas cosas que / no entiendo algo entonces sí leo / y cuando no entendía algo ¡rápido! / a ver qué / entonces sí era lo que yo entendí / pero / me / me fascinó / sí pero / por ejemplo francés / este / también estudié / y tengo un curso que estudié antes de estudiar piano / este / mi esposo habla muy bien el francés / y entonces / me gusta / a mí me gusta mucho de hecho poner las noticias / los noticieros a mí me gusta ponerlos en francés / y me gusta / en alemán no no lo pongo / no lo entiendo / y y / japonés / ¡ay! menos entiendo eso no / esos desgraciados no no entiendo / pero / a mí me encanta / en italiano me encanta escucharlas / y en francés me encanta / me encanta / porque / es que es más cómodo / el inglés / pues / e / sí / pero me interesa más el francés 
+
+E: si no lo sabes o sea / como que las / como que lo deduces / pero con el alemán / ay / y hay buenas películas / pero / siento mucha frustración que no / y ahí no hay ni una palabra que entienda / que logre entender / o sea / no / de tan mal que / ni los nombres / cuando se están hablando / no puedo entender / ay ¿qué están diciendo? / y como que tampoco el / aquí mucha gente habla inglés / y que la mayoría de las películas que vemos son en inglés / como que es muy fácil ¿no? / estás acostumbrado a esa relación / de leer / y entre que lees y entiendes es / que cuando ves otro cine / te / como que dices ¿qué onda? 
+
+I: m / mjm 
+
+E: que no / como que tu cerebro no reacciona / hay una película que me encanta / es la de / Las alas del deseo / no sé si la haya visto / es alemana / me encanta esa película / me encanta / pero les digo a mis amigos / es como leer un libro / tengo que leerla / tengo que estarla leyendo y a veces hasta se me pasan imágenes / porque las cosas que dicen me gustan mucho / pero / si me distraigo con la imagen / se me va el diálogo y / ¡ay! / siento que me pierdo / a ver si ahora que la vuelva a ver le entiendo y lo hago como tarea / leo y luego / la siguiente vez / la voy a ver / a ver si / si ahora sí 
+
+I: sí / sí falta que veas / las imágenes 
+
+E: sí porque / la película / las imágenes están muy bonitas / y las cosas que dice también / es muy bonita / entonces
+
+I: ¿Alas del deseo?
+
+E: Las alas del deseo 
+
+I: ah ya
+
+E: es vieja / es como de los ochentas / y yo la vi cuando estaba niña / la vi / mis papás la estaban viendo y me gustó porque se trata / es de las que se / se fusiló bueno no sé / de los ángeles / es de un ángel que se enamora de una chica / como la que hizo Nicolas Cage / pero ésa sí / está bien mala / y esta película es la original y el actor es / todos los gestos / se ve tan lindo él / o sea no es guapo / es un actor mayor y / no es guapo pero / se ve como un ángel / y la chica de la que se enamoró también se ve muy / ay no sé muy guapa y muy así como / muy ambiente / muy viva / que por eso yo creo que e él / se enamora de ella ¿no? 
+
+I: mjm
+
+E: las imágenes son estupendas / y los diálogos también / no / está muy bien hecha esa película / nada que ver con la de Nicolas Cage que no / está bien aburrida <risas = “I” / > / y aparte Nicolas Cage no transmite así como que nobleza / no te imaginas que 
+
+I: <tiempo = “128:08” / > así sean 
+
+E: que sea un ángel sí / te imaginas a los ángeles diferentes / entonces no / Nicolas Cage no / no parece <risas = “E” / > / ¿cuenta con videograbadora?
+
+I: mjm
+
+E: ¿con DVD?
+
+I: mjm
+
+E: ¿consola para video juegos?
+
+I: no
+
+E: ¿y videojuegos para televisión
+
+I: m / m
+
+E: ¿video juegos portátil?
+
+I: m / m
+
+E: ¿tiene usted / este / cable?
+
+I: mjm
+
+E: ¿Sky? 
+
+I: bueno / o sea no / Sky nomás 
+
+E: ah okay / ¿cuántos televisores hay en su casa?
+
+I: tres / n / cuatro
+
+E: ¿lee usted el periódico?
+
+I: mjm
+
+E: ¿qué periódico lee?
+
+I: generalmente el Norte
+
+E: ¿qué tanto lee el periódico?
+
+I: ¿con qué frecuencia? 
+
+E: sí
+
+I: digamos que unas / tres veces a la semana
+
+E: ¿qué sección del periódico es la que lee? 
+
+I: Internacional / Local / Vida / Gente / y el Magazine 
+
+E: <risas = “E” / > ¿lee usted revistas?
+
+I: m / sí
+
+E: y ¿qué tipo de revistas?
+
+I: por ejemplo me gustan las / que tienen que ver con decoración de / de las casas / decoración de interiores / me gustan las revistas tipo / Contenido / estem / e / Selecciones / ésas dos me gustan / y de vez en cuando las de modas / de / de / esas de las / modelos / y todas esas
+
+E: mjm / y ¿con qué frecuencia lee revistas?
+
+I: m / digamos / una vez al mes // o sea compro una durante el mes
+
+E: ¿usa usted internet?
+
+I: sí
+
+E: ¿y en dónde lo usa? / ¿en el trabajo / en su casa? 
+
+I: en la casa
+
+E: ah / ¿cuántas computadoras hay en su casa?
+
+I: dos
+
+E: ¿para qué usa usted el Internet? / para / bueno / me va contestar si es diario / o una vez a la semana / o una vez al mes / ¿para enviar correos?
+
+I: diario
+
+E: ¿para buscar información?
+
+I: puede ser una vez a la semana / en mi caso 
+
+E: ¿para hacer tareas? / ¿o ayudarle a sus hijas a hacer tareas?
+
+I: diario
+
+E: ¿para chatear / o hablar por escrito?
+
+I: bueno / es casi diario / pero no todos los días / es 
+
+E: casi diario / ¿hablar con voz o video? / ya ve que
+
+I: sí pero no tengo / no tengo ahorita
+
+E: ¿y algún otro uso que usted le dé a la computadora? 
+
+I: m / ¿cuál pudiera ser?
+
+E: ahora hay gente que / puedes hablar por teléfono y te lo conectan
+
+I: no
+
+E: ¿tiene teléfono fijo?
+
+I: mjm
+
+E: celular también
+
+I: mjm
+
+E: y de los usos que usted le da al celular / este / es llamadas / este / hacer y recibir llamadas
+
+I: mjm
+
+E: ¿mensajes también?
+
+I: <tiempo = “131:49” / > es que tengo un celular muy chafito <observación_complementaria = “de mala calidad o en este contexto con pocas funciones” / > <risas = “I” / > / entonces / este / no lo uso para / enviar y recibir mensajes / pero a veces / recibo mensajes y a veces no me llegan / entonces / para mí es nada más / llamar y / y que me llamen 
+
+E: sí / y o sea / ¿que fotografías / y eso?
+
+I: na
+
+E: ¿visita museos?
+
+I: sí
+
+E: ¿con qué frecuencia?
+
+I: m / digamos que / una vez al mes
+
+E: ¿y a conciertos?
+
+I: mjm
+
+E: <risas = “E” / > ¿con qué frecuencia?
+
+I: digamos que unas / cuatro veces al mes
+
+E: mjm // ¿al teatro le gusta ir / al teatro?
+
+I: sí / también
+
+E: ¿y con qué frecuencia?
+
+I: teatro / ¿estamos hablando / de / de a ver / obras de teatro?
+
+E: sí
+
+I: sí / digamos que serán esas como / unas tres veces al año
+
+E: y / ¿suele usted viajar por placer?
+
+I: sí
+
+E: ¿con qué frecuencia?
+
+I: una vez al año 
+
+E: mjm / bueno / este la primaria / e / ¿en dónde la estudió? / ¿en una escuela pública o privada?
+
+I: pública
+
+E: y ¿en qué año recuerda / haberla terminado?
+
+I: setenta y cinco
+
+E: ¿en qué lugar la estudió?
+
+I: aquí en Monterrey 
+
+E: sí / ¿en qué institución?
+
+I: escuela primaria Garza Melo 
+
+E: ¿la secundaria?
+
+I: estuve / del setenta y cinco al setenta y ocho 
+
+E: ajá
+
+I: en Monterrey también / era / Herminio D. Ordóñez
+
+E: me repite por favor 
+
+I: sí / Herminio / de mayúscula punto / Ordóñez
+
+E: mjm / e / estudió / ¿después de que terminó la secundaria hizo preparatoria?
+
+I: mjm / sí
+
+E: ¿la preparatoria / de
+
+I: de dos años
+
+E: ¿en dónde?
+
+I: en la uno de la Universidad 
+
+E: <tiempo = “133:55” / > ajá // y este / ¿en qué año terminó?
+
+I: en el / ochenta y dos / no no perdón / ochenta 
+
+E: ¿después de la preparatoria?
+
+I: al mismo que estaba haciendo la / la / entre lo que viene siendo la primaria / y / la preparatoria / la primaria / estuve un tiempo de carrera y luego / estudiando mi carrera técnica de música / y entonces / e / estuve / en la academia Técnica de música / y entonces / a los diecisiete / dieciséis años / que fue / en el ochenta y / nueve / sí / ¿ochenta y nueve? / no / setenta y nueve / m / m / sí setenta y nueve / salí / sí del setenta y tres al / al setenta y nueve / como en el ochenta / y me gradué / de / e / como / e / maestra de música / y concertista / te estoy hablando de que estaba yo muy joven / pero yo cumplí con / todo mi material / a esa / yo ya había hecho y / ya había entregado todo 
+
+E: ¿cuántos años eran de esa carrera?
+
+I: este / eran supuestamente / eran / porque eran / ocho grados / ¿sí? / pero yo empecé a los diez años / y terminé a los dieciséis / años / bueno / pero por ejemplo había gente que la empezaba / y no la terminaba ¿por qué? / porque no cumplían con todo el material / todo / y todas las grabaciones que tenías que tener / y había gente o sea / yo / yo he sido la única / que había terminado / que terminé esa carrera / a esa edad / ¿por qué? / a / e / porque yo les digo / yo a los dieciséis años / ya podía estar con / con / trabajando en un instituto como maestra de música / ¿sí? / porque yo ya tenía eso / con / con el reconocimiento de la Secretaría de Educación Pública 
+
+I: <tiempo = “135:49” / > mjm
+
+E: ¿sí? / y entonces eso hice al mismo tiempo / secundaria y la preparatoria / y de / la / carrera de / de / maestra de música y concertista / terminé al mismo tiempo / y después de ahí / ya / estuve / estudié posteriormente / estuve estudiando / la licenciatura / en la / en la Superior / bueno en la Superior / no la terminé la licenciatura en música 
+
+E: mjm
+
+I: ¿sí? / ahí / estuve como hasta / el ochenta y cinco
+
+E: ¿cuántos años estudió ahí?
+
+I: estuve / como cuatro años
+
+E: cuatro años exactamente
+
+I: ¿sí? 
+
+E: mjm
+
+I: y / estuve / lo que pasa es que haz de cuenta todo / mucha de las cosas que tuvo que ver con música / estuve primero con maestros particulares / y me fui a cursos en Estados Unidos / en el ochenta y cinco me fui a Polonia / y / e concurso allá / y / en el ochenta y cinco / comienzo a dar clases ya / pero / no / terminé / una carre / una licenciatura / en música / más que lo que tengo / lo de / lo de técnico de música que era / maestra de piano y concertista / y todo el resto he / acreditado a través / de puros cursos que tomaba / ¿sí? / y eso / y después / estuve estudiando / también y / eso ya fue en épocas recientes / estudié licenciatura en Administración de Empresas
+
+E: ah / okay / también 
+
+I: sí
+
+E: <risas = “E” / > / sí / ¿ésa en dónde la estudió?
+
+I: en la Universidad Mexicana del Noreste
+
+E: y / ahí me dice que sí la terminó 
+
+I: sí 
+
+E: ¿cuántos años? / ¿cinco años?
+
+I: cinco años
+
+E: ¿en qué periodo?
+
+I: m déjame me acuerdo / creo que fue / en el / fue como en el dos mil dos
+
+E: ah okay / hace poquito
+
+I: sí
+
+E: mjm / ¿y le ha servido? / bueno / digo / administra su negocio ¿verdad? 
+
+I: sí / porque / de hecho sí / porque por ejemplo cuando / eh / checamos lo del / estudio / vamos a los eventos / al final checo qué tengo que tener para / el próximo evento / lo tengo que organizar / mjm
+
+E: mjm / ¿y desde qué edad trabaja usted?
+
+I: desde los dieciséis años
+
+E: ajá // y desde siempre / maestra de música
+
+I: mjm
+
+E: este / ¿me podría decir cuál es su ingreso / mensual?
+
+I: mjm / ¿tienes aproximado?
+
+E: mire tengo / que el salario mínimo está / aquí lo tengo marcado como dos mil ochocientos mensuales 
+
+I: mjm
+
+E: entonces de ahí
+
+I: debe ser / debe ser en salarios mínimos / ¿de cuánto estamos hablando?
+
+E: de dos a tres veces el salarios mínimo / de
+
+I: ¿de cuánto es el salario mínimo?
+
+E: e / dos mil ochocientos
+
+I: dos mil ochocientos el mínimo / okay / ¿cuántas veces el salario mínimo?
+
+E: ¿entre cinco y diez el salario mínimo / entre dos y tres / entre cuatro y seis?
+
+I: no / no / más arriba 
+
+E: ¿entre cinco y diez?
+
+I: sería / no / es una cantidad mucho más grande
+
+E: bueno ¿más de diez veces el salario mínimo?
+
+I: mjm
+
+E: okay / este / ¿recibe algunas prestaciones? / bueno usted / me decía que de las clases ¿verdad?
+
+I: sí pero por ejemplo / m / ¿qué tipo de prestaciones?
+
+E: este / que servicios médicos / vacaciones / utilidades / cursos de capacitación
+
+I: cursos de capacitación / este por ejemplo / en la de la tarde estoy por contrato / entonces ahí tengo Seguro Social / ahí tengo / pero por ejemplo / no recibo / prima vaca / o sea vacaciones / o sea no tengo vacaciones pagadas / mjm
+
+E: <tiempo = “140:00” / > mjm / ¿cuántos focos hay en su casa?
+
+I: m / a ver / espérame // mira / estoy contando / o sea / ¿tengo que contar todos los que hay?
+
+E: un aproximado nada más 
+
+I: como unos / trece
+
+E: okay / bueno / con usted vive su hija mayor / y su hija menor 
+
+I: mjm
+
+E: supongo que sus hijas saben inglés 
+
+I: sí
+
+E: están en un colegio bilingüe 
+
+I: sí
+
+E: a parte de español e inglés / ¿hablan otro idioma? 
+
+I: este / la mayor sí / estudia italiano
+
+E: ¿y cuál es el último grado cursado de su hija mayor?
+
+I: está / ahorita en / carrera / en la licenciatura / está en Psicología / en el cuarto tercer semestre
+
+E: ¿ella trabaja?
+
+I: ahorita no / está haciendo nada más el servicio becario / y el servicio social
+
+E: mjm / ¿y su hija menor? / este / ¿cuál es su último grado?
+
+I: está en el tercer semestre de prepa
+
+E: ¿y ella no trabaja? / no ¿verdad? / muy bien / yo creo que es todo / bueno / nada más / si me podría hacer el favor de firmarme una carta / en donde me autoriza que / que / este / se pueda trabajar con la información que me proporcionó
+
+I: mjm
+
+E: ¿quién está tocando?
+
+I: es mi alumnita
+
+E: aparte de estos dos pianos / ¿tiene dos más?
+
+I: allá / como damos las clases aquí también a los alumnos 
+
+E: ajá // a ver si vengo 
+
+I: sí / sí <risas = “E” / > 
+
+E: bueno / yo no sé si pueda / porque para la música soy sorda / no sé / como que para la música no / me gusta pintar / me gusta pintar pero tampoco soy muy buena
+
+I: ¿qué carrera estudiaste?
+
+E: yo soy licenciada en Traducción
+
+I: ¡ah qué padre! 
+
+E: y ahorita estoy estudiando la maestría en Lengua y literatura
+
+I: qué padre / ¿en dónde estás haciendo tu maestría?
+
+E: en la Facultad de Filosofía y Letras
+
+I: qué padre 
+
+E: mjm / sí / mi papá / no sé si / a lo mejor para algunas personas está muy bien ¿verdad? / pero / tú estudia lo que quieras / lo que te guste / ya pensarás de qué comes <risas = “I” / > / muy diferente a la forma de pensar de mis suegros fíjese
+
+I: ajá
+
+E: <tiempo = “142:43” / > cuando les dije que iba a entrar a Filosofía / bien orgullosos / ay qué bonita carrera / a mí me hubiera gustado / estudiar eso / y luego platicando / y ¿qué estás estudiando / ¡ah! traducción / idiomas / y luego ya nada más hacían así sus caras de / como que / ha de ser / pensaban que iba a estudiar filosofía / y luego de que mi carrera nada más se limitaba / a dos / y yo / pero le decía yo / pero para eso / yo me voy a aplicar lo que sé / en otro idioma 
+
+I: mjm
+
+E: y ellos ah pues sí está bien / pero como que / habría estado mejor algo así de / literatura / filosofía / pero como quiera siempre me apoyó / <risas = “todos” / > // ¿bengalíes cómo se escribe?
+
+I: con be / o sea con be
+
+E: ajá
+
+I: bengalíes 
+E: ajá / sí de hecho / yo estudiaba eso / mi hermano ahí también en la facultad / Ciencias del Lenguaje / con especialidad en / en / en enseñanza / de primeras lenguas / y mi hermana / ella en / este / trabajo social / pero también le gusta mucho Psicología / como desde el primer semestre / como para ver si servían para eso / los mandaban a colonias / pues muy / muy / ¿cómo se dice? / muy desafortunadas ¿no? / de esas colonias donde no hay pavimento / o sea
+
+I: mjm
+
+E: y tenía que ir a hacer ahí trabajos / yo me enojaba y le decía / ¡cómo te mandan a esas colonias! / mínimo que las lleven en camión / o sea de la Universidad para que la gente las respete / porque pues obviamente papá sabía que
+
+I: ajá
+
+E: o la gente que vive por ahí / y a veces se iba sin avisar porque sabía que mi papá <risas = “E” / > se iba a preocupar // sí una vez se fueron en el carro de una amiga y se los rayaron allá en la colonia / sí es peligroso
+
+I: y se arriesgan también
+
+E: sí / pero a ella le encanta // sí / y también estaba trabajando en la unidad para / las víctimas / femeninas 
+
+I: mjm
+
+E: las mujeres golpeadas y eso 
+
+I: mjm
+
+E: y llegaba contando historias / y ¡¿cómo puedes estar ahí?! / o sea / y estar bien fuerte / y como si nada / pero bueno / le gusta // y es que no se podía hacer gran cosa porque / pues no hay fondos / el gobierno no quiere dar nada / y a veces / este / pues las mandaban a su casa / levantaban la denuncia y / es pura burocracia ya
+
+I: qué mal / te digo / no tiene fondos el gobierno para esas cosas y para otras cosas sí ¿verdad?
+
+E: ah sí / como eso del Paseo Santa Lucía 
+
+I: mjm
+
+E: digo sí es bonito / y sí hacían falta parques y todo / pero había muchas cosas en la Macroplaza que pudieron haberlas remodelado 
+
+I: mjm
+
+E: <tiempo = “146:50” / > en vez de hacer ése paseo / que le digo a Daniel / ni hay agua en Monterrey / hay épocas donde hay sequía 
+
+I: sí / había que amparar siempre las que / los que se inundan y que / ¿verdad? / y que no / no las amparan / así que mucha gente / que sí la tiene molesta / esa situación ¿verdad? 
+
+E: ¿qué día es hoy?
+
+I: siete
+
+E: bueno / si me hace el favor de leer la carta / y me la firma // creo que con esto ya / deje / guardo esto
+
+I: ¿sabes? / para mí fue una sorpresa / porque me vino a la mente / que hace veinte años alguien / hizo / a mí / una entrevista / mi hermana Rebeca estudió en la Facultad de Filosofía y Letras / y salió de Licenciada en Letras Españolas
+
+E: mjm / a lo mejor ella 
+
+I: a lo mejor ella fue
+
+E: o alguna amiga de ella 
+
+I: así es
+
+E: que la haya entrevistado
+
+I: mjm // ¿te voy a firmar las dos?
+
+E: sí por favor / las dos // muchas gracias
+
+I: no / a ti
+
+E: gracias
+
+I: si quieres pásame tu teléfono / y te hablo para que pongamos día / porque como quiera tienes información pero para ponernos de acuerdo / para que tengas tú información / bueno tú ya tienes mi teléfono / por si necesitas checar los datos / como quiera ahí tienes mis datos / para lo de tu esposo / que vengas / te das la vuelta / como quiera anoto / ¿tu nombre es
+
+E: <tiempo = “148:45” / > Myrna 
+
+I: Myrna / ajá
+
+E: Flores 
+
+I: mjm
+
+E: y / mi teléfono es ochenta y tres 
+
+I: mjm
+
+E: quince cero uno trece
+
+I: y ¿tu cel <observación_complementaria = “forma común de llamar al teléfono celular” / >?
+
+E: e te / déjeme y lo saco / porque como no me lo sé / eh / sí / mándeme información por correo también / 
+
+I: sí / ah 
+
+E: siempre lo estoy checando
+
+I: dime cuál es tu mail / si quieres 
+
+E: okay 
+
+I: con el mail ya tengo
+
+E: eme y griega erre eme i zeta 
+
+I: eme / i latina / zeta
+
+E: siete ocho 
+
+I: mjm
+
+E: arroba 
+
+I: mjm
+
+E: yahoo punto com
+
+I: punto com / punto eme equis
+
+E: así es
+
+I: mjm / ¿así?
+
+E: sí / así es / sí / este / escríbeme y ya
+
+I: ándale y lo vemos
+
+E: todos los días estoy checando mi correo 
+
+I: <observación_complementaria = “ sonidos de la grabadora” / > sí para / para cuando tengas sí / tú ya una oportunidad / nos pongamos de acuerdo / y este /  / pues los dos
+
+E: sí quiero / y aparte mi esposo también quiere estudiar piano / y había unos cursos en la / en la / en la / ¿cómo se llama? / Casa de la Cultura / porque vivimos un tiempo en el centro de Monterrey / y entonces nos quedaba cerquita / pero / no alcanzaba a llegar a la / por el trabajo / entonces / pero sí le gusta estudiar / y a parte el piano / le llama la atención / ¿si le puede dar clase a adultos verdad? 
+
+I: sí claro 
+E: <tiempo = “150:20” / > entonces le voy a decir que tengo tu teléfono 
+
+I: ándale
+
+E: que te llame / para ver si se ponen de acuerdo de un sábado 
+
+I: ándale
+
+E: y ya con lo que me dices / ya sé que no das clases tan cuadradas / y ya ahí me lo entiendes un poquito / porque él es así como analfabeta musical / este / pero sí tiene muy buen oído / entonces lo que le digas que / sus amigos / o sea tiene amigos de que de jazz / que rock / lo invitan a tocar todos sus amigos / porque tiene muy buen oído / y / y es muy bueno para la improvisación 
+
+I: qué padre / entonces a lo que me cuentas / tendría que verlo / para saber qué / de qué forma / si yo lo podría ayudar y en qué / y te digo 
+
+E: mjm
+
+I: y te digo / y muchas veces / aprendes mejor de / porque / en serio / mucha gente que así aprende / de repente / es / la mejor forma que él puede hacer las cosas / entonces / tendría / que verlo y luego
+
+E: sí
+
+I: ¿verdad? 
+
+E: mjm / no pero / igual aunque sepa / que venga a tocar contigo ya con eso él aprende / porque él aprende / o sea él así aprendió / te digo su tía abuela / tenía un piano / este / y cuando iban a casa de su abuelita / este / se ponía a tocar / y luego él se sentaba y empezaba a tocar / claro que sus papás no creían que estuviera a tocando / o sea lo veían y creían que era la tía abuela la que estaba tocando / no él / y también con el tío / creían que iba y le ayudaba a limpiar el estudio / y nada que se ponía a tocar con lo que veía <risas = “todos” / > 
+
+I: ¿sí? / o sea que tiene mucha facilidad él
+
+E: sí / y te digo / vamos y en la casa tenemos como / tiene una foto así con todas sus guitarras y bajo y mandolina y / todo tiene ahí de cuerda / pero el piano siempre le ha llamado la atención / porque como que lo ve y / como que lo cree / no sé / música clásica / yo no sé de eso / en las bodas / cuando se casó su hermano no llegaba / el que iba a tocar el / el órgano / y él decía / déjenme / yo toco la marcha nupcial / no no espérate ya va a llegar / no creían / y él todo así todo como que emocionado / y yo ándale tú ve y toca <risas = “I” / > / pero finalmente llegó el músico ¿no?
+
+I: <tiempo = “152:29” / > mjm
+
+E: pero él ya estaba puesto / él ya estaba en la mente haciendo
+
+I: imaginándose / sí lo que iba / a tocar / ajá / fíjate  
+
+E: está medio loco <risas = “E” / > 
+
+I: ¿cómo se apellida?
+
+E: _____ / _____ ______ 
+
+I: mjm
+
+E: ajá
+
+I: ______ ______ / no pues entonces son completamente diferentes / 
+
+E: bueno entonces / muchas gracias 
+
+I: ¡ah! / encantada / yo también / ya tengo tu 
+
+E: sí voy a ver
+
+I: ¿sí sabes como irte?
+
+E: sí / por el parque / una seis cuadras hacia arriba / 
+
+I: yo pensaba que 
+
+E: no / muchas gracias 
+
+I: no / ándale / que te vaya bien
+
+E: mjm
+
+ Fin de la entrevista
+
+
+

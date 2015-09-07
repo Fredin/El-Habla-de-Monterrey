@@ -1,0 +1,868 @@
+﻿<Trans audio_filename=”MONR_ M11_HMP007.MP3” xml:lang=”español” / >
+<Datos clave_texto=”MONR_M11_HMP007” tipo_texto=”entrevista_semidirigida” / >
+<Corpus corpus=”PRESEEA” subcorpus=”ESMXMONR” ciudad=”Monterrey” pais=”México” / >
+
+<Grabacion resp_grab=”Florencia Romo Gutiérrez” lugar=”desconocido” duración= “1:01’07’’” fecha_grab=”desconocido“ sistema=”MP3” / >
+<Transcripcion resp_trans_=”Mayra Silva Almanza” fecha_trans=”2008-08-27” numero_palabras=”10550” / > 
+<Revision num-rev=”1” resp_rev=”Mayra Silva Almanza” fecha_rev=”2010-09-20” / > <Revision num_rev=”2” resp_rev=”Cynthia Martínez del Ángel” fecha_rev=”2011-03-26> 
+<Revision num_rev=”3” resp_rev=”Dalina Flores Hilerio” fecha_rev=”2011-06-24< / Datos>
+
+<Hablantes>
+<Hablante id=”hab1” nombre=”Adriana Esparza Lomas” codigo_hab=”I” sexo=”mujer” grupo_edad=”1” edad=”desconocido” nivel_edu=”1” estudios="analfabeta" profesion="desconocido" origen="desconocido" papel="informante" / >
+<Hablante id="hab2" nombre="Florencia Romo Gutiérrez" codigo_hab="E" sexo="mujer" grupo_edad="2" edad="51" nivel_edu="2" estudios="pasante de la Licenciatura en Letras Hispánicas” profesion="comerciante" origen="Monterrey" papel="entrevistador" / >
+
+<Relaciones rel_ent_inf="desconocidos" / >
+< / Hablantes> < / Trans>
+
+E: es nada más un una una entrevista / pero e es nada más un estudio para saber cómo somos en Monterrey / no te voy a estar haciendo preguntas ni nada e es nada más se le dice entrevista pero es para eso / entonces ¿sí estas de acuerdo?
+
+I: ¡ajá!
+
+E: bueno / entonces vamos a platicar de lo que tú me quieras contar / ¿cómo / cómo / cómo está tu niño?
+
+I: pues ahorita estoy un poco batallando con mi hijo porque no no ha querido comer muy bien / y tengo que llevarlo al médico a ver qué / qué me le me le receta y este y pues ahí vamos / y este / de hecho anoche pasó un detalle muy fuerte que / los vecinos de abajo se peleaban con los vecinos de arriba
+
+E: ¿en tu colonia?
+
+I: sí / ahí en en mi cuadra.
+
+E: ¿cómo / cómo se llama ahí en donde tú vives?
+
+I: San Ángel Sur
+
+E: ah / San Ángel Sur
+
+I: entonces / fue muy fuerte porque / los vecinos de arriba golpearon demasiado a dos muchachos los dejaron inconscientes
+
+E: ah / ¿sí?
+
+I: los golpiaron los agarraron a a patadas y así / pues a uno le tumbaron los dientes / y este 
+
+E: pandilleros eran ¿o qué?
+
+I: sí / son son dos bandas de que estaban ahí / unos viven abajo y unos viven arriba / y haz de cuenta que yo quedo en medio de ellos
+
+E: ¿tu casa queda en medio?
+
+I: sí / la casa mi casa queda ahí en medio de de de ellos dos / de esas dos pandillas / y pues haz de cuenta que vuelan las piedras tanto para arriba como para abajo. 
+
+E: mjm
+
+I: y / a ellos les importa poco porque / se bajan a a como les llueven las piedras se bajan y se agarran / 
+
+E: ¿pero no les pasa nada a tus niños ni a ti?
+
+I: no gracias a dios no / ni a mí ni a mis hijos no no les pasó nada yo creo que por estamos nomás adentro oyendo y viendo por la ventana como se estaban agarrando
+
+E: <tiempo = “2:05” / > ¿y porque habrá tanto pleito allá?
+
+I: lo que pasa que ahí en la colonia / se se supone de que las bandas que se / que se organizan / de ellos / unos venden droga
+
+E: ¡ajá!
+
+I: y los otros / también venden / entonces los / ellos se pelean por los clientes
+
+E: ándale
+
+I: ésa es la riña que ellos tienen / de que unos venden más y el otro vende menos / entonces / los de arriba quieren quitar los de abajo
+
+E: para quedarse ellos solos vendiendo 
+
+I: sí / para quedarse ellos solos vendiendo la droga / y cuando llegan a subir los policías / pues también a los policías los bajan a pedradas
+
+E: o sea que la policía no puede contra ellos 
+
+I: la policía no entra / la policía no entra para allá / estaba entrando la policía montada e en la que va el caballo
+
+E: mmm
+
+I: pero ni así / porque los / los caballos se trepaban hasta arriba y / ni así / porque los bajaban a pedradas / de hecho ya últimamente ya las familias ya traen pistola 
+
+E: ¿allá arriba?
+
+I: ya traen pistolas allá arriba / precisamente el sábado yo venía para abajo
+
+E: ¡ajá!
+
+I: y veo abajo de una camioneta / estaba una pistola / tirada / ahí abajo de / de la camioneta / llena de sangre la pistola / la reporté / anónimamente la reporté
+
+E: pero ¿cómo anónimamente? 
+
+I: o sea ¡no di mi nombre! / no di mi nombre
+
+E: ¿hablaste por teléfono?
+ 
+I: sí / hablé al cero sesenta 
+
+E: mm
+
+I: y la reporte que estaba una arma tirada ahí / tirada / en en / en el domicilio / y este ya fueron a investigar y sí obviamente / sí era la pistola de de calibre treinta y ocho
+
+E: ah ¿sí?
+
+I: sí pero las personas que hicieron eso / no se supo a quién hirieron o a quién mataron todavía / no se ha sabido nada / han andado los ministeriales ahí buscado / pero no no / no han agarrado ahorita a nadie todavía
+
+E: <tiempo = “4:11” / > pero si hay un muerto sí / sí entra la policía / ¿o pueden matar y nadie nos enteramos que están matando gente allá arriba?
+
+I: pues desgraciadamente pasan días porque / hace ocho años a / a mí me mataron un sobrino
+
+E: ah ¿sí?
+
+I: sí / hace ocho años y / lo aventaron en el cerro
+
+E: ¿y por qué lo mataron?
+
+I: igual / pandilleros / lo mataron para robarlo y // lo aventaron / lo subieron para el cerro y le encajaron una daga / le dieron tres puñaladas / y lo aventaron para abajo / para un barranco y le dejaron caír piedras todavía / y pues nosotros en la creencia de que pues ya no lo vimos / no pues él ya se fue / él vivía en la Estanzuela 
+
+E: ¡ajá!
+
+I: nosotros pensamos de no pues ya se fue / siendo que hasta los dos días nos dimos cuenta de que / de dónde está y dónde está y ya andaban los animales y lo encontraron allá arriba en el cerro / muerto / ya ya con gusanos 
+
+E: ¿qué edad tenía?
+
+I: tenía diecisiete años
+
+E: pero él no andaba metido en drogas
+
+I: no / él era de la religión de / de hermanos
+
+E: era un buen muchacho entonces
+
+I: sí
+
+E: ¿y estos muchachos que están allá arriba / ellos son / todos son de aquí de Monterrey / o es gente que se va de / bueno / yo tenía entendido que en San Ángel había mucha gente pero que venía de San Luis y otros estados
+
+I: no / toda la gente que / que está ahí en San Ángel Sur / toda es de aquí de Monterrey
+
+E: ¿no hay alguna persona que hable diferente / que hable?
+
+I: <tiempo = “6:02” / > mmm no / todas las personas que que yo conozco son de aquí / son nacidas aquí en Monterrey / y este / pues Monterrey / desgraciadamente / ahorita en Monterrey están pasando muchas cosas / porque ya se suponía que Monterrey era el lugar más pacífico 
+
+E: sí
+
+I: que no nada que ver con México / pero ahorita ya en Monterrey ya se están viniendo los las las bandas organizadas aquí 
+
+E: sí
+
+I: y ya ahorita hoy en día están matando a gente en pleno día
+
+E: ¿allá arriba?
+
+I: allá / allá en la colonia / allá en San Ángel / hace tres semanas encontraron a a un bebé / a un bebé que lo tiraron también de / dio a luz la muchacha y lo tiró / lo tiró al cerro
+
+E: yo no supe / yo no yo no he visto / las noticias
+
+I: o en el periódico también
+
+E: ¡ah sí! es que no he tenido tiempo de ver el periódico
+
+I: salió hace tres semanas
+
+E: ¿y a qué se deberá / a qué cree usted que se deba tanto pandillerismo? / y tanto problema que antes no lo estábamos viviendo
+
+I: pues yo digo que / se debe a / la falta de autoridad de los padres porque / los padres por no / querer evitar o / que no quieren que / llamarle la atención a un hijo / porque a lo mejor tienen miedo a que se les vayan / o que incluso los golpe en / como hace ocho días / un vecino / muchacho / golpeó a su mamá
+
+E: ¡válgame dios!
+
+I: y de hecho él ahorita está en el penal / golpeó a su mamá y a su hermana y a su cuñada
+
+E: ¿andaba mariguano <observación_complementaria=”se refiere a drogado” / > o? 
+
+I: sí andaba mariguano / andaba drogado
+
+E: qué bárbara / ¿y no te da miedo dejar a las niñas ahí solitas?
+
+I: pues gracias a dios / pues ahí esta mi señor / y como quiera / dos vecinas nomás están ahí al pendiente de ellas / y como quiera nada más pasa algo y me hablan al al trabajo
+
+E: <tiempo = “8:11” / > les dejaste el número de donde estás
+
+I: sí
+
+E: ¡ay qué bueno! / ni modo que te salgas de trabajar ahorita no nos alcanza para nada
+
+I: ei
+
+E: ¿tú qué piensas / por qué estará esta crisis tan tremenda? / ¿por qué está todo tan caro / no nos alcanza?
+
+I: pues yo creo que hace falta más / más trabajo / más gente honrada / porque desgraciadamente gente honrada queda muy poca / y orita en Monterrey la gente que era honrada ya no está / o se fue / o / o se hizo igual a los demás / porque la gente honrada que había aquí en Monterrey ya es muy poca / ya hay muy poca / y pues / los poquitos que quedamos pues vamos a seguir manteniéndonos igual / así / porque ya orita Monterrey ya es una cosa de que hay que tener cuidado / ya no salimos con la misma confianza de siempre
+
+E: no / ya no
+
+I: ya no / ya tenemos que estarnos cuidando de las espaldas de quien sea
+
+E: sí porque hay demasiada violencia
+
+I: hay demasiada violencia ya / entonces a qué se debe esto / de que van creciendo los muchachos y niños de siete / ocho años y ya andan con el resistol 
+
+E: allá arriba también
+
+I: allá / ya andan con el resistol ya andan con el thinner y ya usted ya va para arriba / subiendo para arriba y ya ve las bolitas ahí / ya no son de de diecisiete de veinte / ya son niños 
+
+E: se están echando a perder estos muchachos
+
+I: sí / son niños
+
+E: pero bueno esto ya es un tipo de crisis de / de valores
+
+I: <tiempo = “10:03” / > sí
+
+E: donde bueno ahí va a haciendo falta la autoridad de los padres como tú dices / pero no sientes tú que ya está muy caro y que ya no nos alcanza como antes / que tenemos que trabajar más / pero qué piensas tú de eso de la situación económica que estamos viviendo ahorita
+
+I: eh la situación económica que estamos viviendo ahorita es muy duro / es muy duro y muy fuerte / porque a lo menos para mí que yo tengo a mi esposo enfermo y tengo a tres hijos que yo tengo que mantener / y tengo que / hacerme de poquito en poquito / que ahí viene el recibo de la luz / ahí viene el recibo del agua 
+
+E: y tan caros ¿verdad?
+
+I: tan caros que están llegando / ¿entonces que está pasando ahí que / obviamente yo tengo que seguir trabajando / ¿por qué? porque si yo no trabajo nadie me va a mantener / y nadie me va a mantener y nadie me va a sacar a mis hijos adelante / entonces / yo tengo que seguir trabajando / esté lloviendo / esté haciendo frío / me duela la cabeza me sienta enferma / yo tengo que ir al trabajo / por qué / porque con un día que yo pierda de trabajar / ya no me va a alcanzar un kilo de tortilla / me va a faltar un kilo de frijol / por qué / porque tanto la tortilla como el frijol ya están más / cada día están aumentando más / entonces para mí sí es una crisis muy fuerte porque yo estoy sola yo tengo que mantener la casa / soy hombre y mujer al mismo tiempo / entonces pues por esa parte sí la crisis a mí / sí me está afectando mucho / tanto a mí como a mucha gente
+
+E: a todos todos ahorita estamos batallando mucho pero ¿quién crees tú que que sea responsable de esto? / o piensas que está pasando en todas partes
+
+I: pues yo digo / que el responsable de esta crisis / de esta situación que estamos viviendo ahorita / hace falta que un gobierno más / más efectivo / que un gobierno dedique más / más a la ciudadanía
+
+E: <tiempo = “12:17” / > sí 
+
+I: que se / que se ponga las pilas para ver si / si esta gente / esta colonia / este Monterrey está sufriendo una crisis / bueno pues sacarla adelante / por qué / porque el gobierno últimamente se está dedicando a hacer / a hacer puentes 
+
+E: sí por donde quiera / están esos puentes
+
+I: están haciendo puentes / ¿qué está pasando ahí? / obviamente esos puentes les sirven a las personas que tiene carro / a nosotros que andamos en camión / pues no nos sirven para nada porque / al contrario / nos afecta mucho / porque que ya cuando tú estás parada en la parada para agarrar el camión / el camión de repente se te pasa por arriba del puente / y pues ya te quedaste ahí / y dos o tres horas todavía esperando / otro camión a ver si no se vuelve a subir por arriba
+
+E: sí es cierto / yo he tenido que tomar camiones y eso pasa
+
+I: sí entonces otra / o también / cuando uno va en el camión y que se tiene que bajar / en por decir en Soriana <observación_complementaria = “Soriana es una empresa del sector comercial de autoservicio” / > / y si el camión al chofer le da su gana / se sube por arriba del puente y ¿a dónde nos va dejar? / a dos / o tres cuadras de de la tienda / ¿sí? / entonces también hay que también ver / este defecto de que / el gobierno orita en vez de que se dedicara / a hacer / instituciones / para los ancianos / para los niños que no tienen / que no tienen casa / los niños que andan en la calle / el gobierno se está dedicando a hacer puentes / entonces esos puentes / a lo menos yo pienso que esos puentes son es dinero malgastado / porque tantas / tantos señores señoras / que andan en las calles 
+
+E: sí 
+
+I: pidiendo / que no tienen un techo donde vivir / y que les falta comida les falta alimentación / les falta atención médica / y el no pueden pagarse un doctor / entonces ahí el gobierno pienso yo que está haciendo mal 
+
+E: <tiempo = “14:31” / > sí
+
+I: ¿por qué? / porque en vez de invertir tanto dinero en esas / en esas construcciones que están haciendo / por qué / no invertir en hacer asilos / en hacer guarderías / en hacer un hospital / hospitales para los en señores / señoras niños / que necesitan de tratamientos caros / por qué no brindarles la oportunidad / de / de / de invertir tanto dinero en algo productivo / porque los puentes nada más les sirven como le digo a los que tienen carro ¿sí? / ahora / si los que tienen carro / hay muchas avenidas / pues obvio tienen que buscar ellos la salida
+
+E: claro
+
+I: tienen que buscar una salida / ahorita ya hay muchos puentes que están haciendo / ¿pero para beneficio de quién?
+
+E: tú crees que entonces que ¿aquí en Monterrey el gobierno que tenemos está favoreciendo más / a las personas que tienen más dinero / que tienen posibilidades de tener un cua- carro / que a las personas que que no lo tienen?
+
+I: yo siento que sí / porque desgraciadamente / somos más / más / más personas de que carecemos de de lujos / carecemos de de toda tipo de cosa / y pues las personas que tienen más el modo / pues a ellos son a los que se están beneficiando todo eso / a nosotros no nos beneficia en nada / antes nos está perjudicando demasiado / porque / tantos puentes / los están / ponen puente / y los puentes que había para cruzar por decir a Soriana o cruzar a HEB / ya los quitaron / entonces ahí en Soriana / simplemente aquí en Soriana Contry hay un peligro / demasiado / ¿por qué? / porque tienes que cruzar / te bajas del camión / y tienes que cruzar / entras a Soriana / compras lo que vas a comprar / y tienes que cruzar con las bolsas cargadas la / la avenida 
+
+E: <tiempo = “16:47” / > ¿no hay puente peatonal ahí?
+
+I: no hay puente peatonal / no no hay puente para para cruzar
+
+E: sí es un peligro
+
+I: es demasiado peligro porque aparte de que hicieron el puente / ahí hay varias / hay varias entradas de carros entonces / tanto vienen carros / de de un lado / y como vienen del otro / y luego salen de otro que pasa ahí / que a nosotros nos está afectando demasiado porque no nos prestan atención a nuestros problemas / porque simplemente hace poco atropellaron / en HEB / atropellaron a una persona
+
+E: ah ¿sí?
+
+I: sí la camioneta tipo la resoró / la mató / ahí en el / en el muro de contención que tiene el puente
+
+E: ¿y era una persona que andaba en a pie también?
+
+I: era una persona que andaba a pie / y la y la persona que la atropelló / la atropelló / y la camioneta quedó ahí quedo pegada con él / y lo mató ¿lo mató por qué? / porque iba a cruzar la calle y esta persona vendría ebria o vendría drogada pero ahí lo mató 
+
+E: fíjate yo de veras no / no me había puesto a pensar en eso / o sea / yo sí este / las pocas veces que me he tenido que ir en / en camión / sí se me pasa el camión por arriba / y ahí me quedo yo esperando y tienes que caminar un chorro 
+
+I: sí
+
+E: pero no había pensado yo en que si hay tanto puente / es / está / están batallando mucho para cruzar 
+
+I: sí
+
+E: y sobre todo te estás este exponiendo / tienes que caminar mucho para encontrar un puente peatonal
+
+I: sí eso sí
+
+E: y tú / tú crees que ya ves que ahora andan / que / que con e l / gobierno de Andrés Manuel y que él va a ver mucho por los pobres y / ¿votaste?
+
+I: sí sí vote 
+
+E: ¿por quién votaste? / si se puede saber por quién votaste porque el voto es secreto
+
+I: <tiempo = “18:47” / > <risas = “I” / > voté por el PAN
+
+E: por el PAN 
+
+I: sí / voté por el PAN
+
+E: ¿pero no dicen que el PAN es nada más gobierna para los ricos? / así me dijeron unas señoras de San Ángel que ellas no iban a votar por el PAN / porque el PAN nada más gobernaba para los ricos / que el PRI / ese sí por que ellos les daban unas despensas / ¿a ti no te fueron a ofrecer nada?
+
+I: no / a mí no me fueron a ofrecer nada / y / lo que pasa que cuando se hacen las votaciones o antes de llegarse las / el tiempo de las votaciones / meses atrás / andan los candidatos ofreciendo / que que te regalan vasitos / que te regalan / cartelones / y el y el candidato anda / hasta la colonia ofreciendo / y / y ofreciéndote tantas cosas
+
+E: ofreciendo y prometiendo
+
+I: sí / y que a la mera hora no las cumplen
+
+E: no
+
+I: no las cumplen / ¿por qué? / porque cuando ganó / no sé quién ganó de / del PRI / un año / un / una vez que ganó el PRI / a nosotros nos ofreció que nos iba a pavimentar todas las calles / todas las calles nos las iba a pavimentar
+
+E: ¡ajá!
+
+I: ¿qué pasó? / no se hizo nada
+
+E: como siempre 
+
+I: las calles siguen igual / las calles se / se / se les echó pavimento / pero por los vecinos / porque todos los vecinos nos unimos / y porque semana nosotros estábanos dando cien pesos / cien pesos / cien pesos / y las calles están pavimentadas / por la comunidad / no por que 
+
+E: <tiempo = “20:30” / > no por el gobierno
+
+I: no por algún partido ni por el gobierno / por nadie / y todavía andan de que / y nos volvieron a prometer lo mismo / que les van a es concreto lo que es las calles 
+
+E: sí
+
+I: no es pavimento como los de la carretera
+
+E: sí
+
+I: entonces ahí hay un peligro porque cuando llueve / los carros / no pueden subir / porque si suben / se vienen ¿por qué? porque el pavimento se hace resbaladizo
+
+E: o sea como patinadero / ahí entonces 
+
+I: sí sí / se hace / si uno mismo cuando viene bajando viene patinando
+
+E: pues como no
+
+I: se viene uno resbalando / de hecho ahora que prometen que nos van a ayudar / y que nos van a ayudar pues ya nomás no pos está bien / pero eso cosa de que ya uno ya no les cree / porque son tantas y tantas promesas de que Monterrey va a salir adelante y de que Monterrey // no es cierto / orita donde están saliendo más adelante creo que es en Guadalupe <observación_complementaria = “Municipio de Guadalupe es parte de la zona metropolitana de el estado de Nuevo León” / > / porque aquí no / de hecho todavía en Guadalupe ahí para rincón de los Sabinos se inunda todo 
+
+E: también tienen problemas 
+
+I: llueve y se inunda / se inunda todo todo / por qué / porque hacen falta más alcantarillas / y hacen falta más cosas // y son muchas cosas que hacen falta y que el gobierno / el gobierno nada más mira para los que / los que pueden
+
+E: ¿para los ricos?
+I: para los ricos / porque el gobierno hace esto / no pues ellos tienen poca palabra
+
+E: ¿en serio?
+
+I: sí / nosotros los pobres / el gobierno hace esto / ellos tienen poca palabra / y vamos a apoyarlos a los que sí tienen palabra / a los que sí tienen voz
+
+E: pero se supone que en el voto / e / en el voto haces / valer tu palabra _______
+
+I: pues sí / pero / ¿y si no? / en el voto estamos hablando de que / supuestamente e l domingo / Abel Guerra estaba celebrando de que ya era ganador 
+
+E: ah sí lo vi en la televisión
+
+I: ahora salen que no / que no ganó / y entonces ahí / ahí están también mal / porque si / si yo todavía no estoy cien por ciento seguro de que yo ya gané / de que ya salieron los resultados finales / yo no tengo por qué ir a celebrar / voy a celebrar / es una cosa falsa / ¿sí? / me voy a hacer ilusiones de algo falso 
+
+E: <tiempo = “23:11” / > sí
+
+I: y hacerle creer a la gente de que yo ya gané / y la gente que confía en él y que lo respeta / pues se va a poner igual que él / contenta y gustosa / ¿pero cuál es el mayor fracaso? / cuando se entera él y que se entera la gente que cree en él / y que lo quiere / que no ganó / ahí es donde / cuando la gente se desanima / y dice todo por nada
+
+E: sí / estaban todos muy muy desanimados / y ¿no has escuchado nada o visto en la televisión? / del problema que tenemos ahorita de que Andrés Manuel dice que fue presidente y que Calderón también dice que fue presidente
+
+I: mm ahorita no / ahorita / pero lo que yo sí escuché / no me acuerdo del nombre de esta persona / que él lo que estaba haciendo / a enriqui- / enriquicer a su familia / que él lo que hacía hacía nomás que su familia se hiciera rica / millonaria 
+
+E: mjm 
+
+I: perdón / también son muchas cosas de que cada uno / cada partido se está sacando sus trapitos al sol
+
+E: sí
+
+I: entonces si van a hacer algo en serio / y si tú sabes que tienes una mancha / para qué te esponen / para que la gente se desanime de ti / ahora simplemente no lo están diciendo / lo están pasando por televisión / la televisión que se mira en todo México 
+
+E: mjm
+
+I: y a lo mejor hasta en Estados Unidos / entonces qué está pasando ya con esta persona / que ya / toda la gente que vio / que vio este anuncio / lo va a ver en la calle / y pues van a decir oye fíjate que tú saliste y estás mal 
+
+E: ¿pero no te acuerdas quién de los dos era? / ¿no te acuerdas cómo se llaman los candidatos?
+
+I: no no me acuerdo / era uno / uno que pasaron
+
+E: uno el del PAN / Felipe Calderón / y el del / PRD / el que también dice que ganó el Andrés Manuel López Obrador
+
+I: creo que fue él 
+
+E: Andrés Manuel
+
+I: creo que fue él al que estaban pasando / que él tenía una hermana que ganaba doscientos / doscientos cincuenta mil pesos / por quincena / al mes eran quinientos mil pesos
+
+E: <tiempo = “25:36” / > fíjate / ¿tú crees que sea justo? 
+
+I: claro que no / porque desgraciadamente hoy en día / el gobierno / muy / por eso mismo / los los partidos siempre se están peleando por ganar / por qué / porque ellos ganan mucho dinero para ellos / no para la ciuda- / no para la / la gente
+
+E: no / no a nosotros ya no nos toca nada
+
+I: es para ellos / porque ellos se hacen ricos / a costa de nosotros 
+
+E: y tú crees que afecte que / que nos vean allá en / Estados Unidos así / eh / como / como se están exhibiendo estas personas 
+
+I: pues / probablemente sí / probablemente sí / y pues ahorita Monterrey lo que tienen son / muchos problemas de pandillas / y el gobierno no hace nada / se han reporta / se ha reportado que hay varias pandillas en Monterrey / ha y / se organizan narcotraficantes / que aquí / en Villa las Fuentes / aquí en Cortijo del Río / han agarrado / han encontrado casas donde ha y droga / donde hay narcotraficantes / han sacado armas largas 
+
+E: mjm
+
+I: y qué hacen / los / los agarran y luego los sueltan
+
+E: sí
+
+I: y siguen en el mismo negocio / ¿por qué? / porque el gobierno quiere dinero / nada más dinero
+
+E: <tiempo = “27:05” / > ¡ajá!
+
+
+I: ora / ¿qué hacen con el dinero? / vamos a hablar del Mochaorejas <observación_complementaria = “apodo de un conocido secuestrador mexicano que cortaba las orejas de sus víctimas” / > / él tanto el dinero que que le quitaron / todo el dinero que cobraba por los rescates / todas las casas / las residencias que él tenía / ¿dónde están? todo el dinero / ¿el gobierno lo regresó? / no lo regresó 
+
+E: no / no qué lo van a regresar 
+
+I: el gobierno se quedó con todo el dinero que le quitaron a él y que era dinero que no era ni de él / porque él era / es una persona criminal / una persona que pro- / pro- / le quitaba la / la libertad a las personas / las las mutilaba / a incluso algunas veces a lo mejor hasta las mataba
+
+E: sí
+
+I: entonces / era dinero mal / mal vivido
+
+E: sí 
+
+I: entonces / ¿dónde está el dinero? / el gobierno se quedó con él
+
+E: sí / esa gente es la que finalmente se queda con todo
+
+I: él / él se quedó con él / ora / que estaban diciendo que el dinero que / a las personas que se les habían quitado dinero / que el Mochaorejas les había quitado el dinero / que los rescates que él había cobrado se les iba regresar a esas personas / pero son mentiras / porque ahí les están / poniendo munchas / munchas trabas para que las personas recuperen ese dinero
+
+E: mjm
+
+I: de que / necesito que me asegure / necesito que me confirme / necesito esto y necesito lo otro / son muchas cosas / aunque lleven pruebas / mire me mochó un dedo / mire me mochó una oreja / ellos quieren más ¿por qué? / para qué / para enredar a la persona / y finalmente el dinero se va quedar con el gobierno 
+
+E: ah / siempre 
+
+I: ya no lo regresa 
+
+E: no
+
+I: y fue mucho dinero / fueron millones
+
+E: sí / porque dice que pedía 
+
+I: fueron millones que le / que le quitaron al Mochaorejas / y ¿dónde está ese dinero? / el gobierno lo que hace / se lava las manos nada más / sí / y hace creer a la gente / a las noticias / que ya se le entregó el dinero / a las personas / pero ¿es verdad?
+
+E: <tiempo = “29:14” / > no
+
+I: no es verdad / porque / ni u na persona ha salido en la televisión diciendo a mí me secuestró el Mochaorejas y el gobierno me regresó / cuatrocientos mil o quinientos mil pesos que que yo pagué de rescate / que pagó mi familia de rescate por mí / y me lo regresó el gobierno / nunca ha salido una persona en la televisión así 
+
+E: no / porque 
+
+I: todo el dinero que está / que está / se lo quedó el gobierno
+
+E: ya están muy / ya estamos muy / bueno / si no todos / la mayoría estamos muy este decepcionados / 
+
+I: eso sí
+
+E: muy decepcionados / y como dices tú / este / la gente entre menos dinero tiene / hay problemas / se empiezan a generar problemas / y este / y pandillas y / nada más / tienes que tener cuidado con tus hijas
+
+I: ah claro
+
+E: que no te les vaya a pasar nada cuando trabajas / y pues / ¿ahí donde estás trabajando sí tienes seguro social?
+
+I: sí / tengo seguro social
+
+E: ¿y ya checaste lo del problema que tenías en el / en el estómago? / en el intestino
+
+I: sí ya / de hecho ahorita estoy con una nutrióloga que me está / que me está haciendo una limpieza en el intestino / para quitarme el problema que yo tenía / que se me inflamaba / que paraba en el hospital del dolor tan fuerte que me daba / entonces ¿qué me está haciendo está nutrióloga? / me está desintoxicando / porque ese ese problema que yo traiba / era exceso de comida / exceso de grasa / entonces y ya poco a poco se me está limpiando 
+
+E: qué bueno
+
+I: ya ahorita ya / gracias a dios ya me estoy atendiendo esto / y ya ahorita estoy más / más mejor
+
+E: ¿ya no se te inflama?
+
+I: ya no se me inflama / ya ya no me duele // de hecho ya el / todo el medicamento que me estaba tomando para el intestino / ya me lo quité de / de / así de golpe / porque ya no me ha dolido / ya no siento ninguna molestia / ya gracias a dios ya dejé tomar todo ese medicamento / ¿por qué? / porque también e l / tanto medicamento le afecta muncho al hígado / al hígado también
+
+E: <tiempo = “31:28” / > ¿te dijo el doctor?
+
+I: sí / me me afecta el hígado
+
+E: ah que bueno que ya / ¿y ahora ya va a cumplir años alguno de tus hijas? / ¿o ya cumplió años? / la que me dijste que iba a cumplir años
+
+I: mmm / ora en agosto
+
+E: ¿le vas a hacer fiesta?
+
+I: pues quería hacerle fiesta / pero / pero no / no voy a poder hacerle fiesta porque / en vez de hacer la fiesta voy a comprar material para / pues para construir una barda / por que se me está derrumbando la / el terreno se me está derrumbando para la calle / y pues / se me está deslavando todo / y pos en vez de fiesta pos voy a tener que que sacrificar esto / de que ya se había ilusionado mucho mi hijo de que le iba a hacer fiesta / pero pues no / no voy a poder / porque este dinero voy a invertirlo en comprar material y pagar la mano de obra
+
+E: sí ¿te va a salir caro?
+
+I: sí / me va a salir caro / diez mil
+
+E: ¿pero sí les has hecho fiestecita? / ¿no?
+
+I: sí / sí les he hecho 
+
+E: ¿no quieres tantita agua? / ¿con hielo no quieres?
+
+I: no gracias / aquí tengo 
+
+E: ah bueno / como quiera cualquier cosita / ¿antes qué les hacías? 
+
+I: les hacía merienda 
+
+E: ¿qué les preparabas?
+
+I: les hacía ensalada de pollo / ensalada de codo / y / y su pastel
+
+E: ¿tú haces el pastel?
+
+I: no
+
+E: ¿no sabes hacer pasteles?
+
+I: no / yo no sé hacer pasteles / no / lo compraba / y orita pues / orita estoy atorada en eso / de que / pues yo también tenía mucha ilusión que iba a hacerle la fiesta / pero no / no voy a poder / por eso mismo de que / que en vez de que vaya a pasar un accidente de que se vaya a derrumbar más la barda
+
+E: sí
+
+I: y vaya a pasando una persona / pues mejor hay que evitar eso / de una vez
+
+E: ¿y su madrina o alguien que le haga una fiestecita?
+
+I: <tiempo = “33:33” / > pues la madrina del niño no / la madrina ahorita tengo un año que no / que no la he visto
+
+E: no la has visto
+
+I: no la he visto por motivos del trabajo / que yo salgo a las siete de la mañana de la casa / y regreso hasta la ocho o nueve de la noche
+
+E: ya muy tarde 
+
+I: ya muy tarde 
+
+E: ¿y cualquier otra cosita algo que sepas guisar y que te quede muy rico? / y que no salga tan caro
+
+I: pues / pues la ensalada / la ensalada / o también puedo hacer este / chili dogs 
+
+E: esos yo no los sé hacer muy bien / ¿cómo los haces?
+
+I: esos se hacen con / se cocen frijoles y luego se les revuelve picadillo / capsup <observación_complementaria=”salsa de tomate” / > // capsup / y / salchicha / y ya este / y ya se abre e l / el francés y se rellena de eso / y 
+
+E: pero qué / qué pones primero / coces los frijoles
+
+I: los frijoles / y luego / cozo el picadillo
+
+E: ¡ajá!
+
+I: y luego la salsita // ya luego ya todo lo revuelvo / y luego ya les pongo la catsup
+
+E: fíjate / yo no le pongo eso / han de quedar muy ricos 
+
+I: sí quedan
+
+ E: y eso no te sale caro
+
+I: no / no me sale caro / porque creo que el pan / está en cincuenta centavos / o a peso / el pan
+
+E: cuando yo lo compré allá arriba sí
+
+I: ¡ajá!
+
+E: en la panadería
+
+I: sí
+
+E: ahí están muy ricos / y estaban muy baratos / no estaban caros // ¿y ya no te has ido a bailar ni nada?
+
+I: no / orita no / orita no he ido / he tenido tiempo / de hecho tengo / me voy a ir a Tampico
+
+E: <tiempo = “35:41” / > ah sí / ¿de vacaciones?
+
+I: mm / vamos a una quinceañera / voy con mis patrones
+
+E: ah sí / ¿y quién cumple años?
+
+I: una sobrina de l del señor
+
+E: y te vas a ir tú a atender a la señora
+
+I: no / van a / a la señora la van a dejar con u n / con un hijo de ella 
+
+E: mjm
+
+I: que él no va a ir / y yo me voy a ir con ellos
+
+E: qué bueno _______ / que te sirva de descanso / bien merecido
+
+I: sí / nos vamos a ir para allá / vamos a irnos un sábado en la mañana / y regresamos yo creo que el lunes o el martes
+
+E: qué bueno / ¿y tú no tienes familiares en otra parte? / ¿tú naciste aquí?
+
+I: no / yo soy de Parras / Coahuila
+
+E: ¡ay! dicen que Parras es precioso 
+
+I: de hecho dicen que sí / pero de hecho yo no conozco para allá / mis papás se vinieron cuando yo tenía dos años mis papás se vinieron para acá / y pues aquí me registraron / y aquí crecí / y aquí sigo viviendo
+
+E: ¿entonces ya nunca regresaste para allá?
+
+I: no / ni conozco
+
+E: ¿nunca has salido de aquí?
+
+I: nunca
+
+E:¿no conoces ninguna parte que no sea Monterrey?
+
+I: no / nada más conozco Linares
+
+E: yo nunca he ido a Linares / ¿cómo es Linares?
+
+I: Linares es una parte / muy bonita porque hay ranchos / ha y muchas casas de / de que / de adobe
+
+E: ¿a poco? 
+
+I: muchos árboles / mucha naturaleza / y este / está muy hermoso para allá / y este / para las vacaciones / pues sí / le recomendaría que se fuera a Linares / para que conociera y viera la gente / hay mucha gente muy buena para allá / mucha gente que apenas llega uno a su casa y pásate a comer 
+
+E: <tiempo = “37:33” / > te invitan todavía / aquí ya no te ofrecen ni un taco < / entre_risas> <risas = “E” / >
+
+I: aquí ya no / aquí en Monterrey ya no / aquí si traes comes / si no no comes 
+
+E: no comes / entonces sí / cualquier persona te invita
+
+I: allá en Linares sí
+
+E: ¿y con quién has ido a Linares?
+
+I: allá tengo / una hermana / tengo una hermana y este / y tiene muchas cuñadas / muchos cuñados / y ellos son muy buenas gentes / son muy serviciales / y pues / a veces voy para allá / a distraerme / me llevo a mis hijos / y nos vamos al río / nos vamos a Cadereyta / y de Cadereyta nos vamos a Linares / y / andamos para allá y para acá
+
+E: ¡ay! tengo muchas ganas de ir para allá 
+
+I: está hermoso / está hermoso 
+
+E: ¿y algún lugar bonito que me recomiendes?
+
+I: un lugar bonito 
+
+E: allá en Linares
+
+I: en Linares // pues ahí nomas llegando a la central de Linares / ahí puede / ahí nomás / puede agarrar para cualquier lado / y está muy bonito todo / y toda la gente es muy servicial / y toda la gente / si usted no conoce para allá / la gente se ofrece a ayudarla / y le dice dónde / y / y incluso a veces la llevan 
+
+E: ah sí / ¿hay lugares ahí donde te puedes meter al río y todo?
+
+I: sí / sí hay / hay lugares
+
+E: ¿y cómo es el río?
+
+I: el río está hermosísimo / porque el agua está 
+
+E: ¡ay! qué padre 
+
+I: transparente / se ven las piedras / y está limpia el agua / eso sí / está muy hondo / hay partes donde hay / el río está el río muy hondo / y este / y pues / y si sabes nadar sí te metes / pero uno / yo al menos / yo no sé nadar no me meto
+
+E: no yo tampoco / si aquí en ese charquito / donde me llevo a los niños / me da miedo que se me ahoguen / imagínate si me los llevo allá / apenas con salvavidas / para que no esté con el pendiente
+
+I: <tiempo = “39:34” / >sí de hecho la señora Nelly ahora / este mañana se va / primeramente dios / mañana se va de vacaciones / y como tiene alberca me dijo / dijo _______ / traite a tus niñas para acá / para que se metan a la alberca / hay salvavidas / nomás no vayas a meter al niño chiquito porque tengo mucho miedo le dije / no / no lo vayas a dejar que se meta él / claro que no / que la alberca / no sé cuánto mide / o sea ella dice que le le llega de la cintura para arriba
+
+E: ¿a la Nelly?
+
+I: a la señora Nelly / que le llega la la agua de la cintura para arriba / n’ombre le digo / se me van a ahogar también mis hijias / no me dice / hay salvavidas / hay inlf- / infl- / unas cosas inflables que se ponen en los brazos 
+
+E: ah sí sí
+
+I: también dice / para que se pongan todo dice / dice tráetelas también para que se diviertan aquí dice / dice / aquí se va a quedar la casa sola ocho días dice / y tú puedes venir y traerte a tus niñas dice / aquí hay comida aquí hay todo dice / y si te quieres quedar / quédate me dijo
+
+E: con tus niñas / vete para allá / ¿y no te prestará tu hermana a tu / a tu / a tu niña / a la niña que le / ¿ya se la diste? / en adopción / o qué
+
+I: pues ahorita ese problema todavía lo traigo ahorita y / y pues no de que me la preste no / no me la va a prestar
+
+E: no te la presta
+
+I: no / no me la va a prestar / para nada
+
+E: <tiempo = “41:18” / > ¿entonces no te puedes traer a las niñas a tu casa?
+
+I: no / no a ella no me la puedo traer
+
+E: ¿y van a hablar con la niña para decirle que tú eres su mamá?
+
+I: de eso la niña ya sabe que yo soy su mamá
+
+E: ¡ah ya sabe!
+
+I: ya sabe que yo soy su mamá / hace un mes que fuimos / que teníanos cita en el DIF y me invitaron a su casa / vamos / pues vamos / entonces yo me siento en la en la sala / y yo prendo un cigarro y me dice la niña / mami te llevo un cenicero 
+
+E: ah ya te dijo mami 
+
+I: y delante de mi hermana / entons las dos volteamos así / de que oye / qué pasó / y luego pues mi hermana no fuma / y luego / le digo / ¿me dices a mí? / dice sí / te estoy diciendo a ti / digo ah sí / digo / por favor / digo / sí / va y me trae el cenicero y luego me dice / mamá ya no fumes porque te va a hacer daño / entonces yo / fue una cosa de que no me lo esperaba
+
+E: qué bueno _______
+
+I: y la niña ya sabe que yo soy su mamá // a veces sí / pues es la costumbre de que me decía tía / pero ya últimamente me habla al trabajo 
+
+E: ¿ah sí?
+
+I: me habla al trabajo / y ya contesto / veo ya que es el número de la casa de mi hermana y contesto y me dice / qué estás haciendo y ya le digo lo que estoy haciendo / y empieza pásame a Eduardo / le digo es que Eduardo no está / dice es que no me lo quieres pasar dice
+
+E: <tiempo = “43:05” / > ¿quién es Eduardo?
+
+I: el niño / el niño que va a cumplir tres años 
+
+E: ah / el el más chiquito
+
+I: sí / entonces / ahí es cuando yo digo / pues qué bueno que la niña y a sabe que soy su mamá / y de hecho ella / creo yo que ella siempre supo que yo era su mamá / porque yo cuando iba / así durara dos tres meses sin ir / la niña no se me despegaba la niña nada más quería estar conmigo / y pues era una cosa de que mi cuñado se encelaba / se enojaba / y yo lo que le decía a mi cuñado / podrás negar que yo soy su mamá pero lo que nunca vas a poder negar / que lleva mi sangre y la sangre llama 
+
+E: exactamente
+
+I: quieras o no la sangre llama / y si tú eres una persona que que tú nada más estás ubicando a que se va a hacer lo que tú dices le digo es mentira le digo porque / ahorita tú la niña te la ganaste / la niña te la ganaste a pulso / la tratas bien / la estás educando bien / pero lo que nunca / nunca vas a querer tú admitir / es que la sangre llama / la sangre es más fuerte que cualquier otra cosa / así tú puedas decirle no / ella no es tu mamá / no es tu mamá / ella no / te va a escuchar pero su corazón le va a decir otra cosa / le digo por qué / porque es mi hija / digo / si tú no lo quieres comprender / digo mira en primer lugar / los hijos no son de nosotros / los hijos son prestados / los hijos crecen y hacen sus vidas y así / así va pasando y va pasando digo // yo no me puedo pelear con ustedes por la niña / porque al fin de cuentas yo sé que cuando ella tenga su edad de que ya ustedes no la van a poder detener / la niña va a saber con quién irse 
+
+E: claro
+
+I: si se va conmigo o se queda con ustedes / ora que si tú también le vas a querer meter / oyes fíjate que ella no te quiso que / ella te dejó / ella te abandonó / digo / po pues allá ustedes y su conciencia / porque todo lo que se hace en esta vida se paga 
+
+E: <tiempo = “45:27” / > así es
+
+I: digo / y eso / si ustedes cometen el error / de decirle eso a la niña le digo / ustedes saben 
+
+E: ¿pero cuál fue el / el trato que hiciste tú cuando les dejaste a la niña? / era que nomás te la iban a cuidar porque tú trabajabas
+
+I: sí
+
+E: ¿o le dijiste que se las ibas a regalar?
+
+I: no / mi hermana cuando la niña tenía seis meses de edad / mi hermana me dijo / dijo oyes pues yo me traigo la niña dice /  y yo te la cuido cada / toda la semana y tú cada ocho días vas por la niña dice / para ayudarte con ella / porque pues ya ves que Manuel / dice pues está enfermo 
+
+E: ya estaba tu esposo / ya en cama 
+
+I: sí / en cama / dici ya ves que él dice / no puede cuidarla / digo no pues está bien digo / si me quieres ayudar así / pues está bien / pasaron las semanas / pasaron / pasaron quince días / yo voy / a los ocho días yo fui / y ya noté que que me hicieron mala cara / a los quince días vuelvo a ir y resulta que me dice mi cuñado / oyes este / _______ // y los papeles de la niña / y le digo cuáles papeles / dice los papeles de la niña dice / ya nos diste a la niña / le digo ¡no espérame yo no se las di! / pero mi hermana le contó a otro modo / mi hermana le contó a otro modo / de que la niña yo se las había dado 
+
+E: ¿entonces tu hermana desde un principio le dijo que la niña / era era de ellos?
+
+I: <tiempo = “47:02” / > sí / desde un principio ella le dijo así / entonces yo / yo soy una persona de que / está mal que yo lo diga / pero soy una persona que soy muy buena gente / y pues / yo al ver que mi hermana está mintiendo pues yo lo único que hice fue quedarme callada / me quedé callada / ya cuando yo quise traerme la niña para la casa ya no me la quisieron dar / entonces ya ellos lo que hicieron me amenazaron diciéndome que si tú te llevas la niña / te vamos a / a denunciar con el DIF porque tú no puedes tener la niña / y tienes más hijos / y tu esposo está enfermo y tú tienes que trabajar y que no tienes modo de cuidar la niña 
+
+E: ¿y por qué no te asesoraste en el DIF _______?
+
+I: no me asesoré yo en el DIF porque / yo tenía miedo de que realmente sí me fueran a quitar la niña y me quitaran incluso a los demás niños / por eso / y porque yo en ese tiempo / pues / yo estaba muy dedicada al trabajo / porque mi esposo fue cuando empezó a caer más y más en cama / y pues a las otras niñas / de hecho las tuve que sacar de la escuela pues para que se quedaran ya ahí en la casa a ayudar / a hacerles de comer / a cuidarse una a otra / entonces / para mí es una situación muy difícil / porque ya han pasado cinco años de lo de mi niña y ya ahora es cuando ellos quieren que se las dé en adopción / entonces / ya fuimos a hablar al DIF / y me está diciendo una licenciada de ahí del DIF / que ellos tienen / cien por ciento de posibilidades que se queden con la niña / porque ya tienen cinco años con ella / y obvio que a ellos los ve como padres y a mis sobrinos los ve como hermanos
+
+E: sí / sí es cierto
+
+I: <tiempo = “49:07” / > entonce s la niña / la niña está acostumbrada / a DIF otras cosas que yo no le puedo da r / se acostumbró / vamos a decirlo / a la buena vida / a andar con buena ropa / buenos zapatos / buen educación que le están dando / cosa que yo no le puedo dar 
+
+E: no pues
+
+I: entonce s por esa parte yo ahí estoy perdiendo / yo estoy perdiendo / por qué / porque yo tengo más hijos / y pues otra que la niña / yo ya no me la puedo traer / porque ella ya son cinco años que ella está viviendo esa vida / y no es justo para la niña / que de la noche a la mañana yo me la traiga / y va a ser un trastorno psicológico que yo le voy a hacer a la niña
+
+E: sí
+
+I: entonces yo ahorita lo que yo trato de ver es el bienestar de ella / es el bienestar de ella porque yo qué quisiera tenerla conmigo / pero pues no puedo
+
+E: ¿pero ya están regresando tus otras / niñas a la escuela? / a las que sacaste
+
+I: eh ahora en agosto primeramente dios / cuando empiecen a la escuela otra vez
+
+E: sí / en agosto entran ¿verdad?
+
+I: sí creo que sí / van a entrar ya
+
+E: ¿cuántos años estuvieron sin ir a la escuela?
+
+I: la grande que se quedó en / ahorita tiene trece años / y iba a pasar a cuarto o a quinto
+
+E: no pues ahorita como quiera tiene tiempo / aunque salga un poquito más grandecita 
+
+I: sí / sí lo bueno que sí me la admitieron
+
+E: ¿sí? 
+
+I: sí
+
+E: qué bueno
+
+I: y la otra niña también
+
+E: y así / ¿y el niño / quién te lo va a cuidar?
+
+I: el niño lo voy a meter a la guardería del seguro
+
+E: ah qué bueno _______
+
+I: lo voy a meter a la guardería del seguro porque / ahorita tengo el detallito este que el niño no ha querido comer / y este voy a llevarlo a consultar para que / me le den medicamento / vitaminas / para que coma / porque no quiere comer bien / y este pues tengo miedo de que se me vaya a enfermar de otra cosa
+
+E: y a lo mejor ya hasta entrando tus niños a la escuela y mandando tu niño a la guardería 
+
+I: a la guardería 
+
+E: ya alguien se hace cargo de tu / de tu esposo 
+
+I: pues espero que sí
+
+E: ya son muchos años _______ 
+
+I: de hecho / bueno lo que pasa es que mi esposo / no se quiere ir / no se quiere ir y yo / no soy una persona de que / en primer lugar mi esposo en años pasados me hacía la vida imposible él estaba enfermo y / me hacía la vida imposible y yo tenía que trabajar y él no me dejaba dormir / me molestaba
+
+E: <tiempo = “52:09” / > ¿pero cómo te molestaba?
+
+I: me molestaba / en que / me celaba mucho / me celaba demasiado y entonces / y nomás estaba / no te duermas porque te voy a matar / no te duermas porque te voy a matar / entonces haz de cuenta que yo no descansaba nada por miedo a que él me fuera a hacer algo 
+
+E: ¿por qué lo aguantaste?
+
+I: lo que pasa que / la palabra de él es ésta / de que / yo así como estoy a mí me vale si te mato / porque los días que me quedan de vida los / bien los puedo pasar en el penal / entonces para mí / ahí es una cosa / de que / que me da muncho coraje y me da mucha tristeza a la vez porque digo / qué pensamientos tiene él de que al matarme a mí / obvio él se va a ir a la / a la cárcel / ¿pero mis hijos? / ¿quién se va a quedar con mis hijos? 
+
+E: exactamente 
+
+I: entonces
+
+E: en eso no piensa el fulano
+
+I: él no piensa en eso / y ahorita hoy en día / él ha cambiado un poco / ha cambiado un poco en el sistema que ya / sabes qué / vete vete a la fiesta / vete a un baile 
+
+E: ah ya te deja ir a / a bailar
+
+I: sí / porque yo cuando falleció mi papá / yo me deprimí bastante y cuando tenía a mi papá también enfermo / yo me deprimía bastante / y yo no quería salir / se llegaba el sábado y yo encerrada encerrada encerrada / entonces llegó el caso en que él mismo me dijo / sabes qué no te quiero ver así / dijo vete / vete a onde tú quieras / dice ya / entonces / yo soy una persona de que / pues yo lo estoy aguantando / ya tengo / el tiempo que él tiene enfermo / y antes de que se enfermara / pues desgraciadamente el amor se acabó
+
+E: <tiempo = “54:00” / > ya no lo quieres
+
+I: el amor se acabó hacia él / yo ya no lo quiero / ya no siento nada por él / de hecho ha y ocasiones de que yo llego y / y para mí es una cosa muy difícil porque / al verlo a él ahí / y yo digo / señor por qué / por qué me diste esta cruz tan pesada 
+
+E: pues cómo no
+
+I: porque / desgraciadamente yo tengo veintiocho años / él tiene cuarenta y seis años 
+
+E: ah es mucha diferencia de edad ya 
+
+I: entonces / yo tengo / tengo deseos / tengo ganas de decir / me voy a levantar mañana porque voy a echar lonche / a mi / a mi esposo / porque mi esposo porque él se va a ir a trabajar y yo me voy a quedar encargada de la casa y de mis hijos / cosa que nunca va a pasar / porque él no puede trabajar / él está enfermo y en vez de que él sea el que se vaya a trabajar soy yo 
+
+E: sí
+
+I: soy yo la que tiene que trabajar / y es una cosa muy difícil para mí / y muy triste / porque hay ocasiones en que / por decir / los martes y jueves que yo para las seis de la mañana tengo que levantarme ba- / bañarme arreglarme / y me voy / y pues / voy a dos trabajos / y llego tarde a la casa / llego cansa da / llego ya ya con ganas / llego acostándome 
+
+E: pues ya de trabajar todo el día
+
+I: y luego hay veces que empiezan las niñas / mamá es que mi papá me gritó / amá y es cosa muy fea / porque / yo lo que quisiera es llegar y acostarme ya no saber de nada / descansar nada más y no es así no es así porque llego y apenas me voy a acostar y pues no pues que vamos a lavar / vamos a hacer esto más bien / que si las niñas no hicieron algo bien / yo me pongo a seguir haciéndolos / y a veces son las once doce de la noche y yo todavía ando haciendo quehacer ando tendiendo ropa / ah en lo que lava la lavadora yo ando barriendo / ando sacudiendo / y eso es cosa de que pues / a lo mejor se va a oír muy egoísta pero / yo sí hay ocasiones de que yo sí le he dicho a mi señor / sabes qué este / yo ya no estoy a gusto contigo / yo quiero que te vayas con tu familia / porque para mí es una cosa muy pesada que yo varias veces que yo vengo bajando para mi trabajo y voy llorando / voy llorando en el camino porque digo dios mío / yo qué quisiera / decir como / como las vecinas / de que se ponen a platicar / ay no yo mandé a mi esposo a la siete de la mañana al trabajo y me dormí hasta las diez once de la mañana / me levanté / les di de almorzar a mis hijos / los mandé a la escuela / y ya / en la tarde hago la / preparo la cena / llegan mi esposo / y ya cenamos todos y nos acostamos y al siguiente día / lo mismo / y es cosa de que conmigo no pasa
+
+E: <tiempo = “57:27” / > y bueno / y / y / y si / y ¿nunca has pensado / que si él está en la cama y está enfermo / en tener tú otra persona / a / o un hombre que se pueda de perdido contar con él?
+
+I: lo que pasa es de que / en primer lugar / yo soy una persona / tengo amigos / amigos y amigas / pero yo soy una persona que / que yo estoy joven / yo en las noches estoy acostada en la cama y volteo al otro lado y veo sola / veo solo e / ese lado que yo que quisiera tener a una persona a mi lado / pero no puedo / no puedo / ora / de tener a otra persona aparte de mi señor / ya sería algo más / para mí sería algo más grave porque // puede / puede pasar de que yo me llegara a enamorar de esa persona / y / como usted sabe / cuando / el amor atonta / si yo / en primer lugar yo tengo / tengo mucho miedo a / a tener sexo con otra persona
+
+E: ¿pero por qué tienes miedo?
+
+I: pues ya ve que las enfermedades / las infecciones / que el SIDA y que
+
+E: ¿pero no tienes deseos de / de / de tener una una relación sexual?
+
+I: mire / deseos / sí / deseos sí tengo / muchos y de hecho / en todas las noches // pues yo me acuesto normal / y me pongo a pensar / porque / yo estoy joven / yo tengo veintiocho años / y yo tengo deseos 
+
+E: claro
+
+I: yo tengo deseos de sentirme mujer y de sentirme que me quieren / y eso es cosa de que / de que pues / no puedo / no puedo porque por respeto a mi señor / que ahí está todavía en la casa / pues no puedo hacerlo porque / vamos a suponer / yo me consigo una pareja / ¿sí? / entonces yo me enamoro de esa pareja / entonces / ya al estar yo enamorada de esa pareja / yo voy a querer / y si él va también a querer / que vivamos juntos 
+
+E: <tiempo = “59:58” / > sí / eso / eso puede pasar
+
+I: yo no me voy a poder ir a / por decir / a pagar renta / teniendo mi casa / ¿sí? / y eso es cosa que / pues no va a pasar porque mi marido no quiere irse / con su / con su familia 
+
+E: y entonces te quedas ahí para no / no tener que / que salirte de la casa
+
+I: sí
+
+E: porque el hombre definitivamente no creo que se salga 
+
+I: no él dijo que no se va a salir
+
+E: ¿y con él no puedes tener ya relaciones sexuales?
+
+I: no no / con él no / él perdió todo el movimiento hace ya cuatro o cinco años definitivo / que ya / ya no no pudo tener relaciones / y este / está paralizado de la cintura para abajo
+
+E: pero ni el intento / nada
+
+I: no nada / nada
+
+E: <ininteligible/>
+
+I: y pues así / así es mi vida y pues ni modo / pues hay que seguirle / seguirle luchando para sobrevivir
+
+E: pues sí / no nos queda de otra
+
+ Fin de la entrevista
+
