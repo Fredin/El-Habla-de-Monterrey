@@ -1,12 +1,12 @@
 {
-    "contents" : "Todo list:\n\n* Do LDAvis\n* Git project\n* Complete Metadata",
+    "contents" : "Todo list:\n\n* Shiny app of wordClouds\n* LDAvis\n* Complete Metadata and make a permanent corpus\n* Rivero 2015",
     "created" : 1440196740622.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2270508800",
+    "hash" : "609993326",
     "id" : "6CD0BA48",
-    "lastKnownWriteTime" : 1441034241,
+    "lastKnownWriteTime" : 1441910209,
     "path" : "~/hablaMty/toDo",
     "project_path" : "toDo",
     "properties" : {

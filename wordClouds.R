@@ -1,6 +1,6 @@
-install.packages("tm")
-install.packages("stringi")
-install.packages("wordcloud")
+#install.packages("tm")
+#install.packages("stringi")
+#install.packages("wordcloud")
 
 library(tm)
 library(stringi)
