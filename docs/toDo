@@ -1,0 +1,9 @@
+Todo list:
+
+* Make sure the scripts in /code run under current R and R-studio verions
+* Better documentation/readme file
+* Add code for complete metadata and options to save the corpus to disk
+* Build a corpus specific stoplist
+* Sentiment analysis 
+* Visualization with LDAvis
+* Build a Shiny app

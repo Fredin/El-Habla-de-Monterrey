@@ -5,13 +5,13 @@
 <link rel="stylesheet" type="text/css" href="R.css" />
 </head><body>
 <h1> Sparse and Dense Matrix Classes and Methods
-<img class="toplogo" src="../../../doc/html/logo.jpg" alt="[R logo]" />
+<img class="toplogo" src="../../../doc/html/Rlogo.svg" alt="[R logo]" />
 </h1>
 <hr/>
 <div style="text-align: center;">
 <a href="../../../doc/html/packages.html"><img class="arrow" src="../../../doc/html/left.jpg" alt="[Up]" /></a>
 <a href="../../../doc/html/index.html"><img class="arrow" src="../../../doc/html/up.jpg" alt="[Top]" /></a>
-</div><h2>Documentation for package &lsquo;Matrix&rsquo; version 1.2-1</h2>
+</div><h2>Documentation for package &lsquo;Matrix&rsquo; version 1.2-8</h2>
 
 <ul><li><a href="../DESCRIPTION">DESCRIPTION file</a>.</li>
 <li><a href="../doc/index.html">User guides, package vignettes and other documentation.</a></li>
@@ -77,7 +77,7 @@
 <tr><td style="width: 25%;"><a href="nsparseMatrix-classes.html">any-method</a></td>
 <td>Sparse "pattern" Matrices</td></tr>
 <tr><td style="width: 25%;"><a href="uniqTsparse.html">anyDuplicatedT</a></td>
-<td>Unique TsparseMatrix Representations</td></tr>
+<td>Unique (Sorted) TsparseMatrix Representations</td></tr>
 <tr><td style="width: 25%;"><a href="is.na-methods.html">anyNA-method</a></td>
 <td>is.na(), is.infinite() Methods for 'Matrix' Objects</td></tr>
 <tr><td style="width: 25%;"><a href="CsparseMatrix-class.html">Arith-method</a></td>
@@ -241,7 +241,7 @@
 <tr><td style="width: 25%;"><a href="RsparseMatrix-class.html">coerce-method</a></td>
 <td>Class "RsparseMatrix" of Sparse Matrices in Column-compressed Form</td></tr>
 <tr><td style="width: 25%;"><a href="SparseM-conv.html">coerce-method</a></td>
-<td>Sparse Matrix Coercion from and to those from package "SparseM"</td></tr>
+<td>Sparse Matrix Coercion from and to those from package 'SparseM'</td></tr>
 <tr><td style="width: 25%;"><a href="TsparseMatrix-class.html">coerce-method</a></td>
 <td>Class "TsparseMatrix" of Sparse Matrices in Triplet Form</td></tr>
 <tr><td style="width: 25%;"><a href="abIndex-class.html">coerce-method</a></td>
@@ -656,6 +656,8 @@
 <td>Sparse Vector Classes</td></tr>
 <tr><td style="width: 25%;"><a href="dgCMatrix-class.html">isSymmetric-method</a></td>
 <td>Compressed, sparse, column-oriented numeric matrices</td></tr>
+<tr><td style="width: 25%;"><a href="indMatrix-class.html">isSymmetric-method</a></td>
+<td>Index Matrices</td></tr>
 <tr><td style="width: 25%;"><a href="isSymmetric-methods.html">isSymmetric-method</a></td>
 <td>Methods for Function isSymmetric in Package 'Matrix'</td></tr>
 <tr><td style="width: 25%;"><a href="isSymmetric-methods.html">isSymmetric-methods</a></td>
@@ -799,6 +801,8 @@
 <td>Construct a Classed Matrix</td></tr>
 <tr><td style="width: 25%;"><a href="Matrix-class.html">Matrix-class</a></td>
 <td>Virtual Class "Matrix" Class of Matrices</td></tr>
+<tr><td style="width: 25%;"><a href="MatrixClass.html">MatrixClass</a></td>
+<td>The Matrix (Super-) Class of a Class</td></tr>
 <tr><td style="width: 25%;"><a href="MatrixFactorization-class.html">MatrixFactorization-class</a></td>
 <td>Class "MatrixFactorization" of Matrix Factorizations</td></tr>
 <tr><td style="width: 25%;"><a href="Matrix-class.html">mean-method</a></td>
@@ -932,6 +936,10 @@
 <td>Class "diagonalMatrix" of Diagonal Matrices</td></tr>
 <tr><td style="width: 25%;"><a href="sparseMatrix-class.html">print-method</a></td>
 <td>Virtual Class "sparseMatrix" - Mother of Sparse Matrices</td></tr>
+<tr><td style="width: 25%;"><a href="Matrix-class.html">print.Matrix</a></td>
+<td>Virtual Class "Matrix" Class of Matrices</td></tr>
+<tr><td style="width: 25%;"><a href="sparseMatrix-class.html">print.sparseMatrix</a></td>
+<td>Virtual Class "sparseMatrix" - Mother of Sparse Matrices</td></tr>
 <tr><td style="width: 25%;"><a href="printSpMatrix.html">printSpMatrix</a></td>
 <td>Format and Print Sparse Matrices Flexibly</td></tr>
 <tr><td style="width: 25%;"><a href="printSpMatrix.html">printSpMatrix2</a></td>
@@ -1008,6 +1016,10 @@
 <td>Read and write external matrix formats</td></tr>
 <tr><td style="width: 25%;"><a href="externalFormats.html">readMM</a></td>
 <td>Read and write external matrix formats</td></tr>
+<tr><td style="width: 25%;"><a href="Matrix-class.html">rep-method</a></td>
+<td>Virtual Class "Matrix" Class of Matrices</td></tr>
+<tr><td style="width: 25%;"><a href="sparseMatrix-class.html">rep-method</a></td>
+<td>Virtual Class "sparseMatrix" - Mother of Sparse Matrices</td></tr>
 <tr><td style="width: 25%;"><a href="sparseVector-class.html">rep-method</a></td>
 <td>Sparse Vector Classes</td></tr>
 <tr><td style="width: 25%;"><a href="rep2abI.html">rep2abI</a></td>
@@ -1098,7 +1110,7 @@
 <tr><td style="width: 25%;"><a href="sparseLU-class.html">sparseLU-class</a></td>
 <td>Sparse LU decomposition of a square sparse matrix</td></tr>
 <tr><td style="width: 25%;"><a href="SparseM-conv.html">SparseM-coerce-methods</a></td>
-<td>Sparse Matrix Coercion from and to those from package "SparseM"</td></tr>
+<td>Sparse Matrix Coercion from and to those from package 'SparseM'</td></tr>
 <tr><td style="width: 25%;"><a href="sparseMatrix.html">sparseMatrix</a></td>
 <td>General Sparse Matrix Construction from Nonzero Entries</td></tr>
 <tr><td style="width: 25%;"><a href="sparseMatrix-class.html">sparseMatrix-class</a></td>
@@ -1244,7 +1256,7 @@
 
 <table width="100%">
 <tr><td style="width: 25%;"><a href="uniqTsparse.html">uniqTsparse</a></td>
-<td>Unique TsparseMatrix Representations</td></tr>
+<td>Unique (Sorted) TsparseMatrix Representations</td></tr>
 <tr><td style="width: 25%;"><a href="Matrix-class.html">unname-method</a></td>
 <td>Virtual Class "Matrix" Class of Matrices</td></tr>
 <tr><td style="width: 25%;"><a href="unpack.html">unpack</a></td>

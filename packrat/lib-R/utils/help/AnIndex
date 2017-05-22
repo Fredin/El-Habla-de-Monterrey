@@ -4,6 +4,7 @@ $.person	person
 .DollarNames.default	rcompgen
 .DollarNames.environment	rcompgen
 .DollarNames.list	rcompgen
+.romans	roman
 .S3methods	methods
 ?	Question
 ??	help.search
@@ -137,6 +138,7 @@ INSTALL	INSTALL
 install.packages	install.packages
 installed.packages	installed.packages
 is.relistable	relist
+isS3method	isS3method
 limitedLabels	recover
 loadhistory	savehistory
 loadRconsole	Rconsole
@@ -178,6 +180,7 @@ print.hsearch	help.search
 print.Latex	toLatex
 print.ls_str	ls_str
 print.MethodsFunction	methods
+print.news_db	news
 print.object_size	object.size
 print.packageDescription	packageDescription
 print.packageIQR	data
@@ -241,7 +244,6 @@ RweaveLatexSetup	RweaveLatex
 RweaveLatexWritedoc	SweaveUtils
 RweaveTryStop	SweaveUtils
 R_INSTALL_TAR	INSTALL
-R_WIN_INTERNET2	setInternet2
 savehistory	savehistory
 select.list	select.list
 sessionInfo	sessionInfo
